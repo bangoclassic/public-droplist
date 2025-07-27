@@ -1,4 +1,4 @@
-## 1 (Demon Vulgar)
+## 1 Demon Vulgar
 
 | Item | Chance |
 |------|--------|
@@ -17,7 +17,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 2 (Demon Scout)
+## 2 Demon Scout
 
 | Item | Chance |
 |------|--------|
@@ -40,7 +40,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 3 (Demon Spearhead)
+## 3 Demon Spearhead
 
 | Item | Chance |
 |------|--------|
@@ -69,7 +69,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 4 (Demon Plunderer)
+## 4 Demon Plunderer
 
 | Item | Chance |
 |------|--------|
@@ -96,7 +96,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 5 (Wild Small Demon)
+## 5 Wild Small Demon
 
 | Item | Chance |
 |------|--------|
@@ -121,7 +121,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 6 (Demon Escort Soldier)
+## 6 Demon Escort Soldier
 
 | Item | Chance |
 |------|--------|
@@ -150,7 +150,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 7 (Demon Escort Archer)
+## 7 Demon Escort Archer
 
 | Item | Chance |
 |------|--------|
@@ -179,7 +179,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 8 (Demon Scout Commander)
+## 8 Demon Scout Commander
 
 | Item | Chance |
 |------|--------|
@@ -195,7 +195,7 @@
 | Iron Stick (G13) | 1.9627% |
 | YeonGak Bow (G13) | 1.9627% |
 
-## 9 (Suicide Bomber)
+## 9 Suicide Bomber
 
 | Item | Chance |
 |------|--------|
@@ -213,7 +213,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 10 (Demon Carcass Scavenger)
+## 10 Demon Carcass Scavenger
 
 | Item | Chance |
 |------|--------|
@@ -236,7 +236,7 @@
 | Cooked Potato (G20) | 1.194% |
 | Best Water of Geum-Oh Mountain (G20) | 1.194% |
 
-## 11 (Demon Soldier)
+## 11 Demon Soldier
 
 | Item | Chance |
 |------|--------|
@@ -288,7 +288,7 @@
 | Cooked Potato (G20) | 1.194% |
 | Best Water of Geum-Oh Mountain (G20) | 1.194% |
 
-## 12 (Demon Infantry)
+## 12 Demon Infantry
 
 | Item | Chance |
 |------|--------|
@@ -342,7 +342,7 @@
 | Cooked Potato (G20) | 1.194% |
 | Best Water of Geum-Oh Mountain (G20) | 1.194% |
 
-## 13 (Demon Throwing Soldier)
+## 13 Demon Throwing Soldier
 
 | Item | Chance |
 |------|--------|
@@ -391,7 +391,7 @@
 | Cooked Potato (G20) | 1.194% |
 | Best Water of Geum-Oh Mountain (G20) | 1.194% |
 
-## 14 (Wild Demon Soldier)
+## 14 Wild Demon Soldier
 
 | Item | Chance |
 |------|--------|
@@ -441,7 +441,7 @@
 | Cooked Potato (G20) | 1.194% |
 | Best Water of Geum-Oh Mountain (G20) | 1.194% |
 
-## 15 (Demon Shock Trooper)
+## 15 Demon Shock Trooper
 
 | Item | Chance |
 |------|--------|
@@ -488,7 +488,7 @@
 | Big Sweet Potato (G32) | 1.194% |
 | Large Water of Geum-Oh Valley (G32) | 1.194% |
 
-## 16 (Demon Flag Bearer)
+## 16 Demon Flag Bearer
 
 | Item | Chance |
 |------|--------|
@@ -543,7 +543,7 @@
 | Big Sweet Potato (G32) | 1.194% |
 | Large Water of Geum-Oh Valley (G32) | 1.194% |
 
-## 17 (Demon Band)
+## 17 Demon Band
 
 | Item | Chance |
 |------|--------|
@@ -596,7 +596,7 @@
 | Big Sweet Potato (G32) | 1.194% |
 | Large Water of Geum-Oh Valley (G32) | 1.194% |
 
-## 18 (Demon Armored Knight)
+## 18 Demon Armored Knight
 
 | Item | Chance |
 |------|--------|
@@ -646,7 +646,7 @@
 | Big Sweet Potato (G32) | 1.194% |
 | Large Water of Geum-Oh Valley (G32) | 1.194% |
 
-## 19 (Demon Mad Knight)
+## 19 Demon Mad Knight
 
 | Item | Chance |
 |------|--------|
@@ -690,7 +690,7 @@
 | Big Sweet Potato (G32) | 1.194% |
 | Large Water of Geum-Oh Valley (G32) | 1.194% |
 
-## 20 (Demon Commander)
+## 20 Demon Commander
 
 | Item | Chance |
 |------|--------|
@@ -750,7 +750,7 @@
 | Big Sweet Potato (G32) | 1.194% |
 | Large Water of Geum-Oh Valley (G32) | 1.194% |
 
-## 21 (Demon Water Dragon)
+## 21 Demon Water Dragon
 
 | Item | Chance |
 |------|--------|
@@ -798,7 +798,7 @@
 | Sweet Potato (G28) | 1.7866% |
 | Medium Water of Geum-Oh Valley (G28) | 1.7866% |
 
-## 22 (Hungry Demon Water Dragon)
+## 22 Hungry Demon Water Dragon
 
 | Item | Chance |
 |------|--------|
@@ -845,7 +845,7 @@
 | Sweet Potato (G28) | 1.7866% |
 | Medium Water of Geum-Oh Valley (G28) | 1.7866% |
 
-## 23 (Demon Water Dragon Predator)
+## 23 Demon Water Dragon Predator
 
 | Item | Chance |
 |------|--------|
@@ -888,7 +888,7 @@
 | Sweet Potato (G28) | 1.7866% |
 | Medium Water of Geum-Oh Valley (G28) | 1.7866% |
 
-## 24 (Demon Water Dragon Commander)
+## 24 Demon Water Dragon Commander
 
 | Item | Chance |
 |------|--------|
@@ -944,7 +944,7 @@
 | Sweet Potato (G28) | 1.7866% |
 | Medium Water of Geum-Oh Valley (G28) | 1.7866% |
 
-## 25 (Big Handed Inhabitant)
+## 25 Big Handed Inhabitant
 
 | Item | Chance |
 |------|--------|
@@ -981,7 +981,7 @@
 | Big Potato (G16) | 1.7866% |
 | Large Water of Geum-Oh Mountain (G16) | 1.7866% |
 
-## 26 (Big Handed Slave)
+## 26 Big Handed Slave
 
 | Item | Chance |
 |------|--------|
@@ -1018,7 +1018,7 @@
 | Big Potato (G16) | 1.7866% |
 | Large Water of Geum-Oh Mountain (G16) | 1.7866% |
 
-## 27 (Big Handed Blue Warrior)
+## 27 Big Handed Blue Warrior
 
 | Item | Chance |
 |------|--------|
@@ -1056,7 +1056,7 @@
 | Big Potato (G16) | 1.7866% |
 | Large Water of Geum-Oh Mountain (G16) | 1.7866% |
 
-## 28 (Big Handed Red Warrior)
+## 28 Big Handed Red Warrior
 
 | Item | Chance |
 |------|--------|
@@ -1094,7 +1094,7 @@
 | Big Potato (G16) | 1.7866% |
 | Large Water of Geum-Oh Mountain (G16) | 1.7866% |
 
-## 29 (Castoff Baby Ghost)
+## 29 Castoff Baby Ghost
 
 | Item | Chance |
 |------|--------|
@@ -1126,7 +1126,7 @@
 | Cooked Sweet Potato (G36) | 1.7866% |
 | Best Water of Geum-Oh Valley (G36) | 1.7866% |
 
-## 30 (Ghost of Young Man)
+## 30 Ghost of Young Man
 
 | Item | Chance |
 |------|--------|
@@ -1158,7 +1158,7 @@
 | Cooked Sweet Potato (G36) | 1.7866% |
 | Best Water of Geum-Oh Valley (G36) | 1.7866% |
 
-## 31 (Ghost of Young Woman)
+## 31 Ghost of Young Woman
 
 | Item | Chance |
 |------|--------|
@@ -1190,7 +1190,7 @@
 | Cooked Sweet Potato (G36) | 1.7866% |
 | Best Water of Geum-Oh Valley (G36) | 1.7866% |
 
-## 32 (Ghost of Blacksmith)
+## 32 Ghost of Blacksmith
 
 | Item | Chance |
 |------|--------|
@@ -1230,7 +1230,7 @@
 | Cooked Sweet Potato (G36) | 1.7866% |
 | Best Water of Geum-Oh Valley (G36) | 1.7866% |
 
-## 33 (Ghost of Guard)
+## 33 Ghost of Guard
 
 | Item | Chance |
 |------|--------|
@@ -1270,7 +1270,7 @@
 | Cooked Sweet Potato (G36) | 1.7866% |
 | Best Water of Geum-Oh Valley (G36) | 1.7866% |
 
-## 34 (Fellow Traveler to the Other World)
+## 34 Fellow Traveler to the Other World
 
 | Item | Chance |
 |------|--------|
@@ -1310,7 +1310,7 @@
 | Cooked Sweet Potato (G36) | 1.7866% |
 | Best Water of Geum-Oh Valley (G36) | 1.7866% |
 
-## 35 (Sealed Ghost Troop)
+## 35 Sealed Ghost Troop
 
 | Item | Chance |
 |------|--------|
@@ -1359,7 +1359,7 @@
 | Cooked Sweet Potato (G36) | 1.7866% |
 | Best Water of Geum-Oh Valley (G36) | 1.7866% |
 
-## 36 (Ghost Troop)
+## 36 Ghost Troop
 
 | Item | Chance |
 |------|--------|
@@ -1378,7 +1378,7 @@
 | Small Potato (G8) | 5.852% |
 | Small Water of Geum-Oh Mountain (G8) | 5.852% |
 
-## 37 (Devil Soldier)
+## 37 Devil Soldier
 
 | Item | Chance |
 |------|--------|
@@ -1412,7 +1412,7 @@
 | Piece of Meat (G40) | 1.7866% |
 | Small Refining Water (G40) | 1.7866% |
 
-## 38 (Devil Soldier with Twin Blades)
+## 38 Devil Soldier with Twin Blades
 
 | Item | Chance |
 |------|--------|
@@ -1444,7 +1444,7 @@
 | Piece of Meat (G40) | 1.7866% |
 | Small Refining Water (G40) | 1.7866% |
 
-## 39 (Devil Soldier with Bow)
+## 39 Devil Soldier with Bow
 
 | Item | Chance |
 |------|--------|
@@ -1476,7 +1476,7 @@
 | Piece of Meat (G40) | 1.7866% |
 | Small Refining Water (G40) | 1.7866% |
 
-## 40 (Devil Soldier with Sword)
+## 40 Devil Soldier with Sword
 
 | Item | Chance |
 |------|--------|
@@ -1508,7 +1508,7 @@
 | Piece of Meat (G40) | 1.7866% |
 | Small Refining Water (G40) | 1.7866% |
 
-## 41 (Devil Soldier with Spear)
+## 41 Devil Soldier with Spear
 
 | Item | Chance |
 |------|--------|
@@ -1550,7 +1550,7 @@
 | Piece of Meat (G40) | 1.7866% |
 | Small Refining Water (G40) | 1.7866% |
 
-## 42 (2nd Devil Monster)
+## 42 2nd Devil Monster
 
 | Item | Chance |
 |------|--------|
@@ -1590,7 +1590,7 @@
 | Piece of Meat (G40) | 1.7866% |
 | Small Refining Water (G40) | 1.7866% |
 
-## 43 (1st Devil Monster)
+## 43 1st Devil Monster
 
 | Item | Chance |
 |------|--------|
@@ -1647,7 +1647,7 @@
 | Piece of Meat (G40) | 1.7866% |
 | Small Refining Water (G40) | 1.7866% |
 
-## 44 (Doggebi of Monster Face)
+## 44 Doggebi of Monster Face
 
 | Item | Chance |
 |------|--------|
@@ -1704,7 +1704,7 @@
 | Cooked Chop of Meat (G52) | 0.8966% |
 | Best Refining Water (G52) | 0.8966% |
 
-## 45 (Doggebi with a Gong)
+## 45 Doggebi with a Gong
 
 | Item | Chance |
 |------|--------|
@@ -1762,7 +1762,7 @@
 | Cooked Chop of Meat (G52) | 0.8966% |
 | Best Refining Water (G52) | 0.8966% |
 
-## 46 (Drunken Doggebi)
+## 46 Drunken Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -1819,7 +1819,7 @@
 | Cooked Chop of Meat (G52) | 0.8966% |
 | Best Refining Water (G52) | 0.8966% |
 
-## 47 (Doggebi with a Mask of Black Crow)
+## 47 Doggebi with a Mask of Black Crow
 
 | Item | Chance |
 |------|--------|
@@ -1899,7 +1899,7 @@
 | Cooked Chop of Meat (G52) | 1.0752% |
 | Best Refining Water (G52) | 1.0752% |
 
-## 48 (Doggebi with a Mask of Black Panther)
+## 48 Doggebi with a Mask of Black Panther
 
 | Item | Chance |
 |------|--------|
@@ -1956,7 +1956,7 @@
 | Cooked Chop of Meat (G52) | 0.8966% |
 | Best Refining Water (G52) | 0.8966% |
 
-## 49 (Giant Doggebi)
+## 49 Giant Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -2015,7 +2015,7 @@
 | Cooked Chop of Meat (G52) | 0.8966% |
 | Best Refining Water (G52) | 0.8966% |
 
-## 50 (Guardian of Doggebi)
+## 50 Guardian of Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -2073,7 +2073,7 @@
 | Cooked Chop of Meat (G52) | 0.8966% |
 | Best Refining Water (G52) | 0.8966% |
 
-## 52 (Devil Troop of Desire)
+## 52 Devil Troop of Desire
 
 | Item | Chance |
 |------|--------|
@@ -2116,7 +2116,7 @@
 | Big Piece of Meat (G48) | 0.8966% |
 | Large Refining Water (G48) | 0.8966% |
 
-## 53 (Devil Troop of Pain)
+## 53 Devil Troop of Pain
 
 | Item | Chance |
 |------|--------|
@@ -2159,7 +2159,7 @@
 | Big Piece of Meat (G48) | 0.8966% |
 | Large Refining Water (G48) | 0.8966% |
 
-## 54 (Devil Troop of Greed)
+## 54 Devil Troop of Greed
 
 | Item | Chance |
 |------|--------|
@@ -2202,7 +2202,7 @@
 | Big Piece of Meat (G48) | 0.8966% |
 | Large Refining Water (G48) | 0.8966% |
 
-## 55 (Devil Troop of Jealousy)
+## 55 Devil Troop of Jealousy
 
 | Item | Chance |
 |------|--------|
@@ -2246,7 +2246,7 @@
 | Big Piece of Meat (G48) | 0.8966% |
 | Large Refining Water (G48) | 0.8966% |
 
-## 56 (Devil Troop of Hatred)
+## 56 Devil Troop of Hatred
 
 | Item | Chance |
 |------|--------|
@@ -2290,7 +2290,7 @@
 | Big Piece of Meat (G48) | 0.8966% |
 | Large Refining Water (G48) | 0.8966% |
 
-## 57 (Devil Troop of Madness)
+## 57 Devil Troop of Madness
 
 | Item | Chance |
 |------|--------|
@@ -2334,7 +2334,7 @@
 | Big Piece of Meat (G48) | 0.8966% |
 | Large Refining Water (G48) | 0.8966% |
 
-## 58 (Devil Troop of Anger)
+## 58 Devil Troop of Anger
 
 | Item | Chance |
 |------|--------|
@@ -2394,57 +2394,57 @@
 | Big Piece of Meat (G48) | 0.8966% |
 | Large Refining Water (G48) | 0.8966% |
 
-## 92 (Enemy of Hyun-Woong)
+## 92 Enemy of Hyun-Woong
 
 | Item | Chance |
 |------|--------|
 
-## 93 (Naughty Doggebi)
+## 93 Naughty Doggebi
 
 | Item | Chance |
 |------|--------|
 
-## 94 (Heuk-Yong)
+## 94 Heuk-Yong
 
 | Item | Chance |
 |------|--------|
 
-## 95 (Dae-Il)
+## 95 Dae-Il
 
 | Item | Chance |
 |------|--------|
 
-## 96 (Goon-Sang-Ji)
+## 96 Goon-Sang-Ji
 
 | Item | Chance |
 |------|--------|
 
-## 97 (Yoo)
+## 97 Yoo
 
 | Item | Chance |
 |------|--------|
 
-## 98 (Ma-Gwang)
+## 98 Ma-Gwang
 
 | Item | Chance |
 |------|--------|
 
-## 99 (Assassin who killed Yong-Chun)
+## 99 Assassin who killed Yong-Chun
 
 | Item | Chance |
 |------|--------|
 
-## 100 (Guild Flag)
+## 100 Guild Flag
 
 | Item | Chance |
 |------|--------|
 
-## 101 (Castle Gate)
+## 101 Castle Gate
 
 | Item | Chance |
 |------|--------|
 
-## 78 (Rotten Skeleton Warrior of the Royal Tomb (Sword))
+## 78 Rotten Skeleton Warrior of the Royal Tomb (Sword)
 
 | Item | Chance |
 |------|--------|
@@ -2493,7 +2493,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | Rotten Skeleton of Warrior of the Royal Tomb | 2.2332% |
 
-## 102 (Rotten Skeleton Warrior of the Royal Tomb (Sword))
+## 102 Rotten Skeleton Warrior of the Royal Tomb (Sword)
 
 | Item | Chance |
 |------|--------|
@@ -2545,7 +2545,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | Rotten Skeleton of Warrior of the Royal Tomb | 2.2332% |
 
-## 103 (Rotten Skeleton Warrior of the Royal Tomb (Sword))
+## 103 Rotten Skeleton Warrior of the Royal Tomb (Sword)
 
 | Item | Chance |
 |------|--------|
@@ -2596,7 +2596,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | Rotten Skeleton of Warrior of the Royal Tomb | 2.2332% |
 
-## 79 (Rotten Skeleton Warrior of the Royal Tomb (Lance))
+## 79 Rotten Skeleton Warrior of the Royal Tomb (Lance)
 
 | Item | Chance |
 |------|--------|
@@ -2645,7 +2645,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | Rotten Skeleton of Warrior of the Royal Tomb | 2.2332% |
 
-## 104 (Rotten Skeleton Warrior of the Royal Tomb (Lance))
+## 104 Rotten Skeleton Warrior of the Royal Tomb (Lance)
 
 | Item | Chance |
 |------|--------|
@@ -2697,7 +2697,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | Rotten Skeleton of Warrior of the Royal Tomb | 2.2332% |
 
-## 105 (Rotten Skeleton Warrior of the Royal Tomb (Lance))
+## 105 Rotten Skeleton Warrior of the Royal Tomb (Lance)
 
 | Item | Chance |
 |------|--------|
@@ -2748,7 +2748,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | Rotten Skeleton of Warrior of the Royal Tomb | 2.2332% |
 
-## 80 (Minister of the Royal Tomb)
+## 80 Minister of the Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -2817,7 +2817,7 @@
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
 | Small Boiling Water (G56) | 1.7866% |
 
-## 106 (Minister of the Royal Tomb)
+## 106 Minister of the Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -2888,7 +2888,7 @@
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
 | Small Boiling Water (G56) | 1.7866% |
 
-## 81 (Maid of Honor of the Royal Tomb)
+## 81 Maid of Honor of the Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -2957,7 +2957,7 @@
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
 | Small Boiling Water (G56) | 1.7866% |
 
-## 107 (Maid of Honor of the Royal Tomb)
+## 107 Maid of Honor of the Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -3028,7 +3028,7 @@
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
 | Small Boiling Water (G56) | 1.7866% |
 
-## 82 (The Royal Tomb Keeper (Sword))
+## 82 The Royal Tomb Keeper (Sword)
 
 | Item | Chance |
 |------|--------|
@@ -3087,7 +3087,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 108 (The Royal Tomb Keeper (Sword))
+## 108 The Royal Tomb Keeper (Sword)
 
 | Item | Chance |
 |------|--------|
@@ -3146,7 +3146,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 109 (The Royal Tomb Keeper (Sword))
+## 109 The Royal Tomb Keeper (Sword)
 
 | Item | Chance |
 |------|--------|
@@ -3212,7 +3212,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 110 (The Royal Tomb Keeper (Sword))
+## 110 The Royal Tomb Keeper (Sword)
 
 | Item | Chance |
 |------|--------|
@@ -3277,7 +3277,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 83 (The Royal Tomb Keeper (Shield))
+## 83 The Royal Tomb Keeper (Shield)
 
 | Item | Chance |
 |------|--------|
@@ -3337,7 +3337,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 111 (The Royal Tomb Keeper (Shield))
+## 111 The Royal Tomb Keeper (Shield)
 
 | Item | Chance |
 |------|--------|
@@ -3390,7 +3390,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 112 (The Royal Tomb Keeper (Shield))
+## 112 The Royal Tomb Keeper (Shield)
 
 | Item | Chance |
 |------|--------|
@@ -3451,7 +3451,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 113 (The Royal Tomb Keeper (Shield))
+## 113 The Royal Tomb Keeper (Shield)
 
 | Item | Chance |
 |------|--------|
@@ -3503,7 +3503,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 84 (The Royal Tomb Keeper (Spear))
+## 84 The Royal Tomb Keeper (Spear)
 
 | Item | Chance |
 |------|--------|
@@ -3563,7 +3563,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 114 (The Royal Tomb Keeper (Spear))
+## 114 The Royal Tomb Keeper (Spear)
 
 | Item | Chance |
 |------|--------|
@@ -3616,7 +3616,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 115 (The Royal Tomb Keeper (Spear))
+## 115 The Royal Tomb Keeper (Spear)
 
 | Item | Chance |
 |------|--------|
@@ -3677,7 +3677,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 116 (The Royal Tomb Keeper (Spear))
+## 116 The Royal Tomb Keeper (Spear)
 
 | Item | Chance |
 |------|--------|
@@ -3729,7 +3729,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 85 (The Royal Tomb Keeper (Iron Hammer))
+## 85 The Royal Tomb Keeper (Iron Hammer)
 
 | Item | Chance |
 |------|--------|
@@ -3799,7 +3799,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 117 (The Royal Tomb Keeper (Iron Hammer))
+## 117 The Royal Tomb Keeper (Iron Hammer)
 
 | Item | Chance |
 |------|--------|
@@ -3878,7 +3878,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 118 (The Royal Tomb Keeper (Iron Hammer))
+## 118 The Royal Tomb Keeper (Iron Hammer)
 
 | Item | Chance |
 |------|--------|
@@ -3948,7 +3948,7 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 119 (The Royal Tomb Keeper (Iron Hammer))
+## 119 The Royal Tomb Keeper (Iron Hammer)
 
 | Item | Chance |
 |------|--------|
@@ -4027,18 +4027,18 @@
 | Small Boiling Water (G56) | 1.7866% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 134 (Devil Troop of Absorbing Green)
+## 134 Devil Troop of Absorbing Green
 
 | Item | Chance |
 |------|--------|
 | Devil Troop of Absorbing Green Mask | 5.3034% |
 
-## 135 (Chief of Angry Doggebi Troop)
+## 135 Chief of Angry Doggebi Troop
 
 | Item | Chance |
 |------|--------|
 
-## 120 (Traitor Warrior)
+## 120 Traitor Warrior
 
 | Item | Chance |
 |------|--------|
@@ -4087,7 +4087,7 @@
 | Diamond Bow (G53) | 0.0006% |
 | Traitor Warrior's Talisman | 1.4925% |
 
-## 136 (Traitor Warrior)
+## 136 Traitor Warrior
 
 | Item | Chance |
 |------|--------|
@@ -4146,7 +4146,7 @@
 | Diamond Treasure Sword (G53) | 0.0006% |
 | Traitor Warrior's Talisman | 1.4925% |
 
-## 137 (Traitor Warrior)
+## 137 Traitor Warrior
 
 | Item | Chance |
 |------|--------|
@@ -4195,7 +4195,7 @@
 | Diamond Stick (G53) | 0.0006% |
 | Traitor Warrior's Talisman | 1.4925% |
 
-## 121 (Trained Traitor Warrior)
+## 121 Trained Traitor Warrior
 
 | Item | Chance |
 |------|--------|
@@ -4244,7 +4244,7 @@
 | Diamond Treasure Sword (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
-## 138 (Trained Traitor Warrior)
+## 138 Trained Traitor Warrior
 
 | Item | Chance |
 |------|--------|
@@ -4293,7 +4293,7 @@
 | Diamond Bow (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
-## 139 (Trained Traitor Warrior)
+## 139 Trained Traitor Warrior
 
 | Item | Chance |
 |------|--------|
@@ -4352,7 +4352,7 @@
 | Diamond Stick (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
-## 122 (Trained Traitor Archer)
+## 122 Trained Traitor Archer
 
 | Item | Chance |
 |------|--------|
@@ -4401,7 +4401,7 @@
 | Diamond Bow (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
-## 140 (Trained Traitor Archer)
+## 140 Trained Traitor Archer
 
 | Item | Chance |
 |------|--------|
@@ -4460,7 +4460,7 @@
 | Diamond Stick (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
-## 141 (Trained Traitor Archer)
+## 141 Trained Traitor Archer
 
 | Item | Chance |
 |------|--------|
@@ -4519,7 +4519,7 @@
 | Diamond Giant Sword (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
-## 123 (Guard of the Traitor's Hangout)
+## 123 Guard of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4578,7 +4578,7 @@
 | Diamond Giant Sword (G53) | 0.0006% |
 | Guard of the Traitors Hangout's Talisman | 0.2698% |
 
-## 142 (Guard of the Traitor's Hangout)
+## 142 Guard of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4627,7 +4627,7 @@
 | Diamond Bow (G53) | 0.0006% |
 | Guard of the Traitors Hangout's Talisman | 0.2698% |
 
-## 143 (Guard of the Traitor's Hangout)
+## 143 Guard of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4676,7 +4676,7 @@
 | Diamond Stick (G53) | 0.0006% |
 | Guard of the Traitors Hangout's Talisman | 0.2698% |
 
-## 124 (Archer of the Traitor's Hangout)
+## 124 Archer of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4724,7 +4724,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 
-## 144 (Archer of the Traitor's Hangout)
+## 144 Archer of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4772,7 +4772,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 
-## 145 (Archer of the Traitor's Hangout)
+## 145 Archer of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4820,7 +4820,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Treasure Sword (G53) | 0.0006% |
 
-## 125 (Knight of the Traitor's Hangout)
+## 125 Knight of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4871,7 +4871,7 @@
 | Diamond Bow (G53) | 0.0006% |
 | Knight of the Traitors Hangout's Talisman | 0.2398% |
 
-## 146 (Knight of the Traitor's Hangout)
+## 146 Knight of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4922,7 +4922,7 @@
 | Diamond Stick (G53) | 0.0006% |
 | Knight of the Traitors Hangout's Talisman | 0.2398% |
 
-## 147 (Knight of the Traitor's Hangout)
+## 147 Knight of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -4975,7 +4975,7 @@
 | Diamond Giant Sword (G53) | 0.0006% |
 | Knight of the Traitors Hangout's Talisman | 0.2398% |
 
-## 126 (Chief of the Traitor's Hangout, Yoong-Gi)
+## 126 Chief of the Traitor's Hangout, Yoong-Gi
 
 | Item | Chance |
 |------|--------|
@@ -5045,7 +5045,7 @@
 | Stone of Chance | 0.0006% |
 | Necklace of Evil | 48.8% |
 
-## 127 (Gigantic Species Warrior)
+## 127 Gigantic Species Warrior
 
 | Item | Chance |
 |------|--------|
@@ -5103,7 +5103,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Giant Sword (G53) | 0.0006% |
 
-## 148 (Gigantic Species Warrior)
+## 148 Gigantic Species Warrior
 
 | Item | Chance |
 |------|--------|
@@ -5151,7 +5151,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 
-## 149 (Gigantic Species Warrior)
+## 149 Gigantic Species Warrior
 
 | Item | Chance |
 |------|--------|
@@ -5199,7 +5199,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 
-## 128 (Gigantic Species Archer)
+## 128 Gigantic Species Archer
 
 | Item | Chance |
 |------|--------|
@@ -5257,7 +5257,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 
-## 150 (Gigantic Species Archer)
+## 150 Gigantic Species Archer
 
 | Item | Chance |
 |------|--------|
@@ -5315,7 +5315,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Giant Sword (G53) | 0.0006% |
 
-## 151 (Gigantic Species Archer)
+## 151 Gigantic Species Archer
 
 | Item | Chance |
 |------|--------|
@@ -5363,7 +5363,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 
-## 129 (Gigantic Species Shock Trooper)
+## 129 Gigantic Species Shock Trooper
 
 | Item | Chance |
 |------|--------|
@@ -5411,7 +5411,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Treasure Sword (G53) | 0.0006% |
 
-## 152 (Gigantic Species Shock Trooper)
+## 152 Gigantic Species Shock Trooper
 
 | Item | Chance |
 |------|--------|
@@ -5459,7 +5459,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 
-## 153 (Gigantic Species Shock Trooper)
+## 153 Gigantic Species Shock Trooper
 
 | Item | Chance |
 |------|--------|
@@ -5517,7 +5517,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 
-## 130 (Gigantic Species Ignoramus)
+## 130 Gigantic Species Ignoramus
 
 | Item | Chance |
 |------|--------|
@@ -5565,7 +5565,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 
-## 154 (Gigantic Species Ignoramus)
+## 154 Gigantic Species Ignoramus
 
 | Item | Chance |
 |------|--------|
@@ -5613,7 +5613,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Treasure Sword (G53) | 0.0006% |
 
-## 155 (Gigantic Species Ignoramus)
+## 155 Gigantic Species Ignoramus
 
 | Item | Chance |
 |------|--------|
@@ -5661,7 +5661,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 
-## 131 (Gigantic Species Berserk)
+## 131 Gigantic Species Berserk
 
 | Item | Chance |
 |------|--------|
@@ -5709,7 +5709,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 
-## 156 (Gigantic Species Berserk)
+## 156 Gigantic Species Berserk
 
 | Item | Chance |
 |------|--------|
@@ -5767,7 +5767,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Giant Sword (G53) | 0.0006% |
 
-## 157 (Gigantic Species Berserk)
+## 157 Gigantic Species Berserk
 
 | Item | Chance |
 |------|--------|
@@ -5815,7 +5815,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 
-## 132 (Gigantic Species Murderer)
+## 132 Gigantic Species Murderer
 
 | Item | Chance |
 |------|--------|
@@ -5867,7 +5867,7 @@
 | Diamond Treasure Sword (G53) | 0.0006% |
 | Diamond Giant Sword (G53) | 0.0006% |
 
-## 158 (Gigantic Species Killer)
+## 158 Gigantic Species Killer
 
 | Item | Chance |
 |------|--------|
@@ -5917,7 +5917,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 
-## 159 (Gigantic Species Killer)
+## 159 Gigantic Species Killer
 
 | Item | Chance |
 |------|--------|
@@ -5967,7 +5967,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 
-## 133 (Gigantic Species Master)
+## 133 Gigantic Species Master
 
 | Item | Chance |
 |------|--------|
@@ -6036,7 +6036,7 @@
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
 
-## 86 (3rd Commander of The Royal Tomb)
+## 86 3rd Commander of The Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -6090,7 +6090,7 @@
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
 
-## 87 (2nd Commander of The Royal Tomb)
+## 87 2nd Commander of The Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -6144,7 +6144,7 @@
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
 
-## 88 (1st Commander of The Royal Tomb)
+## 88 1st Commander of The Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -6198,7 +6198,7 @@
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
 
-## 89 (Imperial Commander of The Royal Tomb)
+## 89 Imperial Commander of The Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -6277,7 +6277,7 @@
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
 
-## 90 (Chief Guard of The Royal Tomb)
+## 90 Chief Guard of The Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -6356,7 +6356,7 @@
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
 
-## 91 (Chief Escort of The Royal Tomb)
+## 91 Chief Escort of The Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -6435,7 +6435,7 @@
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
 
-## 173 (Minister of the Royal Tomb)
+## 173 Minister of the Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -6487,7 +6487,7 @@
 | Stick with Black Crow's Feather (G50) | 0.0006% |
 | Golden Treasure dagger (G50) | 0.0006% |
 
-## 174 (Maid of Honor of the Royal Tomb)
+## 174 Maid of Honor of the Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -6538,7 +6538,7 @@
 | Stick with Black Crow's Feather (G50) | 0.0006% |
 | Golden Treasure dagger (G50) | 0.0006% |
 
-## 175 (The Royal Tomb Keeper)
+## 175 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -6584,7 +6584,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 176 (The Royal Tomb Keeper)
+## 176 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -6637,7 +6637,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 177 (The Royal Tomb Keeper)
+## 177 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -6693,7 +6693,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 178 (The Royal Tomb Keeper)
+## 178 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -6756,7 +6756,7 @@
 | Ancient Tribal Mac's Bow (G56) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 179 (The Royal Tomb Keeper)
+## 179 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -6802,7 +6802,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 180 (The Royal Tomb Keeper)
+## 180 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -6855,7 +6855,7 @@
 | Black Golden Treasure Sword (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 181 (The Royal Tomb Keeper)
+## 181 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -6911,7 +6911,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 182 (The Royal Tomb Keeper)
+## 182 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -6983,7 +6983,7 @@
 | Ancient Treasure Sword (G56) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
-## 183 (The Royal Tomb Keeper)
+## 183 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -7029,7 +7029,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 184 (The Royal Tomb Keeper)
+## 184 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -7082,7 +7082,7 @@
 | Butterfly-Shaped Giant Sword (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 185 (The Royal Tomb Keeper)
+## 185 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -7138,7 +7138,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 186 (The Royal Tomb Keeper)
+## 186 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -7209,7 +7209,7 @@
 | Diamond Giant Sword (G53) | 0.0006% |
 | Ancient Giant Sword (G56) | 0.0006% |
 
-## 187 (The Royal Tomb Keeper)
+## 187 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -7255,7 +7255,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 188 (The Royal Tomb Keeper)
+## 188 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -7301,7 +7301,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 189 (The Royal Tomb Keeper)
+## 189 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -7364,7 +7364,7 @@
 | Ancient Stick (G56) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 190 (The Royal Tomb Keeper)
+## 190 The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -7429,7 +7429,7 @@
 | Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
-## 160 (Warrior of Shadow Troop)
+## 160 Warrior of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -7491,7 +7491,7 @@
 | Diamond Bow (G53) | 0.0006% |
 | Ancient Tribal Mac's Bow (G56) | 0.0006% |
 
-## 191 (Warrior of Shadow Troop)
+## 191 Warrior of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -7546,7 +7546,7 @@
 | Ancient Stick (G56) | 0.0006% |
 | Golden Treasure dagger (G50) | 0.0006% |
 
-## 192 (Warrior of Shadow Troop)
+## 192 Warrior of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -7617,7 +7617,7 @@
 | Diamond Treasure Sword (G53) | 0.0006% |
 | Ancient Treasure Sword (G56) | 0.0006% |
 
-## 193 (Warrior of Shadow Troop)
+## 193 Warrior of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -7688,7 +7688,7 @@
 | Diamond Giant Sword (G53) | 0.0006% |
 | Ancient Giant Sword (G56) | 0.0006% |
 
-## 161 (Hook of Shadow Troop)
+## 161 Hook of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -7777,7 +7777,7 @@
 | General's Stick (G56) | 0.0006% |
 | General's dagger (G56) | 0.0006% |
 
-## 194 (Hook of Shadow Troop)
+## 194 Hook of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -7870,7 +7870,7 @@
 | General's Giant Sword (G56) | 0.0006% |
 | General's dagger (G56) | 0.0006% |
 
-## 162 (Watcher of Shadow Troop)
+## 162 Watcher of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -7964,7 +7964,7 @@
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
 | General's dagger (G56) | 0.0006% |
 
-## 195 (Watcher of Shadow Troop)
+## 195 Watcher of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -8045,7 +8045,7 @@
 | General's Stick (G56) | 0.0006% |
 | General's dagger (G56) | 0.0006% |
 
-## 163 (Chief Warrior of Shadow Troop)
+## 163 Chief Warrior of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -8139,7 +8139,7 @@
 | General's Stick (G56) | 0.0006% |
 | General's dagger (G56) | 0.0006% |
 
-## 196 (Chief Warrior of Shadow Troop)
+## 196 Chief Warrior of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -8225,7 +8225,7 @@
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
 | General's dagger (G56) | 0.0006% |
 
-## 164 (Spear Hand of Shadow Troop)
+## 164 Spear Hand of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -8314,7 +8314,7 @@
 | General's Stick (G56) | 0.0006% |
 | General's dagger (G56) | 0.0006% |
 
-## 197 (Spear Hand of Shadow Troop)
+## 197 Spear Hand of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -8400,7 +8400,7 @@
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
 | General's dagger (G56) | 0.0006% |
 
-## 165 (Lord of Shadow Troop)
+## 165 Lord of Shadow Troop
 
 | Item | Chance |
 |------|--------|
@@ -8475,7 +8475,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Lord's Jaw | 48.8% |
 
-## 198 (Doggebi of Monster Face)
+## 198 Doggebi of Monster Face
 
 | Item | Chance |
 |------|--------|
@@ -8525,7 +8525,7 @@
 | Stick with Black Crow's Feather (G50) | 0.0012% |
 | Doggebi's Fixing Tool | 0.6287% |
 
-## 199 (Doggebi with a Gong)
+## 199 Doggebi with a Gong
 
 | Item | Chance |
 |------|--------|
@@ -8577,7 +8577,7 @@
 | Giant Sword (G50) | 0.0006% |
 | Doggebi's Fixing Tool | 0.6287% |
 
-## 200 (Drunken Doggebi)
+## 200 Drunken Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -8627,7 +8627,7 @@
 | Steel Bow (G50) | 0.0012% |
 | Doggebi's Fixing Tool | 0.6287% |
 
-## 201 (Doggebi with a Mask of Black Crow)
+## 201 Doggebi with a Mask of Black Crow
 
 | Item | Chance |
 |------|--------|
@@ -8705,7 +8705,7 @@
 | Stone of Chance | 0.0006% |
 | Doggebi's Fixing Tool | 0.6287% |
 
-## 202 (Doggebi with a Mask of Black Panther)
+## 202 Doggebi with a Mask of Black Panther
 
 | Item | Chance |
 |------|--------|
@@ -8755,7 +8755,7 @@
 | Steel Bow (G50) | 0.0012% |
 | Doggebi's Fixing Tool | 0.6287% |
 
-## 203 (Giant Doggebi)
+## 203 Giant Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -8807,7 +8807,7 @@
 | Giant Sword (G50) | 0.0006% |
 | Doggebi's Fixing Tool | 0.6287% |
 
-## 204 (Guardian of Doggebi)
+## 204 Guardian of Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -8856,7 +8856,7 @@
 | Stick with Black Crow's Feather (G50) | 0.0012% |
 | Doggebi's Fixing Tool | 0.6287% |
 
-## 205 (Devil Troop of Desire)
+## 205 Devil Troop of Desire
 
 | Item | Chance |
 |------|--------|
@@ -8905,7 +8905,7 @@
 | Stone of Chance | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0012% |
 
-## 206 (Devil Troop of Pain)
+## 206 Devil Troop of Pain
 
 | Item | Chance |
 |------|--------|
@@ -8956,7 +8956,7 @@
 | Golden Treasure Sword (G50) | 0.0006% |
 | Giant Sword (G50) | 0.0006% |
 
-## 207 (Devil Troop of Greed)
+## 207 Devil Troop of Greed
 
 | Item | Chance |
 |------|--------|
@@ -9005,7 +9005,7 @@
 | Stone of Chance | 0.0006% |
 | Steel Bow (G50) | 0.0012% |
 
-## 208 (Devil Troop of Jealousy)
+## 208 Devil Troop of Jealousy
 
 | Item | Chance |
 |------|--------|
@@ -9082,7 +9082,7 @@
 | Sea Bream with Blood | 1.194% |
 | Stone of Chance | 0.0006% |
 
-## 209 (Devil Troop of Hatred)
+## 209 Devil Troop of Hatred
 
 | Item | Chance |
 |------|--------|
@@ -9131,7 +9131,7 @@
 | Stone of Chance | 0.0006% |
 | Steel Bow (G50) | 0.0012% |
 
-## 210 (Devil Troop of Madness)
+## 210 Devil Troop of Madness
 
 | Item | Chance |
 |------|--------|
@@ -9182,7 +9182,7 @@
 | Golden Treasure Sword (G50) | 0.0006% |
 | Giant Sword (G50) | 0.0006% |
 
-## 211 (Devil Troop of Anger)
+## 211 Devil Troop of Anger
 
 | Item | Chance |
 |------|--------|
@@ -9230,76 +9230,81 @@
 | Stone of Chance | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0012% |
 
-## 212 (Treasure Box)
+## 212 Treasure Box
 
 | Item | Chance |
 |------|--------|
 
-## 221 (Treasure Box)
+## 221 Treasure Box
 
 | Item | Chance |
 |------|--------|
 
-## 222 (Treasure Box)
+## 222 Treasure Box
 
 | Item | Chance |
 |------|--------|
 
-## 223 (Treasure Box)
+## 223 Treasure Box
 
 | Item | Chance |
 |------|--------|
 
-## 224 (Treasure Box)
+## 224 Treasure Box
 
 | Item | Chance |
 |------|--------|
 
-## 225 (Treasure Box)
+## 225 Treasure Box
 
 | Item | Chance |
 |------|--------|
 
-## 226 (Treasure Box)
+## 226 Treasure Box
 
 | Item | Chance |
 |------|--------|
 
-## 227 (Treasure Box)
+## 227 Treasure Box
 
 | Item | Chance |
 |------|--------|
 
-## 213 (Doggebi Lord)
+## 213 Doggebi Lord
 
 | Item | Chance |
 |------|--------|
 | 150000x Zamogeon | 100.0% |
-| Ancient Treasure Sword (G56) | 47.8441% |
-| General's Treasure Sword (G56) | 47.8441% |
-| Ancient Dynasty's Treasure Sword (G56) | 47.8441% |
-| Ancient Giant Sword (G56) | 47.8441% |
-| General's Giant Sword (G56) | 47.8441% |
-| Ancient Dynasty's Giant Sword (G56) | 47.8441% |
-| Ancient Tribal Mac's Bow (G56) | 47.8441% |
-| General of Ancient Tribal Mac's Bow (G56) | 47.8441% |
-| Ancient Dynasty of Tribal Mac's Bow (G56) | 47.8441% |
-| Ancient Stick (G56) | 47.8441% |
-| General's Stick (G56) | 47.8441% |
-| Ancient Dynasty's Stick (G56) | 47.8441% |
+| Ancient Treasure Sword (G56) | 40.5643% |
+| General's Treasure Sword (G56) | 40.5643% |
+| Ancient Dynasty's Treasure Sword (G56) | 40.5643% |
+| Ancient Giant Sword (G56) | 40.5643% |
+| General's Giant Sword (G56) | 40.5643% |
+| Ancient Dynasty's Giant Sword (G56) | 40.5643% |
+| Ancient Tribal Mac's Bow (G56) | 40.5643% |
+| General of Ancient Tribal Mac's Bow (G56) | 40.5643% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 40.5643% |
+| Ancient Stick (G56) | 40.5643% |
+| General's Stick (G56) | 40.5643% |
+| Ancient Dynasty's Stick (G56) | 40.5643% |
+| Ancient dagger (G56) | 40.5643% |
+| General's dagger (G56) | 40.5643% |
+| Ancient Dynasty's dagger (G56) | 40.5643% |
 | 200000x Zamogeon | 100.0% |
-| Treasure Sword of Doggebi (G59) | 15.2776% |
-| Treasure Sword of High Class Doggebi (G59) | 15.2776% |
-| Treasure Sword of Doggebi Lord (G59) | 15.2776% |
-| Giant Sword of Doggebi (G59) | 15.2776% |
-| Giant Sword of High Class Doggebi (G59) | 15.2776% |
-| Giant Sword of Doggebi Lord (G59) | 15.2776% |
-| Bow of Doggebi (G59) | 15.2776% |
-| Bow of High Class Doggebi (G59) | 15.2776% |
-| Bow of Doggebi Lord (G59) | 15.2776% |
-| Stick of Doggebi (G59) | 15.2776% |
-| Stick of High Class Doggebi (G59) | 15.2776% |
-| Stick of Doggebi Lord (G59) | 15.2776% |
+| Treasure Sword of Doggebi (G59) | 12.4186% |
+| Treasure Sword of High Class Doggebi (G59) | 12.4186% |
+| Treasure Sword of Doggebi Lord (G59) | 12.4186% |
+| Giant Sword of Doggebi (G59) | 12.4186% |
+| Giant Sword of High Class Doggebi (G59) | 12.4186% |
+| Giant Sword of Doggebi Lord (G59) | 12.4186% |
+| Bow of Doggebi (G59) | 12.4186% |
+| Bow of High Class Doggebi (G59) | 12.4186% |
+| Bow of Doggebi Lord (G59) | 12.4186% |
+| Stick of Doggebi (G59) | 12.4186% |
+| Stick of High Class Doggebi (G59) | 12.4186% |
+| Stick of Doggebi Lord (G59) | 12.4186% |
+| dagger of Doggebi (G59) | 12.4186% |
+| dagger of High Class Doggebi (G59) | 12.4186% |
 | Dragon Sword of Sky (G65) | 48.8% |
 | Dragon Giant Sword of Sky (G65) | 48.8% |
 | Dragon Bow of Sky (G65) | 48.8% |
@@ -9315,12 +9320,12 @@
 | Dragon dagger of Sky (G65) | 8.084% |
 | Horn of Doggebi Lord | 99.9821% |
 
-## 232 (Evil Spirit)
+## 232 Evil Spirit
 
 | Item | Chance |
 |------|--------|
 
-## 233 (High Class Doggebi of Monster Face)
+## 233 High Class Doggebi of Monster Face
 
 | Item | Chance |
 |------|--------|
@@ -9370,7 +9375,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 234 (High Class Doggebi of Monster Face)
+## 234 High Class Doggebi of Monster Face
 
 | Item | Chance |
 |------|--------|
@@ -9420,7 +9425,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 235 (High Class Doggebi of Monster Face)
+## 235 High Class Doggebi of Monster Face
 
 | Item | Chance |
 |------|--------|
@@ -9470,7 +9475,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 236 (High Class Doggebi with a Gong)
+## 236 High Class Doggebi with a Gong
 
 | Item | Chance |
 |------|--------|
@@ -9521,7 +9526,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 237 (High Class Doggebi with a Gong)
+## 237 High Class Doggebi with a Gong
 
 | Item | Chance |
 |------|--------|
@@ -9572,7 +9577,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 238 (High Class Doggebi with a Gong)
+## 238 High Class Doggebi with a Gong
 
 | Item | Chance |
 |------|--------|
@@ -9623,7 +9628,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 239 (High Class Drunken Doggebi)
+## 239 High Class Drunken Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -9674,7 +9679,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 240 (High Class Drunken Doggebi)
+## 240 High Class Drunken Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -9725,7 +9730,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 241 (High Class Drunken Doggebi)
+## 241 High Class Drunken Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -9776,7 +9781,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 242 (High Class Doggebi with a Mask of Black Crow)
+## 242 High Class Doggebi with a Mask of Black Crow
 
 | Item | Chance |
 |------|--------|
@@ -9827,7 +9832,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 243 (High Class Doggebi with a Mask of Black Crow)
+## 243 High Class Doggebi with a Mask of Black Crow
 
 | Item | Chance |
 |------|--------|
@@ -9878,7 +9883,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 244 (High Class Doggebi with a Mask of Black Crow)
+## 244 High Class Doggebi with a Mask of Black Crow
 
 | Item | Chance |
 |------|--------|
@@ -9929,7 +9934,7 @@
 | Sea Bream with Blood | 4.0345% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 245 (Demon Crack Soldier)
+## 245 Demon Crack Soldier
 
 | Item | Chance |
 |------|--------|
@@ -9979,7 +9984,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 246 (Demon Crack Soldier)
+## 246 Demon Crack Soldier
 
 | Item | Chance |
 |------|--------|
@@ -10029,7 +10034,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 247 (Demon Crack Soldier)
+## 247 Demon Crack Soldier
 
 | Item | Chance |
 |------|--------|
@@ -10088,7 +10093,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 248 (Chief of Demon Crack Troop)
+## 248 Chief of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10147,7 +10152,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 249 (Chief of Demon Crack Troop)
+## 249 Chief of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10206,7 +10211,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 250 (Chief of Demon Crack Troop)
+## 250 Chief of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10265,7 +10270,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 251 (Monster of Demon Crack Troop)
+## 251 Monster of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10324,7 +10329,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 252 (Monster of Demon Crack Troop)
+## 252 Monster of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10383,7 +10388,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 253 (Monster of Demon Crack Troop)
+## 253 Monster of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10442,7 +10447,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 254 (White Beast of Demon Crack Troop)
+## 254 White Beast of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10505,7 +10510,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 255 (White Beast of Demon Crack Troop)
+## 255 White Beast of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10568,7 +10573,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 256 (White Beast of Demon Crack Troop)
+## 256 White Beast of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10631,7 +10636,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 257 (Blue Beast of Demon Crack Troop)
+## 257 Blue Beast of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10694,7 +10699,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 258 (Blue Beast of Demon Crack Troop)
+## 258 Blue Beast of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10757,7 +10762,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 259 (Blue Beast of Demon Crack Troop)
+## 259 Blue Beast of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10820,7 +10825,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 260 (Punitive Force of Demon Crack Troop)
+## 260 Punitive Force of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10882,7 +10887,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 261 (Punitive Force of Demon Crack Troop)
+## 261 Punitive Force of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -10944,7 +10949,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 262 (Punitive Force of Demon Crack Troop)
+## 262 Punitive Force of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -11006,7 +11011,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
 
-## 263 (Hermit of White Beard)
+## 263 Hermit of White Beard
 
 | Item | Chance |
 |------|--------|
@@ -11098,7 +11103,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 264 (Hermit of White Beard)
+## 264 Hermit of White Beard
 
 | Item | Chance |
 |------|--------|
@@ -11190,7 +11195,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 265 (Hermit of White Beard)
+## 265 Hermit of White Beard
 
 | Item | Chance |
 |------|--------|
@@ -11273,7 +11278,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 266 (Hermit of Long Beard)
+## 266 Hermit of Long Beard
 
 | Item | Chance |
 |------|--------|
@@ -11365,7 +11370,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 267 (Hermit of Long Beard)
+## 267 Hermit of Long Beard
 
 | Item | Chance |
 |------|--------|
@@ -11457,7 +11462,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 268 (Hermit of Long Beard)
+## 268 Hermit of Long Beard
 
 | Item | Chance |
 |------|--------|
@@ -11549,7 +11554,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 269 (Hermit of Red Face)
+## 269 Hermit of Red Face
 
 | Item | Chance |
 |------|--------|
@@ -11641,7 +11646,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 270 (Hermit of Red Face)
+## 270 Hermit of Red Face
 
 | Item | Chance |
 |------|--------|
@@ -11733,7 +11738,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 271 (Hermit of Red Face)
+## 271 Hermit of Red Face
 
 | Item | Chance |
 |------|--------|
@@ -11825,7 +11830,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 272 (Hermit of Mask)
+## 272 Hermit of Mask
 
 | Item | Chance |
 |------|--------|
@@ -11917,7 +11922,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 273 (Hermit of Mask)
+## 273 Hermit of Mask
 
 | Item | Chance |
 |------|--------|
@@ -12009,7 +12014,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 274 (Hermit of Mask)
+## 274 Hermit of Mask
 
 | Item | Chance |
 |------|--------|
@@ -12101,7 +12106,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 275 (Tough Hermit)
+## 275 Tough Hermit
 
 | Item | Chance |
 |------|--------|
@@ -12193,7 +12198,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 276 (Tough Hermit)
+## 276 Tough Hermit
 
 | Item | Chance |
 |------|--------|
@@ -12276,7 +12281,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 277 (Tough Hermit)
+## 277 Tough Hermit
 
 | Item | Chance |
 |------|--------|
@@ -12368,7 +12373,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 
-## 278 (Hermit of Anger)
+## 278 Hermit of Anger
 
 | Item | Chance |
 |------|--------|
@@ -12460,7 +12465,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
 | Sea Bream with Blood | 1.9314% |
 
-## 279 (Hermit of Anger)
+## 279 Hermit of Anger
 
 | Item | Chance |
 |------|--------|
@@ -12552,7 +12557,7 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
 | Sea Bream with Blood | 1.9314% |
 
-## 280 (Hermit of Anger)
+## 280 Hermit of Anger
 
 | Item | Chance |
 |------|--------|
@@ -12649,7 +12654,7 @@
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
 
-## 281 (High Class Doggebi with a Mask of Black Panther)
+## 281 High Class Doggebi with a Mask of Black Panther
 
 | Item | Chance |
 |------|--------|
@@ -12742,7 +12747,7 @@
 | Sea Bream with Blood | 1.9314% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 282 (High Class Doggebi with a Mask of Black Panther)
+## 282 High Class Doggebi with a Mask of Black Panther
 
 | Item | Chance |
 |------|--------|
@@ -12835,7 +12840,7 @@
 | Sea Bream with Blood | 1.9314% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 283 (High Class Doggebi with a Mask of Black Panther)
+## 283 High Class Doggebi with a Mask of Black Panther
 
 | Item | Chance |
 |------|--------|
@@ -12933,7 +12938,7 @@
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
 
-## 284 (High Class Giant Doggebi)
+## 284 High Class Giant Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -13026,7 +13031,7 @@
 | Sea Bream with Blood | 2.038% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 285 (High Class Giant Doggebi)
+## 285 High Class Giant Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -13119,7 +13124,7 @@
 | Sea Bream with Blood | 2.038% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 286 (High Class Giant Doggebi)
+## 286 High Class Giant Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -13217,7 +13222,7 @@
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
 
-## 287 (High Class Guardian of Doggebi)
+## 287 High Class Guardian of Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -13310,7 +13315,7 @@
 | Sea Bream with Blood | 2.038% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 288 (High Class Guardian of Doggebi)
+## 288 High Class Guardian of Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -13403,7 +13408,7 @@
 | Sea Bream with Blood | 2.038% |
 | Doggebi's Fixing Tool | 1.0463% |
 
-## 289 (High Class Guardian of Doggebi)
+## 289 High Class Guardian of Doggebi
 
 | Item | Chance |
 |------|--------|
@@ -13501,55 +13506,55 @@
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
 
-## 290 (Personal Guard of Doggebi Lord)
+## 290 Personal Guard of Doggebi Lord
 
 | Item | Chance |
 |------|--------|
 | 500x Zamogeon | 97.8048% |
 
-## 291 (Wooden Box)
+## 291 Wooden Box
 
 | Item | Chance |
 |------|--------|
 | Plum (G12) | 36.3944% |
 
-## 292 (Wooden Box)
+## 292 Wooden Box
 
 | Item | Chance |
 |------|--------|
 | Plum (G12) | 36.3944% |
 
-## 293 (Wooden Box)
+## 293 Wooden Box
 
 | Item | Chance |
 |------|--------|
 | Peach (G20) | 36.3944% |
 
-## 294 (Wooden Box)
+## 294 Wooden Box
 
 | Item | Chance |
 |------|--------|
 | Peach (G20) | 74.9953% |
 
-## 295 (Wooden Box)
+## 295 Wooden Box
 
 | Item | Chance |
 |------|--------|
 | Melon (G32) | 74.9953% |
 
-## 296 (Wooden Box)
+## 296 Wooden Box
 
 | Item | Chance |
 |------|--------|
 | Grape (G40) | 74.9953% |
 
-## 297 (Wooden Box)
+## 297 Wooden Box
 
 | Item | Chance |
 |------|--------|
 | Water Melon (G48) | 74.9953% |
 
-## 299 (Demon Worker)
+## 299 Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -13659,7 +13664,7 @@
 | Diamond dagger of Pain (G53) | 0.0006% |
 | Diamond dagger of Phantom (G53) | 0.0006% |
 
-## 300 (Demon Worker)
+## 300 Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -13769,7 +13774,7 @@
 | Diamond dagger of Pain (G53) | 0.0006% |
 | Diamond dagger of Phantom (G53) | 0.0006% |
 
-## 301 (Manager of Demon Worker)
+## 301 Manager of Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -13879,7 +13884,7 @@
 | Diamond dagger of Pain (G53) | 0.0006% |
 | Diamond dagger of Phantom (G53) | 0.0006% |
 
-## 302 (Manager of Demon Worker)
+## 302 Manager of Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -13989,7 +13994,7 @@
 | Diamond dagger of Pain (G53) | 0.0006% |
 | Diamond dagger of Phantom (G53) | 0.0006% |
 
-## 303 (Boss of Demon Worker)
+## 303 Boss of Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -14118,7 +14123,7 @@
 | General's dagger (G56) | 0.0012% |
 | Ancient Dynasty's dagger (G56) | 0.0009% |
 
-## 304 (Demon Guard)
+## 304 Demon Guard
 
 | Item | Chance |
 |------|--------|
@@ -14228,7 +14233,7 @@
 | Diamond dagger of Pain (G53) | 0.0006% |
 | Diamond dagger of Phantom (G53) | 0.0006% |
 
-## 305 (Demon Guard)
+## 305 Demon Guard
 
 | Item | Chance |
 |------|--------|
@@ -14338,7 +14343,7 @@
 | Diamond dagger of Pain (G53) | 0.0006% |
 | Diamond dagger of Phantom (G53) | 0.0006% |
 
-## 306 (Demon Patrol)
+## 306 Demon Patrol
 
 | Item | Chance |
 |------|--------|
@@ -14457,7 +14462,7 @@
 | Diamond dagger of Pain (G53) | 0.0006% |
 | Diamond dagger of Phantom (G53) | 0.0006% |
 
-## 307 (Demon Patrol)
+## 307 Demon Patrol
 
 | Item | Chance |
 |------|--------|
@@ -14576,7 +14581,7 @@
 | General's dagger (G56) | 0.0012% |
 | Ancient Dynasty's dagger (G56) | 0.0009% |
 
-## 308 (Demon Warrior)
+## 308 Demon Warrior
 
 | Item | Chance |
 |------|--------|
@@ -14695,7 +14700,7 @@
 | General's dagger (G56) | 0.0012% |
 | Ancient Dynasty's dagger (G56) | 0.0009% |
 
-## 309 (Demon Infantry)
+## 309 Demon Infantry
 
 | Item | Chance |
 |------|--------|
@@ -14814,7 +14819,7 @@
 | General's dagger (G56) | 0.0012% |
 | Ancient Dynasty's dagger (G56) | 0.0009% |
 
-## 310 (Crazy Demon Warrior)
+## 310 Crazy Demon Warrior
 
 | Item | Chance |
 |------|--------|
@@ -14952,7 +14957,7 @@
 | General's dagger (G56) | 0.0012% |
 | Ancient Dynasty's dagger (G56) | 0.0009% |
 
-## 311 (Demon Defender)
+## 311 Demon Defender
 
 | Item | Chance |
 |------|--------|
@@ -15090,17 +15095,17 @@
 | General's dagger (G56) | 0.0012% |
 | Ancient Dynasty's dagger (G56) | 0.0009% |
 
-## 312 (Egg)
+## 312 Egg
 
 | Item | Chance |
 |------|--------|
 
-## 313 (Larva)
+## 313 Larva
 
 | Item | Chance |
 |------|--------|
 
-## 314 (Black Armored Insect)
+## 314 Black Armored Insect
 
 | Item | Chance |
 |------|--------|
@@ -15219,12 +15224,12 @@
 | General's dagger (G56) | 0.0012% |
 | Ancient Dynasty's dagger (G56) | 0.0009% |
 
-## 315 (Flame Plants)
+## 315 Flame Plants
 
 | Item | Chance |
 |------|--------|
 
-## 316 (Demon Monster)
+## 316 Demon Monster
 
 | Item | Chance |
 |------|--------|
@@ -15350,12 +15355,12 @@
 | Key for the Gate of Advance Base | 100.0% |
 | Monster's Right Arm | 48.8% |
 
-## 317 (Demon Nest)
+## 317 Demon Nest
 
 | Item | Chance |
 |------|--------|
 
-## 318 (Demon Queen)
+## 318 Demon Queen
 
 | Item | Chance |
 |------|--------|
@@ -15392,57 +15397,57 @@
 | DaeChangEau Shoes of Doggebi (G55) | 22.3168% |
 | DaeChangEau Shorts of Doggebi (G55) | 22.3168% |
 
-## 319 (White Tiger Cannon)
+## 319 White Tiger Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 320 (Blue Dragon Cannon)
+## 320 Blue Dragon Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 321 (Red Bird Cannon)
+## 321 Red Bird Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 322 (current fight beechun brain)
+## 322 current fight beechun brain
 
 | Item | Chance |
 |------|--------|
 
-## 323 (big bear fight beechun brain)
+## 323 big bear fight beechun brain
 
 | Item | Chance |
 |------|--------|
 
-## 324 (Wreckage of White Tiger Cannon)
+## 324 Wreckage of White Tiger Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 325 (Wreckage of Blue Dragon Cannon)
+## 325 Wreckage of Blue Dragon Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 326 (Wreckage of Red Bird Cannon)
+## 326 Wreckage of Red Bird Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 327 (current fight beechun brain remains)
+## 327 current fight beechun brain remains
 
 | Item | Chance |
 |------|--------|
 
-## 328 (big bear fight beechun brain remains)
+## 328 big bear fight beechun brain remains
 
 | Item | Chance |
 |------|--------|
 
-## 329 (Demon Monster)
+## 329 Demon Monster
 
 | Item | Chance |
 |------|--------|
@@ -15566,86 +15571,77 @@
 | General's dagger (G56) | 0.0006% |
 | Ancient Dynasty's dagger (G56) | 0.0006% |
 
-## 330 (Flame Plants)
+## 330 Flame Plants
 
 | Item | Chance |
 |------|--------|
 
-## 331 (Cannon Ball of White Tiger Cannon)
+## 331 Cannon Ball of White Tiger Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 332 (Cannon Ball of Blue Dragon Cannon)
+## 332 Cannon Ball of Blue Dragon Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 333 (Cannon Ball of Red Bird Cannon)
+## 333 Cannon Ball of Red Bird Cannon
 
 | Item | Chance |
 |------|--------|
 
-## 338 ( )
+## 338  
 
 | Item | Chance |
 |------|--------|
 
-## 352 (Red Big Tower)
+## 352 Red Big Tower
 
 | Item | Chance |
 |------|--------|
 
-## 353 (Upgraded Red Big Tower)
+## 353 Upgraded Red Big Tower
 
 | Item | Chance |
 |------|--------|
 
-## 354 (Red Small Tower)
+## 354 Red Small Tower
 
 | Item | Chance |
 |------|--------|
 
-## 355 (Upgraded Small Tower)
+## 355 Upgraded Small Tower
 
 | Item | Chance |
 |------|--------|
 
-## 356 (Blue Big Tower)
+## 356 Blue Big Tower
 
 | Item | Chance |
 |------|--------|
 
-## 357 (Upgraded Blue Big Tower)
+## 357 Upgraded Blue Big Tower
 
 | Item | Chance |
 |------|--------|
 
-## 358 (Blue Small Tower)
+## 358 Blue Small Tower
 
 | Item | Chance |
 |------|--------|
 
-## 359 (Blue Small Tower)
+## 359 Blue Small Tower
 
 | Item | Chance |
 |------|--------|
 
-## 360 (Giant Tower)
+## 360 Giant Tower
 
 | Item | Chance |
 |------|--------|
 
-## 366 (Sealed Commanders)
-
-| Item | Chance |
-|------|--------|
-| Doggebi's Certificate(1) | 18.6789% |
-| Doggebi's Certificate(3) | 6.5132% |
-| Doggebi's Certificate(5) | 3.908% |
-| Doggebi's Certificate(10) | 0.6585% |
-
-## 367 (Sealed Commanders)
+## 366 Sealed Commanders
 
 | Item | Chance |
 |------|--------|
@@ -15654,7 +15650,7 @@
 | Doggebi's Certificate(5) | 3.908% |
 | Doggebi's Certificate(10) | 0.6585% |
 
-## 368 (Sealed Commanders)
+## 367 Sealed Commanders
 
 | Item | Chance |
 |------|--------|
@@ -15663,22 +15659,7 @@
 | Doggebi's Certificate(5) | 3.908% |
 | Doggebi's Certificate(10) | 0.6585% |
 
-## 369 (Gate of Prayer)
-
-| Item | Chance |
-|------|--------|
-
-## 370 (Broken Gate of Prayer)
-
-| Item | Chance |
-|------|--------|
-
-## 371 (Statue of Prayer)
-
-| Item | Chance |
-|------|--------|
-
-## 372 (Sealed Hermit)
+## 368 Sealed Commanders
 
 | Item | Chance |
 |------|--------|
@@ -15687,17 +15668,41 @@
 | Doggebi's Certificate(5) | 3.908% |
 | Doggebi's Certificate(10) | 0.6585% |
 
-## 373 (Portable Bomb)
+## 369 Gate of Prayer
 
 | Item | Chance |
 |------|--------|
 
-## 374 ( )
+## 370 Broken Gate of Prayer
 
 | Item | Chance |
 |------|--------|
 
-## 375 (Twisted Demon Guard)
+## 371 Statue of Prayer
+
+| Item | Chance |
+|------|--------|
+
+## 372 Sealed Hermit
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 18.6789% |
+| Doggebi's Certificate(3) | 6.5132% |
+| Doggebi's Certificate(5) | 3.908% |
+| Doggebi's Certificate(10) | 0.6585% |
+
+## 373 Portable Bomb
+
+| Item | Chance |
+|------|--------|
+
+## 374  
+
+| Item | Chance |
+|------|--------|
+
+## 375 Twisted Demon Guard
 
 | Item | Chance |
 |------|--------|
@@ -15736,7 +15741,7 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 
-## 376 (Twisted Demon Patrol)
+## 376 Twisted Demon Patrol
 
 | Item | Chance |
 |------|--------|
@@ -15784,64 +15789,7 @@
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
 
-## 377 (Twisted Demon Warrior)
-
-| Item | Chance |
-|------|--------|
-| 356x Zamogeon | 97.8048% |
-| Stone of Shadow | 0.0027% |
-| Stone of Holy | 0.0027% |
-| Stone of Flame | 0.0027% |
-| Stone of Ice | 0.0027% |
-| Stone of Lightening | 0.0027% |
-| Stone of Poison | 0.0027% |
-| Stone of Paralysis | 0.0027% |
-| Stone of Strength | 0.0027% |
-| Stone of Skill | 0.0027% |
-| Talisman of Protection (Despotic/Forced) | 0.0045% |
-| Talisman of Protection (Revenge's/Agile) | 0.0045% |
-| Talisman of Protection (Prideful/Healthy) | 0.0045% |
-| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
-| Talisman of Protection (Glorious/Fixed) | 0.0045% |
-| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
-| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
-| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
-| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
-| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
-| Talisman of Intensification (Legendary/Rash) | 0.0045% |
-| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
-| Speed up Medicine | 0.4493% |
-| 10x Medium Medicine | 0.4493% |
-| Bead of Fire | 0.0027% |
-| Golden Scaled Armor Gloves (G60) | 0.0003% |
-| Golden Armor Gloves (G60) | 0.0003% |
-| Golden DaeChangEau Gloves (G60) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | 0.0003% |
-| Golden Armor Helmet (G60) | 0.0003% |
-| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
-| Golden Scaled Armor Shoes (G60) | 0.0003% |
-| Golden Armor Shoes (G60) | 0.0003% |
-| Golden DaeChangEau Shoes (G60) | 0.0003% |
-| Talisman of Defense | 0.0003% |
-| Golden Hood of thief (G60) | 0.0003% |
-| Golden Gloves of thief (G60) | 0.0003% |
-| Golden Boots of thief (G60) | 0.0003% |
-| Golden Sword (G62) | 0.0003% |
-| Golden Giant Sword (G62) | 0.0003% |
-| Golden Bow (G62) | 0.0003% |
-| Golden Stick (G62) | 0.0003% |
-| Golden dagger (G62) | 0.0003% |
-| Golden Scaled Armor (G60) | 0.0003% |
-| Golden Scaled Armor Shorts (G60) | 0.0003% |
-| Golden Armor (G60) | 0.0003% |
-| Golden Armor Skirts (G60) | 0.0003% |
-| Golden DaeChangEau (G60) | 0.0003% |
-| Golden DaeChangEau Shorts (G60) | 0.0003% |
-| Golden suit of thief (G60) | 0.0003% |
-| Golden suit Shorts of thief (G60) | 0.0003% |
-| Complete E-moogy's Scale | 0.0024% |
-
-## 378 (Twisted Demon Soldier)
+## 377 Twisted Demon Warrior
 
 | Item | Chance |
 |------|--------|
@@ -15898,7 +15846,64 @@
 | Golden suit Shorts of thief (G60) | 0.0003% |
 | Complete E-moogy's Scale | 0.0024% |
 
-## 379 (Twisted Demon Defender)
+## 378 Twisted Demon Soldier
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Complete E-moogy's Scale | 0.0024% |
+
+## 379 Twisted Demon Defender
 
 | Item | Chance |
 |------|--------|
@@ -15956,7 +15961,7 @@
 | Complete E-moogy's Scale | 0.0024% |
 | Sword of the Chief Defender | 48.8% |
 
-## 380 (Twisted Brown E-Moogi)
+## 380 Twisted Brown E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16004,7 +16009,7 @@
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
 
-## 381 (Twisted Green E-Moogi)
+## 381 Twisted Green E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16043,7 +16048,7 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 
-## 382 (Ghost of Dragon)
+## 382 Ghost of Dragon
 
 | Item | Chance |
 |------|--------|
@@ -16124,86 +16129,42 @@
 | Golden suit Shorts of thief (G60) | 8.7327% |
 | Complete E-moogy's Scale | 100.0% |
 
-## 383 (A Thousand year old E-Moogi)
+## 383 A Thousand year old E-Moogi
 
 | Item | Chance |
 |------|--------|
 
-## 384 (Nail of Dragon)
+## 384 Nail of Dragon
 
 | Item | Chance |
 |------|--------|
 
-## 385 (Twisted Brown E-Moogi)
+## 385 Twisted Brown E-Moogi
 
 | Item | Chance |
 |------|--------|
 
-## 386 (Twisted Green E-Moogi)
+## 386 Twisted Green E-Moogi
 
 | Item | Chance |
 |------|--------|
 
-## 387 ( )
+## 387  
 
 | Item | Chance |
 |------|--------|
 
-## 388 ( )
+## 388  
 
 | Item | Chance |
 |------|--------|
 
-## 389 ( )
+## 389  
 
 | Item | Chance |
 |------|--------|
 
-## 390 (Ghost of Smith in E-Mok Island)
-
-| Item | Chance |
-|------|--------|
-| 281x Zamogeon | 97.8048% |
-| Stone of Shadow | 0.0009% |
-| Stone of Holy | 0.0009% |
-| Stone of Flame | 0.0009% |
-| Stone of Ice | 0.0009% |
-| Stone of Lightening | 0.0009% |
-| Stone of Poison | 0.0009% |
-| Stone of Paralysis | 0.0009% |
-| Stone of Strength | 0.0009% |
-| Stone of Skill | 0.0009% |
-| Talisman of Protection (Despotic/Forced) | 0.003% |
-| Talisman of Protection (Revenge's/Agile) | 0.003% |
-| Talisman of Protection (Prideful/Healthy) | 0.003% |
-| Talisman of Protection (Ruinous/Fictional) | 0.003% |
-| Talisman of Protection (Glorious/Fixed) | 0.003% |
-| Talisman of Intensification (Distinct/Merciful) | 0.003% |
-| Talisman of Intensification (Steely/Ablaze) | 0.003% |
-| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
-| Talisman of Intensification (Decisional/Dashy) | 0.003% |
-| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
-| Talisman of Intensification (Legendary/Rash) | 0.003% |
-| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
-| Speed up Medicine | 0.3745% |
-| 10x Medium Medicine | 0.3745% |
-| Bead of Fire | 0.0009% |
-| Scaled Helmet of Doggebi (G55) | 0.0003% |
-| Scaled Gloves of Doggebi (G55) | 0.0003% |
-| Scaled Shoes of Doggebi (G55) | 0.0003% |
-| Helmet of Doggebi (G55) | 0.0003% |
-| Gloves of Doggebi (G55) | 0.0003% |
-| Shoes of Doggebi (G55) | 0.0003% |
-| Hair Decoration of Doggebi (G55) | 0.0003% |
-| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
-| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
-| Talisman of Defense | 0.0006% |
-| Doggebi Hood of thief (G55) | 0.0003% |
-| Doggebi Gloves of thief (G55) | 0.0003% |
-| Doggebi Boots of thief (G55) | 0.0003% |
-| E-Mok Island Blacksmith's rings | 1.1952% |
-
-## 391 (Ghost of Guard in E-Mok Island)
+## 390 Ghost of Smith in E-Mok Island
 
 | Item | Chance |
 |------|--------|
@@ -16247,7 +16208,7 @@
 | Doggebi Boots of thief (G55) | 0.0003% |
 | E-Mok Island Blacksmith's rings | 1.1952% |
 
-## 392 (Sealed Ghost in E-Mok Island)
+## 391 Ghost of Guard in E-Mok Island
 
 | Item | Chance |
 |------|--------|
@@ -16291,7 +16252,7 @@
 | Doggebi Boots of thief (G55) | 0.0003% |
 | E-Mok Island Blacksmith's rings | 1.1952% |
 
-## 393 (Sealed Ghost in E-Mok Island)
+## 392 Sealed Ghost in E-Mok Island
 
 | Item | Chance |
 |------|--------|
@@ -16335,7 +16296,51 @@
 | Doggebi Boots of thief (G55) | 0.0003% |
 | E-Mok Island Blacksmith's rings | 1.1952% |
 
-## 394 (Small Green E-Moogi)
+## 393 Sealed Ghost in E-Mok Island
+
+| Item | Chance |
+|------|--------|
+| 281x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0009% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| Talisman of Defense | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| E-Mok Island Blacksmith's rings | 1.1952% |
+
+## 394 Small Green E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16379,13 +16384,13 @@
 | Doggebi Boots of thief (G55) | 0.0003% |
 | Small Green E-Moogi's teeth | 1.1952% |
 
-## 395 (Small Green E-Moogi)
+## 395 Small Green E-Moogi
 
 | Item | Chance |
 |------|--------|
 | Small Green E-Moogi's teeth | 1.1952% |
 
-## 396 (Twisted Green E-Moogi)
+## 396 Twisted Green E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16425,7 +16430,7 @@
 | Golden Gloves of thief (G60) | 0.0003% |
 | Twisted Green E-Moogi's teeth | 0.2997% |
 
-## 397 (Twisted Green E-Moogi)
+## 397 Twisted Green E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16465,7 +16470,7 @@
 | Golden Gloves of thief (G60) | 0.0003% |
 | Twisted Green E-Moogi's teeth | 0.2997% |
 
-## 398 (Small Brown E-Moogi)
+## 398 Small Brown E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16509,7 +16514,7 @@
 | Doggebi Boots of thief (G55) | 0.0003% |
 | Small Brown E-Moogi's teeth | 1.1952% |
 
-## 399 (Small Brown E-Moogi)
+## 399 Small Brown E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16553,7 +16558,7 @@
 | Doggebi Boots of thief (G55) | 0.0003% |
 | Small Brown E-Moogi's teeth | 1.1952% |
 
-## 400 (Twisted Brown E-Moogi)
+## 400 Twisted Brown E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16593,7 +16598,7 @@
 | Golden Gloves of thief (G60) | 0.0003% |
 | Twisted Brown E-Moogi's teeth | 0.2997% |
 
-## 401 (Twisted Brown E-Moogi)
+## 401 Twisted Brown E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -16633,7 +16638,7 @@
 | Golden Gloves of thief (G60) | 0.0003% |
 | Twisted Brown E-Moogi's teeth | 0.2997% |
 
-## 402 (Twisted Demon Guard)
+## 402 Twisted Demon Guard
 
 | Item | Chance |
 |------|--------|
@@ -16673,7 +16678,7 @@
 | Golden Gloves of thief (G60) | 0.0003% |
 | Twisted Demon Guarder's head | 0.3895% |
 
-## 403 (Twisted Demon Guard)
+## 403 Twisted Demon Guard
 
 | Item | Chance |
 |------|--------|
@@ -16713,7 +16718,7 @@
 | Golden Gloves of thief (G60) | 0.0003% |
 | Twisted Demon Guarder's head | 0.3895% |
 
-## 404 (Twisted Demon Patrol)
+## 404 Twisted Demon Patrol
 
 | Item | Chance |
 |------|--------|
@@ -16753,7 +16758,7 @@
 | Golden Gloves of thief (G60) | 0.0003% |
 | Twisted Demon Patrol's head | 0.2997% |
 
-## 405 (Twisted Demon Patrol)
+## 405 Twisted Demon Patrol
 
 | Item | Chance |
 |------|--------|
@@ -16793,7 +16798,7 @@
 | Golden Gloves of thief (G60) | 0.0003% |
 | Twisted Demon Patrol's head | 0.2997% |
 
-## 406 (Twisted Demon Warrior)
+## 406 Twisted Demon Warrior
 
 | Item | Chance |
 |------|--------|
@@ -16851,7 +16856,7 @@
 | Complete E-moogy's Scale | 0.0024% |
 | Twisted Demon Warrior's head | 0.4493% |
 
-## 407 (Twisted Demon Soldier)
+## 407 Twisted Demon Soldier
 
 | Item | Chance |
 |------|--------|
@@ -16909,7 +16914,7 @@
 | Complete E-moogy's Scale | 0.0024% |
 | Twisted Demon Soldier's head | 0.5988% |
 
-## 408 (Twisted Demon Soldier)
+## 408 Twisted Demon Soldier
 
 | Item | Chance |
 |------|--------|
@@ -16967,7 +16972,7 @@
 | Complete E-moogy's Scale | 0.0024% |
 | Twisted Demon Soldier's head | 0.5988% |
 
-## 409 (Twisted Demon Defender)
+## 409 Twisted Demon Defender
 
 | Item | Chance |
 |------|--------|
@@ -17026,41 +17031,41 @@
 | Twisted Demon Defender's head | 0.2398% |
 | Sword of the Chief Defender | 48.8% |
 
-## 410 (Use when E-Moogi is dead)
+## 410 Use when E-Moogi is dead
 
 | Item | Chance |
 |------|--------|
 
-## 411 (For the appearance for Ghost of Dragon)
+## 411 For the appearance for Ghost of Dragon
 
 | Item | Chance |
 |------|--------|
 
-## 412 (Twisted Demon Guard)
-
-| Item | Chance |
-|------|--------|
-| 356x Zamogeon | 97.8048% |
-
-## 413 (Twisted Demon Patrol)
+## 412 Twisted Demon Guard
 
 | Item | Chance |
 |------|--------|
 | 356x Zamogeon | 97.8048% |
 
-## 414 (Twisted Demon Warrior)
+## 413 Twisted Demon Patrol
 
 | Item | Chance |
 |------|--------|
 | 356x Zamogeon | 97.8048% |
 
-## 415 (Twisted Demon Soldier)
+## 414 Twisted Demon Warrior
 
 | Item | Chance |
 |------|--------|
 | 356x Zamogeon | 97.8048% |
 
-## 416 (Tobyong)
+## 415 Twisted Demon Soldier
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+
+## 416 Tobyong
 
 | Item | Chance |
 |------|--------|
@@ -17073,7 +17078,7 @@
 | Leather(Encampment Building Scroll) | 1.4925% |
 | Hammer(Encampment Building Scroll) | 1.4925% |
 
-## 417 (Tobyong Magician)
+## 417 Tobyong Magician
 
 | Item | Chance |
 |------|--------|
@@ -17086,7 +17091,7 @@
 | Leather(Encampment Building Scroll) | 1.4925% |
 | Hammer(Encampment Building Scroll) | 1.4925% |
 
-## 418 (Tobyong Giant)
+## 418 Tobyong Giant
 
 | Item | Chance |
 |------|--------|
@@ -17105,7 +17110,7 @@
 | Doggebi's Certificate(5) | 1.4907% |
 | Doggebi's Certificate(10) | 0.8966% |
 
-## 419 (Noktoo Soldier)
+## 419 Noktoo Soldier
 
 | Item | Chance |
 |------|--------|
@@ -17118,7 +17123,7 @@
 | Leather(Encampment Building Scroll) | 1.4925% |
 | Hammer(Encampment Building Scroll) | 1.4925% |
 
-## 420 (Noktoo Magician)
+## 420 Noktoo Magician
 
 | Item | Chance |
 |------|--------|
@@ -17131,7 +17136,7 @@
 | Leather(Encampment Building Scroll) | 1.4925% |
 | Hammer(Encampment Building Scroll) | 1.4925% |
 
-## 421 (Noktoo Assassin)
+## 421 Noktoo Assassin
 
 | Item | Chance |
 |------|--------|
@@ -17144,7 +17149,7 @@
 | Leather(Encampment Building Scroll) | 1.4925% |
 | Hammer(Encampment Building Scroll) | 1.4925% |
 
-## 422 (Noktoo General)
+## 422 Noktoo General
 
 | Item | Chance |
 |------|--------|
@@ -17163,7 +17168,7 @@
 | Doggebi's Certificate(5) | 1.4907% |
 | Doggebi's Certificate(10) | 0.8966% |
 
-## 424 (Bogy Rider)
+## 424 Bogy Rider
 
 | Item | Chance |
 |------|--------|
@@ -17176,7 +17181,7 @@
 | Leather(Encampment Building Scroll) | 1.4925% |
 | Hammer(Encampment Building Scroll) | 1.4925% |
 
-## 425 (Bogy Archer)
+## 425 Bogy Archer
 
 | Item | Chance |
 |------|--------|
@@ -17189,7 +17194,7 @@
 | Leather(Encampment Building Scroll) | 1.4925% |
 | Hammer(Encampment Building Scroll) | 1.4925% |
 
-## 426 (Bogy Captain)
+## 426 Bogy Captain
 
 | Item | Chance |
 |------|--------|
@@ -17202,7 +17207,7 @@
 | Leather(Encampment Building Scroll) | 1.4925% |
 | Hammer(Encampment Building Scroll) | 1.4925% |
 
-## 427 (Bogy General)
+## 427 Bogy General
 
 | Item | Chance |
 |------|--------|
@@ -17221,7 +17226,7 @@
 | Doggebi's Certificate(5) | 1.4907% |
 | Doggebi's Certificate(10) | 0.8966% |
 
-## 428 (Mutant Demon)
+## 428 Mutant Demon
 
 | Item | Chance |
 |------|--------|
@@ -17230,7 +17235,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 429 (Mutant Demon Leader)
+## 429 Mutant Demon Leader
 
 | Item | Chance |
 |------|--------|
@@ -17239,7 +17244,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 430 (Bronze Man)
+## 430 Bronze Man
 
 | Item | Chance |
 |------|--------|
@@ -17248,7 +17253,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 431 (Bronze Giant)
+## 431 Bronze Giant
 
 | Item | Chance |
 |------|--------|
@@ -17257,7 +17262,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 432 (Goshi Warrior)
+## 432 Goshi Warrior
 
 | Item | Chance |
 |------|--------|
@@ -17266,7 +17271,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 433 (Goshi Leader)
+## 433 Goshi Leader
 
 | Item | Chance |
 |------|--------|
@@ -17275,7 +17280,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 449 (Mutant Demon)
+## 449 Mutant Demon
 
 | Item | Chance |
 |------|--------|
@@ -17284,7 +17289,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 450 (Mutant Demon Leader)
+## 450 Mutant Demon Leader
 
 | Item | Chance |
 |------|--------|
@@ -17293,7 +17298,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 451 (Bronze Man)
+## 451 Bronze Man
 
 | Item | Chance |
 |------|--------|
@@ -17302,7 +17307,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 452 (Bronze Giant)
+## 452 Bronze Giant
 
 | Item | Chance |
 |------|--------|
@@ -17311,7 +17316,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 453 (Goshi Warrior)
+## 453 Goshi Warrior
 
 | Item | Chance |
 |------|--------|
@@ -17320,7 +17325,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 454 (Goshi Leader)
+## 454 Goshi Leader
 
 | Item | Chance |
 |------|--------|
@@ -17329,7 +17334,7 @@
 | Doggebi's Certificate(5) | 0.7481% |
 | Doggebi's Certificate(10) | 0.4493% |
 
-## 516 (High Class Earth element)
+## 516 High Class Earth element
 
 | Item | Chance |
 |------|--------|
@@ -17361,7 +17366,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 517 (High Class Earth element)
+## 517 High Class Earth element
 
 | Item | Chance |
 |------|--------|
@@ -17393,7 +17398,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 518 (High Class Earth element)
+## 518 High Class Earth element
 
 | Item | Chance |
 |------|--------|
@@ -17425,7 +17430,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 519 (High Class Fire element)
+## 519 High Class Fire element
 
 | Item | Chance |
 |------|--------|
@@ -17457,7 +17462,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 520 (High Class Fire element)
+## 520 High Class Fire element
 
 | Item | Chance |
 |------|--------|
@@ -17489,7 +17494,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 521 (High Class Fire element)
+## 521 High Class Fire element
 
 | Item | Chance |
 |------|--------|
@@ -17521,7 +17526,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 522 (High Class Water element)
+## 522 High Class Water element
 
 | Item | Chance |
 |------|--------|
@@ -17553,7 +17558,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 523 (High Class Water element)
+## 523 High Class Water element
 
 | Item | Chance |
 |------|--------|
@@ -17585,7 +17590,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 524 (High Class Water element)
+## 524 High Class Water element
 
 | Item | Chance |
 |------|--------|
@@ -17617,7 +17622,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 525 (High Class Iron element)
+## 525 High Class Iron element
 
 | Item | Chance |
 |------|--------|
@@ -17649,7 +17654,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 526 (High Class Iron element)
+## 526 High Class Iron element
 
 | Item | Chance |
 |------|--------|
@@ -17681,7 +17686,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 527 (High Class Iron element)
+## 527 High Class Iron element
 
 | Item | Chance |
 |------|--------|
@@ -17713,7 +17718,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 528 (High Class Wood element)
+## 528 High Class Wood element
 
 | Item | Chance |
 |------|--------|
@@ -17745,7 +17750,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 529 (High Class Wood element)
+## 529 High Class Wood element
 
 | Item | Chance |
 |------|--------|
@@ -17777,7 +17782,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 530 (High Class Wood element)
+## 530 High Class Wood element
 
 | Item | Chance |
 |------|--------|
@@ -17809,7 +17814,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 531 (High Class Security guard of the priest)
+## 531 High Class Security guard of the priest
 
 | Item | Chance |
 |------|--------|
@@ -17856,7 +17861,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0003% |
 | Blood Dragon's Boots of thief (G65) | 0.0003% |
 
-## 532 (High Class Security guard of the priest)
+## 532 High Class Security guard of the priest
 
 | Item | Chance |
 |------|--------|
@@ -17903,7 +17908,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0003% |
 | Blood Dragon's Boots of thief (G65) | 0.0003% |
 
-## 533 (Earth element master)
+## 533 Earth element master
 
 | Item | Chance |
 |------|--------|
@@ -17947,7 +17952,7 @@
 | Essence of earth element | 57.8125% |
 | element of ground | 65.7% |
 
-## 534 (Fire element master)
+## 534 Fire element master
 
 | Item | Chance |
 |------|--------|
@@ -17997,7 +18002,7 @@
 | Essence of fire element | 57.8125% |
 | element of fire | 65.7% |
 
-## 535 (Water element master)
+## 535 Water element master
 
 | Item | Chance |
 |------|--------|
@@ -18047,7 +18052,7 @@
 | Essence of water element | 57.8125% |
 | element of water | 65.7% |
 
-## 536 (Iron element master)
+## 536 Iron element master
 
 | Item | Chance |
 |------|--------|
@@ -18097,7 +18102,7 @@
 | Essence of iron element | 57.8125% |
 | element of iron | 65.7% |
 
-## 537 (Wood element master)
+## 537 Wood element master
 
 | Item | Chance |
 |------|--------|
@@ -18147,7 +18152,7 @@
 | Essence of wood element | 57.8125% |
 | element of wood | 65.7% |
 
-## 538 (Banshee)
+## 538 Banshee
 
 | Item | Chance |
 |------|--------|
@@ -18183,7 +18188,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 539 (Banshee)
+## 539 Banshee
 
 | Item | Chance |
 |------|--------|
@@ -18219,7 +18224,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 540 (Banshee)
+## 540 Banshee
 
 | Item | Chance |
 |------|--------|
@@ -18255,7 +18260,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 541 (Banshee)
+## 541 Banshee
 
 | Item | Chance |
 |------|--------|
@@ -18291,7 +18296,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 542 (Banshee)
+## 542 Banshee
 
 | Item | Chance |
 |------|--------|
@@ -18327,7 +18332,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 543 (Skeleton)
+## 543 Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -18363,7 +18368,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 544 (Skeleton)
+## 544 Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -18399,7 +18404,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 545 (Skeleton)
+## 545 Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -18435,7 +18440,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 546 (Elite Skeleton)
+## 546 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -18471,7 +18476,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 547 (Elite Skeleton)
+## 547 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -18507,7 +18512,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 548 (Elite Skeleton)
+## 548 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -18543,7 +18548,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 549 (Elite Skeleton)
+## 549 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -18579,7 +18584,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 550 (Elite Skeleton)
+## 550 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -18615,7 +18620,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 551 (Skeleton Warrior)
+## 551 Skeleton Warrior
 
 | Item | Chance |
 |------|--------|
@@ -18653,7 +18658,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 552 (Skeleton Warrior)
+## 552 Skeleton Warrior
 
 | Item | Chance |
 |------|--------|
@@ -18691,7 +18696,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 553 (Skeleton Warrior)
+## 553 Skeleton Warrior
 
 | Item | Chance |
 |------|--------|
@@ -18729,7 +18734,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 554 (Skeleton Warrior)
+## 554 Skeleton Warrior
 
 | Item | Chance |
 |------|--------|
@@ -18767,7 +18772,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 555 (Skeleton Warrior)
+## 555 Skeleton Warrior
 
 | Item | Chance |
 |------|--------|
@@ -18805,7 +18810,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 556 (Skeleton Archer)
+## 556 Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -18843,7 +18848,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 557 (Skeleton Archer)
+## 557 Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -18881,7 +18886,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 558 (Skeleton Archer)
+## 558 Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -18919,7 +18924,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 559 (Skeleton Archer)
+## 559 Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -18957,7 +18962,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 560 (Skeleton Archer)
+## 560 Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -18995,7 +19000,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 561 (Wraith)
+## 561 Wraith
 
 | Item | Chance |
 |------|--------|
@@ -19032,7 +19037,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 562 (Wraith)
+## 562 Wraith
 
 | Item | Chance |
 |------|--------|
@@ -19069,7 +19074,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 563 (Wraith)
+## 563 Wraith
 
 | Item | Chance |
 |------|--------|
@@ -19106,7 +19111,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 564 (Guardian of I'Lyer)
+## 564 Guardian of I'Lyer
 
 | Item | Chance |
 |------|--------|
@@ -19142,7 +19147,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 565 (Guardian of I'Lyer)
+## 565 Guardian of I'Lyer
 
 | Item | Chance |
 |------|--------|
@@ -19178,7 +19183,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 566 (Dunamic)
+## 566 Dunamic
 
 | Item | Chance |
 |------|--------|
@@ -19200,7 +19205,7 @@
 | Stone of Strength | 68.9892% |
 | Stone of Skill | 68.9892% |
 
-## 572 (cheios)
+## 572 cheios
 
 | Item | Chance |
 |------|--------|
@@ -19222,22 +19227,12 @@
 | Stone of Strength | 68.9892% |
 | Stone of Skill | 68.9892% |
 
-## 573 (I'Lyer)
+## 573 I'Lyer
 
 | Item | Chance |
 |------|--------|
 
-## 751 (Summoned Trained Traitor Warrior)
-
-| Item | Chance |
-|------|--------|
-| 100x Zamogeon | 57.3892% |
-| Medium Medicine | 26.8567% |
-| Speed up Medicine | 0.8884% |
-| Hard-boiled Salmon with Bean Paste | 0.2967% |
-| Baked Eel | -146.2891% |
-
-## 752 (Summoned Trained Traitor Archer)
+## 751 Summoned Trained Traitor Warrior
 
 | Item | Chance |
 |------|--------|
@@ -19247,7 +19242,7 @@
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
 | Baked Eel | -146.2891% |
 
-## 712 (Summoned Doggebi of Monster Face)
+## 752 Summoned Trained Traitor Archer
 
 | Item | Chance |
 |------|--------|
@@ -19257,7 +19252,7 @@
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
 | Baked Eel | -146.2891% |
 
-## 713 (Summoned Doggebi with a Mask of Black Crow)
+## 712 Summoned Doggebi of Monster Face
 
 | Item | Chance |
 |------|--------|
@@ -19267,7 +19262,7 @@
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
 | Baked Eel | -146.2891% |
 
-## 714 (Summoned Doggebi with a Mask of Black Panther)
+## 713 Summoned Doggebi with a Mask of Black Crow
 
 | Item | Chance |
 |------|--------|
@@ -19277,7 +19272,17 @@
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
 | Baked Eel | -146.2891% |
 
-## 753 (Summoned Knight of the Traitor's Hangout)
+## 714 Summoned Doggebi with a Mask of Black Panther
+
+| Item | Chance |
+|------|--------|
+| 100x Zamogeon | 57.3892% |
+| Medium Medicine | 26.8567% |
+| Speed up Medicine | 0.8884% |
+| Hard-boiled Salmon with Bean Paste | 0.2967% |
+| Baked Eel | -146.2891% |
+
+## 753 Summoned Knight of the Traitor's Hangout
 
 | Item | Chance |
 |------|--------|
@@ -19289,7 +19294,7 @@
 | Doggebi's Certificate(1) | 0.2326% |
 | Doggebi's Certificate(3) | 0.2326% |
 
-## 754 (Summoned Chief of the Traitor's Hangout, Yoong-Gi)
+## 754 Summoned Chief of the Traitor's Hangout, Yoong-Gi
 
 | Item | Chance |
 |------|--------|
@@ -19301,7 +19306,7 @@
 | Doggebi's Certificate(1) | 0.2326% |
 | Doggebi's Certificate(3) | 0.2326% |
 
-## 717 (Summoned The Royal Tomb Keeper)
+## 717 Summoned The Royal Tomb Keeper
 
 | Item | Chance |
 |------|--------|
@@ -19313,7 +19318,7 @@
 | Doggebi's Certificate(1) | 0.2326% |
 | Doggebi's Certificate(3) | 0.2326% |
 
-## 718 (Summoned Noktoo Soldier)
+## 718 Summoned Noktoo Soldier
 
 | Item | Chance |
 |------|--------|
@@ -19325,7 +19330,7 @@
 | Doggebi's Certificate(1) | 0.2326% |
 | Doggebi's Certificate(3) | 0.2326% |
 
-## 719 (Summoned Chief of Angry Doggebi Troop)
+## 719 Summoned Chief of Angry Doggebi Troop
 
 | Item | Chance |
 |------|--------|
@@ -19337,7 +19342,7 @@
 | Doggebi's Certificate(1) | 0.2326% |
 | Doggebi's Certificate(3) | 0.2326% |
 
-## 755 (Summoned Twisted Demon Warrior)
+## 755 Summoned Twisted Demon Warrior
 
 | Item | Chance |
 |------|--------|
@@ -19363,7 +19368,7 @@
 | Stone of Strength | 0.0003% |
 | Stone of Skill | 0.0003% |
 
-## 756 (Summoned Twisted Demon Soldier)
+## 756 Summoned Twisted Demon Soldier
 
 | Item | Chance |
 |------|--------|
@@ -19389,7 +19394,7 @@
 | Stone of Strength | 0.0003% |
 | Stone of Skill | 0.0003% |
 
-## 722 (Summoned Gigantic Species Murderer)
+## 722 Summoned Gigantic Species Murderer
 
 | Item | Chance |
 |------|--------|
@@ -19415,7 +19420,7 @@
 | Stone of Strength | 0.0003% |
 | Stone of Skill | 0.0003% |
 
-## 723 (Summoned Monster of Demon Crack Troop)
+## 723 Summoned Monster of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -19441,7 +19446,7 @@
 | Stone of Strength | 0.0003% |
 | Stone of Skill | 0.0003% |
 
-## 724 (Summoned White Beast of Demon Crack Troop)
+## 724 Summoned White Beast of Demon Crack Troop
 
 | Item | Chance |
 |------|--------|
@@ -19467,7 +19472,7 @@
 | Stone of Strength | 0.0003% |
 | Stone of Skill | 0.0003% |
 
-## 757 (Summoned Skeleton 81)
+## 757 Summoned Skeleton 81
 
 | Item | Chance |
 |------|--------|
@@ -19496,7 +19501,7 @@
 | Polishing Stone | 0.0096% |
 | High-Grade Scroll of Rebirth | 0.0006% |
 
-## 758 (Summoned Skeleton 82)
+## 758 Summoned Skeleton 82
 
 | Item | Chance |
 |------|--------|
@@ -19525,7 +19530,7 @@
 | Polishing Stone | 0.0096% |
 | High-Grade Scroll of Rebirth | 0.0006% |
 
-## 727 (Summoned Crazy Demon Warrior)
+## 727 Summoned Crazy Demon Warrior
 
 | Item | Chance |
 |------|--------|
@@ -19554,7 +19559,7 @@
 | Polishing Stone | 0.0096% |
 | High-Grade Scroll of Rebirth | 0.0006% |
 
-## 728 (Summoned Twisted Demon Soldier)
+## 728 Summoned Twisted Demon Soldier
 
 | Item | Chance |
 |------|--------|
@@ -19583,7 +19588,7 @@
 | Polishing Stone | 0.0096% |
 | High-Grade Scroll of Rebirth | 0.0006% |
 
-## 729 (Summoned Bogy Archer)
+## 729 Summoned Bogy Archer
 
 | Item | Chance |
 |------|--------|
@@ -19612,7 +19617,7 @@
 | Polishing Stone | 0.0096% |
 | High-Grade Scroll of Rebirth | 0.0006% |
 
-## 735 (Summoned Minor earth element)
+## 735 Summoned Minor earth element
 
 | Item | Chance |
 |------|--------|
@@ -19642,7 +19647,7 @@
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 
-## 736 (Summoned Minor fire element)
+## 736 Summoned Minor fire element
 
 | Item | Chance |
 |------|--------|
@@ -19672,7 +19677,7 @@
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 
-## 737 (Summoned Minor water element)
+## 737 Summoned Minor water element
 
 | Item | Chance |
 |------|--------|
@@ -19702,7 +19707,7 @@
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 
-## 738 (Summoned Minor iron element)
+## 738 Summoned Minor iron element
 
 | Item | Chance |
 |------|--------|
@@ -19732,7 +19737,7 @@
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 
-## 739 (Summoned Minor wood element)
+## 739 Summoned Minor wood element
 
 | Item | Chance |
 |------|--------|
@@ -19762,38 +19767,7 @@
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 
-## 759 (Summoned Hermit of Red Face)
-
-| Item | Chance |
-|------|--------|
-| 500x Zamogeon | 26.7495% |
-| Doggebi's Certificate(10) | 0.003% |
-| Talisman of Protection (Despotic/Forced) | 0.0015% |
-| Talisman of Protection (Revenge's/Agile) | 0.0015% |
-| Talisman of Protection (Prideful/Healthy) | 0.0015% |
-| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
-| Talisman of Protection (Glorious/Fixed) | 0.0015% |
-| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
-| Talisman of Intensification (Legendary/Rash) | 0.0015% |
-| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
-| Talisman of Accuracy | 0.0015% |
-| Talisman of Defense | 0.0006% |
-| Stone of Shadow | 0.0009% |
-| Stone of Holy | 0.0009% |
-| Stone of Flame | 0.0009% |
-| Stone of Ice | 0.0009% |
-| Stone of Lightening | 0.0009% |
-| Stone of Poison | 0.0009% |
-| Stone of Paralysis | 0.0009% |
-| Stone of Strength | 0.0009% |
-| Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
-| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
-| 1000x Zamogeon | 83.3307% |
-
-## 760 (Summoned Hermit of Mask)
+## 759 Summoned Hermit of Red Face
 
 | Item | Chance |
 |------|--------|
@@ -19824,7 +19798,7 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 761 (Summoned 3rd Commander of The Royal Tomb)
+## 760 Summoned Hermit of Mask
 
 | Item | Chance |
 |------|--------|
@@ -19855,7 +19829,7 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 762 (Summoned 2nd Commander of The Royal Tomb)
+## 761 Summoned 3rd Commander of The Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -19886,7 +19860,7 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 734 (Summoned Twisted Demon Defender)
+## 762 Summoned 2nd Commander of The Royal Tomb
 
 | Item | Chance |
 |------|--------|
@@ -19917,7 +19891,7 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 740 (Summoned Earth element)
+## 734 Summoned Twisted Demon Defender
 
 | Item | Chance |
 |------|--------|
@@ -19948,7 +19922,7 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 741 (Summoned Fire element)
+## 740 Summoned Earth element
 
 | Item | Chance |
 |------|--------|
@@ -19979,7 +19953,7 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 742 (Summoned Water element)
+## 741 Summoned Fire element
 
 | Item | Chance |
 |------|--------|
@@ -20010,7 +19984,7 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 743 (Summoned Iron element)
+## 742 Summoned Water element
 
 | Item | Chance |
 |------|--------|
@@ -20041,7 +20015,7 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 744 (Summoned Wood element)
+## 743 Summoned Iron element
 
 | Item | Chance |
 |------|--------|
@@ -20072,122 +20046,153 @@
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
 | 1000x Zamogeon | 83.3307% |
 
-## 647 (Seal of Hell)
+## 744 Summoned Wood element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | -0.0027% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| 1000x Zamogeon | 83.3307% |
+
+## 647 Seal of Hell
 
 | Item | Chance |
 |------|--------|
 
-## 648 (Seal of Hell)
+## 648 Seal of Hell
 
 | Item | Chance |
 |------|--------|
 
-## 649 (Seal of Hell)
+## 649 Seal of Hell
 
 | Item | Chance |
 |------|--------|
 
-## 650 (Ball of Soul)
+## 650 Ball of Soul
 
 | Item | Chance |
 |------|--------|
 
-## 651 (Ball of Soul)
+## 651 Ball of Soul
 
 | Item | Chance |
 |------|--------|
 
-## 652 (Ball of Soul)
+## 652 Ball of Soul
 
 | Item | Chance |
 |------|--------|
 
-## 653 (Portal Stone)
+## 653 Portal Stone
 
 | Item | Chance |
 |------|--------|
 
-## 654 (Rusty Blade)
+## 654 Rusty Blade
 
 | Item | Chance |
 |------|--------|
 
-## 655 (Death Thorn)
+## 655 Death Thorn
 
 | Item | Chance |
 |------|--------|
 
-## 656 (Ugly Soul)
+## 656 Ugly Soul
 
 | Item | Chance |
 |------|--------|
 
-## 657 (Steel Arrow trap)
+## 657 Steel Arrow trap
 
 | Item | Chance |
 |------|--------|
 
-## 658 (Frame Statue)
+## 658 Frame Statue
 
 | Item | Chance |
 |------|--------|
 
-## 659 (Frame Statue)
+## 659 Frame Statue
 
 | Item | Chance |
 |------|--------|
 
-## 660 (Frame Statue)
+## 660 Frame Statue
 
 | Item | Chance |
 |------|--------|
 
-## 661 (Frame Statue)
+## 661 Frame Statue
 
 | Item | Chance |
 |------|--------|
 
-## 662 (Flame Fountain)
+## 662 Flame Fountain
 
 | Item | Chance |
 |------|--------|
 
-## 663 (Corpse Fountain)
+## 663 Corpse Fountain
 
 | Item | Chance |
 |------|--------|
 
-## 664 (Frost Fountain)
+## 664 Frost Fountain
 
 | Item | Chance |
 |------|--------|
 
-## 665 (Movement Plate)
+## 665 Movement Plate
 
 | Item | Chance |
 |------|--------|
 
-## 666 (Summon Stone)
+## 666 Summon Stone
 
 | Item | Chance |
 |------|--------|
 
-## 667 (Hell Gate Keeper)
+## 667 Hell Gate Keeper
 
 | Item | Chance |
 |------|--------|
 
-## 668 (Hell Gate Keeper)
+## 668 Hell Gate Keeper
 
 | Item | Chance |
 |------|--------|
 
-## 669 (Hell Gate Keeper)
+## 669 Hell Gate Keeper
 
 | Item | Chance |
 |------|--------|
 
-## 585 (Crazy Demon Worker)
+## 585 Crazy Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -20215,7 +20220,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 586 (Crazy Demon Worker)
+## 586 Crazy Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -20243,7 +20248,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 587 (Crazy Demon Worker)
+## 587 Crazy Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -20271,7 +20276,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 588 (Crazy Demon Worker)
+## 588 Crazy Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -20299,7 +20304,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 589 (Crazy Demon Worker)
+## 589 Crazy Demon Worker
 
 | Item | Chance |
 |------|--------|
@@ -20327,7 +20332,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 637 (Elite Skeleton)
+## 637 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -20354,7 +20359,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 638 (Elite Skeleton)
+## 638 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -20381,7 +20386,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 639 (Elite Skeleton)
+## 639 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -20408,7 +20413,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 640 (Elite Skeleton)
+## 640 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -20435,7 +20440,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 641 (Elite Skeleton)
+## 641 Elite Skeleton
 
 | Item | Chance |
 |------|--------|
@@ -20462,7 +20467,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 642 (Elite Skeleton Archer)
+## 642 Elite Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -20489,7 +20494,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 643 (Elite Skeleton Archer)
+## 643 Elite Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -20516,7 +20521,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 644 (Elite Skeleton Archer)
+## 644 Elite Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -20543,7 +20548,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 645 (Elite Skeleton Archer)
+## 645 Elite Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -20570,7 +20575,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 646 (Elite Skeleton Archer)
+## 646 Elite Skeleton Archer
 
 | Item | Chance |
 |------|--------|
@@ -20597,7 +20602,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 590 (Degenarated Twisted Demon)
+## 590 Degenarated Twisted Demon
 
 | Item | Chance |
 |------|--------|
@@ -20624,7 +20629,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 591 (Degenarated Twisted Demon)
+## 591 Degenarated Twisted Demon
 
 | Item | Chance |
 |------|--------|
@@ -20651,7 +20656,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 592 (Degenarated Twisted Demon)
+## 592 Degenarated Twisted Demon
 
 | Item | Chance |
 |------|--------|
@@ -20678,7 +20683,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 593 (Degenarated Twisted Demon)
+## 593 Degenarated Twisted Demon
 
 | Item | Chance |
 |------|--------|
@@ -20705,7 +20710,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 594 (Degenarated Twisted Demon)
+## 594 Degenarated Twisted Demon
 
 | Item | Chance |
 |------|--------|
@@ -20732,7 +20737,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 622 (Guard of D'evah)
+## 622 Guard of D'evah
 
 | Item | Chance |
 |------|--------|
@@ -20759,7 +20764,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 623 (Guard of D'evah)
+## 623 Guard of D'evah
 
 | Item | Chance |
 |------|--------|
@@ -20786,7 +20791,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 598 (Wolf)
+## 598 Wolf
 
 | Item | Chance |
 |------|--------|
@@ -20813,7 +20818,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 599 (Wolf)
+## 599 Wolf
 
 | Item | Chance |
 |------|--------|
@@ -20840,7 +20845,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 600 (Wolf)
+## 600 Wolf
 
 | Item | Chance |
 |------|--------|
@@ -20867,7 +20872,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 595 (Wild Boar)
+## 595 Wild Boar
 
 | Item | Chance |
 |------|--------|
@@ -20895,7 +20900,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 596 (Wild Boar)
+## 596 Wild Boar
 
 | Item | Chance |
 |------|--------|
@@ -20923,7 +20928,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 597 (Wild Boar)
+## 597 Wild Boar
 
 | Item | Chance |
 |------|--------|
@@ -20951,7 +20956,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 604 (Scorpion)
+## 604 Scorpion
 
 | Item | Chance |
 |------|--------|
@@ -20978,7 +20983,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 605 (Scorpion)
+## 605 Scorpion
 
 | Item | Chance |
 |------|--------|
@@ -21005,7 +21010,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 606 (Scorpion)
+## 606 Scorpion
 
 | Item | Chance |
 |------|--------|
@@ -21032,7 +21037,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 601 (Brown Bear)
+## 601 Brown Bear
 
 | Item | Chance |
 |------|--------|
@@ -21059,7 +21064,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 602 (Brown Bear)
+## 602 Brown Bear
 
 | Item | Chance |
 |------|--------|
@@ -21086,7 +21091,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 603 (Brown Bear)
+## 603 Brown Bear
 
 | Item | Chance |
 |------|--------|
@@ -21113,35 +21118,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 607 (Knoll)
-
-| Item | Chance |
-|------|--------|
-| 340x Zamogeon | 99.9518% |
-| Stone of Shadow | 0.018% |
-| Stone of Holy | 0.018% |
-| Stone of Flame | 0.018% |
-| Stone of Ice | 0.018% |
-| Stone of Lightening | 0.018% |
-| Stone of Poison | 0.018% |
-| Stone of Paralysis | 0.018% |
-| Stone of Strength | 0.018% |
-| Stone of Skill | 0.018% |
-| Piece of Map1 | 0.3596% |
-| Piece of Map2 | 0.3596% |
-| Piece of Map3 | 0.3596% |
-| Piece of Map4 | 0.3596% |
-| Piece of Map5 | 0.3596% |
-| Piece of Map6 | 0.3596% |
-| Piece of Map7 | 0.3596% |
-| Piece of Map8 | 0.3596% |
-| Piece of Map9 | 0.3596% |
-| Piece of Map10 | 0.3596% |
-| Knoll of certificate | 13.9915% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
-| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-
-## 608 (Knoll)
+## 607 Knoll
 
 | Item | Chance |
 |------|--------|
@@ -21169,7 +21146,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 609 (Knoll)
+## 608 Knoll
 
 | Item | Chance |
 |------|--------|
@@ -21197,7 +21174,35 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 610 (Goblin)
+## 609 Knoll
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.018% |
+| Stone of Holy | 0.018% |
+| Stone of Flame | 0.018% |
+| Stone of Ice | 0.018% |
+| Stone of Lightening | 0.018% |
+| Stone of Poison | 0.018% |
+| Stone of Paralysis | 0.018% |
+| Stone of Strength | 0.018% |
+| Stone of Skill | 0.018% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Knoll of certificate | 13.9915% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 610 Goblin
 
 | Item | Chance |
 |------|--------|
@@ -21224,7 +21229,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 611 (Goblin)
+## 611 Goblin
 
 | Item | Chance |
 |------|--------|
@@ -21251,7 +21256,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 612 (Goblin)
+## 612 Goblin
 
 | Item | Chance |
 |------|--------|
@@ -21278,63 +21283,7 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 613 (Goblin Conjurator)
-
-| Item | Chance |
-|------|--------|
-| 340x Zamogeon | 99.9518% |
-| Stone of Shadow | 0.018% |
-| Stone of Holy | 0.018% |
-| Stone of Flame | 0.018% |
-| Stone of Ice | 0.018% |
-| Stone of Lightening | 0.018% |
-| Stone of Poison | 0.018% |
-| Stone of Paralysis | 0.018% |
-| Stone of Strength | 0.018% |
-| Stone of Skill | 0.018% |
-| Piece of Map1 | 0.3596% |
-| Piece of Map2 | 0.3596% |
-| Piece of Map3 | 0.3596% |
-| Piece of Map4 | 0.3596% |
-| Piece of Map5 | 0.3596% |
-| Piece of Map6 | 0.3596% |
-| Piece of Map7 | 0.3596% |
-| Piece of Map8 | 0.3596% |
-| Piece of Map9 | 0.3596% |
-| Piece of Map10 | 0.3596% |
-| Goblin Conjurator Head | 5.8808% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
-| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-
-## 614 (Goblin Conjurator)
-
-| Item | Chance |
-|------|--------|
-| 340x Zamogeon | 99.9518% |
-| Stone of Shadow | 0.018% |
-| Stone of Holy | 0.018% |
-| Stone of Flame | 0.018% |
-| Stone of Ice | 0.018% |
-| Stone of Lightening | 0.018% |
-| Stone of Poison | 0.018% |
-| Stone of Paralysis | 0.018% |
-| Stone of Strength | 0.018% |
-| Stone of Skill | 0.018% |
-| Piece of Map1 | 0.3596% |
-| Piece of Map2 | 0.3596% |
-| Piece of Map3 | 0.3596% |
-| Piece of Map4 | 0.3596% |
-| Piece of Map5 | 0.3596% |
-| Piece of Map6 | 0.3596% |
-| Piece of Map7 | 0.3596% |
-| Piece of Map8 | 0.3596% |
-| Piece of Map9 | 0.3596% |
-| Piece of Map10 | 0.3596% |
-| Goblin Conjurator Head | 5.8808% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
-| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-
-## 615 (Goblin Conjurator)
+## 613 Goblin Conjurator
 
 | Item | Chance |
 |------|--------|
@@ -21362,12 +21311,68 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 
-## 899 (Demon Nest)
+## 614 Goblin Conjurator
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.018% |
+| Stone of Holy | 0.018% |
+| Stone of Flame | 0.018% |
+| Stone of Ice | 0.018% |
+| Stone of Lightening | 0.018% |
+| Stone of Poison | 0.018% |
+| Stone of Paralysis | 0.018% |
+| Stone of Strength | 0.018% |
+| Stone of Skill | 0.018% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Goblin Conjurator Head | 5.8808% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 615 Goblin Conjurator
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.018% |
+| Stone of Holy | 0.018% |
+| Stone of Flame | 0.018% |
+| Stone of Ice | 0.018% |
+| Stone of Lightening | 0.018% |
+| Stone of Poison | 0.018% |
+| Stone of Paralysis | 0.018% |
+| Stone of Strength | 0.018% |
+| Stone of Skill | 0.018% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Goblin Conjurator Head | 5.8808% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 899 Demon Nest
 
 | Item | Chance |
 |------|--------|
 
-## 900 (Demon Queen)
+## 900 Demon Queen
 
 | Item | Chance |
 |------|--------|
@@ -21377,7 +21382,7 @@
 | Blood Dragon's Stick (G70) | 57.8125% |
 | 1000x Zamogeon | 83.3307% |
 
-## 824 (Noktoo General)
+## 824 Noktoo General
 
 | Item | Chance |
 |------|--------|
@@ -21397,7 +21402,7 @@
 | Dragon's Insight Stick of Sky (G65) | 0.4372% |
 | Dragon's Fury Stick of Sky (G65) | 0.4372% |
 
-## 825 (Tobyong Giant)
+## 825 Tobyong Giant
 
 | Item | Chance |
 |------|--------|
@@ -21417,7 +21422,7 @@
 | Dragon's Insight Stick of Sky (G65) | 0.4372% |
 | Dragon's Fury Stick of Sky (G65) | 0.4372% |
 
-## 826 (Bogy General)
+## 826 Bogy General
 
 | Item | Chance |
 |------|--------|
@@ -21437,7 +21442,7 @@
 | Dragon's Insight Stick of Sky (G65) | 0.4372% |
 | Dragon's Fury Stick of Sky (G65) | 0.4372% |
 
-## 434 (Minor earth element)
+## 434 Minor earth element
 
 | Item | Chance |
 |------|--------|
@@ -21454,7 +21459,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 435 (Earth element)
+## 435 Earth element
 
 | Item | Chance |
 |------|--------|
@@ -21487,7 +21492,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 436 (Minor fire element)
+## 436 Minor fire element
 
 | Item | Chance |
 |------|--------|
@@ -21504,7 +21509,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 437 (Fire element)
+## 437 Fire element
 
 | Item | Chance |
 |------|--------|
@@ -21537,7 +21542,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 438 (Minor water element)
+## 438 Minor water element
 
 | Item | Chance |
 |------|--------|
@@ -21554,7 +21559,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 439 (Water element)
+## 439 Water element
 
 | Item | Chance |
 |------|--------|
@@ -21587,7 +21592,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 440 (Minor iron element)
+## 440 Minor iron element
 
 | Item | Chance |
 |------|--------|
@@ -21604,7 +21609,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 441 (Iron element)
+## 441 Iron element
 
 | Item | Chance |
 |------|--------|
@@ -21637,7 +21642,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 442 (Minor wood element)
+## 442 Minor wood element
 
 | Item | Chance |
 |------|--------|
@@ -21654,7 +21659,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 443 (Wood element)
+## 443 Wood element
 
 | Item | Chance |
 |------|--------|
@@ -21687,7 +21692,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 444 (Security guard of the priest)
+## 444 Security guard of the priest
 
 | Item | Chance |
 |------|--------|
@@ -21713,7 +21718,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0003% |
 | Blood Dragon's Boots of thief (G65) | 0.0003% |
 
-## 461 (Minor earth element)
+## 461 Minor earth element
 
 | Item | Chance |
 |------|--------|
@@ -21730,7 +21735,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 462 (Minor earth element)
+## 462 Minor earth element
 
 | Item | Chance |
 |------|--------|
@@ -21747,7 +21752,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 463 (Minor earth element)
+## 463 Minor earth element
 
 | Item | Chance |
 |------|--------|
@@ -21764,7 +21769,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 464 (Minor earth element)
+## 464 Minor earth element
 
 | Item | Chance |
 |------|--------|
@@ -21781,7 +21786,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 465 (Minor fire element)
+## 465 Minor fire element
 
 | Item | Chance |
 |------|--------|
@@ -21798,7 +21803,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 466 (Minor fire element)
+## 466 Minor fire element
 
 | Item | Chance |
 |------|--------|
@@ -21815,7 +21820,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 467 (Minor fire element)
+## 467 Minor fire element
 
 | Item | Chance |
 |------|--------|
@@ -21832,7 +21837,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 468 (Minor fire element)
+## 468 Minor fire element
 
 | Item | Chance |
 |------|--------|
@@ -21849,7 +21854,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 469 (Minor water element)
+## 469 Minor water element
 
 | Item | Chance |
 |------|--------|
@@ -21866,7 +21871,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 470 (Minor water element)
+## 470 Minor water element
 
 | Item | Chance |
 |------|--------|
@@ -21883,7 +21888,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 471 (Minor water element)
+## 471 Minor water element
 
 | Item | Chance |
 |------|--------|
@@ -21900,7 +21905,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 472 (Minor water element)
+## 472 Minor water element
 
 | Item | Chance |
 |------|--------|
@@ -21917,7 +21922,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 473 (Minor iron element)
+## 473 Minor iron element
 
 | Item | Chance |
 |------|--------|
@@ -21934,7 +21939,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 474 (Minor iron element)
+## 474 Minor iron element
 
 | Item | Chance |
 |------|--------|
@@ -21951,7 +21956,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 475 (Minor iron element)
+## 475 Minor iron element
 
 | Item | Chance |
 |------|--------|
@@ -21968,7 +21973,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 476 (Minor iron element)
+## 476 Minor iron element
 
 | Item | Chance |
 |------|--------|
@@ -21985,7 +21990,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 477 (Minor wood element)
+## 477 Minor wood element
 
 | Item | Chance |
 |------|--------|
@@ -22002,7 +22007,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 478 (Minor wood element)
+## 478 Minor wood element
 
 | Item | Chance |
 |------|--------|
@@ -22019,7 +22024,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 479 (Minor wood element)
+## 479 Minor wood element
 
 | Item | Chance |
 |------|--------|
@@ -22036,7 +22041,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 480 (Minor wood element)
+## 480 Minor wood element
 
 | Item | Chance |
 |------|--------|
@@ -22053,40 +22058,7 @@
 | Talisman of Accuracy | 0.006% |
 | Talisman of Defense | 0.006% |
 
-## 481 (Earth element)
-
-| Item | Chance |
-|------|--------|
-| 148x Zamogeon | 99.9832% |
-| Imperfect element of ground | 5.852% |
-| Scaled Armor of Doggebi (G55) | 0.0006% |
-| Armor of Doggebi (G55) | 0.0006% |
-| DaeChangEau of Doggebi (G55) | 0.0006% |
-| Scaled Shorts of Doggebi (G55) | 0.0006% |
-| Shorts of Doggebi (G55) | 0.0006% |
-| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
-| Doggebi suit of thief (G55) | 0.0006% |
-| Doggebi suit Shorts of thief (G55) | 0.0006% |
-| element of ground | 0.048% |
-| Talisman of Protection (Despotic/Forced) | 0.006% |
-| Talisman of Protection (Revenge's/Agile) | 0.006% |
-| Talisman of Protection (Prideful/Healthy) | 0.006% |
-| Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| Talisman of Protection (Glorious/Fixed) | 0.006% |
-| Talisman of Intensification (Legendary/Rash) | 0.006% |
-| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
-| Talisman of Accuracy | 0.006% |
-| Talisman of Defense | 0.006% |
-| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
-| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
-| Blood Dragon's Armor Gloves (G65) | 0.0006% |
-| Blood Dragon's Armor Shoes (G65) | 0.0006% |
-| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
-| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
-| Blood Dragon's Gloves of thief (G65) | 0.0006% |
-| Blood Dragon's Boots of thief (G65) | 0.0006% |
-
-## 482 (Earth element)
+## 481 Earth element
 
 | Item | Chance |
 |------|--------|
@@ -22119,7 +22091,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 483 (Earth element)
+## 482 Earth element
 
 | Item | Chance |
 |------|--------|
@@ -22152,7 +22124,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 484 (Earth element)
+## 483 Earth element
 
 | Item | Chance |
 |------|--------|
@@ -22185,7 +22157,40 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 485 (Fire element)
+## 484 Earth element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 485 Fire element
 
 | Item | Chance |
 |------|--------|
@@ -22218,7 +22223,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 486 (Fire element)
+## 486 Fire element
 
 | Item | Chance |
 |------|--------|
@@ -22251,7 +22256,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 487 (Fire element)
+## 487 Fire element
 
 | Item | Chance |
 |------|--------|
@@ -22284,7 +22289,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 488 (Fire element)
+## 488 Fire element
 
 | Item | Chance |
 |------|--------|
@@ -22317,7 +22322,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 489 (Water element)
+## 489 Water element
 
 | Item | Chance |
 |------|--------|
@@ -22350,7 +22355,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 490 (Water element)
+## 490 Water element
 
 | Item | Chance |
 |------|--------|
@@ -22383,7 +22388,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 491 (Water element)
+## 491 Water element
 
 | Item | Chance |
 |------|--------|
@@ -22416,7 +22421,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 492 (Water element)
+## 492 Water element
 
 | Item | Chance |
 |------|--------|
@@ -22449,7 +22454,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 493 (Iron element)
+## 493 Iron element
 
 | Item | Chance |
 |------|--------|
@@ -22482,7 +22487,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 494 (Iron element)
+## 494 Iron element
 
 | Item | Chance |
 |------|--------|
@@ -22515,7 +22520,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 495 (Iron element)
+## 495 Iron element
 
 | Item | Chance |
 |------|--------|
@@ -22548,7 +22553,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 496 (Iron element)
+## 496 Iron element
 
 | Item | Chance |
 |------|--------|
@@ -22581,7 +22586,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 497 (Wood element)
+## 497 Wood element
 
 | Item | Chance |
 |------|--------|
@@ -22614,7 +22619,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 498 (Wood element)
+## 498 Wood element
 
 | Item | Chance |
 |------|--------|
@@ -22647,7 +22652,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 499 (Wood element)
+## 499 Wood element
 
 | Item | Chance |
 |------|--------|
@@ -22680,7 +22685,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 500 (Wood element)
+## 500 Wood element
 
 | Item | Chance |
 |------|--------|
@@ -22713,7 +22718,7 @@
 | Blood Dragon's Gloves of thief (G65) | 0.0006% |
 | Blood Dragon's Boots of thief (G65) | 0.0006% |
 
-## 670 (Deadly sand[Mautareta])
+## 670 Deadly sand[Mautareta]
 
 | Item | Chance |
 |------|--------|
@@ -22733,7 +22738,7 @@
 | Dragon's Insight Stick of Sky (G65) | 0.4372% |
 | Dragon's Fury Stick of Sky (G65) | 0.4372% |
 
-## 671 (Solid sand fragment)
+## 671 Solid sand fragment
 
 | Item | Chance |
 |------|--------|
