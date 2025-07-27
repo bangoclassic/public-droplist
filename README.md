@@ -15380,11 +15380,11 @@
 | DaeChangEau Gloves of Darkness (G60) | 39.7605% |
 | DaeChangEau Shoes of Darkness (G60) | 39.7605% |
 | DaeChangEau Shorts of Darkness (G60) | 39.7605% |
-| undefined (G62) | 62.245% |
-| undefined (G62) | 76.4158% |
-| undefined (G62) | 76.4158% |
-| undefined (G62) | 76.4158% |
-| undefined (G62) | 76.4158% |
+| Sword of Darkness (G62) | 62.245% |
+| Giant Sword of Darkness (G62) | 76.4158% |
+| Bow of Darkness (G62) | 76.4158% |
+| Stick of Darkness (G62) | 76.4158% |
+| Dagger of Darkness (G62) | 76.4158% |
 | 150000x Zamogeon | 37.1% |
 
 ## 319 White Tiger Cannon
