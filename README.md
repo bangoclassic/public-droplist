@@ -15386,11 +15386,11 @@
 | Darkness Boots of thief (G60) | 39.7605% |
 | Darkness suit Shorts of thief (G60) | 39.7605% |
 | 150000x Zamogeon | 37.1% |
-| Sword of Darkness (G62) | 37.1% |
-| Giant Sword of Darkness (G62) | 60.5655% |
-| Bow of Darkness (G62) | 60.5655% |
-| Stick of Darkness (G62) | 60.5655% |
-| Dagger of Darkness (G62) | 60.5655% |
+| Sword of Darkness (G62) | 56.6942% |
+| Giant Sword of Darkness (G62) | 56.6942% |
+| Bow of Darkness (G62) | 56.6942% |
+| Stick of Darkness (G62) | 56.6942% |
+| Dagger of Darkness (G62) | 56.6942% |
 
 ## 319 White Tiger Cannon
 
