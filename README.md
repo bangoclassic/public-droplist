@@ -15365,37 +15365,27 @@
 | Item | Chance |
 |------|--------|
 | 100000x Zamogeon | 100.0% |
-| Diamond Scaled Armor (G50) | 45.9436% |
-| Diamond Scaled Helmet (G50) | 45.9436% |
-| Diamond Scaled Gloves (G50) | 45.9436% |
-| Diamond Scaled Shoes (G50) | 45.9436% |
-| Diamond Scaled Shorts (G50) | 45.9436% |
-| Diamond Armor (G50) | 45.9436% |
-| Diamond Helmet (G50) | 45.9436% |
-| Diamond Gloves (G50) | 45.9436% |
-| Diamond Shoes (G50) | 45.9436% |
-| Diamond Shorts (G50) | 45.9436% |
-| White DaeChangEau (G50) | 45.9436% |
-| White DaeChangEau Hair Decoration (G50) | 45.9436% |
-| White DaeChangEau Gloves (G50) | 45.9436% |
-| White DaeChangEau Shoes (G50) | 45.9436% |
-| White DaeChangEau Shorts (G50) | 45.9436% |
-| 150000x Zamogeon | 34.3923% |
-| Scaled Armor of Doggebi (G55) | 22.3168% |
-| Scaled Helmet of Doggebi (G55) | 22.3168% |
-| Scaled Gloves of Doggebi (G55) | 22.3168% |
-| Scaled Shoes of Doggebi (G55) | 22.3168% |
-| Scaled Shorts of Doggebi (G55) | 22.3168% |
-| Armor of Doggebi (G55) | 22.3168% |
-| Helmet of Doggebi (G55) | 22.3168% |
-| Gloves of Doggebi (G55) | 22.3168% |
-| Shoes of Doggebi (G55) | 22.3168% |
-| Shorts of Doggebi (G55) | 22.3168% |
-| DaeChangEau of Doggebi (G55) | 22.3168% |
-| Hair Decoration of Doggebi (G55) | 22.3168% |
-| DaeChangEau Gloves of Doggebi (G55) | 22.3168% |
-| DaeChangEau Shoes of Doggebi (G55) | 22.3168% |
-| DaeChangEau Shorts of Doggebi (G55) | 22.3168% |
+| Scaled Armor of Darkness (G60) | 39.7605% |
+| Scaled Helmet of Darkness (G60) | 39.7605% |
+| Scaled Gloves of Darkness (G60) | 39.7605% |
+| Scaled Shoes of Darkness (G60) | 39.7605% |
+| Scaled Shorts of Darkness (G60) | 39.7605% |
+| Armor of Darkness (G60) | 39.7605% |
+| Helmet of Darkness (G60) | 39.7605% |
+| Gloves of Darkness (G60) | 39.7605% |
+| Shoes of Darkness (G60) | 39.7605% |
+| Shorts of Darkness (G60) | 39.7605% |
+| DaeChangEau of Darkness (G60) | 39.7605% |
+| Hair Decoration of Darkness (G60) | 39.7605% |
+| DaeChangEau Gloves of Darkness (G60) | 39.7605% |
+| DaeChangEau Shoes of Darkness (G60) | 39.7605% |
+| DaeChangEau Shorts of Darkness (G60) | 39.7605% |
+| undefined (G62) | 62.245% |
+| undefined (G62) | 76.4158% |
+| undefined (G62) | 76.4158% |
+| undefined (G62) | 76.4158% |
+| undefined (G62) | 76.4158% |
+| 150000x Zamogeon | 37.1% |
 
 ## 319 White Tiger Cannon
 
