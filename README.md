@@ -16047,7 +16047,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150000x Zamogeon | 96.0983% |
+| 150000x Zamogeon | 95.5526% |
 | Doggebi Scaled Armor (G55) | 19.4474% |
 | Doggebi Scaled Armor Helmet (G55) | 19.4474% |
 | Doggebi Scaled Armor Gloves (G55) | 19.4474% |
@@ -16093,20 +16093,20 @@
 | Ancient dagger (G56) | 63.0456% |
 | General's dagger (G56) | 63.0456% |
 | Ancient Dynasty's dagger (G56) | 63.0456% |
-| Treasure Sword of Doggebi (G59) | 46.9549% |
-| Treasure Sword of High Class Doggebi (G59) | 46.9549% |
-| Treasure Sword of Doggebi Lord (G59) | 46.9549% |
-| Giant Sword of Doggebi (G59) | 46.9549% |
-| Giant Sword of High Class Doggebi (G59) | 46.9549% |
-| Giant Sword of Doggebi Lord (G59) | 46.9549% |
-| Bow of Doggebi (G59) | 46.9549% |
-| Bow of High Class Doggebi (G59) | 46.9549% |
-| Bow of Doggebi Lord (G59) | 46.9549% |
-| Stick of Doggebi (G59) | 46.9549% |
-| Stick of High Class Doggebi (G59) | 46.9549% |
-| Stick of Doggebi Lord (G59) | 46.9549% |
-| dagger of Doggebi (G59) | 34.439% |
-| dagger of High Class Doggebi (G59) | 34.439% |
+| Treasure Sword of Doggebi (G59) | 45.818% |
+| Treasure Sword of High Class Doggebi (G59) | 45.818% |
+| Treasure Sword of Doggebi Lord (G59) | 45.818% |
+| Giant Sword of Doggebi (G59) | 45.818% |
+| Giant Sword of High Class Doggebi (G59) | 45.818% |
+| Giant Sword of Doggebi Lord (G59) | 45.818% |
+| Bow of Doggebi (G59) | 45.818% |
+| Bow of High Class Doggebi (G59) | 45.818% |
+| Bow of Doggebi Lord (G59) | 45.818% |
+| Stick of Doggebi (G59) | 45.818% |
+| Stick of High Class Doggebi (G59) | 45.818% |
+| Stick of Doggebi Lord (G59) | 45.818% |
+| dagger of Doggebi (G59) | 45.818% |
+| dagger of High Class Doggebi (G59) | 45.818% |
 | Golden Sword (G62) | 72.8942% |
 | Golden Giant sword (G62) | 72.8942% |
 | Golden Bow (G62) | 72.8942% |
@@ -22737,4 +22737,3 @@
 
 | Item | Chance |
 |------|--------|
-
