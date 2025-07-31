@@ -19649,9 +19649,6 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 
 ## 736 Summoned Minor fire element
 
@@ -19693,9 +19690,6 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 
 ## 737 Summoned Minor water element
 
@@ -19737,9 +19731,6 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 
 ## 738 Summoned Minor iron element
 
@@ -19781,9 +19772,6 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 
 ## 739 Summoned Minor wood element
 
@@ -19825,9 +19813,6 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 
 ## 759 Summoned Hermit of Red Face
 
@@ -19869,15 +19854,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 760 Summoned Hermit of Mask
 
@@ -19919,15 +19900,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 761 Summoned 3rd Commander of The Royal Tomb
 
@@ -19969,15 +19946,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 762 Summoned 2nd Commander of The Royal Tomb
 
@@ -20019,15 +19992,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 734 Summoned Twisted Demon Defender
 
@@ -20069,15 +20038,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 740 Summoned Earth element
 
@@ -20119,15 +20084,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 741 Summoned Fire element
 
@@ -20169,15 +20130,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 742 Summoned Water element
 
@@ -20219,15 +20176,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 743 Summoned Iron element
 
@@ -20269,15 +20222,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 744 Summoned Wood element
 
@@ -20319,15 +20268,11 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Polishing Stone | 0.0003% |
-| High-Grade Scroll of Rebirth | 0.0003% |
-| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
-| Talisman of Transmigration | 0.003% |
 
 ## 647 Seal of Hell
 
