@@ -17907,11 +17907,13 @@
 
 | Item | Chance |
 |------|--------|
-| Blood Dragon's Scaled Armor Shoes (G65) | 0.9346% |
-| Blood Dragon's DaeChangEau Shoes (G65) | 0.9346% |
-| Blood Dragon's Armor Shoes (G65) | 0.9346% |
-| Blood Dragon's Boots of thief (G65) | 0.9346% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 2.7776% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 2.7776% |
+| Blood Dragon's Armor Shoes (G65) | 2.7776% |
+| Blood Dragon's Boots of thief (G65) | 2.7776% |
 | 3334x Zamogeon | 100.0% |
+| Essence of earth element | 92.4915% |
+| element of ground | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -17944,24 +17946,24 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Essence of earth element | 57.8125% |
-| element of ground | 65.7% |
 
 ## 534 Fire element master
 
 | Item | Chance |
 |------|--------|
-| Blood Dragon's Scaled Armor (G65) | 0.3745% |
-| Blood Dragon's Scaled Armor (G65) | 0.3745% |
-| Blood Dragon's Armor (G65) | 0.3745% |
-| Blood Dragon's Armor (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau Shoes (G65) | 0.3745% |
-| Blood Dragon's Armor Shoes (G65) | 0.3745% |
-| Blood Dragon's Suit of thief (G65) | 0.3745% |
-| Blood Dragon's Suit of thief (G65) | 0.3745% |
+| Blood Dragon's Scaled Armor (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor (G65) | 1.1194% |
+| Blood Dragon's Armor (G65) | 1.1194% |
+| Blood Dragon's Armor (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 1.1194% |
+| Blood Dragon's Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's Suit of thief (G65) | 1.1194% |
+| Blood Dragon's Suit of thief (G65) | 1.1194% |
 | 3334x Zamogeon | 100.0% |
+| Essence of fire element | 92.4915% |
+| element of fire | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -17994,24 +17996,24 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Essence of fire element | 57.8125% |
-| element of fire | 65.7% |
 
 ## 535 Water element master
 
 | Item | Chance |
 |------|--------|
-| Blood Dragon's Scaled Armor Shorts (G65) | 0.3745% |
-| Blood Dragon's Scaled Armor Shorts (G65) | 0.3745% |
-| Blood Dragon's Armor Skirts (G65) | 0.3745% |
-| Blood Dragon's Armor Skirts (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau Shorts (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau Shorts (G65) | 0.3745% |
-| Blood Dragon's Armor Shoes (G65) | 0.3745% |
-| Blood Dragon's Scaled Armor Shoes (G65) | 0.3745% |
-| Blood Dragon's Suit Shorts of thief (G65) | 0.3745% |
-| Blood Dragon's Suit Shorts of thief (G65) | 0.3745% |
+| Blood Dragon's Scaled Armor Shorts (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shorts (G65) | 1.1194% |
+| Blood Dragon's Armor Skirts (G65) | 1.1194% |
+| Blood Dragon's Armor Skirts (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shorts (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shorts (G65) | 1.1194% |
+| Blood Dragon's Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
+| Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
 | 3334x Zamogeon | 100.0% |
+| Essence of water element | 92.4915% |
+| element of water | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -18044,24 +18046,24 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Essence of water element | 57.8125% |
-| element of water | 65.7% |
 
 ## 536 Iron element master
 
 | Item | Chance |
 |------|--------|
-| Blood Dragon's Scaled Armor (G65) | 0.3745% |
-| Blood Dragon's Scaled Armor (G65) | 0.3745% |
-| Blood Dragon's Armor (G65) | 0.3745% |
-| Blood Dragon's Armor (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau (G65) | 0.3745% |
-| Blood Dragon's Scaled Armor Shoes (G65) | 0.3745% |
-| Blood Dragon's Armor Shoes (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau Shoes (G65) | 0.3745% |
-| Blood Dragon's Suit of thief (G65) | 0.3745% |
+| Blood Dragon's Scaled Armor (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor (G65) | 1.1194% |
+| Blood Dragon's Armor (G65) | 1.1194% |
+| Blood Dragon's Armor (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 1.1194% |
+| Blood Dragon's Suit of thief (G65) | 1.1194% |
 | 3334x Zamogeon | 100.0% |
+| Essence of iron element | 92.4915% |
+| element of iron | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -18094,24 +18096,24 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Essence of iron element | 57.8125% |
-| element of iron | 65.7% |
 
 ## 537 Wood element master
 
 | Item | Chance |
 |------|--------|
-| Blood Dragon's Scaled Armor Shorts (G65) | 0.3745% |
-| Blood Dragon's Scaled Armor Shorts (G65) | 0.3745% |
-| Blood Dragon's Armor Skirts (G65) | 0.3745% |
-| Blood Dragon's Armor Skirts (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau Shorts (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau Shorts (G65) | 0.3745% |
-| Blood Dragon's Scaled Armor Shoes (G65) | 0.3745% |
-| Blood Dragon's DaeChangEau Shoes (G65) | 0.3745% |
-| Blood Dragon's Suit Shorts of thief (G65) | 0.3745% |
-| Blood Dragon's Suit Shorts of thief (G65) | 0.3745% |
+| Blood Dragon's Scaled Armor Shorts (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shorts (G65) | 1.1194% |
+| Blood Dragon's Armor Skirts (G65) | 1.1194% |
+| Blood Dragon's Armor Skirts (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shorts (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shorts (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 1.1194% |
+| Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
+| Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
 | 3334x Zamogeon | 100.0% |
+| Essence of wood element | 92.4915% |
+| element of wood | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -18144,8 +18146,6 @@
 | Golden Hood of thief (G60) | 0.0003% |
 | Golden Gloves of thief (G60) | 0.0003% |
 | Golden Boots of thief (G60) | 0.0003% |
-| Essence of wood element | 57.8125% |
-| element of wood | 65.7% |
 
 ## 538 Banshee
 
@@ -19183,12 +19183,13 @@
 | Item | Chance |
 |------|--------|
 | 66500x Zamogeon | 100.0% |
-| Blood Dragon's Sword (G70) | 33.2372% |
-| Blood Dragon's Giant sword (G70) | 33.2372% |
-| Blood Dragon's Bow (G70) | 33.2372% |
-| Blood Dragon's Stick (G70) | 12.9016% |
-| Blood Dragon Stick of Ruin (G70) | 12.9016% |
-| Blood Dragon Stick of Hell (G70) | 12.9016% |
+| Blood Dragon's Dagger (G70) | 13.8829% |
+| Blood Dragon's Sword (G70) | 13.8829% |
+| Blood Dragon's Giant sword (G70) | 13.8829% |
+| Blood Dragon's Bow (G70) | 13.8829% |
+| Blood Dragon's Stick (G70) | 4.7817% |
+| Blood Dragon Stick of Ruin (G70) | 4.7817% |
+| Blood Dragon Stick of Hell (G70) | 4.7817% |
 | I'Lryer's ring | 95.3486% |
 | Stone of Shadow | 68.9892% |
 | Stone of Holy | 68.9892% |
@@ -19205,12 +19206,13 @@
 | Item | Chance |
 |------|--------|
 | 66500x Zamogeon | 100.0% |
-| Blood Dragon's Sword (G70) | 33.2372% |
-| Blood Dragon's Giant sword (G70) | 33.2372% |
-| Blood Dragon's Bow (G70) | 33.2372% |
-| Blood Dragon's Stick (G70) | 12.9016% |
-| Blood Dragon Stick of Ruin (G70) | 12.9016% |
-| Blood Dragon Stick of Hell (G70) | 12.9016% |
+| Blood Dragon's Dagger (G70) | 13.8829% |
+| Blood Dragon's Sword (G70) | 13.8829% |
+| Blood Dragon's Giant sword (G70) | 13.8829% |
+| Blood Dragon's Bow (G70) | 13.8829% |
+| Blood Dragon's Stick (G70) | 4.7817% |
+| Blood Dragon Stick of Ruin (G70) | 4.7817% |
+| Blood Dragon Stick of Hell (G70) | 4.7817% |
 | I'Lryer's ring | 95.3486% |
 | Stone of Shadow | 68.9892% |
 | Stone of Holy | 68.9892% |
@@ -19235,7 +19237,6 @@
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
-| Baked Eel | -146.2891% |
 
 ## 752 Summoned Trained Traitor Archer
 
@@ -19245,7 +19246,6 @@
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
-| Baked Eel | -146.2891% |
 
 ## 712 Summoned Doggebi of Monster Face
 
@@ -19255,7 +19255,6 @@
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
-| Baked Eel | -146.2891% |
 
 ## 713 Summoned Doggebi with a Mask of Black Crow
 
@@ -19265,7 +19264,6 @@
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
-| Baked Eel | -146.2891% |
 
 ## 714 Summoned Doggebi with a Mask of Black Panther
 
@@ -19275,7 +19273,6 @@
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
-| Baked Eel | -146.2891% |
 
 ## 753 Summoned Knight of the Traitor's Hangout
 
@@ -19791,7 +19788,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 760 Summoned Hermit of Mask
 
@@ -19822,7 +19824,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 761 Summoned 3rd Commander of The Royal Tomb
 
@@ -19853,7 +19860,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 762 Summoned 2nd Commander of The Royal Tomb
 
@@ -19884,7 +19896,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 734 Summoned Twisted Demon Defender
 
@@ -19915,7 +19932,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 740 Summoned Earth element
 
@@ -19946,7 +19968,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 741 Summoned Fire element
 
@@ -19977,7 +20004,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 742 Summoned Water element
 
@@ -20008,7 +20040,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 743 Summoned Iron element
 
@@ -20039,7 +20076,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 744 Summoned Wood element
 
@@ -20070,7 +20112,12 @@
 | Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
 | Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
 
 ## 647 Seal of Hell
 
