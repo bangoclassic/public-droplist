@@ -19634,10 +19634,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 
 ## 736 Summoned Minor fire element
 
@@ -19664,10 +19678,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 
 ## 737 Summoned Minor water element
 
@@ -19694,10 +19722,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 
 ## 738 Summoned Minor iron element
 
@@ -19724,10 +19766,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 
 ## 739 Summoned Minor wood element
 
@@ -19754,10 +19810,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 
 ## 759 Summoned Hermit of Red Face
 
@@ -19784,10 +19854,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -19820,10 +19904,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -19856,10 +19954,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -19892,10 +20004,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -19928,10 +20054,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -19964,10 +20104,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -20000,10 +20154,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -20036,10 +20204,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -20072,10 +20254,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
@@ -20108,10 +20304,24 @@
 | Stone of Paralysis | 0.0009% |
 | Stone of Strength | 0.0009% |
 | Stone of Skill | 0.0009% |
-| Piece of Unknown World | -0.0027% |
-| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0033% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
 | Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
-| Golden Scaled Armor Helmet (G60) | -0.0036% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Polishing Stone | 0.0003% |
+| High-Grade Scroll of Rebirth | 0.0003% |
+| Talisman of Transmigration | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
 | 1000x Zamogeon | 83.3307% |
