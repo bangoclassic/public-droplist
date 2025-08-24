@@ -2,10 +2,10 @@
 
 | Item | Chance |
 |------|--------|
-| 2x Zamogeon | 99.1915% |
+| 6x Zamogeon | 99.1915% |
 | Demon's blood | 13.5632% |
 | Small Medicine | 13.5632% |
-| 4x Zamogeon | 21.7242% |
+| 12x Zamogeon | 21.7242% |
 | Short Iron Sword (G1) | 11.4158% |
 | Bamboo Stick (G1) | 11.4158% |
 | Birch Bow (G1) | 11.4158% |
@@ -21,14 +21,14 @@
 
 | Item | Chance |
 |------|--------|
-| 3x Zamogeon | 98.7145% |
+| 9x Zamogeon | 98.7145% |
 | Demon's blood | 6.9874% |
 | Iron dagger (G5) | 6.9874% |
 | Short Steel Sword (G5) | 6.9874% |
 | Oak Bow (G5) | 6.9874% |
 | Oak Stick (G5) | 6.9874% |
 | Small Medicine | 13.5632% |
-| 4x Zamogeon | 21.7242% |
+| 12x Zamogeon | 21.7242% |
 | Short Iron Sword (G1) | 11.4158% |
 | Bamboo Stick (G1) | 11.4158% |
 | Birch Bow (G1) | 11.4158% |
@@ -44,14 +44,14 @@
 
 | Item | Chance |
 |------|--------|
-| 3x Zamogeon | 98.6855% |
+| 9x Zamogeon | 98.6855% |
 | Demon's blood | 6.648% |
 | Iron dagger (G5) | 7.3258% |
 | Short Steel Sword (G5) | 7.5509% |
 | Oak Bow (G5) | 7.5509% |
 | Oak Stick (G5) | 7.5509% |
 | Small Medicine | 13.5632% |
-| 4x Zamogeon | 27.827% |
+| 12x Zamogeon | 27.827% |
 | Short Iron Sword (G1) | 8.6692% |
 | Birch Bow (G1) | 8.6692% |
 | Bamboo Stick (G1) | 8.6692% |
@@ -73,7 +73,7 @@
 
 | Item | Chance |
 |------|--------|
-| 4x Zamogeon | 99.3408% |
+| 12x Zamogeon | 99.3408% |
 | Demon's blood | 5.6235% |
 | Iron dagger (G5) | 13.5632% |
 | Small Medicine | 8.3349% |
@@ -100,14 +100,14 @@
 
 | Item | Chance |
 |------|--------|
-| 6x Zamogeon | 98.9027% |
+| 18x Zamogeon | 98.9027% |
 | Demon's blood | 9.9963% |
 | MyungJoo suit of low class thief (G8) | 3.8952% |
 | SaSaEul Armor (G8) | 4.5897% |
 | Leather Armor (G8) | 4.5897% |
 | MyungJoo HakChangEau Clothes (G8) | 4.5897% |
 | Small Medicine | 13.5632% |
-| 7x Zamogeon | 45.4591% |
+| 21x Zamogeon | 45.4591% |
 | Short Steel Sword (G5) | 0.7178% |
 | Oak Stick (G5) | 0.7178% |
 | Oak Bow (G5) | 0.7178% |
@@ -125,7 +125,7 @@
 
 | Item | Chance |
 |------|--------|
-| 8x Zamogeon | 98.8858% |
+| 24x Zamogeon | 98.8858% |
 | Demon's blood | 13.5632% |
 | Small Steel Sword (G9) | -3.8958% |
 | Oak Petal Stick (G9) | 0.7655% |
@@ -140,7 +140,7 @@
 | MyungJoo HakChangEau Gloves (G8) | 0.3595% |
 | MyungJoo HakChangEau Boots (G8) | 0.3595% |
 | MyungJoo HakChangEau Shorts (G8) | 0.3595% |
-| 10x Zamogeon | 5.6521% |
+| 30x Zamogeon | 5.6521% |
 | GyungBunGap Armor (G16) | 0.024% |
 | BeeDan HakChangEau Clothes (G16) | 0.012% |
 | Talisman of Intensification (Heavy Blow's/Extreme) | 0.1199% |
@@ -154,7 +154,7 @@
 
 | Item | Chance |
 |------|--------|
-| 8x Zamogeon | 99.5066% |
+| 24x Zamogeon | 99.5066% |
 | Demon's blood | -23.6399% |
 | Big Oak Bow (G9) | 1.5558% |
 | Oak Petal Stick (G9) | 0.7715% |
@@ -169,7 +169,7 @@
 | MyungJoo Gloves of low class thief (G8) | 0.3595% |
 | MyungJoo Boots of low class thief (G8) | 0.3595% |
 | MyungJoo suit Shorts of low class thief (G8) | 0.3595% |
-| 11x Zamogeon | 5.6464% |
+| 33x Zamogeon | 5.6464% |
 | DooJungPeeGap Armor (G16) | 0.024% |
 | BeeDan HakChangEau Clothes (G16) | 0.012% |
 | Talisman of Intensification (Heavy Blow's/Extreme) | 0.1199% |
@@ -183,14 +183,14 @@
 
 | Item | Chance |
 |------|--------|
-| 10x Zamogeon | 99.9988% |
+| 30x Zamogeon | 99.9988% |
 | Demon's blood | 16.6252% |
 | Small Medicine | 35.7708% |
 | Steel dagger (G9) | 3.5429% |
 | Small Steel Sword (G9) | 3.5429% |
 | Big Oak Bow (G9) | 3.5429% |
 | Oak Petal Stick (G9) | 3.5429% |
-| 13x Zamogeon | 85.5481% |
+| 39x Zamogeon | 85.5481% |
 | Iron Sword (G13) | 1.9627% |
 | Iron Stick (G13) | 1.9627% |
 | YeonGak Bow (G13) | 1.9627% |
@@ -199,10 +199,10 @@
 
 | Item | Chance |
 |------|--------|
-| 9x Zamogeon | 99.0526% |
+| 27x Zamogeon | 99.0526% |
 | Demon's blood | 13.5632% |
 | Small Medicine | 19.7468% |
-| 11x Zamogeon | 45.676% |
+| 33x Zamogeon | 45.676% |
 | Iron Sword (G13) | 0.6582% |
 | Iron Stick (G13) | 0.6582% |
 | YeonGak Bow (G13) | 0.6582% |
@@ -217,7 +217,7 @@
 
 | Item | Chance |
 |------|--------|
-| 11x Zamogeon | 98.3765% |
+| 33x Zamogeon | 98.3765% |
 | Demon's blood | 13.5632% |
 | Iron Stick (G13) | 0.8966% |
 | Small Medicine | 36.1313% |
@@ -226,7 +226,7 @@
 | MyungJoo HakChangEau Gloves (G8) | 0.7178% |
 | MyungJoo HakChangEau Boots (G8) | 0.7178% |
 | MyungJoo HakChangEau Shorts (G8) | 0.7178% |
-| 13x Zamogeon | 5.6578% |
+| 39x Zamogeon | 5.6578% |
 | BeeDan HakChangEau Clothes (G16) | 0.018% |
 | Iron JuckMo Stick (G17) | 0.006% |
 | Potato (G12) | 2.9627% |
@@ -240,7 +240,7 @@
 
 | Item | Chance |
 |------|--------|
-| 15x Zamogeon | 59.6645% |
+| 45x Zamogeon | 59.6645% |
 | Demon's blood | 54.8118% |
 | BeeDan suit Shorts of low class thief (G16) | 21.5675% |
 | BeeDan Boots of low class thief (G16) | 0.3714% |
@@ -255,8 +255,8 @@
 | BeeDan HakChangEau Gloves (G16) | 0.3654% |
 | BeeDan HakChangEau Boots (G16) | 0.3654% |
 | BeeDan HakChangEau Shorts (G16) | 0.3654% |
-| 16x Zamogeon | 83.0259% |
-| 17x Zamogeon | 2.9071% |
+| 48x Zamogeon | 83.0259% |
+| 51x Zamogeon | 2.9071% |
 | Iron JuckMo Stick (G17) | 0.036% |
 | MyungJoo SoChangEau Clothes (G24) | 0.009% |
 | Talisman of Wonder (Harsh/Forced) | 0.006% |
@@ -292,7 +292,7 @@
 
 | Item | Chance |
 |------|--------|
-| 20x Zamogeon | 59.3141% |
+| 60x Zamogeon | 59.3141% |
 | Demon Soldier's Head | 46.5718% |
 | Demon's blood | 11.9999% |
 | Iron Red-blood dagger (G17) | 0.1859% |
@@ -308,8 +308,8 @@
 | GyungBunGap Gloves (G16) | 0.7298% |
 | GyungBunGap Boots (G16) | 0.7298% |
 | GyungBunGap Shorts (G16) | 0.7298% |
-| 21x Zamogeon | 82.861% |
-| 22x Zamogeon | 2.9276% |
+| 63x Zamogeon | 82.861% |
+| 66x Zamogeon | 2.9276% |
 | Steel Sword (G21) | 0.012% |
 | PanGap Armor (G24) | 0.006% |
 | PanGap Helmet (G24) | 0.003% |
@@ -346,7 +346,7 @@
 
 | Item | Chance |
 |------|--------|
-| 20x Zamogeon | 59.3141% |
+| 60x Zamogeon | 59.3141% |
 | Demon Throwing Soldier's Head | 46.5718% |
 | Iron Red-blood dagger (G17) | 13.8232% |
 | Demon's blood | 0.1859% |
@@ -357,8 +357,8 @@
 | DooJungPeeGap Gloves (G16) | 0.7298% |
 | DooJungPeeGap Boots (G16) | 0.7298% |
 | DooJungPeeGap Shorts (G16) | 0.7298% |
-| 21x Zamogeon | 82.861% |
-| 22x Zamogeon | 2.9276% |
+| 63x Zamogeon | 82.861% |
+| 66x Zamogeon | 2.9276% |
 | SooWoo YeonGak Bow (G21) | 0.012% |
 | ShaeJaGap Armor (G24) | 0.006% |
 | ShaeJaGap Hood (G24) | 0.003% |
@@ -395,7 +395,7 @@
 
 | Item | Chance |
 |------|--------|
-| 22x Zamogeon | 59.3141% |
+| 66x Zamogeon | 59.3141% |
 | Wild Demon Soldier's Head | 46.5718% |
 | Demon's blood | 13.8232% |
 | Iron Red-blood dagger (G17) | 0.1859% |
@@ -407,8 +407,8 @@
 | BeeDan HakChangEau Gloves (G16) | 0.7298% |
 | BeeDan HakChangEau Boots (G16) | 0.7298% |
 | BeeDan HakChangEau Shorts (G16) | 0.7298% |
-| 23x Zamogeon | 82.861% |
-| 25x Zamogeon | 2.9276% |
+| 69x Zamogeon | 82.861% |
+| 75x Zamogeon | 2.9276% |
 | BangChooHyung Iron Stick (G21) | 0.012% |
 | MyungJoo SoChangEau Clothes (G24) | 0.006% |
 | MyungJoo SoChangEau Hair Decoration (G24) | 0.003% |
@@ -445,7 +445,7 @@
 
 | Item | Chance |
 |------|--------|
-| 24x Zamogeon | 58.8726% |
+| 72x Zamogeon | 58.8726% |
 | Demon Shock Trooper's Head | 46.5718% |
 | Demon's blood | 13.9874% |
 | Small Medicine | 33.9962% |
@@ -454,8 +454,8 @@
 | Iron Red-blood Sword (G17) | 0.7298% |
 | YeonHwang Bow (G17) | 0.7298% |
 | Iron JuckMo Stick (G17) | 0.7298% |
-| 25x Zamogeon | 82.6529% |
-| 26x Zamogeon | 2.9276% |
+| 75x Zamogeon | 82.6529% |
+| 78x Zamogeon | 2.9276% |
 | Steel Sword (G21) | 0.012% |
 | SooWoo YeonGak Bow (G21) | 0.012% |
 | BangChooHyung Iron Stick (G21) | 0.012% |
@@ -492,7 +492,7 @@
 
 | Item | Chance |
 |------|--------|
-| 24x Zamogeon | 56.7897% |
+| 72x Zamogeon | 56.7897% |
 | Demon Flag Bearer's Head | 46.5718% |
 | Demon's blood | 13.9874% |
 | Small Medicine | 36.5432% |
@@ -509,8 +509,8 @@
 | ShaeJaGap Hood (G24) | 0.3654% |
 | MyungJoo SoChangEau Clothes (G24) | 0.3654% |
 | MyungJoo SoChangEau Hair Decoration (G24) | 0.3654% |
-| 25x Zamogeon | 81.6688% |
-| 26x Zamogeon | 2.8837% |
+| 75x Zamogeon | 81.6688% |
+| 78x Zamogeon | 2.8837% |
 | Big Steel Sword (G25) | 0.006% |
 | HwanDoo Stick (G25) | 0.006% |
 | GangGak Bow (G25) | 0.006% |
@@ -547,7 +547,7 @@
 
 | Item | Chance |
 |------|--------|
-| 26x Zamogeon | 58.7838% |
+| 78x Zamogeon | 58.7838% |
 | Demon Band's Head | 46.5718% |
 | Demon's blood | 11.9999% |
 | MyungJoo suit of thief (G24) | 0.3714% |
@@ -564,8 +564,8 @@
 | MyungJoo SoChangEau Shorts (G24) | 0.3654% |
 | Small Medicine | 32.6695% |
 | Medium Medicine | 15.5107% |
-| 27x Zamogeon | 82.6111% |
-| 28x Zamogeon | 2.9452% |
+| 81x Zamogeon | 82.6111% |
+| 84x Zamogeon | 2.9452% |
 | YeongHwaHwanDoo Stick (G29) | 0.009% |
 | Talisman of Wonder (Harsh/Forced) | 0.006% |
 | Talisman of Intensification (Melee's/Unlawful) | 0.006% |
@@ -600,7 +600,7 @@
 
 | Item | Chance |
 |------|--------|
-| 28x Zamogeon | 58.7838% |
+| 84x Zamogeon | 58.7838% |
 | Demon Armored Knight's Head | 46.5718% |
 | Demon's blood | 13.6588% |
 | JuckAh Big Steel dagger (G25) | 0.3714% |
@@ -612,8 +612,8 @@
 | PanGap Shorts (G24) | 0.3654% |
 | Small Medicine | 35.301% |
 | Medium Medicine | 12.2262% |
-| 29x Zamogeon | 82.6111% |
-| 30x Zamogeon | 2.9364% |
+| 87x Zamogeon | 82.6111% |
+| 90x Zamogeon | 2.9364% |
 | JuckAh Big Steel Sword (G29) | 0.006% |
 | Steel Armor (G32) | 0.006% |
 | Steel Armor Helmet (G32) | 0.006% |
@@ -650,7 +650,7 @@
 
 | Item | Chance |
 |------|--------|
-| 30x Zamogeon | 61.7144% |
+| 90x Zamogeon | 61.7144% |
 | Demon Mad Knight's Head | 46.5718% |
 | Demon's blood | 13.9874% |
 | Small Medicine | 31.1362% |
@@ -659,8 +659,8 @@
 | JuckAh Big Steel Sword (G29) | 0.1948% |
 | SooWoo GangGak Bow (G29) | 0.1948% |
 | YeongHwaHwanDoo Stick (G29) | 0.1948% |
-| 31x Zamogeon | 83.9878% |
-| 32x Zamogeon | 2.9364% |
+| 93x Zamogeon | 83.9878% |
+| 96x Zamogeon | 2.9364% |
 | Talisman of Wonder (Harsh/Forced) | 0.006% |
 | Talisman of Intensification (Melee's/Unlawful) | 0.006% |
 | Talisman of Intensification (Bloody Fight's/Unlawful) | 0.006% |
@@ -694,7 +694,7 @@
 
 | Item | Chance |
 |------|--------|
-| 48x Zamogeon | 93.8482% |
+| 144x Zamogeon | 93.8482% |
 | Demon Commander's Head | 78.1641% |
 | Demon's blood | 29.2328% |
 | Medium Medicine | 21.6753% |
@@ -702,7 +702,7 @@
 | JuckAh Big Steel Sword (G29) | 1.289% |
 | SooWoo GangGak Bow (G29) | 1.289% |
 | YeongHwaHwanDoo Stick (G29) | 1.289% |
-| 50x Zamogeon | 0.8728% |
+| 150x Zamogeon | 0.8728% |
 | Steel Armor (G32) | 0.012% |
 | Steel Armor Helmet (G32) | 0.012% |
 | Steel Armor Gloves (G32) | 0.012% |
@@ -754,7 +754,7 @@
 
 | Item | Chance |
 |------|--------|
-| 25x Zamogeon | 60.6151% |
+| 75x Zamogeon | 60.6151% |
 | Demon Water Dragon'Head | 54.8118% |
 | Small Medicine | 30.0386% |
 | Medium Medicine | 11.892% |
@@ -762,8 +762,8 @@
 | Steel Sword (G21) | 0.7387% |
 | SooWoo YeonGak Bow (G21) | 0.7387% |
 | BangChooHyung Iron Stick (G21) | 0.7387% |
-| 26x Zamogeon | 83.4726% |
-| 27x Zamogeon | 2.8837% |
+| 78x Zamogeon | 83.4726% |
+| 81x Zamogeon | 2.8837% |
 | Big Steel Sword (G25) | 0.015% |
 | GangGak Bow (G25) | 0.015% |
 | HwanDoo Stick (G25) | 0.015% |
@@ -802,7 +802,7 @@
 
 | Item | Chance |
 |------|--------|
-| 27x Zamogeon | 58.7838% |
+| 81x Zamogeon | 58.7838% |
 | Demon Water Dragon'Head | 54.6196% |
 | JuckAh Big Steel dagger (G25) | 0.3714% |
 | GangGak Bow (G25) | 0.7387% |
@@ -813,8 +813,8 @@
 | ShaeJaGap Shorts (G24) | 0.3654% |
 | Small Medicine | 35.301% |
 | Medium Medicine | 12.2262% |
-| 28x Zamogeon | 82.6111% |
-| 30x Zamogeon | 2.9364% |
+| 84x Zamogeon | 82.6111% |
+| 90x Zamogeon | 2.9364% |
 | SooWoo GangGak Bow (G29) | 0.006% |
 | Intensified ShaeJaGap Armor (G32) | 0.006% |
 | Intensified ShaeJaGap Hood (G32) | 0.006% |
@@ -849,7 +849,7 @@
 
 | Item | Chance |
 |------|--------|
-| 29x Zamogeon | 95.7449% |
+| 87x Zamogeon | 95.7449% |
 | Demon Water Dragon'Head | 54.8118% |
 | Small Medicine | 31.4084% |
 | Medium Medicine | 6.8065% |
@@ -857,7 +857,7 @@
 | Big Steel Sword (G25) | 0.7298% |
 | GangGak Bow (G25) | 0.7298% |
 | HwanDoo Stick (G25) | 0.7298% |
-| 31x Zamogeon | 2.9452% |
+| 93x Zamogeon | 2.9452% |
 | JuckAh Big Steel Sword (G29) | 0.006% |
 | SooWoo GangGak Bow (G29) | 0.006% |
 | YeongHwaHwanDoo Stick (G29) | 0.006% |
@@ -892,13 +892,13 @@
 
 | Item | Chance |
 |------|--------|
-| 52x Zamogeon | 99.8215% |
+| 156x Zamogeon | 99.8215% |
 | Medium Medicine | 21.6753% |
 | Steel dagger with Pattern of Leaf (G33) | 1.2534% |
 | Big Steel Sword with Pattern of Leaf (G33) | 1.2653% |
 | TaeWoon GangGak Bow (G33) | 1.2653% |
 | HwanRaeHwanDoo Stick (G33) | 1.2653% |
-| 56x Zamogeon | 0.8728% |
+| 168x Zamogeon | 0.8728% |
 | Steel Armor (G32) | 0.012% |
 | Steel Armor Helmet (G32) | 0.012% |
 | Steel Armor Gloves (G32) | 0.012% |
@@ -948,7 +948,7 @@
 
 | Item | Chance |
 |------|--------|
-| 12x Zamogeon | 86.1612% |
+| 36x Zamogeon | 86.1612% |
 | Big Handed Inhabitant's Head | 78.8308% |
 | Intensified Iron dagger (G13) | 0.7178% |
 | MyungJoo suit of low class thief (G8) | 0.7178% |
@@ -963,7 +963,7 @@
 | SaSaEul Gloves (G8) | 0.7178% |
 | SaSaEul Boots (G8) | 0.7178% |
 | SaSaEul Shorts (G8) | 0.7178% |
-| 15x Zamogeon | 5.6578% |
+| 45x Zamogeon | 5.6578% |
 | GyungBunGap Armor (G16) | 0.018% |
 | Iron Red-blood Sword (G17) | 0.006% |
 | Talisman of Intensification (Predictive/Confirmatory) | 0.054% |
@@ -985,7 +985,7 @@
 
 | Item | Chance |
 |------|--------|
-| 13x Zamogeon | 86.1612% |
+| 39x Zamogeon | 86.1612% |
 | Big Handed Inhabitant's Head | 78.8308% |
 | Intensified Iron dagger (G13) | 0.7178% |
 | MyungJoo suit of low class thief (G8) | 3.5464% |
@@ -1000,7 +1000,7 @@
 | Leather Armor Gloves (G8) | 0.7178% |
 | Leather Armor Boots (G8) | 0.7178% |
 | Leather Armor Shorts (G8) | 0.7178% |
-| 15x Zamogeon | 5.6578% |
+| 45x Zamogeon | 5.6578% |
 | DooJungPeeGap Armor (G16) | 0.018% |
 | YeonHwang Bow (G17) | 0.006% |
 | Talisman of Intensification (Predictive/Confirmatory) | 0.054% |
@@ -1022,7 +1022,7 @@
 
 | Item | Chance |
 |------|--------|
-| 16x Zamogeon | 59.6645% |
+| 48x Zamogeon | 59.6645% |
 | Big Handed Warrior's Head | 53.6482% |
 | BeeDan suit Shorts of low class thief (G16) | 0.3714% |
 | BeeDan Boots of low class thief (G16) | 0.3714% |
@@ -1037,8 +1037,8 @@
 | DooJungPeeGap Boots (G16) | 0.3654% |
 | DooJungPeeGap Shorts (G16) | 0.3654% |
 | Small Medicine | 41.4688% |
-| 17x Zamogeon | 83.0259% |
-| 19x Zamogeon | 2.9071% |
+| 51x Zamogeon | 83.0259% |
+| 57x Zamogeon | 2.9071% |
 | YeonHwang Bow (G17) | 0.036% |
 | ShaeJaGap Armor (G24) | 0.009% |
 | Talisman of Intensification (Predictive/Confirmatory) | 0.027% |
@@ -1060,7 +1060,7 @@
 
 | Item | Chance |
 |------|--------|
-| 17x Zamogeon | 59.6645% |
+| 51x Zamogeon | 59.6645% |
 | Big Handed Warrior's Head | 53.6482% |
 | BeeDan suit Shorts of low class thief (G16) | 0.3714% |
 | BeeDan Boots of low class thief (G16) | 0.3714% |
@@ -1075,8 +1075,8 @@
 | GyungBunGap Boots (G16) | 0.3654% |
 | GyungBunGap Shorts (G16) | 0.3654% |
 | Small Medicine | 41.4688% |
-| 18x Zamogeon | 83.0259% |
-| 19x Zamogeon | 2.9071% |
+| 54x Zamogeon | 83.0259% |
+| 57x Zamogeon | 2.9071% |
 | Iron Red-blood Sword (G17) | 0.036% |
 | PanGap Armor (G24) | 0.009% |
 | Talisman of Intensification (Predictive/Confirmatory) | 0.027% |
@@ -1098,7 +1098,7 @@
 
 | Item | Chance |
 |------|--------|
-| 33x Zamogeon | 90.7084% |
+| 99x Zamogeon | 90.7084% |
 | YeongHwaHwanDoo Stick (G29) | 0.479% |
 | HwanRaeHwanDoo Stick (G33) | 0.2996% |
 | Medium Medicine | 45.3504% |
@@ -1120,7 +1120,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 31x Zamogeon | 91.7496% |
+| 93x Zamogeon | 91.7496% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1130,7 +1130,7 @@
 
 | Item | Chance |
 |------|--------|
-| 36x Zamogeon | 90.7084% |
+| 108x Zamogeon | 90.7084% |
 | Steel dagger with Pattern of Leaf (G33) | 0.3595% |
 | JuckAh Big Steel Sword (G29) | 0.1199% |
 | Big Steel Sword with Pattern of Leaf (G33) | 0.2996% |
@@ -1152,7 +1152,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 34x Zamogeon | 91.7496% |
+| 102x Zamogeon | 91.7496% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1162,7 +1162,7 @@
 
 | Item | Chance |
 |------|--------|
-| 39x Zamogeon | 90.6419% |
+| 117x Zamogeon | 90.6419% |
 | Steel dagger with Pattern of Leaf (G33) | 0.479% |
 | SooWoo GangGak Bow (G29) | 0.479% |
 | TaeWoon GangGak Bow (G33) | 0.2996% |
@@ -1184,7 +1184,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 37x Zamogeon | 91.7496% |
+| 111x Zamogeon | 91.7496% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1194,7 +1194,7 @@
 
 | Item | Chance |
 |------|--------|
-| 42x Zamogeon | 79.3196% |
+| 126x Zamogeon | 79.3196% |
 | BeeDan suit of thief (G32) | 0.09% |
 | BeeDan Hood of thief (G32) | 0.09% |
 | BeeDan Gloves of thief (G32) | 0.09% |
@@ -1224,7 +1224,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 40x Zamogeon | 96.3556% |
+| 120x Zamogeon | 96.3556% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1234,7 +1234,7 @@
 
 | Item | Chance |
 |------|--------|
-| 45x Zamogeon | 79.3196% |
+| 135x Zamogeon | 79.3196% |
 | BeeDan suit of thief (G32) | 0.09% |
 | BeeDan Hood of thief (G32) | 0.09% |
 | BeeDan Gloves of thief (G32) | 0.09% |
@@ -1264,7 +1264,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 43x Zamogeon | 96.3556% |
+| 129x Zamogeon | 96.3556% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1274,7 +1274,7 @@
 
 | Item | Chance |
 |------|--------|
-| 48x Zamogeon | 79.3196% |
+| 144x Zamogeon | 79.3196% |
 | BeeDan suit of thief (G32) | 0.09% |
 | BeeDan Hood of thief (G32) | 0.09% |
 | BeeDan Gloves of thief (G32) | 0.09% |
@@ -1304,7 +1304,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 46x Zamogeon | 96.3556% |
+| 138x Zamogeon | 96.3556% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1314,7 +1314,7 @@
 
 | Item | Chance |
 |------|--------|
-| 54x Zamogeon | 94.4506% |
+| 162x Zamogeon | 94.4506% |
 | BeeDan suit of thief (G32) | 0.048% |
 | BeeDan Hood of thief (G32) | 0.048% |
 | BeeDan Gloves of thief (G32) | 0.048% |
@@ -1353,7 +1353,7 @@
 | Talisman of Protection (Man's/Healthy) | 0.006% |
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Sea Bream with Blood | 1.194% |
-| 49x Zamogeon | 81.8866% |
+| 147x Zamogeon | 81.8866% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1363,10 +1363,10 @@
 
 | Item | Chance |
 |------|--------|
-| 2x Zamogeon | 99.1915% |
+| 6x Zamogeon | 99.1915% |
 | Demon's blood | 13.5632% |
 | Small Medicine | 13.5632% |
-| 4x Zamogeon | 21.7242% |
+| 12x Zamogeon | 21.7242% |
 | Short Iron Sword (G1) | 11.4158% |
 | Bamboo Stick (G1) | 11.4158% |
 | Birch Bow (G1) | 11.4158% |
@@ -1382,7 +1382,7 @@
 
 | Item | Chance |
 |------|--------|
-| 50x Zamogeon | 83.5794% |
+| 150x Zamogeon | 83.5794% |
 | Devil Soldier's Head | 37.7654% |
 | Demon's blood | 13.5632% |
 | Medium Medicine | 37.2789% |
@@ -1406,7 +1406,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 47x Zamogeon | 91.7496% |
+| 141x Zamogeon | 91.7496% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1416,7 +1416,7 @@
 
 | Item | Chance |
 |------|--------|
-| 51x Zamogeon | 67.8225% |
+| 153x Zamogeon | 67.8225% |
 | Devil Soldier Twin Blades' Head | 20.4932% |
 | Demon's blood | 12.763% |
 | SaeGum Chairperson's Stick (G37) | 0.2398% |
@@ -1438,7 +1438,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 48x Zamogeon | 96.3556% |
+| 144x Zamogeon | 96.3556% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1448,7 +1448,7 @@
 
 | Item | Chance |
 |------|--------|
-| 54x Zamogeon | 67.8225% |
+| 162x Zamogeon | 67.8225% |
 | Devil Soldier Bow's Head | 20.4932% |
 | Demon's blood | 12.763% |
 | HoMee Gak Bow (G37) | 0.2398% |
@@ -1470,7 +1470,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 51x Zamogeon | 96.3556% |
+| 153x Zamogeon | 96.3556% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1480,7 +1480,7 @@
 
 | Item | Chance |
 |------|--------|
-| 58x Zamogeon | 67.8225% |
+| 174x Zamogeon | 67.8225% |
 | Devil Soldier Sword's Head | 20.4932% |
 | Demon's blood | 12.763% |
 | HwanDoo Big Sword (G37) | 0.2398% |
@@ -1502,7 +1502,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 54x Zamogeon | 96.3556% |
+| 162x Zamogeon | 96.3556% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1512,7 +1512,7 @@
 
 | Item | Chance |
 |------|--------|
-| 62x Zamogeon | 67.5768% |
+| 186x Zamogeon | 67.5768% |
 | Devil Soldier Spear's Head | 20.4932% |
 | Demon's blood | 12.6023% |
 | HwanDoo dagger (G37) | 0.1799% |
@@ -1544,7 +1544,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 58x Zamogeon | 96.3556% |
+| 174x Zamogeon | 96.3556% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1554,7 +1554,7 @@
 
 | Item | Chance |
 |------|--------|
-| 92x Zamogeon | 52.7945% |
+| 276x Zamogeon | 52.7945% |
 | Devil Soldier Sub-boss' Head | 45.4229% |
 | Demon's blood | 13.3504% |
 | Red HwanDoo dagger (G40) | 0.2398% |
@@ -1565,7 +1565,7 @@
 | ChulTae Bow (G40) | 0.3295% |
 | JoongBang Chairperson's Stick (G40) | 0.3295% |
 | Medium Medicine | 69.5993% |
-| 91x Zamogeon | 90.1133% |
+| 273x Zamogeon | 90.1133% |
 | Talisman of Accuracy | 0.03% |
 | Talisman of Defense | 0.015% |
 | Talisman of Wonder (Harsh/Forced) | 0.009% |
@@ -1594,7 +1594,7 @@
 
 | Item | Chance |
 |------|--------|
-| 54x Zamogeon | 29.6814% |
+| 162x Zamogeon | 29.6814% |
 | Devil Soldier Boss' Head | 21.7242% |
 | Demon's blood | 10.872% |
 | MyungJoo suit of High class thief (G42) | 0.1199% |
@@ -1618,7 +1618,7 @@
 | MyungJoo DaeChangEau Boots (G42) | 0.1199% |
 | MyungJoo DaeChangEau Shorts (G42) | 0.1199% |
 | Medium Medicine | 63.545% |
-| 92x Zamogeon | 64.8702% |
+| 276x Zamogeon | 64.8702% |
 | HwanDoo SaeHyung Big Sword (G40) | 0.09% |
 | ChulTae Bow (G40) | 0.09% |
 | JoongBang Chairperson's Stick (G40) | 0.09% |
@@ -1641,7 +1641,7 @@
 | Protection Talisman | 0.1499% |
 | Ring | 0.1499% |
 | Sea Bream with Blood | 1.194% |
-| 91x Zamogeon | 91.7496% |
+| 273x Zamogeon | 91.7496% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1651,7 +1651,7 @@
 
 | Item | Chance |
 |------|--------|
-| 124x Zamogeon | 98.3016% |
+| 372x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | BeeDan DaeChangEau (G46) | 0.009% |
@@ -1708,7 +1708,7 @@
 
 | Item | Chance |
 |------|--------|
-| 126x Zamogeon | 98.3016% |
+| 378x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Intensified Steel Armor (G46) | 0.009% |
@@ -1766,7 +1766,7 @@
 
 | Item | Chance |
 |------|--------|
-| 128x Zamogeon | 98.3016% |
+| 384x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | SinGak DooSukLin Armor (G46) | 0.009% |
@@ -1823,7 +1823,7 @@
 
 | Item | Chance |
 |------|--------|
-| 130x Zamogeon | 98.3016% |
+| 390x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | ChulTae Bow (G40) | 0.009% |
@@ -1903,7 +1903,7 @@
 
 | Item | Chance |
 |------|--------|
-| 132x Zamogeon | 98.3016% |
+| 396x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | SinGak DooSukLin Armor (G46) | 0.009% |
@@ -1960,7 +1960,7 @@
 
 | Item | Chance |
 |------|--------|
-| 134x Zamogeon | 98.3016% |
+| 402x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Intensified Steel Armor (G46) | 0.009% |
@@ -2019,7 +2019,7 @@
 
 | Item | Chance |
 |------|--------|
-| 136x Zamogeon | 98.3016% |
+| 408x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | BeeDan DaeChangEau (G46) | 0.009% |
@@ -2077,7 +2077,7 @@
 
 | Item | Chance |
 |------|--------|
-| 74x Zamogeon | 99.1969% |
+| 222x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | MyungJoo DaeChangEau (G42) | 0.03% |
@@ -2120,7 +2120,7 @@
 
 | Item | Chance |
 |------|--------|
-| 75x Zamogeon | 99.1969% |
+| 225x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | DooSukLinGap Armor (G42) | 0.03% |
@@ -2163,7 +2163,7 @@
 
 | Item | Chance |
 |------|--------|
-| 76x Zamogeon | 99.1969% |
+| 228x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | GangChulGap Armor (G42) | 0.03% |
@@ -2206,7 +2206,7 @@
 
 | Item | Chance |
 |------|--------|
-| 77x Zamogeon | 99.1969% |
+| 231x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Devil Troop of Jealousy Mask | 22.9393% |
@@ -2250,7 +2250,7 @@
 
 | Item | Chance |
 |------|--------|
-| 78x Zamogeon | 99.1969% |
+| 234x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Devil Troop of Hatred Mask | 14.3572% |
@@ -2294,7 +2294,7 @@
 
 | Item | Chance |
 |------|--------|
-| 79x Zamogeon | 99.1969% |
+| 237x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Devil Troop of Madness Mask | 5.966% |
@@ -2338,7 +2338,7 @@
 
 | Item | Chance |
 |------|--------|
-| 80x Zamogeon | 99.1969% |
+| 240x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Devil Troop of Anger Mask | 12.0915% |
@@ -2448,7 +2448,7 @@
 
 | Item | Chance |
 |------|--------|
-| 146x Zamogeon | 98.7769% |
+| 438x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0108% |
@@ -2497,7 +2497,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 98.7769% |
+| 444x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0108% |
@@ -2549,7 +2549,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 98.7769% |
+| 450x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0108% |
@@ -2600,7 +2600,7 @@
 
 | Item | Chance |
 |------|--------|
-| 146x Zamogeon | 98.7769% |
+| 438x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0108% |
@@ -2649,7 +2649,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 98.7769% |
+| 444x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0108% |
@@ -2701,7 +2701,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 98.7769% |
+| 450x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0108% |
@@ -2752,7 +2752,7 @@
 
 | Item | Chance |
 |------|--------|
-| 152x Zamogeon | 98.7769% |
+| 456x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0036% |
@@ -2821,7 +2821,7 @@
 
 | Item | Chance |
 |------|--------|
-| 154x Zamogeon | 98.7769% |
+| 462x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0042% |
@@ -2892,7 +2892,7 @@
 
 | Item | Chance |
 |------|--------|
-| 152x Zamogeon | 98.7769% |
+| 456x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0036% |
@@ -2961,7 +2961,7 @@
 
 | Item | Chance |
 |------|--------|
-| 154x Zamogeon | 98.7769% |
+| 462x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0042% |
@@ -3032,7 +3032,7 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 98.7769% |
+| 468x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0114% |
@@ -3091,7 +3091,7 @@
 
 | Item | Chance |
 |------|--------|
-| 158x Zamogeon | 98.7769% |
+| 474x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.012% |
@@ -3150,7 +3150,7 @@
 
 | Item | Chance |
 |------|--------|
-| 160x Zamogeon | 98.7769% |
+| 480x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0126% |
@@ -3216,7 +3216,7 @@
 
 | Item | Chance |
 |------|--------|
-| 162x Zamogeon | 98.7769% |
+| 486x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0132% |
@@ -3281,7 +3281,7 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 98.7769% |
+| 468x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0114% |
@@ -3341,7 +3341,7 @@
 
 | Item | Chance |
 |------|--------|
-| 158x Zamogeon | 98.7769% |
+| 474x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.012% |
@@ -3394,7 +3394,7 @@
 
 | Item | Chance |
 |------|--------|
-| 160x Zamogeon | 98.7769% |
+| 480x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0126% |
@@ -3455,7 +3455,7 @@
 
 | Item | Chance |
 |------|--------|
-| 162x Zamogeon | 98.7769% |
+| 486x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0132% |
@@ -3507,7 +3507,7 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 98.7769% |
+| 468x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0114% |
@@ -3567,7 +3567,7 @@
 
 | Item | Chance |
 |------|--------|
-| 158x Zamogeon | 98.7769% |
+| 474x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.012% |
@@ -3620,7 +3620,7 @@
 
 | Item | Chance |
 |------|--------|
-| 160x Zamogeon | 98.7769% |
+| 480x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0126% |
@@ -3681,7 +3681,7 @@
 
 | Item | Chance |
 |------|--------|
-| 162x Zamogeon | 98.7769% |
+| 486x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0132% |
@@ -3733,7 +3733,7 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 98.7769% |
+| 468x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0036% |
@@ -3803,7 +3803,7 @@
 
 | Item | Chance |
 |------|--------|
-| 158x Zamogeon | 98.7769% |
+| 474x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0042% |
@@ -3882,7 +3882,7 @@
 
 | Item | Chance |
 |------|--------|
-| 160x Zamogeon | 98.7769% |
+| 480x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0048% |
@@ -3952,7 +3952,7 @@
 
 | Item | Chance |
 |------|--------|
-| 162x Zamogeon | 98.7769% |
+| 486x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0048% |
@@ -4042,7 +4042,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0048% |
 | SinGak DooSukLin Hood (G46) | 0.0048% |
@@ -4091,7 +4091,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0048% |
 | Intensified Steel Helmet (G46) | 0.0048% |
@@ -4150,7 +4150,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0048% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0048% |
@@ -4199,7 +4199,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -4248,7 +4248,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -4297,7 +4297,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0072% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0072% |
@@ -4356,7 +4356,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -4405,7 +4405,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0072% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0072% |
@@ -4464,7 +4464,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -4523,7 +4523,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0084% |
 | Intensified Steel Helmet (G46) | 0.0084% |
@@ -4582,7 +4582,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0084% |
 | SinGak DooSukLin Hood (G46) | 0.0084% |
@@ -4631,7 +4631,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0084% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0084% |
@@ -4680,7 +4680,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0084% |
 | SinGak DooSukLin Hood (G46) | 0.0084% |
@@ -4728,7 +4728,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0084% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0084% |
@@ -4776,7 +4776,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0084% |
 | Intensified Steel Helmet (G46) | 0.0084% |
@@ -4824,7 +4824,7 @@
 
 | Item | Chance |
 |------|--------|
-| 250x Zamogeon | 99.5904% |
+| 750x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0096% |
 | SinGak DooSukLin Hood (G46) | 0.0096% |
@@ -4875,7 +4875,7 @@
 
 | Item | Chance |
 |------|--------|
-| 250x Zamogeon | 99.5904% |
+| 750x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0096% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0096% |
@@ -4926,7 +4926,7 @@
 
 | Item | Chance |
 |------|--------|
-| 250x Zamogeon | 99.5904% |
+| 750x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0096% |
 | Intensified Steel Helmet (G46) | 0.0096% |
@@ -4979,7 +4979,7 @@
 
 | Item | Chance |
 |------|--------|
-| 304x Zamogeon | 99.5904% |
+| 912x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Diamond Scaled Armor (G50) | 0.0012% |
 | Diamond Scaled Helmet (G50) | 0.0012% |
@@ -5049,7 +5049,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0048% |
 | Intensified Steel Helmet (G46) | 0.0048% |
@@ -5107,7 +5107,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0048% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0048% |
@@ -5155,7 +5155,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0048% |
 | SinGak DooSukLin Hood (G46) | 0.0048% |
@@ -5203,7 +5203,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0072% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0072% |
@@ -5261,7 +5261,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -5319,7 +5319,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -5367,7 +5367,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -5415,7 +5415,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -5463,7 +5463,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0072% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0072% |
@@ -5521,7 +5521,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0084% |
 | SinGak DooSukLin Hood (G46) | 0.0084% |
@@ -5569,7 +5569,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0084% |
 | Intensified Steel Helmet (G46) | 0.0084% |
@@ -5617,7 +5617,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0084% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0084% |
@@ -5665,7 +5665,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0084% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0084% |
@@ -5713,7 +5713,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0084% |
 | Intensified Steel Helmet (G46) | 0.0084% |
@@ -5771,7 +5771,7 @@
 
 | Item | Chance |
 |------|--------|
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0084% |
 | SinGak DooSukLin Hood (G46) | 0.0084% |
@@ -5819,7 +5819,7 @@
 
 | Item | Chance |
 |------|--------|
-| 250x Zamogeon | 99.5904% |
+| 750x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0096% |
 | Intensified Steel Helmet (G46) | 0.0096% |
@@ -5871,7 +5871,7 @@
 
 | Item | Chance |
 |------|--------|
-| 250x Zamogeon | 99.5904% |
+| 750x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0096% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0096% |
@@ -5921,7 +5921,7 @@
 
 | Item | Chance |
 |------|--------|
-| 250x Zamogeon | 99.5904% |
+| 750x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0096% |
 | SinGak DooSukLin Hood (G46) | 0.0096% |
@@ -5971,7 +5971,7 @@
 
 | Item | Chance |
 |------|--------|
-| 328x Zamogeon | 99.5904% |
+| 984x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Diamond Scaled Armor (G50) | 0.0012% |
 | Diamond Scaled Helmet (G50) | 0.0012% |
@@ -6049,7 +6049,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 280x Zamogeon | 99.9518% |
+| 840x Zamogeon | 99.9518% |
 | White DaeChangEau (G50) | 0.096% |
 | White DaeChangEau Hair Decoration (G50) | 0.096% |
 | White DaeChangEau Gloves (G50) | 0.096% |
@@ -6103,7 +6103,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 280x Zamogeon | 99.9518% |
+| 840x Zamogeon | 99.9518% |
 | Diamond Scaled Armor (G50) | 0.096% |
 | Diamond Scaled Helmet (G50) | 0.096% |
 | Diamond Scaled Gloves (G50) | 0.096% |
@@ -6157,7 +6157,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 280x Zamogeon | 99.9518% |
+| 840x Zamogeon | 99.9518% |
 | Diamond Armor (G50) | 0.096% |
 | Diamond Helmet (G50) | 0.096% |
 | Diamond Gloves (G50) | 0.096% |
@@ -6211,7 +6211,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 334x Zamogeon | 99.9518% |
+| 1002x Zamogeon | 99.9518% |
 | Golden Treasure Sword (G50) | 0.012% |
 | Butterfly-Shaped Treasure Sword (G50) | 0.012% |
 | Black Golden Treasure Sword (G50) | 0.012% |
@@ -6290,7 +6290,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 362x Zamogeon | 99.9518% |
+| 1086x Zamogeon | 99.9518% |
 | Golden Treasure Sword (G50) | 0.012% |
 | Butterfly-Shaped Treasure Sword (G50) | 0.012% |
 | Black Golden Treasure Sword (G50) | 0.012% |
@@ -6369,7 +6369,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 362x Zamogeon | 99.9518% |
+| 1086x Zamogeon | 99.9518% |
 | Golden Treasure Sword (G50) | 0.012% |
 | Butterfly-Shaped Treasure Sword (G50) | 0.012% |
 | Black Golden Treasure Sword (G50) | 0.012% |
@@ -6439,7 +6439,7 @@
 
 | Item | Chance |
 |------|--------|
-| 154x Zamogeon | 98.7769% |
+| 462x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Intensified Steel Armor (G46) | 0.0108% |
 | Intensified Steel Helmet (G46) | 0.0108% |
@@ -6491,7 +6491,7 @@
 
 | Item | Chance |
 |------|--------|
-| 154x Zamogeon | 98.7769% |
+| 462x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | SinGak DooSukLin Armor (G46) | 0.0108% |
 | SinGak DooSukLin Hood (G46) | 0.0108% |
@@ -6542,7 +6542,7 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 98.7769% |
+| 468x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | SinGak DooSukLin Armor (G46) | 0.0126% |
 | SinGak DooSukLin Hood (G46) | 0.0126% |
@@ -6588,7 +6588,7 @@
 
 | Item | Chance |
 |------|--------|
-| 160x Zamogeon | 98.7769% |
+| 480x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | SinGak DooSukLin Armor (G46) | 0.0138% |
 | SinGak DooSukLin Hood (G46) | 0.0138% |
@@ -6641,7 +6641,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0096% |
 | SinGak DooSukLin Hood (G46) | 0.0096% |
@@ -6697,7 +6697,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0144% |
 | SinGak DooSukLin Hood (G46) | 0.0144% |
@@ -6760,7 +6760,7 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 98.7769% |
+| 468x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Intensified Steel Armor (G46) | 0.0126% |
 | Intensified Steel Helmet (G46) | 0.0126% |
@@ -6806,7 +6806,7 @@
 
 | Item | Chance |
 |------|--------|
-| 160x Zamogeon | 98.7769% |
+| 480x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Intensified Steel Armor (G46) | 0.012% |
 | Intensified Steel Helmet (G46) | 0.012% |
@@ -6859,7 +6859,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0096% |
 | Intensified Steel Helmet (G46) | 0.0096% |
@@ -6924,7 +6924,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0144% |
 | Intensified Steel Helmet (G46) | 0.0144% |
@@ -6987,7 +6987,7 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 98.7769% |
+| 468x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Intensified Steel Armor (G46) | 0.0126% |
 | Intensified Steel Helmet (G46) | 0.0126% |
@@ -7033,7 +7033,7 @@
 
 | Item | Chance |
 |------|--------|
-| 160x Zamogeon | 98.7769% |
+| 480x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Intensified Steel Armor (G46) | 0.012% |
 | Intensified Steel Helmet (G46) | 0.012% |
@@ -7086,7 +7086,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0096% |
 | Intensified Steel Helmet (G46) | 0.0096% |
@@ -7151,7 +7151,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0144% |
 | Intensified Steel Helmet (G46) | 0.0144% |
@@ -7213,7 +7213,7 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 98.7769% |
+| 468x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | BeeDan DaeChangEau (G46) | 0.0126% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0126% |
@@ -7259,7 +7259,7 @@
 
 | Item | Chance |
 |------|--------|
-| 160x Zamogeon | 98.7769% |
+| 480x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | BeeDan DaeChangEau (G46) | 0.0138% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0138% |
@@ -7305,7 +7305,7 @@
 
 | Item | Chance |
 |------|--------|
-| 196x Zamogeon | 99.5904% |
+| 588x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0096% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0096% |
@@ -7377,7 +7377,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0144% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0144% |
@@ -7433,7 +7433,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0144% |
 | SinGak DooSukLin Hood (G46) | 0.0144% |
@@ -7495,7 +7495,7 @@
 
 | Item | Chance |
 |------|--------|
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0144% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0144% |
@@ -7559,7 +7559,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0144% |
 | Intensified Steel Helmet (G46) | 0.0144% |
@@ -7630,7 +7630,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0144% |
 | Intensified Steel Helmet (G46) | 0.0144% |
@@ -7701,7 +7701,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 214x Zamogeon | 99.5904% |
+| 642x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0048% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0048% |
@@ -7790,7 +7790,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 220x Zamogeon | 99.5904% |
+| 660x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0048% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0048% |
@@ -7883,7 +7883,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 226x Zamogeon | 99.5904% |
+| 678x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.006% |
 | SinGak DooSukLin Hood (G46) | 0.006% |
@@ -7977,7 +7977,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 232x Zamogeon | 99.5904% |
+| 696x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.006% |
 | SinGak DooSukLin Hood (G46) | 0.006% |
@@ -8058,7 +8058,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 238x Zamogeon | 99.5904% |
+| 714x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -8152,7 +8152,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 244x Zamogeon | 99.5904% |
+| 732x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -8238,7 +8238,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 250x Zamogeon | 99.5904% |
+| 750x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -8327,7 +8327,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 256x Zamogeon | 99.5904% |
+| 768x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -8413,7 +8413,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 418x Zamogeon | 99.9518% |
+| 1254x Zamogeon | 99.9518% |
 | Golden Treasure Sword (G50) | 0.015% |
 | Butterfly-Shaped Treasure Sword (G50) | 0.015% |
 | Black Golden Treasure Sword (G50) | 0.015% |
@@ -8479,7 +8479,7 @@
 
 | Item | Chance |
 |------|--------|
-| 136x Zamogeon | 98.3016% |
+| 408x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi of Monster Face Fire | 9.7762% |
@@ -8529,7 +8529,7 @@
 
 | Item | Chance |
 |------|--------|
-| 138x Zamogeon | 98.3016% |
+| 414x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Gong Fire | 5.966% |
@@ -8581,7 +8581,7 @@
 
 | Item | Chance |
 |------|--------|
-| 140x Zamogeon | 98.3016% |
+| 420x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Drunken Doggebi Fire | 22.9393% |
@@ -8631,7 +8631,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 98.3016% |
+| 429x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Mask of Black Fire | 18.7426% |
@@ -8709,7 +8709,7 @@
 
 | Item | Chance |
 |------|--------|
-| 145x Zamogeon | 98.3016% |
+| 435x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Mask of Black Panther Fire | 12.0915% |
@@ -8759,7 +8759,7 @@
 
 | Item | Chance |
 |------|--------|
-| 147x Zamogeon | 98.3016% |
+| 441x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Giant Doggebi Fire | 22.9393% |
@@ -8811,7 +8811,7 @@
 
 | Item | Chance |
 |------|--------|
-| 149x Zamogeon | 98.3016% |
+| 447x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Savage Tribe's Religious Stick (G48) | 0.027% |
@@ -8860,7 +8860,7 @@
 
 | Item | Chance |
 |------|--------|
-| 136x Zamogeon | 98.3016% |
+| 408x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi of Monster Face Fire | 9.7762% |
@@ -8909,7 +8909,7 @@
 
 | Item | Chance |
 |------|--------|
-| 138x Zamogeon | 98.3016% |
+| 414x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Gong Fire | 5.966% |
@@ -8960,7 +8960,7 @@
 
 | Item | Chance |
 |------|--------|
-| 140x Zamogeon | 98.3016% |
+| 420x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Drunken Doggebi Fire | 22.9393% |
@@ -9009,7 +9009,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 98.3016% |
+| 429x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Mask of Black Fire | 18.7426% |
@@ -9086,7 +9086,7 @@
 
 | Item | Chance |
 |------|--------|
-| 145x Zamogeon | 98.3016% |
+| 435x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Mask of Black Panther Fire | 12.0915% |
@@ -9135,7 +9135,7 @@
 
 | Item | Chance |
 |------|--------|
-| 147x Zamogeon | 98.3016% |
+| 441x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Giant Doggebi Fire | 22.9393% |
@@ -9186,7 +9186,7 @@
 
 | Item | Chance |
 |------|--------|
-| 149x Zamogeon | 98.3016% |
+| 447x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Savage Tribe's Religious Stick (G48) | 0.027% |
@@ -9274,7 +9274,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150000x Zamogeon | 100.0% |
+| 450000x Zamogeon | 100.0% |
 | Ancient Treasure Sword (G56) | 40.5643% |
 | General's Treasure Sword (G56) | 40.5643% |
 | Ancient Dynasty's Treasure Sword (G56) | 40.5643% |
@@ -9290,7 +9290,7 @@
 | Ancient dagger (G56) | 40.5643% |
 | General's dagger (G56) | 40.5643% |
 | Ancient Dynasty's dagger (G56) | 40.5643% |
-| 200000x Zamogeon | 100.0% |
+| 600000x Zamogeon | 100.0% |
 | Treasure Sword of Doggebi (G59) | 12.4186% |
 | Treasure Sword of High Class Doggebi (G59) | 12.4186% |
 | Treasure Sword of Doggebi Lord (G59) | 12.4186% |
@@ -9310,7 +9310,7 @@
 | Dragon Bow of Sky (G65) | 48.8% |
 | Dragon Stick of Sky (G65) | 48.8% |
 | Dragon dagger of Sky (G65) | 48.8% |
-| 200000x Zamogeon | 96.5695% |
+| 600000x Zamogeon | 96.5695% |
 | Dragon Sword of Sky (G65) | 8.084% |
 | Dragon Giant Sword of Sky (G65) | 8.084% |
 | Dragon Bow of Sky (G65) | 8.084% |
@@ -9329,7 +9329,7 @@
 
 | Item | Chance |
 |------|--------|
-| 203x Zamogeon | 99.9719% |
+| 609x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Golden Treasure Sword (G50) | 0.0018% |
@@ -9379,7 +9379,7 @@
 
 | Item | Chance |
 |------|--------|
-| 206x Zamogeon | 99.9719% |
+| 618x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Golden Treasure Sword (G50) | 0.0018% |
@@ -9429,7 +9429,7 @@
 
 | Item | Chance |
 |------|--------|
-| 209x Zamogeon | 99.9719% |
+| 627x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Golden Treasure Sword (G50) | 0.0018% |
@@ -9479,7 +9479,7 @@
 
 | Item | Chance |
 |------|--------|
-| 209x Zamogeon | 99.9719% |
+| 627x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | High Class Doggebi with a Gong Fire | 21.7242% |
@@ -9530,7 +9530,7 @@
 
 | Item | Chance |
 |------|--------|
-| 212x Zamogeon | 99.9719% |
+| 636x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | High Class Doggebi with a Gong Fire | 21.7242% |
@@ -9581,7 +9581,7 @@
 
 | Item | Chance |
 |------|--------|
-| 215x Zamogeon | 99.9719% |
+| 645x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | High Class Doggebi with a Gong Fire | 21.7242% |
@@ -9632,7 +9632,7 @@
 
 | Item | Chance |
 |------|--------|
-| 215x Zamogeon | 99.9719% |
+| 645x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | High Class Drunken Doggebi Fire | 6.9874% |
@@ -9683,7 +9683,7 @@
 
 | Item | Chance |
 |------|--------|
-| 218x Zamogeon | 99.9719% |
+| 654x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | High Class Drunken Doggebi Fire | 6.9874% |
@@ -9734,7 +9734,7 @@
 
 | Item | Chance |
 |------|--------|
-| 221x Zamogeon | 99.9719% |
+| 663x Zamogeon | 99.9719% |
 | First Piece of Bronze Mirror | 0.054% |
 | Second Piece of Bronze Mirror | 0.054% |
 | High Class Drunken Doggebi Fire | 6.9874% |
@@ -9785,7 +9785,7 @@
 
 | Item | Chance |
 |------|--------|
-| 224x Zamogeon | 99.9719% |
+| 672x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | High Class Doggebi with a Mask of Black Crow Fire | 6.9874% |
@@ -9836,7 +9836,7 @@
 
 | Item | Chance |
 |------|--------|
-| 227x Zamogeon | 99.9719% |
+| 681x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | High Class Doggebi with a Mask of Black Crow Fire | 6.9874% |
@@ -9887,7 +9887,7 @@
 
 | Item | Chance |
 |------|--------|
-| 230x Zamogeon | 99.9719% |
+| 690x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | High Class Doggebi with a Mask of Black Crow Fire | 6.9874% |
@@ -9938,7 +9938,7 @@
 
 | Item | Chance |
 |------|--------|
-| 223x Zamogeon | 99.9719% |
+| 669x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Demon Crack Soldier's head | 9.2241% |
@@ -9988,7 +9988,7 @@
 
 | Item | Chance |
 |------|--------|
-| 226x Zamogeon | 99.9719% |
+| 678x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Demon Crack Soldier's head | 9.2241% |
@@ -10047,7 +10047,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 229x Zamogeon | 99.9719% |
+| 687x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Demon Crack Soldier's head | 9.2241% |
@@ -10106,7 +10106,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 232x Zamogeon | 99.9719% |
+| 696x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Chief of Demon Crack Troop's head | 16.0826% |
@@ -10165,7 +10165,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 235x Zamogeon | 99.9719% |
+| 705x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Chief of Demon Crack Troop's head | 16.0826% |
@@ -10224,7 +10224,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 238x Zamogeon | 99.9719% |
+| 714x Zamogeon | 99.9719% |
 | Second Piece of Bronze Mirror | 0.054% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Chief of Demon Crack Troop's head | 16.0826% |
@@ -10283,7 +10283,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 241x Zamogeon | 99.9719% |
+| 723x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Monster of Demon Crack Troop's head | 3.7791% |
@@ -10342,7 +10342,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 244x Zamogeon | 99.9719% |
+| 732x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Monster of Demon Crack Troop's head | 3.7791% |
@@ -10401,7 +10401,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 247x Zamogeon | 99.9719% |
+| 741x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Monster of Demon Crack Troop's head | 3.7791% |
@@ -10460,7 +10460,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 244x Zamogeon | 99.9719% |
+| 732x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | White Beast of Demon Crack Troop's head  | 6.9874% |
@@ -10523,7 +10523,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 247x Zamogeon | 99.9719% |
+| 741x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | White Beast of Demon Crack Troop's head  | 6.9874% |
@@ -10586,7 +10586,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 250x Zamogeon | 99.9719% |
+| 750x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | White Beast of Demon Crack Troop's head  | 6.9874% |
@@ -10649,7 +10649,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 250x Zamogeon | 99.9719% |
+| 750x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Blue Beast of Demon Crack Troop's head | 2.3761% |
@@ -10712,7 +10712,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 253x Zamogeon | 99.9719% |
+| 759x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Blue Beast of Demon Crack Troop's head | 2.3761% |
@@ -10775,7 +10775,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 256x Zamogeon | 99.9719% |
+| 768x Zamogeon | 99.9719% |
 | Third Piece of Bronze Mirror | 0.054% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Blue Beast of Demon Crack Troop's head | 2.3761% |
@@ -10838,7 +10838,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 259x Zamogeon | 99.9719% |
+| 777x Zamogeon | 99.9719% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Fifth Piece of Bronze Mirror | 0.054% |
 | Diamond Scaled Armor (G50) | 0.0012% |
@@ -10900,7 +10900,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 264x Zamogeon | 99.9719% |
+| 792x Zamogeon | 99.9719% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Fifth Piece of Bronze Mirror | 0.054% |
 | Diamond Scaled Armor (G50) | 0.0012% |
@@ -10962,7 +10962,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 269x Zamogeon | 99.9719% |
+| 807x Zamogeon | 99.9719% |
 | Forth Piece of Bronze Mirror | 0.054% |
 | Fifth Piece of Bronze Mirror | 0.054% |
 | Diamond Scaled Armor (G50) | 0.0012% |
@@ -11024,7 +11024,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 288x Zamogeon | 98.3223% |
+| 864x Zamogeon | 98.3223% |
 | Forth Piece of Bronze Mirror | 0.027% |
 | Fifth Piece of Bronze Mirror | 0.027% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11116,7 +11116,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 290x Zamogeon | 98.3223% |
+| 870x Zamogeon | 98.3223% |
 | Forth Piece of Bronze Mirror | 0.027% |
 | Fifth Piece of Bronze Mirror | 0.027% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11199,7 +11199,7 @@
 
 | Item | Chance |
 |------|--------|
-| 292x Zamogeon | 98.3223% |
+| 876x Zamogeon | 98.3223% |
 | Forth Piece of Bronze Mirror | 0.027% |
 | Fifth Piece of Bronze Mirror | 0.027% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11291,7 +11291,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 294x Zamogeon | 98.3223% |
+| 882x Zamogeon | 98.3223% |
 | Forth Piece of Bronze Mirror | 0.027% |
 | Fifth Piece of Bronze Mirror | 0.027% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11383,7 +11383,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 296x Zamogeon | 98.3223% |
+| 888x Zamogeon | 98.3223% |
 | Forth Piece of Bronze Mirror | 0.027% |
 | Fifth Piece of Bronze Mirror | 0.027% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11475,7 +11475,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 298x Zamogeon | 98.3223% |
+| 894x Zamogeon | 98.3223% |
 | Forth Piece of Bronze Mirror | 0.027% |
 | Fifth Piece of Bronze Mirror | 0.027% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11567,7 +11567,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 296x Zamogeon | 98.2424% |
+| 888x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11659,7 +11659,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 298x Zamogeon | 98.2424% |
+| 894x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11751,7 +11751,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 300x Zamogeon | 98.2424% |
+| 900x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11843,7 +11843,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 302x Zamogeon | 98.2424% |
+| 906x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -11935,7 +11935,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 300x Zamogeon | 98.2424% |
+| 900x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12027,7 +12027,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 302x Zamogeon | 98.2424% |
+| 906x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12119,7 +12119,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 300x Zamogeon | 98.2424% |
+| 900x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12202,7 +12202,7 @@
 
 | Item | Chance |
 |------|--------|
-| 302x Zamogeon | 98.2424% |
+| 906x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12294,7 +12294,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 304x Zamogeon | 98.2424% |
+| 912x Zamogeon | 98.2424% |
 | Fifth Piece of Bronze Mirror | 0.0225% |
 | Six Piece of Bronze Mirror | 0.015% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12386,7 +12386,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 306x Zamogeon | 97.8422% |
+| 918x Zamogeon | 97.8422% |
 | Six Piece of Bronze Mirror | 0.012% |
 | Seventh Piece of Bronze Mirror | 0.006% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12478,7 +12478,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 308x Zamogeon | 97.8422% |
+| 924x Zamogeon | 97.8422% |
 | Six Piece of Bronze Mirror | 0.012% |
 | Seventh Piece of Bronze Mirror | 0.006% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12570,7 +12570,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 310x Zamogeon | 97.8422% |
+| 930x Zamogeon | 97.8422% |
 | Six Piece of Bronze Mirror | 0.012% |
 | Seventh Piece of Bronze Mirror | 0.006% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12667,7 +12667,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 312x Zamogeon | 97.8422% |
+| 936x Zamogeon | 97.8422% |
 | Six Piece of Bronze Mirror | 0.012% |
 | Seventh Piece of Bronze Mirror | 0.006% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12760,7 +12760,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 314x Zamogeon | 97.8422% |
+| 942x Zamogeon | 97.8422% |
 | Six Piece of Bronze Mirror | 0.012% |
 | Seventh Piece of Bronze Mirror | 0.006% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12853,7 +12853,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 316x Zamogeon | 97.8422% |
+| 948x Zamogeon | 97.8422% |
 | Six Piece of Bronze Mirror | 0.012% |
 | Seventh Piece of Bronze Mirror | 0.006% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -12951,7 +12951,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 314x Zamogeon | 97.8236% |
+| 942x Zamogeon | 97.8236% |
 | Seventh Piece of Bronze Mirror | 0.003% |
 | Eighth Piece of Bronze Mirror | 0.003% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -13044,7 +13044,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 316x Zamogeon | 97.8236% |
+| 948x Zamogeon | 97.8236% |
 | Seventh Piece of Bronze Mirror | 0.003% |
 | Eighth Piece of Bronze Mirror | 0.003% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -13137,7 +13137,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 318x Zamogeon | 97.8236% |
+| 954x Zamogeon | 97.8236% |
 | Seventh Piece of Bronze Mirror | 0.003% |
 | Eighth Piece of Bronze Mirror | 0.003% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -13235,7 +13235,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 316x Zamogeon | 97.8236% |
+| 948x Zamogeon | 97.8236% |
 | Seventh Piece of Bronze Mirror | 0.003% |
 | Eighth Piece of Bronze Mirror | 0.003% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -13328,7 +13328,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 318x Zamogeon | 97.8236% |
+| 954x Zamogeon | 97.8236% |
 | Seventh Piece of Bronze Mirror | 0.003% |
 | Eighth Piece of Bronze Mirror | 0.003% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -13421,7 +13421,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 320x Zamogeon | 97.8236% |
+| 960x Zamogeon | 97.8236% |
 | Seventh Piece of Bronze Mirror | 0.003% |
 | Eighth Piece of Bronze Mirror | 0.003% |
 | Diamond Scaled Armor (G50) | 0.0006% |
@@ -13510,7 +13510,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 97.8048% |
+| 1500x Zamogeon | 97.8048% |
 
 ## 291 Wooden Box
 
@@ -13558,7 +13558,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -13668,7 +13668,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -13778,7 +13778,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -13888,7 +13888,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -13998,7 +13998,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -14127,7 +14127,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -14237,7 +14237,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -14356,7 +14356,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -14475,7 +14475,7 @@
 | Stone of Paralysis | 0.0006% |
 | Stone of Strength | 0.0006% |
 | Stone of Skill | 0.0006% |
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -14594,7 +14594,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -14713,7 +14713,7 @@
 | Stone of Paralysis | 0.0012% |
 | Stone of Strength | 0.0012% |
 | Stone of Skill | 0.0012% |
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -14832,7 +14832,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -14970,7 +14970,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -15118,7 +15118,7 @@
 | Stone of Paralysis | 0.0018% |
 | Stone of Strength | 0.0018% |
 | Stone of Skill | 0.0018% |
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -15233,7 +15233,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -15364,7 +15364,7 @@
 
 | Item | Chance |
 |------|--------|
-| 100000x Zamogeon | 100.0% |
+| 300000x Zamogeon | 100.0% |
 | Scaled Armor of Darkness (G60) | 39.7605% |
 | Scaled Helmet of Darkness (G60) | 39.7605% |
 | Scaled Gloves of Darkness (G60) | 39.7605% |
@@ -15385,7 +15385,7 @@
 | Darkness Gloves of thief (G60) | 39.7605% |
 | Darkness Boots of thief (G60) | 39.7605% |
 | Darkness suit Shorts of thief (G60) | 39.7605% |
-| 150000x Zamogeon | 37.1% |
+| 450000x Zamogeon | 37.1% |
 | Sword of Darkness (G62) | 56.6942% |
 | Giant Sword of Darkness (G62) | 56.6942% |
 | Bow of Darkness (G62) | 56.6942% |
@@ -15446,7 +15446,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 97.8048% |
+| 450x Zamogeon | 97.8048% |
 | The Cave of The Giant Bird Demon's Head | 14.1271% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
@@ -15701,7 +15701,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -15740,7 +15740,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -15788,7 +15788,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -15845,7 +15845,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -15902,7 +15902,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -15960,7 +15960,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -16008,7 +16008,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16047,7 +16047,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150000x Zamogeon | 95.5526% |
+| 450000x Zamogeon | 95.5526% |
 | Doggebi Scaled Armor (G55) | 19.4474% |
 | Doggebi Scaled Armor Helmet (G55) | 19.4474% |
 | Doggebi Scaled Armor Gloves (G55) | 19.4474% |
@@ -16068,7 +16068,7 @@
 | Doggebi Gloves of thief (G55) | 19.4474% |
 | Doggebi Boots of thief (G55) | 19.4474% |
 | Doggebi suit Shorts of thief (G55) | 19.4474% |
-| 200000x Zamogeon | 98.2573% |
+| 600000x Zamogeon | 98.2573% |
 | Golden Scaled Armor (G60) | 20.1709% |
 | Golden Scaled Armor Shorts (G60) | 20.1709% |
 | Golden Armor (G60) | 20.1709% |
@@ -16077,7 +16077,7 @@
 | Golden DaeChangEau Shorts (G60) | 20.1709% |
 | Golden suit of thief (G60) | 20.1709% |
 | Golden suit Shorts of thief (G60) | 20.1709% |
-| 100000x Zamogeon | 91.8705% |
+| 300000x Zamogeon | 91.8705% |
 | Ancient Treasure Sword (G56) | 63.0456% |
 | General's Treasure Sword (G56) | 63.0456% |
 | Ancient Dynasty's Treasure Sword (G56) | 63.0456% |
@@ -16163,7 +16163,7 @@
 
 | Item | Chance |
 |------|--------|
-| 281x Zamogeon | 97.8048% |
+| 843x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0009% |
 | Stone of Holy | 0.0009% |
 | Stone of Flame | 0.0009% |
@@ -16207,7 +16207,7 @@
 
 | Item | Chance |
 |------|--------|
-| 281x Zamogeon | 97.8048% |
+| 843x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0009% |
 | Stone of Holy | 0.0009% |
 | Stone of Flame | 0.0009% |
@@ -16251,7 +16251,7 @@
 
 | Item | Chance |
 |------|--------|
-| 281x Zamogeon | 97.8048% |
+| 843x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0009% |
 | Stone of Holy | 0.0009% |
 | Stone of Flame | 0.0009% |
@@ -16295,7 +16295,7 @@
 
 | Item | Chance |
 |------|--------|
-| 281x Zamogeon | 97.8048% |
+| 843x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0009% |
 | Stone of Holy | 0.0009% |
 | Stone of Flame | 0.0009% |
@@ -16339,7 +16339,7 @@
 
 | Item | Chance |
 |------|--------|
-| 281x Zamogeon | 97.8048% |
+| 843x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0009% |
 | Stone of Holy | 0.0009% |
 | Stone of Flame | 0.0009% |
@@ -16389,7 +16389,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16429,7 +16429,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16469,7 +16469,7 @@
 
 | Item | Chance |
 |------|--------|
-| 281x Zamogeon | 97.8048% |
+| 843x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0009% |
 | Stone of Holy | 0.0009% |
 | Stone of Flame | 0.0009% |
@@ -16513,7 +16513,7 @@
 
 | Item | Chance |
 |------|--------|
-| 281x Zamogeon | 97.8048% |
+| 843x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0009% |
 | Stone of Holy | 0.0009% |
 | Stone of Flame | 0.0009% |
@@ -16557,7 +16557,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16597,7 +16597,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16637,7 +16637,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16677,7 +16677,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16717,7 +16717,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16757,7 +16757,7 @@
 
 | Item | Chance |
 |------|--------|
-| 321x Zamogeon | 97.8048% |
+| 963x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0018% |
 | Stone of Holy | 0.0018% |
 | Stone of Flame | 0.0018% |
@@ -16797,7 +16797,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -16855,7 +16855,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -16913,7 +16913,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -16971,7 +16971,7 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 | Stone of Shadow | 0.0027% |
 | Stone of Holy | 0.0027% |
 | Stone of Flame | 0.0027% |
@@ -17040,25 +17040,25 @@
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 
 ## 413 Twisted Demon Patrol
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 
 ## 414 Twisted Demon Warrior
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 
 ## 415 Twisted Demon Soldier
 
 | Item | Chance |
 |------|--------|
-| 356x Zamogeon | 97.8048% |
+| 1068x Zamogeon | 97.8048% |
 
 ## 416 Tobyong
 
@@ -17337,7 +17337,7 @@
 | Stone of Shadow | 0.0036% |
 | Talisman of Intensification (Explosive/Destructive) | 0.012% |
 | Imperfect element of ground | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17369,7 +17369,7 @@
 | Stone of Shadow | 0.0036% |
 | Talisman of Intensification (Explosive/Destructive) | 0.012% |
 | Imperfect element of ground | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17401,7 +17401,7 @@
 | Stone of Shadow | 0.0036% |
 | Talisman of Intensification (Explosive/Destructive) | 0.012% |
 | Imperfect element of ground | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17433,7 +17433,7 @@
 | Stone of Flame | 0.0036% |
 | Talisman of Intensification (Fundamental/High Class') | 0.012% |
 | Imperfect element of fire | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17465,7 +17465,7 @@
 | Stone of Flame | 0.0036% |
 | Talisman of Intensification (Fundamental/High Class') | 0.012% |
 | Imperfect element of fire | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17497,7 +17497,7 @@
 | Stone of Flame | 0.0036% |
 | Talisman of Intensification (Fundamental/High Class') | 0.012% |
 | Imperfect element of fire | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17529,7 +17529,7 @@
 | Stone of Ice | 0.0036% |
 | Talisman of Intensification (Mighty/Absoluteness') | 0.012% |
 | Imperfect element of water | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17561,7 +17561,7 @@
 | Stone of Ice | 0.0036% |
 | Talisman of Intensification (Mighty/Absoluteness') | 0.012% |
 | Imperfect element of water | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17593,7 +17593,7 @@
 | Stone of Ice | 0.0036% |
 | Talisman of Intensification (Mighty/Absoluteness') | 0.012% |
 | Imperfect element of water | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17625,7 +17625,7 @@
 | Stone of Lightening | 0.0036% |
 | Talisman of Intensification (Decisional/Dashy) | 0.012% |
 | Imperfect element of iron | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17657,7 +17657,7 @@
 | Stone of Lightening | 0.0036% |
 | Talisman of Intensification (Decisional/Dashy) | 0.012% |
 | Imperfect element of iron | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17689,7 +17689,7 @@
 | Stone of Lightening | 0.0036% |
 | Talisman of Intensification (Decisional/Dashy) | 0.012% |
 | Imperfect element of iron | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17721,7 +17721,7 @@
 | Stone of Paralysis | 0.0036% |
 | Talisman of Protection (Despotic/Forced) | 0.012% |
 | Imperfect element of wood | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17753,7 +17753,7 @@
 | Stone of Paralysis | 0.0036% |
 | Talisman of Protection (Despotic/Forced) | 0.012% |
 | Imperfect element of wood | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17785,7 +17785,7 @@
 | Stone of Paralysis | 0.0036% |
 | Talisman of Protection (Despotic/Forced) | 0.012% |
 | Imperfect element of wood | 8.7327% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17820,7 +17820,7 @@
 | Imperfect element of wood | 0.8973% |
 | Imperfect element of iron | 0.8973% |
 | Imperfect element of ground | 0.8973% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17867,7 +17867,7 @@
 | Imperfect element of wood | 0.8973% |
 | Imperfect element of iron | 0.8973% |
 | Imperfect element of ground | 0.8973% |
-| 247x Zamogeon | 93.357% |
+| 741x Zamogeon | 93.357% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Scaled Helmet of Doggebi (G55) | 0.0006% |
 | Scaled Gloves of Doggebi (G55) | 0.0006% |
@@ -17911,7 +17911,7 @@
 | Blood Dragon's DaeChangEau Shoes (G65) | 2.7776% |
 | Blood Dragon's Armor Shoes (G65) | 2.7776% |
 | Blood Dragon's Boots of thief (G65) | 2.7776% |
-| 3334x Zamogeon | 100.0% |
+| 10002x Zamogeon | 100.0% |
 | Essence of earth element | 92.4915% |
 | element of ground | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
@@ -17961,7 +17961,7 @@
 | Blood Dragon's Armor Shoes (G65) | 1.1194% |
 | Blood Dragon's Suit of thief (G65) | 1.1194% |
 | Blood Dragon's Suit of thief (G65) | 1.1194% |
-| 3334x Zamogeon | 100.0% |
+| 10002x Zamogeon | 100.0% |
 | Essence of fire element | 92.4915% |
 | element of fire | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
@@ -18011,7 +18011,7 @@
 | Blood Dragon's Scaled Armor Shoes (G65) | 1.1194% |
 | Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
 | Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
-| 3334x Zamogeon | 100.0% |
+| 10002x Zamogeon | 100.0% |
 | Essence of water element | 92.4915% |
 | element of water | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
@@ -18061,7 +18061,7 @@
 | Blood Dragon's Armor Shoes (G65) | 1.1194% |
 | Blood Dragon's DaeChangEau Shoes (G65) | 1.1194% |
 | Blood Dragon's Suit of thief (G65) | 1.1194% |
-| 3334x Zamogeon | 100.0% |
+| 10002x Zamogeon | 100.0% |
 | Essence of iron element | 92.4915% |
 | element of iron | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
@@ -18111,7 +18111,7 @@
 | Blood Dragon's DaeChangEau Shoes (G65) | 1.1194% |
 | Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
 | Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
-| 3334x Zamogeon | 100.0% |
+| 10002x Zamogeon | 100.0% |
 | Essence of wood element | 92.4915% |
 | element of wood | 95.9646% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
@@ -18152,7 +18152,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Prideful/Healthy) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18188,7 +18188,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Prideful/Healthy) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18224,7 +18224,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Prideful/Healthy) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18260,7 +18260,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Prideful/Healthy) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18296,7 +18296,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Prideful/Healthy) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18332,7 +18332,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18368,7 +18368,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18404,7 +18404,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18440,7 +18440,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18476,7 +18476,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18512,7 +18512,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18548,7 +18548,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18584,7 +18584,7 @@
 | Item | Chance |
 |------|--------|
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18622,7 +18622,7 @@
 | Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
 | Talisman of Protection (Glorious/Fixed) | 0.006% |
 | Talisman of Intensification (Legendary/Rash) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18660,7 +18660,7 @@
 | Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
 | Talisman of Protection (Glorious/Fixed) | 0.006% |
 | Talisman of Intensification (Legendary/Rash) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18698,7 +18698,7 @@
 | Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
 | Talisman of Protection (Glorious/Fixed) | 0.006% |
 | Talisman of Intensification (Legendary/Rash) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18736,7 +18736,7 @@
 | Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
 | Talisman of Protection (Glorious/Fixed) | 0.006% |
 | Talisman of Intensification (Legendary/Rash) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18774,7 +18774,7 @@
 | Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
 | Talisman of Protection (Glorious/Fixed) | 0.006% |
 | Talisman of Intensification (Legendary/Rash) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18812,7 +18812,7 @@
 | Talisman of Intensification (Fundamental/High Class') | 0.006% |
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
 | Talisman of Intensification (Magical Power's/Wise) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18850,7 +18850,7 @@
 | Talisman of Intensification (Fundamental/High Class') | 0.006% |
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
 | Talisman of Intensification (Magical Power's/Wise) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18888,7 +18888,7 @@
 | Talisman of Intensification (Fundamental/High Class') | 0.006% |
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
 | Talisman of Intensification (Magical Power's/Wise) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18926,7 +18926,7 @@
 | Talisman of Intensification (Fundamental/High Class') | 0.006% |
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
 | Talisman of Intensification (Magical Power's/Wise) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -18964,7 +18964,7 @@
 | Talisman of Intensification (Fundamental/High Class') | 0.006% |
 | Talisman of Protection (Ruinous/Fictional) | 0.006% |
 | Talisman of Intensification (Magical Power's/Wise) | 0.006% |
-| 247x Zamogeon | 91.4816% |
+| 741x Zamogeon | 91.4816% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -19001,7 +19001,7 @@
 |------|--------|
 | Stone of Holy | 0.0018% |
 | Talisman of Intensification (Legendary/Rash) | 0.006% |
-| 247x Zamogeon | 91.8423% |
+| 741x Zamogeon | 91.8423% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -19038,7 +19038,7 @@
 |------|--------|
 | Stone of Holy | 0.0018% |
 | Talisman of Intensification (Legendary/Rash) | 0.006% |
-| 247x Zamogeon | 91.8423% |
+| 741x Zamogeon | 91.8423% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -19075,7 +19075,7 @@
 |------|--------|
 | Stone of Holy | 0.0018% |
 | Talisman of Intensification (Legendary/Rash) | 0.006% |
-| 247x Zamogeon | 91.8423% |
+| 741x Zamogeon | 91.8423% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -19113,7 +19113,7 @@
 | Stone of Poison | 0.0018% |
 | Stone of Skill | 0.0018% |
 | Talisman of Protection (Glorious/Fixed) | 0.006% |
-| 247x Zamogeon | 91.8423% |
+| 741x Zamogeon | 91.8423% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -19149,7 +19149,7 @@
 | Stone of Poison | 0.0018% |
 | Stone of Skill | 0.0018% |
 | Talisman of Protection (Glorious/Fixed) | 0.006% |
-| 247x Zamogeon | 91.8423% |
+| 741x Zamogeon | 91.8423% |
 | Imperfect element of fire | 0.9062% |
 | Imperfect element of water | 0.9062% |
 | Imperfect element of wood | 0.9062% |
@@ -19182,7 +19182,7 @@
 
 | Item | Chance |
 |------|--------|
-| 66500x Zamogeon | 100.0% |
+| 199500x Zamogeon | 100.0% |
 | Blood Dragon's Dagger (G70) | 13.8829% |
 | Blood Dragon's Sword (G70) | 13.8829% |
 | Blood Dragon's Giant sword (G70) | 13.8829% |
@@ -19205,7 +19205,7 @@
 
 | Item | Chance |
 |------|--------|
-| 66500x Zamogeon | 100.0% |
+| 199500x Zamogeon | 100.0% |
 | Blood Dragon's Dagger (G70) | 13.8829% |
 | Blood Dragon's Sword (G70) | 13.8829% |
 | Blood Dragon's Giant sword (G70) | 13.8829% |
@@ -19233,7 +19233,7 @@
 
 | Item | Chance |
 |------|--------|
-| 100x Zamogeon | 57.3892% |
+| 300x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -19242,7 +19242,7 @@
 
 | Item | Chance |
 |------|--------|
-| 100x Zamogeon | 57.3892% |
+| 300x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -19251,7 +19251,7 @@
 
 | Item | Chance |
 |------|--------|
-| 100x Zamogeon | 57.3892% |
+| 300x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -19260,7 +19260,7 @@
 
 | Item | Chance |
 |------|--------|
-| 100x Zamogeon | 57.3892% |
+| 300x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -19269,7 +19269,7 @@
 
 | Item | Chance |
 |------|--------|
-| 100x Zamogeon | 57.3892% |
+| 300x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -19278,7 +19278,7 @@
 
 | Item | Chance |
 |------|--------|
-| 200x Zamogeon | 47.6393% |
+| 600x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -19290,7 +19290,7 @@
 
 | Item | Chance |
 |------|--------|
-| 200x Zamogeon | 47.6393% |
+| 600x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -19302,7 +19302,7 @@
 
 | Item | Chance |
 |------|--------|
-| 200x Zamogeon | 47.6393% |
+| 600x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -19314,7 +19314,7 @@
 
 | Item | Chance |
 |------|--------|
-| 200x Zamogeon | 47.6393% |
+| 600x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -19326,7 +19326,7 @@
 
 | Item | Chance |
 |------|--------|
-| 200x Zamogeon | 47.6393% |
+| 600x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -19338,7 +19338,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 42.5937% |
+| 900x Zamogeon | 42.5937% |
 | Speed up Medicine | 30.1191% |
 | Baked Eel | 0.1688% |
 | Doggebi's Certificate(1) | 0.1688% |
@@ -19364,7 +19364,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 42.5937% |
+| 900x Zamogeon | 42.5937% |
 | Speed up Medicine | 30.1191% |
 | Baked Eel | 0.1688% |
 | Doggebi's Certificate(1) | 0.1688% |
@@ -19390,7 +19390,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 42.5937% |
+| 900x Zamogeon | 42.5937% |
 | Speed up Medicine | 30.1191% |
 | Baked Eel | 0.1688% |
 | Doggebi's Certificate(1) | 0.1688% |
@@ -19416,7 +19416,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 42.5937% |
+| 900x Zamogeon | 42.5937% |
 | Speed up Medicine | 30.1191% |
 | Baked Eel | 0.1688% |
 | Doggebi's Certificate(1) | 0.1688% |
@@ -19442,7 +19442,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 42.5937% |
+| 900x Zamogeon | 42.5937% |
 | Speed up Medicine | 30.1191% |
 | Baked Eel | 0.1688% |
 | Doggebi's Certificate(1) | 0.1688% |
@@ -19468,7 +19468,7 @@
 
 | Item | Chance |
 |------|--------|
-| 400x Zamogeon | 70.8935% |
+| 1200x Zamogeon | 70.8935% |
 | Baked Eel | 0.1487% |
 | Doggebi's Certificate(5) | 0.7422% |
 | Doggebi's Certificate(10) | 0.1487% |
@@ -19497,7 +19497,7 @@
 
 | Item | Chance |
 |------|--------|
-| 400x Zamogeon | 70.8935% |
+| 1200x Zamogeon | 70.8935% |
 | Baked Eel | 0.1487% |
 | Doggebi's Certificate(5) | 0.7422% |
 | Doggebi's Certificate(10) | 0.1487% |
@@ -19526,7 +19526,7 @@
 
 | Item | Chance |
 |------|--------|
-| 400x Zamogeon | 70.8935% |
+| 1200x Zamogeon | 70.8935% |
 | Baked Eel | 0.1487% |
 | Doggebi's Certificate(5) | 0.7422% |
 | Doggebi's Certificate(10) | 0.1487% |
@@ -19555,7 +19555,7 @@
 
 | Item | Chance |
 |------|--------|
-| 400x Zamogeon | 70.8935% |
+| 1200x Zamogeon | 70.8935% |
 | Baked Eel | 0.1487% |
 | Doggebi's Certificate(5) | 0.7422% |
 | Doggebi's Certificate(10) | 0.1487% |
@@ -19584,7 +19584,7 @@
 
 | Item | Chance |
 |------|--------|
-| 400x Zamogeon | 70.8935% |
+| 1200x Zamogeon | 70.8935% |
 | Baked Eel | 0.1487% |
 | Doggebi's Certificate(5) | 0.7422% |
 | Doggebi's Certificate(10) | 0.1487% |
@@ -19613,7 +19613,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19654,7 +19654,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19695,7 +19695,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19736,7 +19736,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19777,7 +19777,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19818,7 +19818,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19856,7 +19856,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -19864,7 +19864,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19902,7 +19902,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -19910,7 +19910,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19948,7 +19948,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -19956,7 +19956,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -19994,7 +19994,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -20002,7 +20002,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -20040,7 +20040,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -20048,7 +20048,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -20086,7 +20086,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -20094,7 +20094,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -20132,7 +20132,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -20140,7 +20140,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -20178,7 +20178,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -20186,7 +20186,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -20224,7 +20224,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -20232,7 +20232,7 @@
 
 | Item | Chance |
 |------|--------|
-| 500x Zamogeon | 26.7495% |
+| 1500x Zamogeon | 26.7495% |
 | Doggebi's Certificate(10) | 0.003% |
 | Talisman of Protection (Despotic/Forced) | 0.0015% |
 | Talisman of Protection (Revenge's/Agile) | 0.0015% |
@@ -20270,7 +20270,7 @@
 | Golden Boots of thief (G60) | 0.0003% |
 | Piece of Unknown World | 0.003% |
 | Essence of undead | 0.0006% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 | High-Grade Scroll of Rebirth | 0.003% |
 | Polishing Stone | 0.003% |
 
@@ -20393,7 +20393,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20421,7 +20421,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20449,7 +20449,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20477,7 +20477,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20505,7 +20505,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20533,7 +20533,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20560,7 +20560,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20587,7 +20587,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20614,7 +20614,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20641,7 +20641,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20668,7 +20668,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20695,7 +20695,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20722,7 +20722,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20749,7 +20749,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20776,7 +20776,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20803,7 +20803,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20830,7 +20830,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20857,7 +20857,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20884,7 +20884,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20911,7 +20911,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20938,7 +20938,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20965,7 +20965,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -20992,7 +20992,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21019,7 +21019,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21046,7 +21046,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21073,7 +21073,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21101,7 +21101,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21129,7 +21129,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21157,7 +21157,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21184,7 +21184,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21211,7 +21211,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21238,7 +21238,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21265,7 +21265,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21292,7 +21292,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21319,7 +21319,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21347,7 +21347,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21375,7 +21375,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21403,7 +21403,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21430,7 +21430,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21457,7 +21457,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21484,7 +21484,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21512,7 +21512,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21540,7 +21540,7 @@
 
 | Item | Chance |
 |------|--------|
-| 340x Zamogeon | 99.9518% |
+| 1020x Zamogeon | 99.9518% |
 | Stone of Shadow | 0.018% |
 | Stone of Holy | 0.018% |
 | Stone of Flame | 0.018% |
@@ -21577,13 +21577,13 @@
 | Blood Dragon's Giant sword (G70) | 57.8125% |
 | Blood Dragon's Bow (G70) | 57.8125% |
 | Blood Dragon's Stick (G70) | 57.8125% |
-| 1000x Zamogeon | 83.3307% |
+| 3000x Zamogeon | 83.3307% |
 
 ## 824 Noktoo General
 
 | Item | Chance |
 |------|--------|
-| 10000x Zamogeon | 100.0% |
+| 30000x Zamogeon | 100.0% |
 | Blood Dragon's Sword (G70) | 0.4372% |
 | Blood Dragon's Giant sword (G70) | 0.4372% |
 | Blood Dragon's Bow (G70) | 0.4372% |
@@ -21603,7 +21603,7 @@
 
 | Item | Chance |
 |------|--------|
-| 10000x Zamogeon | 100.0% |
+| 30000x Zamogeon | 100.0% |
 | Blood Dragon's Sword (G70) | 0.4372% |
 | Blood Dragon's Giant sword (G70) | 0.4372% |
 | Blood Dragon's Bow (G70) | 0.4372% |
@@ -21623,7 +21623,7 @@
 
 | Item | Chance |
 |------|--------|
-| 10000x Zamogeon | 100.0% |
+| 30000x Zamogeon | 100.0% |
 | Blood Dragon's Sword (G70) | 0.4372% |
 | Blood Dragon's Giant sword (G70) | 0.4372% |
 | Blood Dragon's Bow (G70) | 0.4372% |
@@ -21643,7 +21643,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | element of ground | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21660,7 +21660,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -21693,7 +21693,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | element of fire | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21710,7 +21710,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -21743,7 +21743,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | element of water | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21760,7 +21760,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -21793,7 +21793,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | element of iron | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21810,7 +21810,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -21843,7 +21843,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | element of wood | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21860,7 +21860,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -21893,7 +21893,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Scaled Armor of Doggebi (G55) | 0.0612% |
 | Armor of Doggebi (G55) | 0.0612% |
 | DaeChangEau of Doggebi (G55) | 0.0612% |
@@ -21919,7 +21919,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | element of ground | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21936,7 +21936,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | element of ground | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21953,7 +21953,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | element of ground | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21970,7 +21970,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | element of ground | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -21987,7 +21987,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | element of fire | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22004,7 +22004,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | element of fire | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22021,7 +22021,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | element of fire | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22038,7 +22038,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | element of fire | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22055,7 +22055,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | element of water | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22072,7 +22072,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | element of water | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22089,7 +22089,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | element of water | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22106,7 +22106,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | element of water | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22123,7 +22123,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | element of iron | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22140,7 +22140,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | element of iron | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22157,7 +22157,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | element of iron | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22174,7 +22174,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | element of iron | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22191,7 +22191,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | element of wood | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22208,7 +22208,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | element of wood | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22225,7 +22225,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | element of wood | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22242,7 +22242,7 @@
 
 | Item | Chance |
 |------|--------|
-| 143x Zamogeon | 99.9832% |
+| 429x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | element of wood | 0.048% |
 | Talisman of Protection (Despotic/Forced) | 0.006% |
@@ -22259,7 +22259,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22292,7 +22292,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22325,7 +22325,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22358,7 +22358,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of ground | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22391,7 +22391,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22424,7 +22424,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22457,7 +22457,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22490,7 +22490,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of fire | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22523,7 +22523,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22556,7 +22556,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22589,7 +22589,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22622,7 +22622,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of water | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22655,7 +22655,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22688,7 +22688,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22721,7 +22721,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22754,7 +22754,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of iron | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22787,7 +22787,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22820,7 +22820,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22853,7 +22853,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22886,7 +22886,7 @@
 
 | Item | Chance |
 |------|--------|
-| 148x Zamogeon | 99.9832% |
+| 444x Zamogeon | 99.9832% |
 | Imperfect element of wood | 5.852% |
 | Scaled Armor of Doggebi (G55) | 0.0006% |
 | Armor of Doggebi (G55) | 0.0006% |
@@ -22919,7 +22919,7 @@
 
 | Item | Chance |
 |------|--------|
-| 200000x Zamogeon | 100.0% |
+| 600000x Zamogeon | 100.0% |
 | Blood Dragon's Sword (G70) | 4.3008% |
 | Blood Dragon's Giant sword (G70) | 4.3008% |
 | Blood Dragon's Bow (G70) | 4.3008% |
