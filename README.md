@@ -9274,7 +9274,7 @@
 
 | Item | Chance |
 |------|--------|
-| 450000x Zamogeon | 100.0% |
+| 150000x Zamogeon | 100.0% |
 | Ancient Treasure Sword (G56) | 40.5643% |
 | General's Treasure Sword (G56) | 40.5643% |
 | Ancient Dynasty's Treasure Sword (G56) | 40.5643% |
@@ -9290,7 +9290,7 @@
 | Ancient dagger (G56) | 40.5643% |
 | General's dagger (G56) | 40.5643% |
 | Ancient Dynasty's dagger (G56) | 40.5643% |
-| 600000x Zamogeon | 100.0% |
+| 200000x Zamogeon | 100.0% |
 | Treasure Sword of Doggebi (G59) | 12.4186% |
 | Treasure Sword of High Class Doggebi (G59) | 12.4186% |
 | Treasure Sword of Doggebi Lord (G59) | 12.4186% |
@@ -9310,7 +9310,7 @@
 | Dragon Bow of Sky (G65) | 48.8% |
 | Dragon Stick of Sky (G65) | 48.8% |
 | Dragon dagger of Sky (G65) | 48.8% |
-| 600000x Zamogeon | 96.5695% |
+| 200000x Zamogeon | 96.5695% |
 | Dragon Sword of Sky (G65) | 8.084% |
 | Dragon Giant Sword of Sky (G65) | 8.084% |
 | Dragon Bow of Sky (G65) | 8.084% |
@@ -15364,7 +15364,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300000x Zamogeon | 100.0% |
+| 100000x Zamogeon | 100.0% |
 | Scaled Armor of Darkness (G60) | 39.7605% |
 | Scaled Helmet of Darkness (G60) | 39.7605% |
 | Scaled Gloves of Darkness (G60) | 39.7605% |
@@ -15385,7 +15385,7 @@
 | Darkness Gloves of thief (G60) | 39.7605% |
 | Darkness Boots of thief (G60) | 39.7605% |
 | Darkness suit Shorts of thief (G60) | 39.7605% |
-| 450000x Zamogeon | 37.1% |
+| 150000x Zamogeon | 37.1% |
 | Sword of Darkness (G62) | 56.6942% |
 | Giant Sword of Darkness (G62) | 56.6942% |
 | Bow of Darkness (G62) | 56.6942% |
@@ -16047,7 +16047,7 @@
 
 | Item | Chance |
 |------|--------|
-| 450000x Zamogeon | 95.5526% |
+| 150000x Zamogeon | 95.5526% |
 | Doggebi Scaled Armor (G55) | 19.4474% |
 | Doggebi Scaled Armor Helmet (G55) | 19.4474% |
 | Doggebi Scaled Armor Gloves (G55) | 19.4474% |
@@ -16068,7 +16068,7 @@
 | Doggebi Gloves of thief (G55) | 19.4474% |
 | Doggebi Boots of thief (G55) | 19.4474% |
 | Doggebi suit Shorts of thief (G55) | 19.4474% |
-| 600000x Zamogeon | 98.2573% |
+| 200000x Zamogeon | 98.2573% |
 | Golden Scaled Armor (G60) | 20.1709% |
 | Golden Scaled Armor Shorts (G60) | 20.1709% |
 | Golden Armor (G60) | 20.1709% |
@@ -16077,7 +16077,7 @@
 | Golden DaeChangEau Shorts (G60) | 20.1709% |
 | Golden suit of thief (G60) | 20.1709% |
 | Golden suit Shorts of thief (G60) | 20.1709% |
-| 300000x Zamogeon | 91.8705% |
+| 100000x Zamogeon | 91.8705% |
 | Ancient Treasure Sword (G56) | 63.0456% |
 | General's Treasure Sword (G56) | 63.0456% |
 | Ancient Dynasty's Treasure Sword (G56) | 63.0456% |
@@ -19182,7 +19182,7 @@
 
 | Item | Chance |
 |------|--------|
-| 199500x Zamogeon | 100.0% |
+| 66500x Zamogeon | 100.0% |
 | Blood Dragon's Dagger (G70) | 13.8829% |
 | Blood Dragon's Sword (G70) | 13.8829% |
 | Blood Dragon's Giant sword (G70) | 13.8829% |
@@ -19205,7 +19205,7 @@
 
 | Item | Chance |
 |------|--------|
-| 199500x Zamogeon | 100.0% |
+| 66500x Zamogeon | 100.0% |
 | Blood Dragon's Dagger (G70) | 13.8829% |
 | Blood Dragon's Sword (G70) | 13.8829% |
 | Blood Dragon's Giant sword (G70) | 13.8829% |
@@ -22919,7 +22919,7 @@
 
 | Item | Chance |
 |------|--------|
-| 600000x Zamogeon | 100.0% |
+| 200000x Zamogeon | 100.0% |
 | Blood Dragon's Sword (G70) | 4.3008% |
 | Blood Dragon's Giant sword (G70) | 4.3008% |
 | Blood Dragon's Bow (G70) | 4.3008% |
