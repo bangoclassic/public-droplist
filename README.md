@@ -127,7 +127,7 @@
 |------|--------|
 | 24x Zamogeon | 98.8858% |
 | Demon's blood | 13.5632% |
-| Small Steel Sword (G9) | -3.8958% |
+| Small Steel Sword (G9) | 1.5558% |
 | Oak Petal Stick (G9) | 0.7655% |
 | Small Medicine | 19.7468% |
 | SaSaEul Armor (G8) | 0.7178% |
@@ -154,8 +154,8 @@
 
 | Item | Chance |
 |------|--------|
-| 24x Zamogeon | 99.5066% |
-| Demon's blood | -23.6399% |
+| 24x Zamogeon | 98.8858% |
+| Demon's blood | 13.5632% |
 | Big Oak Bow (G9) | 1.5558% |
 | Oak Petal Stick (G9) | 0.7715% |
 | Small Medicine | 19.7468% |
@@ -6089,6 +6089,9 @@
 | Golden Bow (G62) | 0.0012% |
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 87 2nd Commander of The Royal Tomb
 
@@ -6143,6 +6146,9 @@
 | Golden Bow (G62) | 0.0012% |
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 88 1st Commander of The Royal Tomb
 
@@ -6197,6 +6203,9 @@
 | Golden Bow (G62) | 0.0012% |
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 89 Imperial Commander of The Royal Tomb
 
@@ -6276,6 +6285,9 @@
 | Golden Bow (G62) | 0.0012% |
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 90 Chief Guard of The Royal Tomb
 
@@ -6355,6 +6367,9 @@
 | Golden Bow (G62) | 0.0012% |
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 91 Chief Escort of The Royal Tomb
 
@@ -6434,6 +6449,9 @@
 | Golden Bow (G62) | 0.0012% |
 | Golden Stick (G62) | 0.0012% |
 | Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 173 Minister of the Royal Tomb
 
@@ -9319,6 +9337,9 @@
 | Dragon's Fury Stick of Sky (G65) | 2.4911% |
 | Dragon dagger of Sky (G65) | 8.084% |
 | Horn of Doggebi Lord | 99.9821% |
+| Health Necklace (G60) | 79.6562% |
+| Mana Necklace (G60) | 79.6562% |
+| Trinity Necklace (G60) | 79.7673% |
 
 ## 232 Evil Spirit
 
@@ -12653,6 +12674,9 @@
 | Golden Bow (G62) | 0.0003% |
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
+| Health Necklace (G60) | 0.003% |
+| Mana Necklace (G60) | 0.003% |
+| Trinity Necklace (G60) | 0.003% |
 
 ## 281 High Class Doggebi with a Mask of Black Panther
 
@@ -12937,6 +12961,9 @@
 | Golden Bow (G62) | 0.0003% |
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
+| Health Necklace (G60) | 0.003% |
+| Mana Necklace (G60) | 0.003% |
+| Trinity Necklace (G60) | 0.003% |
 
 ## 284 High Class Giant Doggebi
 
@@ -13221,6 +13248,9 @@
 | Golden Bow (G62) | 0.0003% |
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
+| Health Necklace (G60) | 0.003% |
+| Mana Necklace (G60) | 0.003% |
+| Trinity Necklace (G60) | 0.003% |
 
 ## 287 High Class Guardian of Doggebi
 
@@ -13505,6 +13535,9 @@
 | Golden Bow (G62) | 0.0003% |
 | Golden Stick (G62) | 0.0003% |
 | Golden dagger (G62) | 0.0003% |
+| Health Necklace (G60) | 0.003% |
+| Mana Necklace (G60) | 0.003% |
+| Trinity Necklace (G60) | 0.003% |
 
 ## 290 Personal Guard of Doggebi Lord
 
@@ -14087,6 +14120,9 @@
 | Golden Bow (G62) | 0.0006% |
 | Golden Stick (G62) | 0.0006% |
 | Golden dagger (G62) | 0.0006% |
+| Health Necklace (G60) | 0.006% |
+| Mana Necklace (G60) | 0.006% |
+| Trinity Necklace (G60) | 0.006% |
 | Ancient Treasure Sword (G56) | 0.0009% |
 | General's Treasure Sword (G56) | 0.0012% |
 | Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
@@ -14921,6 +14957,9 @@
 | Golden Bow (G62) | 0.0006% |
 | Golden Stick (G62) | 0.0006% |
 | Golden dagger (G62) | 0.0006% |
+| Health Necklace (G60) | 0.006% |
+| Mana Necklace (G60) | 0.006% |
+| Trinity Necklace (G60) | 0.006% |
 | Ancient Treasure Sword (G56) | 0.0009% |
 | General's Treasure Sword (G56) | 0.0012% |
 | Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
@@ -15059,6 +15098,9 @@
 | Golden Bow (G62) | 0.0006% |
 | Golden Stick (G62) | 0.0006% |
 | Golden dagger (G62) | 0.0006% |
+| Health Necklace (G60) | 0.006% |
+| Mana Necklace (G60) | 0.006% |
+| Trinity Necklace (G60) | 0.006% |
 | Ancient Treasure Sword (G56) | 0.0009% |
 | General's Treasure Sword (G56) | 0.0012% |
 | Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
@@ -15391,6 +15433,9 @@
 | Bow of Darkness (G62) | 56.6942% |
 | Stick of Darkness (G62) | 56.6942% |
 | Dagger of Darkness (G62) | 56.6942% |
+| Health Necklace (G60) | 98.1333% |
+| Mana Necklace (G60) | 98.1333% |
+| Trinity Necklace (G60) | 98.1587% |
 
 ## 319 White Tiger Cannon
 
@@ -16123,6 +16168,9 @@
 | Golden suit of thief (G60) | 8.7327% |
 | Golden suit Shorts of thief (G60) | 8.7327% |
 | Complete E-moogy's Scale | 100.0% |
+| Health Necklace (G60) | 98.1333% |
+| Mana Necklace (G60) | 98.1333% |
+| Trinity Necklace (G60) | 98.1587% |
 
 ## 383 A Thousand year old E-Moogi
 
@@ -17914,6 +17962,9 @@
 | 10002x Zamogeon | 100.0% |
 | Essence of earth element | 92.4915% |
 | element of ground | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -17964,6 +18015,9 @@
 | 10002x Zamogeon | 100.0% |
 | Essence of fire element | 92.4915% |
 | element of fire | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -18014,6 +18068,9 @@
 | 10002x Zamogeon | 100.0% |
 | Essence of water element | 92.4915% |
 | element of water | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -18064,6 +18121,9 @@
 | 10002x Zamogeon | 100.0% |
 | Essence of iron element | 92.4915% |
 | element of iron | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -18114,6 +18174,9 @@
 | 10002x Zamogeon | 100.0% |
 | Essence of wood element | 92.4915% |
 | element of wood | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
 | Scaled Armor of Doggebi (G55) | 0.0003% |
 | Scaled Helmet of Doggebi (G55) | 0.0003% |
 | Scaled Gloves of Doggebi (G55) | 0.0003% |
@@ -19200,6 +19263,9 @@
 | Stone of Paralysis | 68.9892% |
 | Stone of Strength | 68.9892% |
 | Stone of Skill | 68.9892% |
+| Ambitious Necklace (G75) | 66.47% |
+| Intelligence Necklace (G75) | 66.47% |
+| Harmonious Necklace (G75) | 66.5905% |
 
 ## 572 cheios
 
@@ -19223,6 +19289,9 @@
 | Stone of Paralysis | 68.9892% |
 | Stone of Strength | 68.9892% |
 | Stone of Skill | 68.9892% |
+| Ambitious Necklace (G75) | 66.47% |
+| Intelligence Necklace (G75) | 66.47% |
+| Harmonious Necklace (G75) | 66.5905% |
 
 ## 573 I'Lyer
 
