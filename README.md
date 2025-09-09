@@ -14115,11 +14115,11 @@
 | Iron Shield With Gong (G52) | 0.0024% |
 | dagger of Doggebi (G59) | 0.0009% |
 | dagger of High Class Doggebi (G59) | 0.0009% |
-| Golden Sword (G62) | 0.0006% |
-| Golden Giant Sword (G62) | 0.0006% |
-| Golden Bow (G62) | 0.0006% |
-| Golden Stick (G62) | 0.0006% |
-| Golden dagger (G62) | 0.0006% |
+| Sword of Darkness (G62) | 0.0006% |
+| Giant Sword of Darkness (G62) | 0.0006% |
+| Bow of Darkness (G62) | 0.0006% |
+| Stick of Darkness (G62) | 0.0006% |
+| Dagger of Darkness (G62) | 0.0006% |
 | Health Necklace (G60) | 0.006% |
 | Mana Necklace (G60) | 0.006% |
 | Trinity Necklace (G60) | 0.006% |
@@ -14952,11 +14952,11 @@
 | Iron Shield With Gong (G52) | 0.0024% |
 | dagger of Doggebi (G59) | 0.0009% |
 | dagger of High Class Doggebi (G59) | 0.0009% |
-| Golden Sword (G62) | 0.0006% |
-| Golden Giant Sword (G62) | 0.0006% |
-| Golden Bow (G62) | 0.0006% |
-| Golden Stick (G62) | 0.0006% |
-| Golden dagger (G62) | 0.0006% |
+| Sword of Darkness (G62) | 0.0006% |
+| Giant Sword of Darkness (G62) | 0.0006% |
+| Bow of Darkness (G62) | 0.0006% |
+| Stick of Darkness (G62) | 0.0006% |
+| Dagger of Darkness (G62) | 0.0006% |
 | Health Necklace (G60) | 0.006% |
 | Mana Necklace (G60) | 0.006% |
 | Trinity Necklace (G60) | 0.006% |
@@ -15093,11 +15093,11 @@
 | Iron Shield With Gong (G52) | 0.0024% |
 | dagger of Doggebi (G59) | 0.0009% |
 | dagger of High Class Doggebi (G59) | 0.0009% |
-| Golden Sword (G62) | 0.0006% |
-| Golden Giant Sword (G62) | 0.0006% |
-| Golden Bow (G62) | 0.0006% |
-| Golden Stick (G62) | 0.0006% |
-| Golden dagger (G62) | 0.0006% |
+| Sword of Darkness (G62) | 0.0006% |
+| Giant Sword of Darkness (G62) | 0.0006% |
+| Bow of Darkness (G62) | 0.0006% |
+| Stick of Darkness (G62) | 0.0006% |
+| Dagger of Darkness (G62) | 0.0006% |
 | Health Necklace (G60) | 0.006% |
 | Mana Necklace (G60) | 0.006% |
 | Trinity Necklace (G60) | 0.006% |
