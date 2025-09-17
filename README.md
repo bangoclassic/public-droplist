@@ -2,10 +2,10 @@
 
 | Item | Chance |
 |------|--------|
-| 6x Zamogeon | 99.1915% |
+| 2x Zamogeon | 99.1915% |
 | Demon's blood | 13.5632% |
 | Small Medicine | 13.5632% |
-| 12x Zamogeon | 21.7242% |
+| 4x Zamogeon | 21.7242% |
 | Short Iron Sword (G1) | 11.4158% |
 | Bamboo Stick (G1) | 11.4158% |
 | Birch Bow (G1) | 11.4158% |
@@ -21,13 +21,13 @@
 
 | Item | Chance |
 |------|--------|
-| 9x Zamogeon | 98.7145% |
+| 3x Zamogeon | 98.7145% |
 | Demon's blood | 6.9874% |
 | Short Steel Sword (G5) | 13.5632% |
 | Oak Bow (G5) | 6.9874% |
 | Oak Stick (G5) | 6.9874% |
 | Small Medicine | 13.5632% |
-| 12x Zamogeon | 21.7242% |
+| 4x Zamogeon | 21.7242% |
 | Short Iron Sword (G1) | 11.4158% |
 | Bamboo Stick (G1) | 11.4158% |
 | Birch Bow (G1) | 11.4158% |
@@ -43,13 +43,13 @@
 
 | Item | Chance |
 |------|--------|
-| 9x Zamogeon | 98.6855% |
+| 3x Zamogeon | 98.6855% |
 | Demon's blood | 6.648% |
 | Short Steel Sword (G5) | 14.4099% |
 | Oak Bow (G5) | 7.5509% |
 | Oak Stick (G5) | 7.5509% |
 | Small Medicine | 13.5632% |
-| 12x Zamogeon | 27.827% |
+| 4x Zamogeon | 27.827% |
 | Short Iron Sword (G1) | 8.6692% |
 | Birch Bow (G1) | 8.6692% |
 | Bamboo Stick (G1) | 8.6692% |
@@ -71,7 +71,7 @@
 
 | Item | Chance |
 |------|--------|
-| 12x Zamogeon | 99.3408% |
+| 4x Zamogeon | 99.3408% |
 | Demon's blood | 5.6235% |
 | Small Medicine | 20.9382% |
 | Short Steel Sword (G5) | 8.5801% |
@@ -97,13 +97,13 @@
 
 | Item | Chance |
 |------|--------|
-| 18x Zamogeon | 98.9027% |
+| 6x Zamogeon | 98.9027% |
 | Demon's blood | 9.9963% |
 | SaSaEul Armor (G8) | 8.3349% |
 | Leather Armor (G8) | 4.5897% |
 | MyungJoo HakChangEau Clothes (G8) | 4.5897% |
 | Small Medicine | 13.5632% |
-| 21x Zamogeon | 45.4591% |
+| 7x Zamogeon | 45.4591% |
 | Short Steel Sword (G5) | 0.7178% |
 | Oak Stick (G5) | 0.7178% |
 | Oak Bow (G5) | 0.7178% |
@@ -121,7 +121,7 @@
 
 | Item | Chance |
 |------|--------|
-| 24x Zamogeon | 98.8858% |
+| 8x Zamogeon | 98.8858% |
 | Demon's blood | 13.5632% |
 | Small Steel Sword (G9) | 1.5558% |
 | Oak Petal Stick (G9) | 0.7655% |
@@ -136,7 +136,7 @@
 | MyungJoo HakChangEau Gloves (G8) | 0.3595% |
 | MyungJoo HakChangEau Boots (G8) | 0.3595% |
 | MyungJoo HakChangEau Shorts (G8) | 0.3595% |
-| 30x Zamogeon | 5.6521% |
+| 10x Zamogeon | 5.6521% |
 | GyungBunGap Armor (G16) | 0.024% |
 | BeeDan HakChangEau Clothes (G16) | 0.012% |
 | Talisman of Intensification (Heavy Blow's/Extreme) | 0.1199% |
@@ -150,7 +150,7 @@
 
 | Item | Chance |
 |------|--------|
-| 24x Zamogeon | 98.8858% |
+| 8x Zamogeon | 98.8858% |
 | Demon's blood | 13.5632% |
 | Big Oak Bow (G9) | 1.5558% |
 | Oak Petal Stick (G9) | 0.7715% |
@@ -160,7 +160,7 @@
 | Leather Armor Gloves (G8) | 0.7178% |
 | Leather Armor Boots (G8) | 0.7178% |
 | Leather Armor Shorts (G8) | 0.7178% |
-| 33x Zamogeon | 5.6464% |
+| 11x Zamogeon | 5.6464% |
 | DooJungPeeGap Armor (G16) | 0.024% |
 | BeeDan HakChangEau Clothes (G16) | 0.012% |
 | Talisman of Intensification (Heavy Blow's/Extreme) | 0.1199% |
@@ -174,13 +174,13 @@
 
 | Item | Chance |
 |------|--------|
-| 30x Zamogeon | 99.9988% |
+| 10x Zamogeon | 99.9988% |
 | Demon's blood | 16.6252% |
 | Small Medicine | 35.7708% |
 | Small Steel Sword (G9) | 6.9738% |
 | Big Oak Bow (G9) | 3.5429% |
 | Oak Petal Stick (G9) | 3.5429% |
-| 39x Zamogeon | 85.5481% |
+| 13x Zamogeon | 85.5481% |
 | Iron Sword (G13) | 1.9627% |
 | Iron Stick (G13) | 1.9627% |
 | YeonGak Bow (G13) | 1.9627% |
@@ -189,10 +189,10 @@
 
 | Item | Chance |
 |------|--------|
-| 27x Zamogeon | 99.0526% |
+| 9x Zamogeon | 99.0526% |
 | Demon's blood | 13.5632% |
 | Small Medicine | 19.7468% |
-| 33x Zamogeon | 45.676% |
+| 11x Zamogeon | 45.676% |
 | Iron Sword (G13) | 0.6582% |
 | Iron Stick (G13) | 0.6582% |
 | YeonGak Bow (G13) | 0.6582% |
@@ -207,7 +207,7 @@
 
 | Item | Chance |
 |------|--------|
-| 33x Zamogeon | 98.3765% |
+| 11x Zamogeon | 98.3765% |
 | Demon's blood | 13.5632% |
 | Iron Stick (G13) | 0.8966% |
 | Small Medicine | 36.1313% |
@@ -216,7 +216,7 @@
 | MyungJoo HakChangEau Gloves (G8) | 0.7178% |
 | MyungJoo HakChangEau Boots (G8) | 0.7178% |
 | MyungJoo HakChangEau Shorts (G8) | 0.7178% |
-| 39x Zamogeon | 5.6578% |
+| 13x Zamogeon | 5.6578% |
 | BeeDan HakChangEau Clothes (G16) | 0.018% |
 | Iron JuckMo Stick (G17) | 0.006% |
 | Potato (G12) | 2.9627% |
@@ -230,7 +230,7 @@
 
 | Item | Chance |
 |------|--------|
-| 45x Zamogeon | 59.6645% |
+| 15x Zamogeon | 59.6645% |
 | Demon's blood | 54.8118% |
 | Small Medicine | 41.4688% |
 | Iron Stick (G13) | 0.7298% |
@@ -239,8 +239,8 @@
 | BeeDan HakChangEau Gloves (G16) | 0.3654% |
 | BeeDan HakChangEau Boots (G16) | 0.3654% |
 | BeeDan HakChangEau Shorts (G16) | 0.3654% |
-| 48x Zamogeon | 83.0259% |
-| 51x Zamogeon | 2.9071% |
+| 16x Zamogeon | 83.0259% |
+| 17x Zamogeon | 2.9071% |
 | Iron JuckMo Stick (G17) | 0.036% |
 | MyungJoo SoChangEau Clothes (G24) | 0.009% |
 | Talisman of Wonder (Harsh/Forced) | 0.006% |
@@ -276,7 +276,7 @@
 
 | Item | Chance |
 |------|--------|
-| 60x Zamogeon | 59.3141% |
+| 20x Zamogeon | 59.3141% |
 | Demon Soldier's Head | 46.5718% |
 | Demon's blood | 11.9999% |
 | Iron Red-blood Sword (G17) | 2.5847% |
@@ -286,8 +286,8 @@
 | GyungBunGap Gloves (G16) | 0.7298% |
 | GyungBunGap Boots (G16) | 0.7298% |
 | GyungBunGap Shorts (G16) | 0.7298% |
-| 63x Zamogeon | 82.861% |
-| 66x Zamogeon | 2.9276% |
+| 21x Zamogeon | 82.861% |
+| 22x Zamogeon | 2.9276% |
 | Steel Sword (G21) | 0.012% |
 | PanGap Armor (G24) | 0.006% |
 | PanGap Helmet (G24) | 0.003% |
@@ -324,7 +324,7 @@
 
 | Item | Chance |
 |------|--------|
-| 60x Zamogeon | 59.3141% |
+| 20x Zamogeon | 59.3141% |
 | Demon Throwing Soldier's Head | 46.5718% |
 | Demon's blood | 13.9874% |
 | YeonHwang Bow (G17) | 0.3804% |
@@ -334,8 +334,8 @@
 | DooJungPeeGap Gloves (G16) | 0.7298% |
 | DooJungPeeGap Boots (G16) | 0.7298% |
 | DooJungPeeGap Shorts (G16) | 0.7298% |
-| 63x Zamogeon | 82.861% |
-| 66x Zamogeon | 2.9276% |
+| 21x Zamogeon | 82.861% |
+| 22x Zamogeon | 2.9276% |
 | SooWoo YeonGak Bow (G21) | 0.012% |
 | ShaeJaGap Armor (G24) | 0.006% |
 | ShaeJaGap Hood (G24) | 0.003% |
@@ -372,7 +372,7 @@
 
 | Item | Chance |
 |------|--------|
-| 66x Zamogeon | 59.3141% |
+| 22x Zamogeon | 59.3141% |
 | Wild Demon Soldier's Head | 46.5718% |
 | Demon's blood | 13.8232% |
 | Iron JuckMo Stick (G17) | 0.5657% |
@@ -383,8 +383,8 @@
 | BeeDan HakChangEau Gloves (G16) | 0.7298% |
 | BeeDan HakChangEau Boots (G16) | 0.7298% |
 | BeeDan HakChangEau Shorts (G16) | 0.7298% |
-| 69x Zamogeon | 82.861% |
-| 75x Zamogeon | 2.9276% |
+| 23x Zamogeon | 82.861% |
+| 25x Zamogeon | 2.9276% |
 | BangChooHyung Iron Stick (G21) | 0.012% |
 | MyungJoo SoChangEau Clothes (G24) | 0.006% |
 | MyungJoo SoChangEau Hair Decoration (G24) | 0.003% |
@@ -421,7 +421,7 @@
 
 | Item | Chance |
 |------|--------|
-| 72x Zamogeon | 58.8726% |
+| 24x Zamogeon | 58.8726% |
 | Demon Shock Trooper's Head | 46.5718% |
 | Demon's blood | 13.9874% |
 | Small Medicine | 33.9962% |
@@ -429,8 +429,8 @@
 | Iron Red-blood Sword (G17) | 1.0989% |
 | YeonHwang Bow (G17) | 0.7298% |
 | Iron JuckMo Stick (G17) | 0.7298% |
-| 75x Zamogeon | 82.6529% |
-| 78x Zamogeon | 2.9276% |
+| 25x Zamogeon | 82.6529% |
+| 26x Zamogeon | 2.9276% |
 | Steel Sword (G21) | 0.012% |
 | SooWoo YeonGak Bow (G21) | 0.012% |
 | BangChooHyung Iron Stick (G21) | 0.012% |
@@ -467,7 +467,7 @@
 
 | Item | Chance |
 |------|--------|
-| 72x Zamogeon | 56.7897% |
+| 24x Zamogeon | 56.7897% |
 | Demon Flag Bearer's Head | 46.5718% |
 | Demon's blood | 13.9874% |
 | Small Medicine | 36.5432% |
@@ -481,8 +481,8 @@
 | ShaeJaGap Hood (G24) | 0.3654% |
 | MyungJoo SoChangEau Clothes (G24) | 0.3654% |
 | MyungJoo SoChangEau Hair Decoration (G24) | 0.3654% |
-| 75x Zamogeon | 81.6688% |
-| 78x Zamogeon | 2.8837% |
+| 25x Zamogeon | 81.6688% |
+| 26x Zamogeon | 2.8837% |
 | Big Steel Sword (G25) | 0.006% |
 | HwanDoo Stick (G25) | 0.006% |
 | GangGak Bow (G25) | 0.006% |
@@ -519,7 +519,7 @@
 
 | Item | Chance |
 |------|--------|
-| 78x Zamogeon | 58.7838% |
+| 26x Zamogeon | 58.7838% |
 | Demon Band's Head | 46.5718% |
 | Demon's blood | 11.9999% |
 | HwanDoo Stick (G25) | 2.9364% |
@@ -530,8 +530,8 @@
 | MyungJoo SoChangEau Shorts (G24) | 0.3654% |
 | Small Medicine | 32.6695% |
 | Medium Medicine | 15.5107% |
-| 81x Zamogeon | 82.6111% |
-| 84x Zamogeon | 2.9452% |
+| 27x Zamogeon | 82.6111% |
+| 28x Zamogeon | 2.9452% |
 | YeongHwaHwanDoo Stick (G29) | 0.009% |
 | Talisman of Wonder (Harsh/Forced) | 0.006% |
 | Talisman of Intensification (Melee's/Unlawful) | 0.006% |
@@ -566,7 +566,7 @@
 
 | Item | Chance |
 |------|--------|
-| 84x Zamogeon | 58.7838% |
+| 28x Zamogeon | 58.7838% |
 | Demon Armored Knight's Head | 46.5718% |
 | Demon's blood | 13.6588% |
 | Big Steel Sword (G25) | 1.1079% |
@@ -577,8 +577,8 @@
 | PanGap Shorts (G24) | 0.3654% |
 | Small Medicine | 35.301% |
 | Medium Medicine | 12.2262% |
-| 87x Zamogeon | 82.6111% |
-| 90x Zamogeon | 2.9364% |
+| 29x Zamogeon | 82.6111% |
+| 30x Zamogeon | 2.9364% |
 | JuckAh Big Steel Sword (G29) | 0.006% |
 | Steel Armor (G32) | 0.006% |
 | Steel Armor Helmet (G32) | 0.006% |
@@ -615,7 +615,7 @@
 
 | Item | Chance |
 |------|--------|
-| 90x Zamogeon | 61.7144% |
+| 30x Zamogeon | 61.7144% |
 | Demon Mad Knight's Head | 46.5718% |
 | Demon's blood | 13.9874% |
 | Small Medicine | 31.1362% |
@@ -623,8 +623,8 @@
 | JuckAh Big Steel Sword (G29) | 0.3804% |
 | SooWoo GangGak Bow (G29) | 0.1948% |
 | YeongHwaHwanDoo Stick (G29) | 0.1948% |
-| 93x Zamogeon | 83.9878% |
-| 96x Zamogeon | 2.9364% |
+| 31x Zamogeon | 83.9878% |
+| 32x Zamogeon | 2.9364% |
 | Talisman of Wonder (Harsh/Forced) | 0.006% |
 | Talisman of Intensification (Melee's/Unlawful) | 0.006% |
 | Talisman of Intensification (Bloody Fight's/Unlawful) | 0.006% |
@@ -658,14 +658,14 @@
 
 | Item | Chance |
 |------|--------|
-| 144x Zamogeon | 93.8482% |
+| 48x Zamogeon | 93.8482% |
 | Demon Commander's Head | 78.1641% |
 | Demon's blood | 29.2328% |
 | Medium Medicine | 21.6753% |
 | JuckAh Big Steel Sword (G29) | 2.5289% |
 | SooWoo GangGak Bow (G29) | 1.289% |
 | YeongHwaHwanDoo Stick (G29) | 1.289% |
-| 150x Zamogeon | 0.8728% |
+| 50x Zamogeon | 0.8728% |
 | Steel Armor (G32) | 0.012% |
 | Steel Armor Helmet (G32) | 0.012% |
 | Steel Armor Gloves (G32) | 0.012% |
@@ -717,15 +717,15 @@
 
 | Item | Chance |
 |------|--------|
-| 75x Zamogeon | 60.6151% |
+| 25x Zamogeon | 60.6151% |
 | Demon Water Dragon'Head | 54.8118% |
 | Small Medicine | 30.0386% |
 | Medium Medicine | 11.892% |
 | Steel Sword (G21) | 1.1079% |
 | SooWoo YeonGak Bow (G21) | 0.7387% |
 | BangChooHyung Iron Stick (G21) | 0.7387% |
-| 78x Zamogeon | 83.4726% |
-| 81x Zamogeon | 2.8837% |
+| 26x Zamogeon | 83.4726% |
+| 27x Zamogeon | 2.8837% |
 | Big Steel Sword (G25) | 0.015% |
 | GangGak Bow (G25) | 0.015% |
 | HwanDoo Stick (G25) | 0.015% |
@@ -764,7 +764,7 @@
 
 | Item | Chance |
 |------|--------|
-| 81x Zamogeon | 58.7838% |
+| 27x Zamogeon | 58.7838% |
 | Demon Water Dragon'Head | 54.6196% |
 | GangGak Bow (G25) | 1.1079% |
 | ShaeJaGap Armor (G24) | 0.3654% |
@@ -774,8 +774,8 @@
 | ShaeJaGap Shorts (G24) | 0.3654% |
 | Small Medicine | 35.301% |
 | Medium Medicine | 12.2262% |
-| 84x Zamogeon | 82.6111% |
-| 90x Zamogeon | 2.9364% |
+| 28x Zamogeon | 82.6111% |
+| 30x Zamogeon | 2.9364% |
 | SooWoo GangGak Bow (G29) | 0.006% |
 | Intensified ShaeJaGap Armor (G32) | 0.006% |
 | Intensified ShaeJaGap Hood (G32) | 0.006% |
@@ -810,14 +810,14 @@
 
 | Item | Chance |
 |------|--------|
-| 87x Zamogeon | 95.7449% |
+| 29x Zamogeon | 95.7449% |
 | Demon Water Dragon'Head | 54.8118% |
 | Small Medicine | 31.4084% |
 | Medium Medicine | 6.8065% |
 | Big Steel Sword (G25) | 1.0989% |
 | GangGak Bow (G25) | 0.7298% |
 | HwanDoo Stick (G25) | 0.7298% |
-| 93x Zamogeon | 2.9452% |
+| 31x Zamogeon | 2.9452% |
 | JuckAh Big Steel Sword (G29) | 0.006% |
 | SooWoo GangGak Bow (G29) | 0.006% |
 | YeongHwaHwanDoo Stick (G29) | 0.006% |
@@ -852,12 +852,12 @@
 
 | Item | Chance |
 |------|--------|
-| 156x Zamogeon | 99.8215% |
+| 52x Zamogeon | 99.8215% |
 | Medium Medicine | 21.6753% |
 | Big Steel Sword with Pattern of Leaf (G33) | 2.5054% |
 | TaeWoon GangGak Bow (G33) | 1.2653% |
 | HwanRaeHwanDoo Stick (G33) | 1.2653% |
-| 168x Zamogeon | 0.8728% |
+| 56x Zamogeon | 0.8728% |
 | Steel Armor (G32) | 0.012% |
 | Steel Armor Helmet (G32) | 0.012% |
 | Steel Armor Gloves (G32) | 0.012% |
@@ -907,7 +907,7 @@
 
 | Item | Chance |
 |------|--------|
-| 36x Zamogeon | 86.1612% |
+| 12x Zamogeon | 86.1612% |
 | Big Handed Inhabitant's Head | 78.8308% |
 | Iron Sword (G13) | 7.8315% |
 | Small Medicine | 36.1313% |
@@ -916,7 +916,7 @@
 | SaSaEul Gloves (G8) | 0.7178% |
 | SaSaEul Boots (G8) | 0.7178% |
 | SaSaEul Shorts (G8) | 0.7178% |
-| 45x Zamogeon | 5.6578% |
+| 15x Zamogeon | 5.6578% |
 | GyungBunGap Armor (G16) | 0.018% |
 | Iron Red-blood Sword (G17) | 0.006% |
 | Talisman of Intensification (Predictive/Confirmatory) | 0.054% |
@@ -938,7 +938,7 @@
 
 | Item | Chance |
 |------|--------|
-| 39x Zamogeon | 86.1612% |
+| 13x Zamogeon | 86.1612% |
 | Big Handed Inhabitant's Head | 78.8308% |
 | YeonGak Bow (G13) | 7.8315% |
 | Small Medicine | 36.1313% |
@@ -947,7 +947,7 @@
 | Leather Armor Gloves (G8) | 0.7178% |
 | Leather Armor Boots (G8) | 0.7178% |
 | Leather Armor Shorts (G8) | 0.7178% |
-| 45x Zamogeon | 5.6578% |
+| 15x Zamogeon | 5.6578% |
 | DooJungPeeGap Armor (G16) | 0.018% |
 | YeonHwang Bow (G17) | 0.006% |
 | Talisman of Intensification (Predictive/Confirmatory) | 0.054% |
@@ -969,7 +969,7 @@
 
 | Item | Chance |
 |------|--------|
-| 48x Zamogeon | 59.6645% |
+| 16x Zamogeon | 59.6645% |
 | Big Handed Warrior's Head | 53.6482% |
 | YeonGak Bow (G13) | 2.9276% |
 | DooJungPeeGap Armor (G16) | 0.3744% |
@@ -978,8 +978,8 @@
 | DooJungPeeGap Boots (G16) | 0.3654% |
 | DooJungPeeGap Shorts (G16) | 0.3654% |
 | Small Medicine | 41.4688% |
-| 51x Zamogeon | 83.0259% |
-| 57x Zamogeon | 2.9071% |
+| 17x Zamogeon | 83.0259% |
+| 19x Zamogeon | 2.9071% |
 | YeonHwang Bow (G17) | 0.036% |
 | ShaeJaGap Armor (G24) | 0.009% |
 | Talisman of Intensification (Predictive/Confirmatory) | 0.027% |
@@ -1001,7 +1001,7 @@
 
 | Item | Chance |
 |------|--------|
-| 51x Zamogeon | 59.6645% |
+| 17x Zamogeon | 59.6645% |
 | Big Handed Warrior's Head | 53.6482% |
 | Iron Sword (G13) | 2.9276% |
 | GyungBunGap Armor (G16) | 0.3744% |
@@ -1010,8 +1010,8 @@
 | GyungBunGap Boots (G16) | 0.3654% |
 | GyungBunGap Shorts (G16) | 0.3654% |
 | Small Medicine | 41.4688% |
-| 54x Zamogeon | 83.0259% |
-| 57x Zamogeon | 2.9071% |
+| 18x Zamogeon | 83.0259% |
+| 19x Zamogeon | 2.9071% |
 | Iron Red-blood Sword (G17) | 0.036% |
 | PanGap Armor (G24) | 0.009% |
 | Talisman of Intensification (Predictive/Confirmatory) | 0.027% |
@@ -1033,7 +1033,7 @@
 
 | Item | Chance |
 |------|--------|
-| 99x Zamogeon | 90.7084% |
+| 33x Zamogeon | 90.7084% |
 | YeongHwaHwanDoo Stick (G29) | 0.479% |
 | HwanRaeHwanDoo Stick (G33) | 0.2996% |
 | Medium Medicine | 45.712% |
@@ -1054,7 +1054,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 93x Zamogeon | 91.7496% |
+| 31x Zamogeon | 91.7496% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1064,7 +1064,7 @@
 
 | Item | Chance |
 |------|--------|
-| 108x Zamogeon | 90.7084% |
+| 36x Zamogeon | 90.7084% |
 | JuckAh Big Steel Sword (G29) | 0.479% |
 | Big Steel Sword with Pattern of Leaf (G33) | 0.2996% |
 | Medium Medicine | 49.22% |
@@ -1085,7 +1085,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 102x Zamogeon | 91.7496% |
+| 34x Zamogeon | 91.7496% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1095,7 +1095,7 @@
 
 | Item | Chance |
 |------|--------|
-| 117x Zamogeon | 90.6419% |
+| 39x Zamogeon | 90.6419% |
 | SooWoo GangGak Bow (G29) | 0.9562% |
 | TaeWoon GangGak Bow (G33) | 0.2996% |
 | Medium Medicine | 49.22% |
@@ -1116,7 +1116,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 111x Zamogeon | 91.7496% |
+| 37x Zamogeon | 91.7496% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1126,7 +1126,7 @@
 
 | Item | Chance |
 |------|--------|
-| 126x Zamogeon | 79.3196% |
+| 42x Zamogeon | 79.3196% |
 | Steel Armor (G32) | 0.5388% |
 | Steel Armor Helmet (G32) | 0.09% |
 | Steel Armor Gloves (G32) | 0.09% |
@@ -1151,7 +1151,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 120x Zamogeon | 96.3556% |
+| 40x Zamogeon | 96.3556% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1161,7 +1161,7 @@
 
 | Item | Chance |
 |------|--------|
-| 135x Zamogeon | 79.3196% |
+| 45x Zamogeon | 79.3196% |
 | Intensified ShaeJaGap Armor (G32) | 0.5388% |
 | Intensified ShaeJaGap Hood (G32) | 0.09% |
 | Intensified ShaeJaGap Gloves (G32) | 0.09% |
@@ -1186,7 +1186,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 129x Zamogeon | 96.3556% |
+| 43x Zamogeon | 96.3556% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1196,7 +1196,7 @@
 
 | Item | Chance |
 |------|--------|
-| 144x Zamogeon | 79.3196% |
+| 48x Zamogeon | 79.3196% |
 | BeeDan SoChangEau Clothes (G32) | 0.5388% |
 | BeeDan SoChangEau Hair Decoration (G32) | 0.09% |
 | BeeDan SoChangEau Gloves (G32) | 0.09% |
@@ -1221,7 +1221,7 @@
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Trinket | 0.06% |
 | Sea Bream with Blood | 1.194% |
-| 138x Zamogeon | 96.3556% |
+| 46x Zamogeon | 96.3556% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1231,7 +1231,7 @@
 
 | Item | Chance |
 |------|--------|
-| 162x Zamogeon | 94.4506% |
+| 54x Zamogeon | 94.4506% |
 | Steel Armor (G32) | 0.2877% |
 | Steel Armor Helmet (G32) | 0.048% |
 | Steel Armor Gloves (G32) | 0.048% |
@@ -1265,7 +1265,7 @@
 | Talisman of Protection (Man's/Healthy) | 0.006% |
 | Talisman of Protection (Wisdom's/Fixed) | 0.006% |
 | Sea Bream with Blood | 1.194% |
-| 147x Zamogeon | 81.8866% |
+| 49x Zamogeon | 81.8866% |
 | Big Sweet Potato (G32) | 4.1272% |
 | Large Water of Geum-Oh Valley (G32) | 4.1272% |
 | Cooked Sweet Potato (G36) | 1.7866% |
@@ -1275,10 +1275,10 @@
 
 | Item | Chance |
 |------|--------|
-| 6x Zamogeon | 99.1915% |
+| 2x Zamogeon | 99.1915% |
 | Demon's blood | 13.5632% |
 | Small Medicine | 13.5632% |
-| 12x Zamogeon | 21.7242% |
+| 4x Zamogeon | 21.7242% |
 | Short Iron Sword (G1) | 11.4158% |
 | Bamboo Stick (G1) | 11.4158% |
 | Birch Bow (G1) | 11.4158% |
@@ -1294,7 +1294,7 @@
 
 | Item | Chance |
 |------|--------|
-| 150x Zamogeon | 83.5794% |
+| 50x Zamogeon | 83.5794% |
 | Devil Soldier's Head | 37.7654% |
 | Demon's blood | 13.5632% |
 | Medium Medicine | 37.2789% |
@@ -1318,7 +1318,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 141x Zamogeon | 91.7496% |
+| 47x Zamogeon | 91.7496% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1328,7 +1328,7 @@
 
 | Item | Chance |
 |------|--------|
-| 153x Zamogeon | 67.8225% |
+| 51x Zamogeon | 67.8225% |
 | Devil Soldier Twin Blades' Head | 20.4932% |
 | Demon's blood | 12.763% |
 | SaeGum Chairperson's Stick (G37) | 0.2398% |
@@ -1350,7 +1350,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 144x Zamogeon | 96.3556% |
+| 48x Zamogeon | 96.3556% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1360,7 +1360,7 @@
 
 | Item | Chance |
 |------|--------|
-| 162x Zamogeon | 67.8225% |
+| 54x Zamogeon | 67.8225% |
 | Devil Soldier Bow's Head | 20.4932% |
 | Demon's blood | 12.763% |
 | HoMee Gak Bow (G37) | 0.2398% |
@@ -1382,7 +1382,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 153x Zamogeon | 96.3556% |
+| 51x Zamogeon | 96.3556% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1392,7 +1392,7 @@
 
 | Item | Chance |
 |------|--------|
-| 174x Zamogeon | 67.8225% |
+| 58x Zamogeon | 67.8225% |
 | Devil Soldier Sword's Head | 20.4932% |
 | Demon's blood | 12.763% |
 | HwanDoo Big Sword (G37) | 0.2398% |
@@ -1414,7 +1414,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 162x Zamogeon | 96.3556% |
+| 54x Zamogeon | 96.3556% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1424,7 +1424,7 @@
 
 | Item | Chance |
 |------|--------|
-| 186x Zamogeon | 67.5768% |
+| 62x Zamogeon | 67.5768% |
 | Devil Soldier Spear's Head | 20.4932% |
 | Demon's blood | 12.6023% |
 | HwanDoo Big Sword (G37) | 0.3595% |
@@ -1455,7 +1455,7 @@
 | Protection Talisman | 0.075% |
 | Ring | 0.075% |
 | Sea Bream with Blood | 1.194% |
-| 174x Zamogeon | 96.3556% |
+| 58x Zamogeon | 96.3556% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1465,7 +1465,7 @@
 
 | Item | Chance |
 |------|--------|
-| 276x Zamogeon | 52.7945% |
+| 92x Zamogeon | 52.7945% |
 | Devil Soldier Sub-boss' Head | 45.4229% |
 | Demon's blood | 13.3504% |
 | White HwanDoo Big Sword (G40) | 0.479% |
@@ -1475,7 +1475,7 @@
 | ChulTae Bow (G40) | 0.3295% |
 | JoongBang Chairperson's Stick (G40) | 0.3295% |
 | Medium Medicine | 69.5993% |
-| 273x Zamogeon | 90.1133% |
+| 91x Zamogeon | 90.1133% |
 | Talisman of Accuracy | 0.03% |
 | Talisman of Defense | 0.015% |
 | Talisman of Wonder (Harsh/Forced) | 0.009% |
@@ -1504,7 +1504,7 @@
 
 | Item | Chance |
 |------|--------|
-| 162x Zamogeon | 29.6814% |
+| 54x Zamogeon | 29.6814% |
 | Devil Soldier Boss' Head | 21.7242% |
 | Demon's blood | 10.872% |
 | GangChulGap Armor (G42) | 0.7178% |
@@ -1523,7 +1523,7 @@
 | MyungJoo DaeChangEau Boots (G42) | 0.1199% |
 | MyungJoo DaeChangEau Shorts (G42) | 0.1199% |
 | Medium Medicine | 63.545% |
-| 276x Zamogeon | 64.8702% |
+| 92x Zamogeon | 64.8702% |
 | HwanDoo SaeHyung Big Sword (G40) | 0.09% |
 | ChulTae Bow (G40) | 0.09% |
 | JoongBang Chairperson's Stick (G40) | 0.09% |
@@ -1546,7 +1546,7 @@
 | Protection Talisman | 0.1499% |
 | Ring | 0.1499% |
 | Sea Bream with Blood | 1.194% |
-| 273x Zamogeon | 91.7496% |
+| 91x Zamogeon | 91.7496% |
 | Cooked Sweet Potato (G36) | 4.1272% |
 | Best Water of Geum-Oh Valley (G36) | 4.1272% |
 | Piece of Meat (G40) | 1.7866% |
@@ -1556,7 +1556,7 @@
 
 | Item | Chance |
 |------|--------|
-| 372x Zamogeon | 98.3016% |
+| 124x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | BeeDan DaeChangEau (G46) | 0.009% |
@@ -1612,7 +1612,7 @@
 
 | Item | Chance |
 |------|--------|
-| 378x Zamogeon | 98.3016% |
+| 126x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Intensified Steel Armor (G46) | 0.009% |
@@ -1669,7 +1669,7 @@
 
 | Item | Chance |
 |------|--------|
-| 384x Zamogeon | 98.3016% |
+| 128x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | SinGak DooSukLin Armor (G46) | 0.009% |
@@ -1725,7 +1725,7 @@
 
 | Item | Chance |
 |------|--------|
-| 390x Zamogeon | 98.3016% |
+| 130x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | ChulTae Bow (G40) | 0.009% |
@@ -1805,7 +1805,7 @@
 
 | Item | Chance |
 |------|--------|
-| 396x Zamogeon | 98.3016% |
+| 132x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | SinGak DooSukLin Armor (G46) | 0.009% |
@@ -1861,7 +1861,7 @@
 
 | Item | Chance |
 |------|--------|
-| 402x Zamogeon | 98.3016% |
+| 134x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Intensified Steel Armor (G46) | 0.009% |
@@ -1919,7 +1919,7 @@
 
 | Item | Chance |
 |------|--------|
-| 408x Zamogeon | 98.3016% |
+| 136x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | BeeDan DaeChangEau (G46) | 0.009% |
@@ -1976,7 +1976,7 @@
 
 | Item | Chance |
 |------|--------|
-| 222x Zamogeon | 99.1969% |
+| 74x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | MyungJoo DaeChangEau (G42) | 0.03% |
@@ -2019,7 +2019,7 @@
 
 | Item | Chance |
 |------|--------|
-| 225x Zamogeon | 99.1969% |
+| 75x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | DooSukLinGap Armor (G42) | 0.03% |
@@ -2062,7 +2062,7 @@
 
 | Item | Chance |
 |------|--------|
-| 228x Zamogeon | 99.1969% |
+| 76x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | GangChulGap Armor (G42) | 0.03% |
@@ -2105,7 +2105,7 @@
 
 | Item | Chance |
 |------|--------|
-| 231x Zamogeon | 99.1969% |
+| 77x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Devil Troop of Jealousy Mask | 22.9393% |
@@ -2149,7 +2149,7 @@
 
 | Item | Chance |
 |------|--------|
-| 234x Zamogeon | 99.1969% |
+| 78x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Devil Troop of Hatred Mask | 14.3572% |
@@ -2193,7 +2193,7 @@
 
 | Item | Chance |
 |------|--------|
-| 237x Zamogeon | 99.1969% |
+| 79x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Devil Troop of Madness Mask | 5.966% |
@@ -2237,7 +2237,7 @@
 
 | Item | Chance |
 |------|--------|
-| 240x Zamogeon | 99.1969% |
+| 80x Zamogeon | 99.1969% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Devil Troop of Anger Mask | 12.0915% |
@@ -2347,7 +2347,7 @@
 
 | Item | Chance |
 |------|--------|
-| 438x Zamogeon | 98.7769% |
+| 146x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0108% |
@@ -2395,7 +2395,7 @@
 
 | Item | Chance |
 |------|--------|
-| 444x Zamogeon | 98.7769% |
+| 148x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0108% |
@@ -2445,7 +2445,7 @@
 
 | Item | Chance |
 |------|--------|
-| 450x Zamogeon | 98.7769% |
+| 150x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0108% |
@@ -2493,7 +2493,7 @@
 
 | Item | Chance |
 |------|--------|
-| 438x Zamogeon | 98.7769% |
+| 146x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0108% |
@@ -2541,7 +2541,7 @@
 
 | Item | Chance |
 |------|--------|
-| 444x Zamogeon | 98.7769% |
+| 148x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0108% |
@@ -2591,7 +2591,7 @@
 
 | Item | Chance |
 |------|--------|
-| 450x Zamogeon | 98.7769% |
+| 150x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0108% |
@@ -2639,7 +2639,7 @@
 
 | Item | Chance |
 |------|--------|
-| 456x Zamogeon | 98.7769% |
+| 152x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0036% |
@@ -2702,7 +2702,7 @@
 
 | Item | Chance |
 |------|--------|
-| 462x Zamogeon | 98.7769% |
+| 154x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0042% |
@@ -2765,7 +2765,7 @@
 
 | Item | Chance |
 |------|--------|
-| 456x Zamogeon | 98.7769% |
+| 152x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0036% |
@@ -2828,7 +2828,7 @@
 
 | Item | Chance |
 |------|--------|
-| 462x Zamogeon | 98.7769% |
+| 154x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0042% |
@@ -2891,7 +2891,7 @@
 
 | Item | Chance |
 |------|--------|
-| 468x Zamogeon | 98.7769% |
+| 156x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0114% |
@@ -2945,7 +2945,7 @@
 
 | Item | Chance |
 |------|--------|
-| 474x Zamogeon | 98.7769% |
+| 158x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.012% |
@@ -2999,7 +2999,7 @@
 
 | Item | Chance |
 |------|--------|
-| 480x Zamogeon | 98.7769% |
+| 160x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0126% |
@@ -3053,7 +3053,7 @@
 
 | Item | Chance |
 |------|--------|
-| 486x Zamogeon | 98.7769% |
+| 162x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0132% |
@@ -3107,7 +3107,7 @@
 
 | Item | Chance |
 |------|--------|
-| 468x Zamogeon | 98.7769% |
+| 156x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0114% |
@@ -3157,7 +3157,7 @@
 
 | Item | Chance |
 |------|--------|
-| 474x Zamogeon | 98.7769% |
+| 158x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.012% |
@@ -3207,7 +3207,7 @@
 
 | Item | Chance |
 |------|--------|
-| 480x Zamogeon | 98.7769% |
+| 160x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0126% |
@@ -3257,7 +3257,7 @@
 
 | Item | Chance |
 |------|--------|
-| 486x Zamogeon | 98.7769% |
+| 162x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | SinGak DooSukLin Armor (G46) | 0.0132% |
@@ -3307,7 +3307,7 @@
 
 | Item | Chance |
 |------|--------|
-| 468x Zamogeon | 98.7769% |
+| 156x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0114% |
@@ -3357,7 +3357,7 @@
 
 | Item | Chance |
 |------|--------|
-| 474x Zamogeon | 98.7769% |
+| 158x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.012% |
@@ -3407,7 +3407,7 @@
 
 | Item | Chance |
 |------|--------|
-| 480x Zamogeon | 98.7769% |
+| 160x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0126% |
@@ -3457,7 +3457,7 @@
 
 | Item | Chance |
 |------|--------|
-| 486x Zamogeon | 98.7769% |
+| 162x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | BeeDan DaeChangEau (G46) | 0.0132% |
@@ -3507,7 +3507,7 @@
 
 | Item | Chance |
 |------|--------|
-| 468x Zamogeon | 98.7769% |
+| 156x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0036% |
@@ -3576,7 +3576,7 @@
 
 | Item | Chance |
 |------|--------|
-| 474x Zamogeon | 98.7769% |
+| 158x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0042% |
@@ -3645,7 +3645,7 @@
 
 | Item | Chance |
 |------|--------|
-| 480x Zamogeon | 98.7769% |
+| 160x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0048% |
@@ -3714,7 +3714,7 @@
 
 | Item | Chance |
 |------|--------|
-| 486x Zamogeon | 98.7769% |
+| 162x Zamogeon | 98.7769% |
 | Medium Medicine | 29.2328% |
 | Demon's blood | 13.5632% |
 | Intensified Steel Armor (G46) | 0.0048% |
@@ -3794,7 +3794,7 @@
 
 | Item | Chance |
 |------|--------|
-| 588x Zamogeon | 99.5904% |
+| 196x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0048% |
 | SinGak DooSukLin Hood (G46) | 0.0048% |
@@ -3842,7 +3842,7 @@
 
 | Item | Chance |
 |------|--------|
-| 588x Zamogeon | 99.5904% |
+| 196x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0048% |
 | Intensified Steel Helmet (G46) | 0.0048% |
@@ -3890,7 +3890,7 @@
 
 | Item | Chance |
 |------|--------|
-| 588x Zamogeon | 99.5904% |
+| 196x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0048% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0048% |
@@ -3938,7 +3938,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -3986,7 +3986,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -4034,7 +4034,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0072% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0072% |
@@ -4082,7 +4082,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -4130,7 +4130,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0072% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0072% |
@@ -4178,7 +4178,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -4226,7 +4226,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0084% |
 | Intensified Steel Helmet (G46) | 0.0084% |
@@ -4274,7 +4274,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0084% |
 | SinGak DooSukLin Hood (G46) | 0.0084% |
@@ -4322,7 +4322,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0084% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0084% |
@@ -4370,7 +4370,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0084% |
 | SinGak DooSukLin Hood (G46) | 0.0084% |
@@ -4417,7 +4417,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0084% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0084% |
@@ -4464,7 +4464,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0084% |
 | Intensified Steel Helmet (G46) | 0.0084% |
@@ -4511,7 +4511,7 @@
 
 | Item | Chance |
 |------|--------|
-| 750x Zamogeon | 99.5904% |
+| 250x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0096% |
 | SinGak DooSukLin Hood (G46) | 0.0096% |
@@ -4559,7 +4559,7 @@
 
 | Item | Chance |
 |------|--------|
-| 750x Zamogeon | 99.5904% |
+| 250x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0096% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0096% |
@@ -4607,7 +4607,7 @@
 
 | Item | Chance |
 |------|--------|
-| 750x Zamogeon | 99.5904% |
+| 250x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0096% |
 | Intensified Steel Helmet (G46) | 0.0096% |
@@ -4658,7 +4658,7 @@
 
 | Item | Chance |
 |------|--------|
-| 912x Zamogeon | 99.5904% |
+| 304x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Diamond Scaled Armor (G50) | 0.0012% |
 | Diamond Scaled Helmet (G50) | 0.0012% |
@@ -4718,7 +4718,7 @@
 
 | Item | Chance |
 |------|--------|
-| 588x Zamogeon | 99.5904% |
+| 196x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0048% |
 | Intensified Steel Helmet (G46) | 0.0048% |
@@ -4765,7 +4765,7 @@
 
 | Item | Chance |
 |------|--------|
-| 588x Zamogeon | 99.5904% |
+| 196x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0048% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0048% |
@@ -4812,7 +4812,7 @@
 
 | Item | Chance |
 |------|--------|
-| 588x Zamogeon | 99.5904% |
+| 196x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0048% |
 | SinGak DooSukLin Hood (G46) | 0.0048% |
@@ -4859,7 +4859,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0072% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0072% |
@@ -4906,7 +4906,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -4953,7 +4953,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -5000,7 +5000,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0072% |
 | Intensified Steel Helmet (G46) | 0.0072% |
@@ -5047,7 +5047,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0072% |
 | SinGak DooSukLin Hood (G46) | 0.0072% |
@@ -5094,7 +5094,7 @@
 
 | Item | Chance |
 |------|--------|
-| 642x Zamogeon | 99.5904% |
+| 214x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0072% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0072% |
@@ -5141,7 +5141,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0084% |
 | SinGak DooSukLin Hood (G46) | 0.0084% |
@@ -5188,7 +5188,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0084% |
 | Intensified Steel Helmet (G46) | 0.0084% |
@@ -5235,7 +5235,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0084% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0084% |
@@ -5282,7 +5282,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0084% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0084% |
@@ -5329,7 +5329,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0084% |
 | Intensified Steel Helmet (G46) | 0.0084% |
@@ -5376,7 +5376,7 @@
 
 | Item | Chance |
 |------|--------|
-| 696x Zamogeon | 99.5904% |
+| 232x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0084% |
 | SinGak DooSukLin Hood (G46) | 0.0084% |
@@ -5423,7 +5423,7 @@
 
 | Item | Chance |
 |------|--------|
-| 750x Zamogeon | 99.5904% |
+| 250x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Intensified Steel Armor (G46) | 0.0096% |
 | Intensified Steel Helmet (G46) | 0.0096% |
@@ -5473,7 +5473,7 @@
 
 | Item | Chance |
 |------|--------|
-| 750x Zamogeon | 99.5904% |
+| 250x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | BeeDan DaeChangEau (G46) | 0.0096% |
 | BeeDan DaeChangEau Hair Decoration (G46) | 0.0096% |
@@ -5520,7 +5520,7 @@
 
 | Item | Chance |
 |------|--------|
-| 750x Zamogeon | 99.5904% |
+| 250x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | SinGak DooSukLin Armor (G46) | 0.0096% |
 | SinGak DooSukLin Hood (G46) | 0.0096% |
@@ -5567,7 +5567,7 @@
 
 | Item | Chance |
 |------|--------|
-| 984x Zamogeon | 99.5904% |
+| 328x Zamogeon | 99.5904% |
 | Medium Medicine | 21.7242% |
 | Diamond Scaled Armor (G50) | 0.0012% |
 | Diamond Scaled Helmet (G50) | 0.0012% |
@@ -5626,7 +5626,7 @@
 
 | Item | Chance |
 |------|--------|
-| 408x Zamogeon | 98.3016% |
+| 136x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi of Monster Face Fire | 9.7762% |
@@ -5676,7 +5676,7 @@
 
 | Item | Chance |
 |------|--------|
-| 414x Zamogeon | 98.3016% |
+| 138x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Gong Fire | 5.966% |
@@ -5728,7 +5728,7 @@
 
 | Item | Chance |
 |------|--------|
-| 420x Zamogeon | 98.3016% |
+| 140x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Drunken Doggebi Fire | 22.9393% |
@@ -5778,7 +5778,7 @@
 
 | Item | Chance |
 |------|--------|
-| 429x Zamogeon | 98.3016% |
+| 143x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Mask of Black Fire | 18.7426% |
@@ -5849,7 +5849,7 @@
 
 | Item | Chance |
 |------|--------|
-| 435x Zamogeon | 98.3016% |
+| 145x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Mask of Black Panther Fire | 12.0915% |
@@ -5899,7 +5899,7 @@
 
 | Item | Chance |
 |------|--------|
-| 441x Zamogeon | 98.3016% |
+| 147x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Giant Doggebi Fire | 22.9393% |
@@ -5951,7 +5951,7 @@
 
 | Item | Chance |
 |------|--------|
-| 447x Zamogeon | 98.3016% |
+| 149x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Savage Tribe's Religious Stick (G48) | 0.027% |
@@ -6000,7 +6000,7 @@
 
 | Item | Chance |
 |------|--------|
-| 408x Zamogeon | 98.3016% |
+| 136x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi of Monster Face Fire | 9.7762% |
@@ -6049,7 +6049,7 @@
 
 | Item | Chance |
 |------|--------|
-| 414x Zamogeon | 98.3016% |
+| 138x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Gong Fire | 5.966% |
@@ -6100,7 +6100,7 @@
 
 | Item | Chance |
 |------|--------|
-| 420x Zamogeon | 98.3016% |
+| 140x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Drunken Doggebi Fire | 22.9393% |
@@ -6149,7 +6149,7 @@
 
 | Item | Chance |
 |------|--------|
-| 429x Zamogeon | 98.3016% |
+| 143x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Mask of Black Fire | 18.7426% |
@@ -6219,7 +6219,7 @@
 
 | Item | Chance |
 |------|--------|
-| 435x Zamogeon | 98.3016% |
+| 145x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Doggebi with a Mask of Black Panther Fire | 12.0915% |
@@ -6268,7 +6268,7 @@
 
 | Item | Chance |
 |------|--------|
-| 441x Zamogeon | 98.3016% |
+| 147x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Giant Doggebi Fire | 22.9393% |
@@ -6319,7 +6319,7 @@
 
 | Item | Chance |
 |------|--------|
-| 447x Zamogeon | 98.3016% |
+| 149x Zamogeon | 98.3016% |
 | Medium Medicine | 26.9539% |
 | Demon's blood | 14.3572% |
 | Savage Tribe's Religious Stick (G48) | 0.027% |
@@ -6609,7 +6609,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 57.3892% |
+| 100x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -6618,7 +6618,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 57.3892% |
+| 100x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -6627,7 +6627,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 57.3892% |
+| 100x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -6636,7 +6636,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 57.3892% |
+| 100x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -6645,7 +6645,7 @@
 
 | Item | Chance |
 |------|--------|
-| 300x Zamogeon | 57.3892% |
+| 100x Zamogeon | 57.3892% |
 | Medium Medicine | 26.8567% |
 | Speed up Medicine | 0.8884% |
 | Hard-boiled Salmon with Bean Paste | 0.2967% |
@@ -6654,7 +6654,7 @@
 
 | Item | Chance |
 |------|--------|
-| 600x Zamogeon | 47.6393% |
+| 200x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -6666,7 +6666,7 @@
 
 | Item | Chance |
 |------|--------|
-| 600x Zamogeon | 47.6393% |
+| 200x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -6678,7 +6678,7 @@
 
 | Item | Chance |
 |------|--------|
-| 600x Zamogeon | 47.6393% |
+| 200x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -6690,7 +6690,7 @@
 
 | Item | Chance |
 |------|--------|
-| 600x Zamogeon | 47.6393% |
+| 200x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
@@ -6702,7 +6702,7 @@
 
 | Item | Chance |
 |------|--------|
-| 600x Zamogeon | 47.6393% |
+| 200x Zamogeon | 47.6393% |
 | Speed up Medicine | 31.013% |
 | Hard-boiled Salmon with Bean Paste | 2.31% |
 | Baked Eel | 0.2326% |
