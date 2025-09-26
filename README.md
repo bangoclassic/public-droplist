@@ -3043,6 +3043,7 @@
 | Black Golden Treasure Sword (G50) | 0.0006% |
 | Revengeful Sword (G50) | 0.0006% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3097,6 +3098,7 @@
 | Black Golden Treasure Sword (G50) | 0.0006% |
 | Revengeful Sword (G50) | 0.0006% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3247,6 +3249,7 @@
 | Stone of Chance | 0.0006% |
 | Steel Bow with Crow's Feather (G50) | 0.0012% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Diamond Bow (G53) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3297,6 +3300,7 @@
 | Stone of Chance | 0.0006% |
 | Steel Bow with Crow's Feather (G50) | 0.0012% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Diamond Bow (G53) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3447,6 +3451,7 @@
 | Stone of Chance | 0.0006% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
 | Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Diamond Stick (G53) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3497,6 +3502,7 @@
 | Stone of Chance | 0.0006% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
 | Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Diamond Stick (G53) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3836,6 +3842,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 | Traitor Warrior's Talisman | 1.4925% |
 
 ## 136 Traitor Warrior
@@ -3884,6 +3891,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
 | Traitor Warrior's Talisman | 1.4925% |
 
 ## 137 Traitor Warrior
@@ -3932,6 +3940,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 | Traitor Warrior's Talisman | 1.4925% |
 
 ## 121 Trained Traitor Warrior
@@ -3980,6 +3989,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
 ## 138 Trained Traitor Warrior
@@ -4028,6 +4038,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
 ## 139 Trained Traitor Warrior
@@ -4076,6 +4087,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
 ## 122 Trained Traitor Archer
@@ -4124,6 +4136,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
 ## 140 Trained Traitor Archer
@@ -4172,6 +4185,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
 ## 141 Trained Traitor Archer
@@ -4220,6 +4234,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
 | Trained Traitor Warrior's Talisman | 0.4792% |
 
 ## 123 Guard of the Traitor's Hangout
@@ -4268,6 +4283,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
 | Guard of the Traitors Hangout's Talisman | 0.2698% |
 
 ## 142 Guard of the Traitor's Hangout
@@ -4316,6 +4332,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 | Guard of the Traitors Hangout's Talisman | 0.2698% |
 
 ## 143 Guard of the Traitor's Hangout
@@ -4364,6 +4381,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 | Guard of the Traitors Hangout's Talisman | 0.2698% |
 
 ## 124 Archer of the Traitor's Hangout
@@ -4412,6 +4430,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 
 ## 144 Archer of the Traitor's Hangout
 
@@ -4459,6 +4478,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 
 ## 145 Archer of the Traitor's Hangout
 
@@ -4506,6 +4526,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
 
 ## 125 Knight of the Traitor's Hangout
 
@@ -4553,6 +4574,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 | Knight of the Traitors Hangout's Talisman | 0.2398% |
 
 ## 146 Knight of the Traitor's Hangout
@@ -4601,6 +4623,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 | Knight of the Traitors Hangout's Talisman | 0.2398% |
 
 ## 147 Knight of the Traitor's Hangout
@@ -4652,6 +4675,8 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
 | Knight of the Traitors Hangout's Talisman | 0.2398% |
 
 ## 126 Chief of the Traitor's Hangout, Yoong-Gi
@@ -4687,6 +4712,10 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
 | Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4760,6 +4789,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
 
 ## 148 Gigantic Species Warrior
 
@@ -4807,6 +4837,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 
 ## 149 Gigantic Species Warrior
 
@@ -4854,6 +4885,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 
 ## 128 Gigantic Species Archer
 
@@ -4901,6 +4933,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 
 ## 150 Gigantic Species Archer
 
@@ -4948,6 +4981,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
 
 ## 151 Gigantic Species Archer
 
@@ -4995,6 +5029,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 
 ## 129 Gigantic Species Shock Trooper
 
@@ -5042,6 +5077,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
 
 ## 152 Gigantic Species Shock Trooper
 
@@ -5089,6 +5125,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 
 ## 153 Gigantic Species Shock Trooper
 
@@ -5136,6 +5173,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 
 ## 130 Gigantic Species Ignoramus
 
@@ -5183,6 +5221,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 
 ## 154 Gigantic Species Ignoramus
 
@@ -5230,6 +5269,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
 
 ## 155 Gigantic Species Ignoramus
 
@@ -5277,6 +5317,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 
 ## 131 Gigantic Species Berserk
 
@@ -5324,6 +5365,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 
 ## 156 Gigantic Species Berserk
 
@@ -5371,6 +5413,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
 
 ## 157 Gigantic Species Berserk
 
@@ -5418,6 +5461,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 
 ## 132 Gigantic Species Murderer
 
@@ -5468,6 +5512,8 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
 
 ## 158 Gigantic Species Killer
 
@@ -5515,6 +5561,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 
 ## 159 Gigantic Species Killer
 
@@ -5562,6 +5609,7 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
 
 ## 133 Gigantic Species Master
 
@@ -5596,6 +5644,10 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
 | Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -5621,6 +5673,2251 @@
 | Talisman of Intensification (Legendary/Rash) | 0.0036% |
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
+
+## 86 3rd Commander of The Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 280x Zamogeon | 99.9518% |
+| White DaeChangEau (G50) | 0.096% |
+| White DaeChangEau Hair Decoration (G50) | 0.096% |
+| White DaeChangEau Gloves (G50) | 0.096% |
+| White DaeChangEau Shoes (G50) | 0.096% |
+| White DaeChangEau Shorts (G50) | 0.096% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 87 2nd Commander of The Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 280x Zamogeon | 99.9518% |
+| Diamond Scaled Armor (G50) | 0.096% |
+| Diamond Scaled Helmet (G50) | 0.096% |
+| Diamond Scaled Gloves (G50) | 0.096% |
+| Diamond Scaled Shoes (G50) | 0.096% |
+| Diamond Scaled Shorts (G50) | 0.096% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 88 1st Commander of The Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 280x Zamogeon | 99.9518% |
+| Diamond Armor (G50) | 0.096% |
+| Diamond Helmet (G50) | 0.096% |
+| Diamond Gloves (G50) | 0.096% |
+| Diamond Shoes (G50) | 0.096% |
+| Diamond Shorts (G50) | 0.096% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 89 Imperial Commander of The Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 334x Zamogeon | 99.9518% |
+| Golden Treasure Sword (G50) | 0.012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.012% |
+| Black Golden Treasure Sword (G50) | 0.012% |
+| Steel Bow (G50) | 0.012% |
+| Steel Bow with Crow's Feather (G50) | 0.012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.012% |
+| Stick with Black Crow's Feather (G50) | 0.012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.012% |
+| Stick with Blue Crow's Feather (G50) | 0.012% |
+| Giant Sword (G50) | 0.012% |
+| Revengeful Sword (G50) | 0.012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.012% |
+| Diamond Treasure Sword (G53) | 0.012% |
+| Diamond Sword of Pain (G53) | 0.012% |
+| Diamond Sword of Phantom (G53) | 0.012% |
+| Diamond Giant Sword (G53) | 0.012% |
+| Diamond Giant Sword of Pain (G53) | 0.012% |
+| Diamond Giant Sword of Phantom (G53) | 0.012% |
+| Diamond Bow (G53) | 0.012% |
+| Diamond Bow of Pain (G53) | 0.012% |
+| Diamond Bow of Phantom (G53) | 0.012% |
+| Diamond Stick (G53) | 0.012% |
+| Diamond Stick of Pain (G53) | 0.012% |
+| Diamond Stick of Phantom (G53) | 0.012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 90 Chief Guard of The Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 362x Zamogeon | 99.9518% |
+| Golden Treasure Sword (G50) | 0.012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.012% |
+| Black Golden Treasure Sword (G50) | 0.012% |
+| Steel Bow (G50) | 0.012% |
+| Steel Bow with Crow's Feather (G50) | 0.012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.012% |
+| Stick with Black Crow's Feather (G50) | 0.012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.012% |
+| Stick with Blue Crow's Feather (G50) | 0.012% |
+| Giant Sword (G50) | 0.012% |
+| Revengeful Sword (G50) | 0.012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.012% |
+| Diamond Treasure Sword (G53) | 0.012% |
+| Diamond Sword of Pain (G53) | 0.012% |
+| Diamond Sword of Phantom (G53) | 0.012% |
+| Diamond Giant Sword (G53) | 0.012% |
+| Diamond Giant Sword of Pain (G53) | 0.012% |
+| Diamond Giant Sword of Phantom (G53) | 0.012% |
+| Diamond Bow (G53) | 0.012% |
+| Diamond Bow of Pain (G53) | 0.012% |
+| Diamond Bow of Phantom (G53) | 0.012% |
+| Diamond Stick (G53) | 0.012% |
+| Diamond Stick of Pain (G53) | 0.012% |
+| Diamond Stick of Phantom (G53) | 0.012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 91 Chief Escort of The Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 362x Zamogeon | 99.9518% |
+| Golden Treasure Sword (G50) | 0.012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.012% |
+| Black Golden Treasure Sword (G50) | 0.012% |
+| Steel Bow (G50) | 0.012% |
+| Steel Bow with Crow's Feather (G50) | 0.012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.012% |
+| Stick with Black Crow's Feather (G50) | 0.012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.012% |
+| Stick with Blue Crow's Feather (G50) | 0.012% |
+| Giant Sword (G50) | 0.012% |
+| Revengeful Sword (G50) | 0.012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.012% |
+| Diamond Treasure Sword (G53) | 0.012% |
+| Diamond Sword of Pain (G53) | 0.012% |
+| Diamond Sword of Phantom (G53) | 0.012% |
+| Diamond Giant Sword (G53) | 0.012% |
+| Diamond Giant Sword of Pain (G53) | 0.012% |
+| Diamond Giant Sword of Phantom (G53) | 0.012% |
+| Diamond Bow (G53) | 0.012% |
+| Diamond Bow of Pain (G53) | 0.012% |
+| Diamond Bow of Phantom (G53) | 0.012% |
+| Diamond Stick (G53) | 0.012% |
+| Diamond Stick of Pain (G53) | 0.012% |
+| Diamond Stick of Phantom (G53) | 0.012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 173 Minister of the Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| 154x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| Intensified Steel Armor (G46) | 0.0108% |
+| Intensified Steel Helmet (G46) | 0.0108% |
+| Intensified Steel Gloves (G46) | 0.0108% |
+| Intensified Steel Shoes (G46) | 0.0108% |
+| Intensified Steel Shorts (G46) | 0.0108% |
+| BeeDan DaeChangEau (G46) | 0.0054% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0054% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0054% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0054% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0054% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0324% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0756% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.0162% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.0378% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Golden Treasure Sword (G50) | 0.0006% |
+| Giant Sword (G50) | 0.0006% |
+| Stick with Black Crow's Feather (G50) | 0.0006% |
+
+## 174 Maid of Honor of the Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| 154x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| SinGak DooSukLin Armor (G46) | 0.0108% |
+| SinGak DooSukLin Hood (G46) | 0.0108% |
+| SinGak DooSukLin Gloves (G46) | 0.0108% |
+| SinGak DooSukLin Shoes (G46) | 0.0108% |
+| SinGak DooSukLin Shorts (G46) | 0.0108% |
+| BeeDan DaeChangEau (G46) | 0.0054% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0054% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0054% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0054% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0054% |
+| Baek Dae Steel Bow (G45) | 0.0324% |
+| Yeon Lin Steel Bow (G45) | 0.0756% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.0162% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.0378% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Steel Bow (G50) | 0.0006% |
+| Stick with Black Crow's Feather (G50) | 0.0006% |
+
+## 175 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 156x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| SinGak DooSukLin Armor (G46) | 0.0126% |
+| SinGak DooSukLin Hood (G46) | 0.0126% |
+| SinGak DooSukLin Gloves (G46) | 0.0126% |
+| SinGak DooSukLin Shoes (G46) | 0.0126% |
+| SinGak DooSukLin Shorts (G46) | 0.0126% |
+| Baek Dae Steel Bow (G45) | 0.0756% |
+| Yeon Lin Steel Bow (G45) | 0.1259% |
+| Steel Bow (G50) | 0.0126% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Steel Bow with Crow's Feather (G50) | 0.0006% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0006% |
+| The Royal Tobm Keeper's first certificate | 0.5988% |
+
+## 176 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 160x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| SinGak DooSukLin Armor (G46) | 0.0138% |
+| SinGak DooSukLin Hood (G46) | 0.0138% |
+| SinGak DooSukLin Gloves (G46) | 0.0138% |
+| SinGak DooSukLin Shoes (G46) | 0.0138% |
+| SinGak DooSukLin Shorts (G46) | 0.0138% |
+| Baek Dae Steel Bow (G45) | 0.069% |
+| Yeon Lin Steel Bow (G45) | 0.1517% |
+| Steel Bow (G50) | 0.0138% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Steel Bow with Crow's Feather (G50) | 0.0006% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0006% |
+| The Royal Tobm Keeper's first certificate | 0.5988% |
+
+## 177 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 196x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| SinGak DooSukLin Armor (G46) | 0.0096% |
+| SinGak DooSukLin Hood (G46) | 0.0096% |
+| SinGak DooSukLin Gloves (G46) | 0.0096% |
+| SinGak DooSukLin Shoes (G46) | 0.0096% |
+| SinGak DooSukLin Shorts (G46) | 0.0096% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| Baek Dae Steel Bow (G45) | 0.1139% |
+| Yeon Lin Steel Bow (G45) | 0.1918% |
+| Steel Bow (G50) | 0.0036% |
+| Steel Bow with Crow's Feather (G50) | 0.0036% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| The Royal Tobm Keeper's first certificate | 0.5988% |
+
+## 178 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| SinGak DooSukLin Armor (G46) | 0.0144% |
+| SinGak DooSukLin Hood (G46) | 0.0144% |
+| SinGak DooSukLin Gloves (G46) | 0.0144% |
+| SinGak DooSukLin Shoes (G46) | 0.0144% |
+| SinGak DooSukLin Shorts (G46) | 0.0144% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| Baek Dae Steel Bow (G45) | 0.1139% |
+| Yeon Lin Steel Bow (G45) | 0.2038% |
+| Steel Bow (G50) | 0.0048% |
+| Steel Bow with Crow's Feather (G50) | 0.0036% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| The Royal Tobm Keeper's first certificate | 0.5988% |
+
+## 179 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 156x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| Intensified Steel Armor (G46) | 0.0126% |
+| Intensified Steel Helmet (G46) | 0.0126% |
+| Intensified Steel Gloves (G46) | 0.0126% |
+| Intensified Steel Shoes (G46) | 0.0126% |
+| Intensified Steel Shorts (G46) | 0.0126% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0756% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1259% |
+| Golden Treasure Sword (G50) | 0.0126% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0006% |
+| Black Golden Treasure Sword (G50) | 0.0006% |
+| The Royal Tobm Keeper's first certificate | 0.5988% |
+
+## 180 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 160x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| Intensified Steel Armor (G46) | 0.012% |
+| Intensified Steel Helmet (G46) | 0.012% |
+| Intensified Steel Gloves (G46) | 0.012% |
+| Intensified Steel Shoes (G46) | 0.012% |
+| Intensified Steel Shorts (G46) | 0.012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.06% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1319% |
+| Golden Treasure Sword (G50) | 0.012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0006% |
+| Black Golden Treasure Sword (G50) | 0.0006% |
+| The Royal Tobm Keeper's first certificate | 0.5988% |
+
+## 181 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 196x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| Intensified Steel Armor (G46) | 0.0096% |
+| Intensified Steel Helmet (G46) | 0.0096% |
+| Intensified Steel Gloves (G46) | 0.0096% |
+| Intensified Steel Shoes (G46) | 0.0096% |
+| Intensified Steel Shorts (G46) | 0.0096% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.1139% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1918% |
+| Golden Treasure Sword (G50) | 0.0036% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0036% |
+| Black Golden Treasure Sword (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0006% |
+| The Royal Tobm Keeper's first certificate | 0.5988% |
+
+## 182 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| Intensified Steel Armor (G46) | 0.0144% |
+| Intensified Steel Helmet (G46) | 0.0144% |
+| Intensified Steel Gloves (G46) | 0.0144% |
+| Intensified Steel Shoes (G46) | 0.0144% |
+| Intensified Steel Shorts (G46) | 0.0144% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.1139% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.2038% |
+| Golden Treasure Sword (G50) | 0.0048% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0036% |
+| Black Golden Treasure Sword (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0006% |
+| The Royal Tobm Keeper's first certificate | 0.5988% |
+
+## 183 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 156x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| Intensified Steel Armor (G46) | 0.0126% |
+| Intensified Steel Helmet (G46) | 0.0126% |
+| Intensified Steel Gloves (G46) | 0.0126% |
+| Intensified Steel Shoes (G46) | 0.0126% |
+| Intensified Steel Shorts (G46) | 0.0126% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0756% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1259% |
+| Giant Sword (G50) | 0.0126% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Revengeful Sword (G50) | 0.0006% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0006% |
+| The Royal Tobm Keeper's second certificate | 0.6884% |
+
+## 184 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 160x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| Intensified Steel Armor (G46) | 0.012% |
+| Intensified Steel Helmet (G46) | 0.012% |
+| Intensified Steel Gloves (G46) | 0.012% |
+| Intensified Steel Shoes (G46) | 0.012% |
+| Intensified Steel Shorts (G46) | 0.012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.06% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1319% |
+| Giant Sword (G50) | 0.012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Revengeful Sword (G50) | 0.0006% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0006% |
+| The Royal Tobm Keeper's second certificate | 0.6884% |
+
+## 185 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 196x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| Intensified Steel Armor (G46) | 0.0096% |
+| Intensified Steel Helmet (G46) | 0.0096% |
+| Intensified Steel Gloves (G46) | 0.0096% |
+| Intensified Steel Shoes (G46) | 0.0096% |
+| Intensified Steel Shorts (G46) | 0.0096% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.1199% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1918% |
+| Giant Sword (G50) | 0.0036% |
+| Revengeful Sword (G50) | 0.0036% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Ancient Giant Sword (G56) | 0.0006% |
+| The Royal Tobm Keeper's second certificate | 0.6884% |
+
+## 186 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| Intensified Steel Armor (G46) | 0.0144% |
+| Intensified Steel Helmet (G46) | 0.0144% |
+| Intensified Steel Gloves (G46) | 0.0144% |
+| Intensified Steel Shoes (G46) | 0.0144% |
+| Intensified Steel Shorts (G46) | 0.0144% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.1259% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.2038% |
+| Giant Sword (G50) | 0.0048% |
+| Revengeful Sword (G50) | 0.0036% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Ancient Giant Sword (G56) | 0.0006% |
+
+## 187 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 156x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| BeeDan DaeChangEau (G46) | 0.0126% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0126% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0126% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0126% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0126% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.0756% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.1259% |
+| Stick with Black Crow's Feather (G50) | 0.0126% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0006% |
+| Stick with Blue Crow's Feather (G50) | 0.0006% |
+| The Royal Tobm Keeper's second certificate | 0.6884% |
+
+## 188 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 160x Zamogeon | 98.7769% |
+| Medium Medicine | 29.2328% |
+| BeeDan DaeChangEau (G46) | 0.0138% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0138% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0138% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0138% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0138% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.069% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.1517% |
+| Stick with Black Crow's Feather (G50) | 0.0138% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (Legendary/Rash) | 0.0036% |
+| Protection Talisman | 0.1727% |
+| Ring | 0.1727% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0006% |
+| Stick with Blue Crow's Feather (G50) | 0.0006% |
+| The Royal Tobm Keeper's second certificate | 0.6884% |
+
+## 189 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| 196x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| BeeDan DaeChangEau (G46) | 0.0096% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0096% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0096% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0096% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0096% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.1199% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.1918% |
+| Stick with Black Crow's Feather (G50) | 0.0036% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0036% |
+| Stick with Blue Crow's Feather (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Ancient Stick (G56) | 0.0006% |
+| The Royal Tobm Keeper's second certificate | 0.6884% |
+
+## 190 The Royal Tomb Keeper
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| BeeDan DaeChangEau (G46) | 0.0144% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0144% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0144% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0144% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0144% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.1199% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.2038% |
+| Stick with Black Crow's Feather (G50) | 0.0048% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0036% |
+| Stick with Blue Crow's Feather (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Ancient Stick (G56) | 0.0006% |
+| The Royal Tobm Keeper's second certificate | 0.6884% |
+
+## 160 Warrior of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| SinGak DooSukLin Armor (G46) | 0.0144% |
+| SinGak DooSukLin Hood (G46) | 0.0144% |
+| SinGak DooSukLin Gloves (G46) | 0.0144% |
+| SinGak DooSukLin Shoes (G46) | 0.0144% |
+| SinGak DooSukLin Shorts (G46) | 0.0144% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| Baek Dae Steel Bow (G45) | 0.1139% |
+| Yeon Lin Steel Bow (G45) | 0.2038% |
+| Steel Bow (G50) | 0.0048% |
+| Steel Bow with Crow's Feather (G50) | 0.0036% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Ancient Tribal Mac's Bow (G56) | 0.0006% |
+
+## 191 Warrior of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| BeeDan DaeChangEau (G46) | 0.0144% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0144% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0144% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0144% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0144% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.1199% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.2038% |
+| Stick with Black Crow's Feather (G50) | 0.0048% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0036% |
+| Stick with Blue Crow's Feather (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Ancient Stick (G56) | 0.0006% |
+
+## 192 Warrior of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| Intensified Steel Armor (G46) | 0.0144% |
+| Intensified Steel Helmet (G46) | 0.0144% |
+| Intensified Steel Gloves (G46) | 0.0144% |
+| Intensified Steel Shoes (G46) | 0.0144% |
+| Intensified Steel Shorts (G46) | 0.0144% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.1139% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.2038% |
+| Golden Treasure Sword (G50) | 0.0048% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0036% |
+| Black Golden Treasure Sword (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0006% |
+
+## 193 Warrior of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| Intensified Steel Armor (G46) | 0.0144% |
+| Intensified Steel Helmet (G46) | 0.0144% |
+| Intensified Steel Gloves (G46) | 0.0144% |
+| Intensified Steel Shoes (G46) | 0.0144% |
+| Intensified Steel Shorts (G46) | 0.0144% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.1259% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.2038% |
+| Giant Sword (G50) | 0.0048% |
+| Revengeful Sword (G50) | 0.0036% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0036% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Ancient Giant Sword (G56) | 0.0006% |
+
+## 161 Hook of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 214x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| BeeDan DaeChangEau (G46) | 0.0048% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0048% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0048% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0048% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0048% |
+| SinGak DooSukLin Armor (G46) | 0.0096% |
+| SinGak DooSukLin Hood (G46) | 0.0096% |
+| SinGak DooSukLin Gloves (G46) | 0.0096% |
+| SinGak DooSukLin Shoes (G46) | 0.0096% |
+| SinGak DooSukLin Shorts (G46) | 0.0096% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.0612% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.0684% |
+| Baek Dae Steel Bow (G45) | 0.0708% |
+| Yeon Lin Steel Bow (G45) | 0.1355% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0036% |
+| Steel Bow with Crow's Feather (G50) | 0.0024% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| General's Stick (G56) | 0.0006% |
+
+## 194 Hook of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 220x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| BeeDan DaeChangEau (G46) | 0.0048% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0048% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0048% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0048% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0048% |
+| Intensified Steel Armor (G46) | 0.0096% |
+| Intensified Steel Helmet (G46) | 0.0096% |
+| Intensified Steel Gloves (G46) | 0.0096% |
+| Intensified Steel Shoes (G46) | 0.0096% |
+| Intensified Steel Shorts (G46) | 0.0096% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.0492% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.0684% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0708% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1355% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0024% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| General's Treasure Sword (G56) | 0.0006% |
+| General's Giant Sword (G56) | 0.0006% |
+
+## 162 Watcher of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 226x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| SinGak DooSukLin Armor (G46) | 0.006% |
+| SinGak DooSukLin Hood (G46) | 0.006% |
+| SinGak DooSukLin Gloves (G46) | 0.006% |
+| SinGak DooSukLin Shoes (G46) | 0.006% |
+| SinGak DooSukLin Shorts (G46) | 0.006% |
+| Intensified Steel Armor (G46) | 0.0108% |
+| Intensified Steel Helmet (G46) | 0.0108% |
+| Intensified Steel Gloves (G46) | 0.0108% |
+| Intensified Steel Shoes (G46) | 0.0108% |
+| Intensified Steel Shorts (G46) | 0.0108% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Baek Dae Steel Bow (G45) | 0.0516% |
+| Yeon Lin Steel Bow (G45) | 0.0684% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0804% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1355% |
+| Steel Bow (G50) | 0.0024% |
+| Steel Bow with Crow's Feather (G50) | 0.0024% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| General's Treasure Sword (G56) | 0.0006% |
+| General's Giant Sword (G56) | 0.0006% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+
+## 195 Watcher of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 232x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| SinGak DooSukLin Armor (G46) | 0.006% |
+| SinGak DooSukLin Hood (G46) | 0.006% |
+| SinGak DooSukLin Gloves (G46) | 0.006% |
+| SinGak DooSukLin Shoes (G46) | 0.006% |
+| SinGak DooSukLin Shorts (G46) | 0.006% |
+| BeeDan DaeChangEau (G46) | 0.0108% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0108% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0108% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0108% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0108% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Baek Dae Steel Bow (G45) | 0.0516% |
+| Yeon Lin Steel Bow (G45) | 0.0684% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.0804% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.1355% |
+| Steel Bow (G50) | 0.0024% |
+| Steel Bow with Crow's Feather (G50) | 0.0024% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Stick with Black Crow's Feather (G50) | 0.0024% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
+| Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| General's Stick (G56) | 0.0006% |
+
+## 163 Chief Warrior of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 238x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| Intensified Steel Armor (G46) | 0.0072% |
+| Intensified Steel Helmet (G46) | 0.0072% |
+| Intensified Steel Gloves (G46) | 0.0072% |
+| Intensified Steel Shoes (G46) | 0.0072% |
+| Intensified Steel Shorts (G46) | 0.0072% |
+| BeeDan DaeChangEau (G46) | 0.012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.012% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0492% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0768% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.0708% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.1511% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0024% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
+| Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| General's Treasure Sword (G56) | 0.0006% |
+| General's Giant Sword (G56) | 0.0006% |
+| General's Stick (G56) | 0.0006% |
+
+## 196 Chief Warrior of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 244x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| Intensified Steel Armor (G46) | 0.0072% |
+| Intensified Steel Helmet (G46) | 0.0072% |
+| Intensified Steel Gloves (G46) | 0.0072% |
+| Intensified Steel Shoes (G46) | 0.0072% |
+| Intensified Steel Shorts (G46) | 0.0072% |
+| SinGak DooSukLin Armor (G46) | 0.012% |
+| SinGak DooSukLin Hood (G46) | 0.012% |
+| SinGak DooSukLin Gloves (G46) | 0.012% |
+| SinGak DooSukLin Shoes (G46) | 0.012% |
+| SinGak DooSukLin Shorts (G46) | 0.012% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0492% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0768% |
+| Baek Dae Steel Bow (G45) | 0.0708% |
+| Yeon Lin Steel Bow (G45) | 0.1511% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0024% |
+| Steel Bow with Crow's Feather (G50) | 0.0024% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| General's Treasure Sword (G56) | 0.0006% |
+| General's Giant Sword (G56) | 0.0006% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+
+## 164 Spear Hand of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 250x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| SinGak DooSukLin Armor (G46) | 0.0072% |
+| SinGak DooSukLin Hood (G46) | 0.0072% |
+| SinGak DooSukLin Gloves (G46) | 0.0072% |
+| SinGak DooSukLin Shoes (G46) | 0.0072% |
+| SinGak DooSukLin Shorts (G46) | 0.0072% |
+| BeeDan DaeChangEau (G46) | 0.012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Baek Dae Steel Bow (G45) | 0.0492% |
+| Yeon Lin Steel Bow (G45) | 0.0768% |
+| Joong Bang Chairperson's WhiteStick (G45) | 0.0708% |
+| Joong Bang Chairperson's Single Stick (G45) | 0.1511% |
+| Steel Bow (G50) | 0.0024% |
+| Steel Bow with Crow's Feather (G50) | 0.0024% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Stick with Black Crow's Feather (G50) | 0.0024% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
+| Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| General's Stick (G56) | 0.0006% |
+
+## 197 Spear Hand of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 256x Zamogeon | 99.5904% |
+| Medium Medicine | 21.7242% |
+| SinGak DooSukLin Armor (G46) | 0.0072% |
+| SinGak DooSukLin Hood (G46) | 0.0072% |
+| SinGak DooSukLin Gloves (G46) | 0.0072% |
+| SinGak DooSukLin Shoes (G46) | 0.0072% |
+| SinGak DooSukLin Shorts (G46) | 0.0072% |
+| Intensified Steel Armor (G46) | 0.012% |
+| Intensified Steel Helmet (G46) | 0.012% |
+| Intensified Steel Gloves (G46) | 0.012% |
+| Intensified Steel Shoes (G46) | 0.012% |
+| Intensified Steel Shorts (G46) | 0.012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Baek Dae Steel Bow (G45) | 0.0492% |
+| Yeon Lin Steel Bow (G45) | 0.0768% |
+| MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0708% |
+| Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1511% |
+| Steel Bow (G50) | 0.0024% |
+| Steel Bow with Crow's Feather (G50) | 0.0024% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
+| Talisman of Wonder (Wise/Fictional) | 0.0036% |
+| Talisman of Wonder (Vital/Healthy) | 0.0072% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0036% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0072% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0036% |
+| Talisman of Wonder (Flexible/Agile) | 0.0072% |
+| Talisman of Wonder (Dashy/Agile) | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0108% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0108% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0108% |
+| Talisman of Intensification (Absolute/Keen) | 0.0108% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0108% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0108% |
+| Talisman of Intensification (Gliding/Instant) | 0.0108% |
+| Talisman of Protection (Despotic/Forced) | 0.0036% |
+| Talisman of Protection (Revenge's/Agile) | 0.0036% |
+| Talisman of Protection (Prideful/Healthy) | 0.0036% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0036% |
+| Talisman of Protection (Glorious/Fixed) | 0.0036% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0036% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0036% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0036% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0036% |
+| Sea Bream with Blood | 1.289% |
+| Stone of Chance | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| General's Treasure Sword (G56) | 0.0006% |
+| General's Giant Sword (G56) | 0.0006% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+
+## 165 Lord of Shadow Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 418x Zamogeon | 99.9518% |
+| Golden Treasure Sword (G50) | 0.015% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.015% |
+| Black Golden Treasure Sword (G50) | 0.015% |
+| Steel Bow (G50) | 0.015% |
+| Steel Bow with Crow's Feather (G50) | 0.015% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.015% |
+| Stick with Black Crow's Feather (G50) | 0.015% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.015% |
+| Stick with Blue Crow's Feather (G50) | 0.015% |
+| Giant Sword (G50) | 0.015% |
+| Revengeful Sword (G50) | 0.015% |
+| Butterfly-Shaped Giant Sword (G50) | 0.015% |
+| Diamond Treasure Sword (G53) | 0.015% |
+| Diamond Sword of Pain (G53) | 0.015% |
+| Diamond Sword of Phantom (G53) | 0.015% |
+| Diamond Giant Sword (G53) | 0.015% |
+| Diamond Giant Sword of Pain (G53) | 0.015% |
+| Diamond Giant Sword of Phantom (G53) | 0.015% |
+| Diamond Bow (G53) | 0.015% |
+| Diamond Bow of Pain (G53) | 0.015% |
+| Diamond Bow of Phantom (G53) | 0.015% |
+| Diamond Stick (G53) | 0.015% |
+| Diamond Stick of Pain (G53) | 0.015% |
+| Diamond Stick of Phantom (G53) | 0.015% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Lord's Jaw | 48.8% |
 
 ## 198 Doggebi of Monster Face
 
@@ -6407,6 +8704,4011 @@
 
 | Item | Chance |
 |------|--------|
+
+## 233 High Class Doggebi of Monster Face
+
+| Item | Chance |
+|------|--------|
+| 203x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 234 High Class Doggebi of Monster Face
+
+| Item | Chance |
+|------|--------|
+| 206x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 235 High Class Doggebi of Monster Face
+
+| Item | Chance |
+|------|--------|
+| 209x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 236 High Class Doggebi with a Gong
+
+| Item | Chance |
+|------|--------|
+| 209x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| High Class Doggebi with a Gong Fire | 21.7242% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 237 High Class Doggebi with a Gong
+
+| Item | Chance |
+|------|--------|
+| 212x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| High Class Doggebi with a Gong Fire | 21.7242% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 238 High Class Doggebi with a Gong
+
+| Item | Chance |
+|------|--------|
+| 215x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| High Class Doggebi with a Gong Fire | 21.7242% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 239 High Class Drunken Doggebi
+
+| Item | Chance |
+|------|--------|
+| 215x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| High Class Drunken Doggebi Fire | 6.9874% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 240 High Class Drunken Doggebi
+
+| Item | Chance |
+|------|--------|
+| 218x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| High Class Drunken Doggebi Fire | 6.9874% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 241 High Class Drunken Doggebi
+
+| Item | Chance |
+|------|--------|
+| 221x Zamogeon | 99.9719% |
+| First Piece of Bronze Mirror | 0.054% |
+| Second Piece of Bronze Mirror | 0.054% |
+| High Class Drunken Doggebi Fire | 6.9874% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 242 High Class Doggebi with a Mask of Black Crow
+
+| Item | Chance |
+|------|--------|
+| 224x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| High Class Doggebi with a Mask of Black Crow Fire | 6.9874% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 243 High Class Doggebi with a Mask of Black Crow
+
+| Item | Chance |
+|------|--------|
+| 227x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| High Class Doggebi with a Mask of Black Crow Fire | 6.9874% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 244 High Class Doggebi with a Mask of Black Crow
+
+| Item | Chance |
+|------|--------|
+| 230x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| High Class Doggebi with a Mask of Black Crow Fire | 6.9874% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 245 Demon Crack Soldier
+
+| Item | Chance |
+|------|--------|
+| 223x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Demon Crack Soldier's head | 9.2241% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 246 Demon Crack Soldier
+
+| Item | Chance |
+|------|--------|
+| 226x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Demon Crack Soldier's head | 9.2241% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 247 Demon Crack Soldier
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 229x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Demon Crack Soldier's head | 9.2241% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 248 Chief of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 232x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Chief of Demon Crack Troop's head | 16.0826% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 249 Chief of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 235x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Chief of Demon Crack Troop's head | 16.0826% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 250 Chief of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 238x Zamogeon | 99.9719% |
+| Second Piece of Bronze Mirror | 0.054% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Chief of Demon Crack Troop's head | 16.0826% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 251 Monster of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 241x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Monster of Demon Crack Troop's head | 3.7791% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 252 Monster of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 244x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Monster of Demon Crack Troop's head | 3.7791% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 253 Monster of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 247x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Monster of Demon Crack Troop's head | 3.7791% |
+| Golden Treasure Sword (G50) | 0.0018% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
+| Black Golden Treasure Sword (G50) | 0.0018% |
+| Giant Sword (G50) | 0.0018% |
+| Revengeful Sword (G50) | 0.0018% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| Steel Bow (G50) | 0.0018% |
+| Steel Bow with Crow's Feather (G50) | 0.0018% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0018% |
+| Stick with Black Crow's Feather (G50) | 0.0018% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
+| Stick with Blue Crow's Feather (G50) | 0.0018% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 254 White Beast of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 244x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| White Beast of Demon Crack Troop's head  | 6.9874% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 255 White Beast of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 247x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| White Beast of Demon Crack Troop's head  | 6.9874% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 256 White Beast of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 250x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| White Beast of Demon Crack Troop's head  | 6.9874% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 257 Blue Beast of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 250x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Blue Beast of Demon Crack Troop's head | 2.3761% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 258 Blue Beast of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 253x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Blue Beast of Demon Crack Troop's head | 2.3761% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 259 Blue Beast of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 256x Zamogeon | 99.9719% |
+| Third Piece of Bronze Mirror | 0.054% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Blue Beast of Demon Crack Troop's head | 2.3761% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 260 Punitive Force of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 259x Zamogeon | 99.9719% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Fifth Piece of Bronze Mirror | 0.054% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 261 Punitive Force of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 264x Zamogeon | 99.9719% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Fifth Piece of Bronze Mirror | 0.054% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 262 Punitive Force of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 269x Zamogeon | 99.9719% |
+| Forth Piece of Bronze Mirror | 0.054% |
+| Fifth Piece of Bronze Mirror | 0.054% |
+| Diamond Scaled Armor (G50) | 0.0012% |
+| Diamond Scaled Helmet (G50) | 0.0012% |
+| Diamond Scaled Gloves (G50) | 0.0012% |
+| Diamond Scaled Shoes (G50) | 0.0012% |
+| Diamond Scaled Shorts (G50) | 0.0012% |
+| Diamond Armor (G50) | 0.0012% |
+| Diamond Helmet (G50) | 0.0012% |
+| Diamond Gloves (G50) | 0.0012% |
+| Diamond Shoes (G50) | 0.0012% |
+| Diamond Shorts (G50) | 0.0012% |
+| White DaeChangEau (G50) | 0.0012% |
+| White DaeChangEau Hair Decoration (G50) | 0.0012% |
+| White DaeChangEau Gloves (G50) | 0.0012% |
+| White DaeChangEau Shoes (G50) | 0.0012% |
+| White DaeChangEau Shorts (G50) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
+| Talisman of Wonder (Wise/Fictional) | 0.0114% |
+| Talisman of Wonder (Vital/Healthy) | 0.0228% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0114% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0228% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0114% |
+| Talisman of Wonder (Flexible/Agile) | 0.0228% |
+| Talisman of Wonder (Dashy/Agile) | 0.0114% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0342% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0342% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0342% |
+| Talisman of Intensification (Absolute/Keen) | 0.0342% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0342% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0342% |
+| Talisman of Intensification (Gliding/Instant) | 0.0342% |
+| Talisman of Protection (Despotic/Forced) | 0.0114% |
+| Talisman of Protection (Revenge's/Agile) | 0.0114% |
+| Talisman of Protection (Prideful/Healthy) | 0.0114% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0114% |
+| Talisman of Protection (Glorious/Fixed) | 0.0114% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0114% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0114% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0114% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0114% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
+| Sea Bream with Blood | 4.0345% |
+
+## 263 Hermit of White Beard
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 288x Zamogeon | 98.3223% |
+| Forth Piece of Bronze Mirror | 0.027% |
+| Fifth Piece of Bronze Mirror | 0.027% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 264 Hermit of White Beard
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 290x Zamogeon | 98.3223% |
+| Forth Piece of Bronze Mirror | 0.027% |
+| Fifth Piece of Bronze Mirror | 0.027% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 265 Hermit of White Beard
+
+| Item | Chance |
+|------|--------|
+| 292x Zamogeon | 98.3223% |
+| Forth Piece of Bronze Mirror | 0.027% |
+| Fifth Piece of Bronze Mirror | 0.027% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 266 Hermit of Long Beard
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 294x Zamogeon | 98.3223% |
+| Forth Piece of Bronze Mirror | 0.027% |
+| Fifth Piece of Bronze Mirror | 0.027% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 267 Hermit of Long Beard
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 296x Zamogeon | 98.3223% |
+| Forth Piece of Bronze Mirror | 0.027% |
+| Fifth Piece of Bronze Mirror | 0.027% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 268 Hermit of Long Beard
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 298x Zamogeon | 98.3223% |
+| Forth Piece of Bronze Mirror | 0.027% |
+| Fifth Piece of Bronze Mirror | 0.027% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 269 Hermit of Red Face
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 296x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 270 Hermit of Red Face
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 298x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 271 Hermit of Red Face
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 300x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 272 Hermit of Mask
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 302x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 273 Hermit of Mask
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 300x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 274 Hermit of Mask
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 302x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 275 Tough Hermit
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 300x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 276 Tough Hermit
+
+| Item | Chance |
+|------|--------|
+| 302x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 277 Tough Hermit
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 304x Zamogeon | 98.2424% |
+| Fifth Piece of Bronze Mirror | 0.0225% |
+| Six Piece of Bronze Mirror | 0.015% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+
+## 278 Hermit of Anger
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 306x Zamogeon | 97.8422% |
+| Six Piece of Bronze Mirror | 0.012% |
+| Seventh Piece of Bronze Mirror | 0.006% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Wise/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Wonder (Dashy/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0162% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0162% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0162% |
+| Talisman of Intensification (Absolute/Keen) | 0.0162% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0162% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0162% |
+| Talisman of Intensification (Gliding/Instant) | 0.0162% |
+| Talisman of Protection (Despotic/Forced) | 0.0054% |
+| Talisman of Protection (Revenge's/Agile) | 0.0054% |
+| Talisman of Protection (Prideful/Healthy) | 0.0054% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0054% |
+| Talisman of Protection (Glorious/Fixed) | 0.0054% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0054% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0054% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0054% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0054% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0054% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
+| Sea Bream with Blood | 1.9314% |
+
+## 279 Hermit of Anger
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 308x Zamogeon | 97.8422% |
+| Six Piece of Bronze Mirror | 0.012% |
+| Seventh Piece of Bronze Mirror | 0.006% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Wise/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Wonder (Dashy/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0162% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0162% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0162% |
+| Talisman of Intensification (Absolute/Keen) | 0.0162% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0162% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0162% |
+| Talisman of Intensification (Gliding/Instant) | 0.0162% |
+| Talisman of Protection (Despotic/Forced) | 0.0054% |
+| Talisman of Protection (Revenge's/Agile) | 0.0054% |
+| Talisman of Protection (Prideful/Healthy) | 0.0054% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0054% |
+| Talisman of Protection (Glorious/Fixed) | 0.0054% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0054% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0054% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0054% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0054% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0054% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
+| Sea Bream with Blood | 1.9314% |
+
+## 280 Hermit of Anger
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 310x Zamogeon | 97.8422% |
+| Six Piece of Bronze Mirror | 0.012% |
+| Seventh Piece of Bronze Mirror | 0.006% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Wise/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Wonder (Dashy/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0162% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0162% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0162% |
+| Talisman of Intensification (Absolute/Keen) | 0.0162% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0162% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0162% |
+| Talisman of Intensification (Gliding/Instant) | 0.0162% |
+| Talisman of Protection (Despotic/Forced) | 0.0054% |
+| Talisman of Protection (Revenge's/Agile) | 0.0054% |
+| Talisman of Protection (Prideful/Healthy) | 0.0054% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0054% |
+| Talisman of Protection (Glorious/Fixed) | 0.0054% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0054% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0054% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0054% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0054% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0054% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
+| Sea Bream with Blood | 1.9314% |
+
+## 281 High Class Doggebi with a Mask of Black Panther
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 312x Zamogeon | 97.8422% |
+| Six Piece of Bronze Mirror | 0.012% |
+| Seventh Piece of Bronze Mirror | 0.006% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Wise/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Wonder (Dashy/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0162% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0162% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0162% |
+| Talisman of Intensification (Absolute/Keen) | 0.0162% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0162% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0162% |
+| Talisman of Intensification (Gliding/Instant) | 0.0162% |
+| Talisman of Protection (Despotic/Forced) | 0.0054% |
+| Talisman of Protection (Revenge's/Agile) | 0.0054% |
+| Talisman of Protection (Prideful/Healthy) | 0.0054% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0054% |
+| Talisman of Protection (Glorious/Fixed) | 0.0054% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0054% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0054% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0054% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0054% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0054% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
+| Sea Bream with Blood | 1.9314% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 282 High Class Doggebi with a Mask of Black Panther
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 314x Zamogeon | 97.8422% |
+| Six Piece of Bronze Mirror | 0.012% |
+| Seventh Piece of Bronze Mirror | 0.006% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Wise/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Wonder (Dashy/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0162% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0162% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0162% |
+| Talisman of Intensification (Absolute/Keen) | 0.0162% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0162% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0162% |
+| Talisman of Intensification (Gliding/Instant) | 0.0162% |
+| Talisman of Protection (Despotic/Forced) | 0.0054% |
+| Talisman of Protection (Revenge's/Agile) | 0.0054% |
+| Talisman of Protection (Prideful/Healthy) | 0.0054% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0054% |
+| Talisman of Protection (Glorious/Fixed) | 0.0054% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0054% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0054% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0054% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0054% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0054% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
+| Sea Bream with Blood | 1.9314% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 283 High Class Doggebi with a Mask of Black Panther
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 316x Zamogeon | 97.8422% |
+| Six Piece of Bronze Mirror | 0.012% |
+| Seventh Piece of Bronze Mirror | 0.006% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
+| Talisman of Wonder (Wise/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0108% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0108% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0108% |
+| Talisman of Wonder (Dashy/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0162% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0162% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0162% |
+| Talisman of Intensification (Absolute/Keen) | 0.0162% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0162% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0162% |
+| Talisman of Intensification (Gliding/Instant) | 0.0162% |
+| Talisman of Protection (Despotic/Forced) | 0.0054% |
+| Talisman of Protection (Revenge's/Agile) | 0.0054% |
+| Talisman of Protection (Prideful/Healthy) | 0.0054% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0054% |
+| Talisman of Protection (Glorious/Fixed) | 0.0054% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0054% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0054% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0054% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0054% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0054% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
+| Sea Bream with Blood | 1.9314% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 284 High Class Giant Doggebi
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 314x Zamogeon | 97.8236% |
+| Seventh Piece of Bronze Mirror | 0.003% |
+| Eighth Piece of Bronze Mirror | 0.003% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 285 High Class Giant Doggebi
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 316x Zamogeon | 97.8236% |
+| Seventh Piece of Bronze Mirror | 0.003% |
+| Eighth Piece of Bronze Mirror | 0.003% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 286 High Class Giant Doggebi
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 318x Zamogeon | 97.8236% |
+| Seventh Piece of Bronze Mirror | 0.003% |
+| Eighth Piece of Bronze Mirror | 0.003% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 287 High Class Guardian of Doggebi
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 316x Zamogeon | 97.8236% |
+| Seventh Piece of Bronze Mirror | 0.003% |
+| Eighth Piece of Bronze Mirror | 0.003% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 288 High Class Guardian of Doggebi
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 318x Zamogeon | 97.8236% |
+| Seventh Piece of Bronze Mirror | 0.003% |
+| Eighth Piece of Bronze Mirror | 0.003% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 289 High Class Guardian of Doggebi
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 320x Zamogeon | 97.8236% |
+| Seventh Piece of Bronze Mirror | 0.003% |
+| Eighth Piece of Bronze Mirror | 0.003% |
+| Diamond Scaled Armor (G50) | 0.0006% |
+| Diamond Scaled Helmet (G50) | 0.0006% |
+| Diamond Scaled Gloves (G50) | 0.0006% |
+| Diamond Scaled Shoes (G50) | 0.0006% |
+| Diamond Scaled Shorts (G50) | 0.0006% |
+| Diamond Armor (G50) | 0.0006% |
+| Diamond Helmet (G50) | 0.0006% |
+| Diamond Gloves (G50) | 0.0006% |
+| Diamond Shoes (G50) | 0.0006% |
+| Diamond Shorts (G50) | 0.0006% |
+| White DaeChangEau (G50) | 0.0006% |
+| White DaeChangEau Hair Decoration (G50) | 0.0006% |
+| White DaeChangEau Gloves (G50) | 0.0006% |
+| White DaeChangEau Shoes (G50) | 0.0006% |
+| White DaeChangEau Shorts (G50) | 0.0006% |
+| Iron Shield With Gong (G52) | 0.0006% |
+| Diamond Treasure Sword (G53) | 0.0006% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0006% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0006% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0006% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Ancient Treasure Sword (G56) | 0.0003% |
+| General's Treasure Sword (G56) | 0.0003% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0003% |
+| Ancient Giant Sword (G56) | 0.0003% |
+| General's Giant Sword (G56) | 0.0003% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0003% |
+| Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0003% |
+| Ancient Stick (G56) | 0.0003% |
+| General's Stick (G56) | 0.0003% |
+| Ancient Dynasty's Stick (G56) | 0.0003% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
+| Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
+| Talisman of Wonder (Wise/Fictional) | 0.0057% |
+| Talisman of Wonder (Vital/Healthy) | 0.0114% |
+| Talisman of Wonder (Ablaze/Healthy) | 0.0057% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0114% |
+| Talisman of Wonder (Merciful/Fixed) | 0.0057% |
+| Talisman of Wonder (Flexible/Agile) | 0.0114% |
+| Talisman of Wonder (Dashy/Agile) | 0.0057% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0171% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0171% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0171% |
+| Talisman of Intensification (Absolute/Keen) | 0.0171% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0171% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0171% |
+| Talisman of Intensification (Gliding/Instant) | 0.0171% |
+| Talisman of Protection (Despotic/Forced) | 0.0057% |
+| Talisman of Protection (Revenge's/Agile) | 0.0057% |
+| Talisman of Protection (Prideful/Healthy) | 0.0057% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0057% |
+| Talisman of Protection (Glorious/Fixed) | 0.0057% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0057% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0057% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0057% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0057% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0057% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
+| Sea Bream with Blood | 2.038% |
+| Doggebi's Fixing Tool | 1.0463% |
+
+## 290 Personal Guard of Doggebi Lord
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 97.8048% |
 
 ## 291 Wooden Box
 
