@@ -23,7 +23,8 @@
 |------|--------|
 | 3x Zamogeon | 98.7145% |
 | Demon's blood | 6.9874% |
-| Short Steel Sword (G5) | 13.5632% |
+| Iron dagger (G5) | 6.9874% |
+| Short Steel Sword (G5) | 6.9874% |
 | Oak Bow (G5) | 6.9874% |
 | Oak Stick (G5) | 6.9874% |
 | Small Medicine | 13.5632% |
@@ -45,7 +46,8 @@
 |------|--------|
 | 3x Zamogeon | 98.6855% |
 | Demon's blood | 6.648% |
-| Short Steel Sword (G5) | 14.4099% |
+| Iron dagger (G5) | 7.3258% |
+| Short Steel Sword (G5) | 7.5509% |
 | Oak Bow (G5) | 7.5509% |
 | Oak Stick (G5) | 7.5509% |
 | Small Medicine | 13.5632% |
@@ -73,7 +75,8 @@
 |------|--------|
 | 4x Zamogeon | 99.3408% |
 | Demon's blood | 5.6235% |
-| Small Medicine | 20.9382% |
+| Iron dagger (G5) | 13.5632% |
+| Small Medicine | 8.3349% |
 | Short Steel Sword (G5) | 8.5801% |
 | Oak Bow (G5) | 8.5801% |
 | Oak Stick (G5) | 8.5801% |
@@ -99,7 +102,8 @@
 |------|--------|
 | 6x Zamogeon | 98.9027% |
 | Demon's blood | 9.9963% |
-| SaSaEul Armor (G8) | 8.3349% |
+| MyungJoo suit of low class thief (G8) | 3.8952% |
+| SaSaEul Armor (G8) | 4.5897% |
 | Leather Armor (G8) | 4.5897% |
 | MyungJoo HakChangEau Clothes (G8) | 4.5897% |
 | Small Medicine | 13.5632% |
@@ -160,6 +164,11 @@
 | Leather Armor Gloves (G8) | 0.7178% |
 | Leather Armor Boots (G8) | 0.7178% |
 | Leather Armor Shorts (G8) | 0.7178% |
+| MyungJoo suit of low class thief (G8) | 0.3595% |
+| MyungJoo Hood of low class thief (G8) | 0.3595% |
+| MyungJoo Gloves of low class thief (G8) | 0.3595% |
+| MyungJoo Boots of low class thief (G8) | 0.3595% |
+| MyungJoo suit Shorts of low class thief (G8) | 0.3595% |
 | 11x Zamogeon | 5.6464% |
 | DooJungPeeGap Armor (G16) | 0.024% |
 | BeeDan HakChangEau Clothes (G16) | 0.012% |
@@ -177,7 +186,8 @@
 | 10x Zamogeon | 99.9988% |
 | Demon's blood | 16.6252% |
 | Small Medicine | 35.7708% |
-| Small Steel Sword (G9) | 6.9738% |
+| Steel dagger (G9) | 3.5429% |
+| Small Steel Sword (G9) | 3.5429% |
 | Big Oak Bow (G9) | 3.5429% |
 | Oak Petal Stick (G9) | 3.5429% |
 | 13x Zamogeon | 85.5481% |
@@ -232,7 +242,13 @@
 |------|--------|
 | 15x Zamogeon | 59.6645% |
 | Demon's blood | 54.8118% |
-| Small Medicine | 41.4688% |
+| BeeDan suit Shorts of low class thief (G16) | 21.5675% |
+| BeeDan Boots of low class thief (G16) | 0.3714% |
+| BeeDan Gloves of low class thief (G16) | 0.3714% |
+| BeeDan Hood of low class thief (G16) | 0.3714% |
+| BeeDan suit of low class thief (G16) | 0.3714% |
+| Intensified Iron dagger (G13) | 0.3714% |
+| Small Medicine | 22.9973% |
 | Iron Stick (G13) | 0.7298% |
 | BeeDan HakChangEau Clothes (G16) | 0.3744% |
 | BeeDan HakChangEau Hair Decoration (G16) | 0.3684% |
@@ -279,7 +295,13 @@
 | 20x Zamogeon | 59.3141% |
 | Demon Soldier's Head | 46.5718% |
 | Demon's blood | 11.9999% |
-| Iron Red-blood Sword (G17) | 2.5847% |
+| Iron Red-blood dagger (G17) | 0.1859% |
+| BeeDan suit of low class thief (G16) | 0.3714% |
+| BeeDan Hood of low class thief (G16) | 0.3714% |
+| BeeDan Gloves of low class thief (G16) | 0.3714% |
+| BeeDan Boots of low class thief (G16) | 0.3714% |
+| BeeDan suit Shorts of low class thief (G16) | 0.3714% |
+| Iron Red-blood Sword (G17) | 0.5657% |
 | Small Medicine | 41.4688% |
 | GyungBunGap Armor (G16) | 0.7298% |
 | GyungBunGap Helmet (G16) | 0.7298% |
@@ -326,7 +348,8 @@
 |------|--------|
 | 20x Zamogeon | 59.3141% |
 | Demon Throwing Soldier's Head | 46.5718% |
-| Demon's blood | 13.9874% |
+| Iron Red-blood dagger (G17) | 13.8232% |
+| Demon's blood | 0.1859% |
 | YeonHwang Bow (G17) | 0.3804% |
 | Small Medicine | 41.4688% |
 | DooJungPeeGap Armor (G16) | 0.7298% |
@@ -375,7 +398,8 @@
 | 22x Zamogeon | 59.3141% |
 | Wild Demon Soldier's Head | 46.5718% |
 | Demon's blood | 13.8232% |
-| Iron JuckMo Stick (G17) | 0.5657% |
+| Iron Red-blood dagger (G17) | 0.1859% |
+| Iron JuckMo Stick (G17) | 0.3804% |
 | Small Medicine | 28.6913% |
 | Medium Medicine | 17.0115% |
 | BeeDan HakChangEau Clothes (G16) | 0.7298% |
@@ -426,7 +450,8 @@
 | Demon's blood | 13.9874% |
 | Small Medicine | 33.9962% |
 | Medium Medicine | 13.5525% |
-| Iron Red-blood Sword (G17) | 1.0989% |
+| Iron Red-blood dagger (G17) | 0.3714% |
+| Iron Red-blood Sword (G17) | 0.7298% |
 | YeonHwang Bow (G17) | 0.7298% |
 | Iron JuckMo Stick (G17) | 0.7298% |
 | 25x Zamogeon | 82.6529% |
@@ -472,7 +497,10 @@
 | Demon's blood | 13.9874% |
 | Small Medicine | 36.5432% |
 | Medium Medicine | 16.5842% |
-| Steel Sword (G21) | 0.9413% |
+| MyungJoo suit of thief (G24) | 0.1859% |
+| MyungJoo Hood of thief (G24) | 0.1859% |
+| Intensified Steel dagger (G21) | 0.1859% |
+| Steel Sword (G21) | 0.3864% |
 | SooWoo YeonGak Bow (G21) | 0.3864% |
 | BangChooHyung Iron Stick (G21) | 0.3864% |
 | PanGap Armor (G24) | 0.3654% |
@@ -522,7 +550,13 @@
 | 26x Zamogeon | 58.7838% |
 | Demon Band's Head | 46.5718% |
 | Demon's blood | 11.9999% |
-| HwanDoo Stick (G25) | 2.9364% |
+| MyungJoo suit of thief (G24) | 0.3714% |
+| MyungJoo Hood of thief (G24) | 0.3714% |
+| MyungJoo Gloves of thief (G24) | 0.3714% |
+| MyungJoo Boots of thief (G24) | 0.3714% |
+| MyungJoo suit Shorts of thief (G24) | 0.3714% |
+| JuckAh Big Steel dagger (G25) | 0.3714% |
+| HwanDoo Stick (G25) | 0.7387% |
 | MyungJoo SoChangEau Clothes (G24) | 0.3654% |
 | MyungJoo SoChangEau Hair Decoration (G24) | 0.3654% |
 | MyungJoo SoChangEau Gloves (G24) | 0.3654% |
@@ -569,7 +603,8 @@
 | 28x Zamogeon | 58.7838% |
 | Demon Armored Knight's Head | 46.5718% |
 | Demon's blood | 13.6588% |
-| Big Steel Sword (G25) | 1.1079% |
+| JuckAh Big Steel dagger (G25) | 0.3714% |
+| Big Steel Sword (G25) | 0.7387% |
 | PanGap Armor (G24) | 0.3654% |
 | PanGap Helmet (G24) | 0.3654% |
 | PanGap Gloves (G24) | 0.3654% |
@@ -620,7 +655,8 @@
 | Demon's blood | 13.9874% |
 | Small Medicine | 31.1362% |
 | Medium Medicine | 7.3315% |
-| JuckAh Big Steel Sword (G29) | 0.3804% |
+| Steel dagger with Pattern of Leaf (G33) | 0.1859% |
+| JuckAh Big Steel Sword (G29) | 0.1948% |
 | SooWoo GangGak Bow (G29) | 0.1948% |
 | YeongHwaHwanDoo Stick (G29) | 0.1948% |
 | 31x Zamogeon | 83.9878% |
@@ -662,7 +698,8 @@
 | Demon Commander's Head | 78.1641% |
 | Demon's blood | 29.2328% |
 | Medium Medicine | 21.6753% |
-| JuckAh Big Steel Sword (G29) | 2.5289% |
+| Steel dagger with Pattern of Leaf (G33) | 1.2534% |
+| JuckAh Big Steel Sword (G29) | 1.289% |
 | SooWoo GangGak Bow (G29) | 1.289% |
 | YeongHwaHwanDoo Stick (G29) | 1.289% |
 | 50x Zamogeon | 0.8728% |
@@ -721,7 +758,8 @@
 | Demon Water Dragon'Head | 54.8118% |
 | Small Medicine | 30.0386% |
 | Medium Medicine | 11.892% |
-| Steel Sword (G21) | 1.1079% |
+| Intensified Steel dagger (G21) | 0.3714% |
+| Steel Sword (G21) | 0.7387% |
 | SooWoo YeonGak Bow (G21) | 0.7387% |
 | BangChooHyung Iron Stick (G21) | 0.7387% |
 | 26x Zamogeon | 83.4726% |
@@ -766,7 +804,8 @@
 |------|--------|
 | 27x Zamogeon | 58.7838% |
 | Demon Water Dragon'Head | 54.6196% |
-| GangGak Bow (G25) | 1.1079% |
+| JuckAh Big Steel dagger (G25) | 0.3714% |
+| GangGak Bow (G25) | 0.7387% |
 | ShaeJaGap Armor (G24) | 0.3654% |
 | ShaeJaGap Hood (G24) | 0.3654% |
 | ShaeJaGap Gloves (G24) | 0.3654% |
@@ -814,7 +853,8 @@
 | Demon Water Dragon'Head | 54.8118% |
 | Small Medicine | 31.4084% |
 | Medium Medicine | 6.8065% |
-| Big Steel Sword (G25) | 1.0989% |
+| JuckAh Big Steel dagger (G25) | 0.3714% |
+| Big Steel Sword (G25) | 0.7298% |
 | GangGak Bow (G25) | 0.7298% |
 | HwanDoo Stick (G25) | 0.7298% |
 | 31x Zamogeon | 2.9452% |
@@ -854,7 +894,8 @@
 |------|--------|
 | 52x Zamogeon | 99.8215% |
 | Medium Medicine | 21.6753% |
-| Big Steel Sword with Pattern of Leaf (G33) | 2.5054% |
+| Steel dagger with Pattern of Leaf (G33) | 1.2534% |
+| Big Steel Sword with Pattern of Leaf (G33) | 1.2653% |
 | TaeWoon GangGak Bow (G33) | 1.2653% |
 | HwanRaeHwanDoo Stick (G33) | 1.2653% |
 | 56x Zamogeon | 0.8728% |
@@ -909,7 +950,13 @@
 |------|--------|
 | 12x Zamogeon | 86.1612% |
 | Big Handed Inhabitant's Head | 78.8308% |
-| Iron Sword (G13) | 7.8315% |
+| Intensified Iron dagger (G13) | 0.7178% |
+| MyungJoo suit of low class thief (G8) | 0.7178% |
+| MyungJoo Hood of low class thief (G8) | 0.7178% |
+| MyungJoo Gloves of low class thief (G8) | 0.7178% |
+| MyungJoo Boots of low class thief (G8) | 0.7178% |
+| MyungJoo suit Shorts of low class thief (G8) | 0.7178% |
+| Iron Sword (G13) | 3.721% |
 | Small Medicine | 36.1313% |
 | SaSaEul Armor (G8) | 0.7178% |
 | SaSaEul Helmet (G8) | 0.7178% |
@@ -940,7 +987,13 @@
 |------|--------|
 | 13x Zamogeon | 86.1612% |
 | Big Handed Inhabitant's Head | 78.8308% |
-| YeonGak Bow (G13) | 7.8315% |
+| Intensified Iron dagger (G13) | 0.7178% |
+| MyungJoo suit of low class thief (G8) | 3.5464% |
+| MyungJoo Hood of low class thief (G8) | 0.7178% |
+| MyungJoo Gloves of low class thief (G8) | 0.7178% |
+| MyungJoo Boots of low class thief (G8) | 0.7178% |
+| MyungJoo suit Shorts of low class thief (G8) | 0.7178% |
+| YeonGak Bow (G13) | 0.8966% |
 | Small Medicine | 36.1313% |
 | Leather Armor (G8) | 0.7178% |
 | Leather Armor Hood (G8) | 0.7178% |
@@ -971,7 +1024,13 @@
 |------|--------|
 | 16x Zamogeon | 59.6645% |
 | Big Handed Warrior's Head | 53.6482% |
-| YeonGak Bow (G13) | 2.9276% |
+| BeeDan suit Shorts of low class thief (G16) | 0.3714% |
+| BeeDan Boots of low class thief (G16) | 0.3714% |
+| BeeDan Gloves of low class thief (G16) | 0.3714% |
+| BeeDan Hood of low class thief (G16) | 0.3714% |
+| BeeDan suit of low class thief (G16) | 0.3714% |
+| Intensified Iron dagger (G13) | 0.3714% |
+| YeonGak Bow (G13) | 0.7298% |
 | DooJungPeeGap Armor (G16) | 0.3744% |
 | DooJungPeeGap Hood (G16) | 0.3684% |
 | DooJungPeeGap Gloves (G16) | 0.3654% |
@@ -1003,7 +1062,13 @@
 |------|--------|
 | 17x Zamogeon | 59.6645% |
 | Big Handed Warrior's Head | 53.6482% |
-| Iron Sword (G13) | 2.9276% |
+| BeeDan suit Shorts of low class thief (G16) | 0.3714% |
+| BeeDan Boots of low class thief (G16) | 0.3714% |
+| BeeDan Gloves of low class thief (G16) | 0.3714% |
+| BeeDan Hood of low class thief (G16) | 0.3714% |
+| BeeDan suit of low class thief (G16) | 0.3714% |
+| Intensified Iron dagger (G13) | 0.3714% |
+| Iron Sword (G13) | 0.7298% |
 | GyungBunGap Armor (G16) | 0.3744% |
 | GyungBunGap Helmet (G16) | 0.3684% |
 | GyungBunGap Gloves (G16) | 0.3654% |
@@ -1036,7 +1101,8 @@
 | 33x Zamogeon | 90.7084% |
 | YeongHwaHwanDoo Stick (G29) | 0.479% |
 | HwanRaeHwanDoo Stick (G33) | 0.2996% |
-| Medium Medicine | 45.712% |
+| Medium Medicine | 45.3504% |
+| Steel dagger with Pattern of Leaf (G33) | 0.5985% |
 | Talisman of Accuracy | 0.003% |
 | Talisman of Intensification (Slaughterous /Unlawful) | 0.009% |
 | Talisman of Wonder (Keen/Fictional) | 0.009% |
@@ -1065,7 +1131,8 @@
 | Item | Chance |
 |------|--------|
 | 36x Zamogeon | 90.7084% |
-| JuckAh Big Steel Sword (G29) | 0.479% |
+| Steel dagger with Pattern of Leaf (G33) | 0.3595% |
+| JuckAh Big Steel Sword (G29) | 0.1199% |
 | Big Steel Sword with Pattern of Leaf (G33) | 0.2996% |
 | Medium Medicine | 49.22% |
 | Talisman of Accuracy | 0.003% |
@@ -1096,7 +1163,8 @@
 | Item | Chance |
 |------|--------|
 | 39x Zamogeon | 90.6419% |
-| SooWoo GangGak Bow (G29) | 0.9562% |
+| Steel dagger with Pattern of Leaf (G33) | 0.479% |
+| SooWoo GangGak Bow (G29) | 0.479% |
 | TaeWoon GangGak Bow (G33) | 0.2996% |
 | Medium Medicine | 49.22% |
 | Talisman of Accuracy | 0.003% |
@@ -1127,7 +1195,12 @@
 | Item | Chance |
 |------|--------|
 | 42x Zamogeon | 79.3196% |
-| Steel Armor (G32) | 0.5388% |
+| BeeDan suit of thief (G32) | 0.09% |
+| BeeDan Hood of thief (G32) | 0.09% |
+| BeeDan Gloves of thief (G32) | 0.09% |
+| BeeDan Boots of thief (G32) | 0.09% |
+| BeeDan suit Shorts of thief (G32) | 0.09% |
+| Steel Armor (G32) | 0.09% |
 | Steel Armor Helmet (G32) | 0.09% |
 | Steel Armor Gloves (G32) | 0.09% |
 | Steel Armor Boots (G32) | 0.09% |
@@ -1162,7 +1235,12 @@
 | Item | Chance |
 |------|--------|
 | 45x Zamogeon | 79.3196% |
-| Intensified ShaeJaGap Armor (G32) | 0.5388% |
+| BeeDan suit of thief (G32) | 0.09% |
+| BeeDan Hood of thief (G32) | 0.09% |
+| BeeDan Gloves of thief (G32) | 0.09% |
+| BeeDan Boots of thief (G32) | 0.09% |
+| BeeDan suit Shorts of thief (G32) | 0.09% |
+| Intensified ShaeJaGap Armor (G32) | 0.09% |
 | Intensified ShaeJaGap Hood (G32) | 0.09% |
 | Intensified ShaeJaGap Gloves (G32) | 0.09% |
 | Intensified ShaeJaGap Boots (G32) | 0.09% |
@@ -1197,7 +1275,12 @@
 | Item | Chance |
 |------|--------|
 | 48x Zamogeon | 79.3196% |
-| BeeDan SoChangEau Clothes (G32) | 0.5388% |
+| BeeDan suit of thief (G32) | 0.09% |
+| BeeDan Hood of thief (G32) | 0.09% |
+| BeeDan Gloves of thief (G32) | 0.09% |
+| BeeDan Boots of thief (G32) | 0.09% |
+| BeeDan suit Shorts of thief (G32) | 0.09% |
+| BeeDan SoChangEau Clothes (G32) | 0.09% |
 | BeeDan SoChangEau Hair Decoration (G32) | 0.09% |
 | BeeDan SoChangEau Gloves (G32) | 0.09% |
 | BeeDan SoChangEau Boots (G32) | 0.09% |
@@ -1232,7 +1315,12 @@
 | Item | Chance |
 |------|--------|
 | 54x Zamogeon | 94.4506% |
-| Steel Armor (G32) | 0.2877% |
+| BeeDan suit of thief (G32) | 0.048% |
+| BeeDan Hood of thief (G32) | 0.048% |
+| BeeDan Gloves of thief (G32) | 0.048% |
+| BeeDan Boots of thief (G32) | 0.048% |
+| BeeDan suit Shorts of thief (G32) | 0.048% |
+| Steel Armor (G32) | 0.048% |
 | Steel Armor Helmet (G32) | 0.048% |
 | Steel Armor Gloves (G32) | 0.048% |
 | Steel Armor Boots (G32) | 0.048% |
@@ -1427,7 +1515,8 @@
 | 62x Zamogeon | 67.5768% |
 | Devil Soldier Spear's Head | 20.4932% |
 | Demon's blood | 12.6023% |
-| HwanDoo Big Sword (G37) | 0.3595% |
+| HwanDoo dagger (G37) | 0.1799% |
+| HwanDoo Big Sword (G37) | 0.1799% |
 | HoMee Gak Bow (G37) | 0.1799% |
 | SaeGum Chairperson's Stick (G37) | 0.1799% |
 | Red HwanDoo Big Sword (G40) | 0.09% |
@@ -1468,7 +1557,8 @@
 | 92x Zamogeon | 52.7945% |
 | Devil Soldier Sub-boss' Head | 45.4229% |
 | Demon's blood | 13.3504% |
-| White HwanDoo Big Sword (G40) | 0.479% |
+| Red HwanDoo dagger (G40) | 0.2398% |
+| White HwanDoo Big Sword (G40) | 0.2398% |
 | Red Tiger Pattern Gak Bow (G40) | 0.2398% |
 | Sae Hak Chairperson's Stick (G40) | 0.2398% |
 | HwanDoo SaeHyung Big Sword (G40) | 0.3295% |
@@ -1507,7 +1597,12 @@
 | 54x Zamogeon | 29.6814% |
 | Devil Soldier Boss' Head | 21.7242% |
 | Demon's blood | 10.872% |
-| GangChulGap Armor (G42) | 0.7178% |
+| MyungJoo suit of High class thief (G42) | 0.1199% |
+| MyungJoo Hood of High class thief (G42) | 0.1199% |
+| MyungJoo Gloves of High class thief (G42) | 0.1199% |
+| MyungJoo Boots of High class thief (G42) | 0.1199% |
+| MyungJoo suit Shorts of High class thief (G42) | 0.1199% |
+| GangChulGap Armor (G42) | 0.1199% |
 | GangChulGap Armor Helmet (G42) | 0.1199% |
 | GangChulGap Armor Gloves (G42) | 0.1199% |
 | GangChulGap Armor Boots (G42) | 0.1199% |
@@ -1601,6 +1696,7 @@
 | Stone of Chance | 0.0006% |
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0006% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.0006% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0006% |
 | Chop of Meat (G44) | 2.9627% |
 | Medium Refining Water (G44) | 2.9627% |
 | Big Piece of Meat (G48) | 2.0817% |
@@ -1658,6 +1754,7 @@
 | Stone of Chance | 0.0006% |
 | MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0006% |
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0006% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0006% |
 | Chop of Meat (G44) | 2.9627% |
 | Medium Refining Water (G44) | 2.9627% |
 | Big Piece of Meat (G48) | 2.0817% |
@@ -1714,6 +1811,7 @@
 | Stone of Chance | 0.0006% |
 | Baek Dae Steel Bow (G45) | 0.0006% |
 | Yeon Lin Steel Bow (G45) | 0.0006% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0006% |
 | Chop of Meat (G44) | 2.9627% |
 | Medium Refining Water (G44) | 2.9627% |
 | Big Piece of Meat (G48) | 2.0817% |
@@ -1850,6 +1948,7 @@
 | Stone of Chance | 0.0006% |
 | Baek Dae Steel Bow (G45) | 0.0006% |
 | Yeon Lin Steel Bow (G45) | 0.0006% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0006% |
 | Chop of Meat (G44) | 2.9627% |
 | Medium Refining Water (G44) | 2.9627% |
 | Big Piece of Meat (G48) | 2.0817% |
@@ -1908,6 +2007,7 @@
 | Stone of Chance | 0.0006% |
 | MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0006% |
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0006% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0006% |
 | Chop of Meat (G44) | 2.9627% |
 | Medium Refining Water (G44) | 2.9627% |
 | Big Piece of Meat (G48) | 2.0817% |
@@ -1965,6 +2065,7 @@
 | Stone of Chance | 0.0006% |
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0006% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.0006% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0006% |
 | Chop of Meat (G44) | 2.9627% |
 | Medium Refining Water (G44) | 2.9627% |
 | Big Piece of Meat (G48) | 2.0817% |
@@ -2385,6 +2486,7 @@
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
 | Steel Bow (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2406,6 +2508,8 @@
 | MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0648% |
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0864% |
 | Ghost Shaped Iron Shield (G48) | 0.0216% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0864% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.0864% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -2455,6 +2559,8 @@
 | BeeDan DaeChangEau Shorts (G46) | 0.0108% |
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0648% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.0864% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0864% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.0864% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -2483,6 +2589,7 @@
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2531,6 +2638,7 @@
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
 | Steel Bow (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2552,6 +2660,8 @@
 | MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.0648% |
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0864% |
 | Ghost Shaped Iron Shield (G48) | 0.0216% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0864% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.0864% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -2601,6 +2711,8 @@
 | BeeDan DaeChangEau Shorts (G46) | 0.0108% |
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0648% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.0864% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0864% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.0864% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -2629,6 +2741,7 @@
 | Sea Bream with Blood | 1.289% |
 | Stone of Chance | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2663,6 +2776,11 @@
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0252% |
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0144% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.0252% |
+| BeeDan suit of High class thief (G46) | 0.0036% |
+|  BeeDan Hood of High class thief (G46) | 0.0036% |
+| BeeDan Gloves of High class thief (G46) | 0.0036% |
+| BeeDan Boots of High class thief (G46) | 0.0036% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0036% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0126% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0126% |
 | Talisman of Wonder (Vital/Healthy) | 0.0126% |
@@ -2693,6 +2811,7 @@
 | Steel Bow (G50) | 0.0006% |
 | Golden Treasure Sword (G50) | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2726,6 +2845,13 @@
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0294% |
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0126% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.0294% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0126% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.0294% |
+| BeeDan suit of High class thief (G46) | 0.0042% |
+|  BeeDan Hood of High class thief (G46) | 0.0042% |
+| BeeDan Gloves of High class thief (G46) | 0.0042% |
+| BeeDan Boots of High class thief (G46) | 0.0042% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0042% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -2756,6 +2882,7 @@
 | Steel Bow (G50) | 0.0006% |
 | Giant Sword (G50) | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2789,6 +2916,11 @@
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0252% |
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0144% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.0252% |
+| BeeDan suit of High class thief (G46) | 0.0036% |
+|  BeeDan Hood of High class thief (G46) | 0.0036% |
+| BeeDan Gloves of High class thief (G46) | 0.0036% |
+| BeeDan Boots of High class thief (G46) | 0.0036% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0036% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0126% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0126% |
 | Talisman of Wonder (Vital/Healthy) | 0.0126% |
@@ -2819,6 +2951,7 @@
 | Steel Bow (G50) | 0.0006% |
 | Golden Treasure Sword (G50) | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2852,6 +2985,13 @@
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.0294% |
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0126% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.0294% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.0126% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.0294% |
+| BeeDan suit of High class thief (G46) | 0.0042% |
+|  BeeDan Hood of High class thief (G46) | 0.0042% |
+| BeeDan Gloves of High class thief (G46) | 0.0042% |
+| BeeDan Boots of High class thief (G46) | 0.0042% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0042% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -2882,6 +3022,7 @@
 | Steel Bow (G50) | 0.0006% |
 | Giant Sword (G50) | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2904,6 +3045,8 @@
 | Golden Treasure Sword (G50) | 0.0114% |
 | Giant Sword (G50) | 0.0114% |
 | Ghost Shaped Iron Shield (G48) | 0.0228% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.1139% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.1139% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -2935,6 +3078,9 @@
 | Black Golden Treasure Sword (G50) | 0.0006% |
 | Revengeful Sword (G50) | 0.0006% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
+| Butterfly-Shaped dagger (G50) | 0.0006% |
+| Revengeful dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -2958,6 +3104,8 @@
 | Golden Treasure Sword (G50) | 0.012% |
 | Giant Sword (G50) | 0.012% |
 | Ghost Shaped Iron Shield (G48) | 0.024% |
+| MaeGak Hwandoo SaeHyung dagger (G45) | 0.1199% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.1199% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -2989,6 +3137,9 @@
 | Black Golden Treasure Sword (G50) | 0.0006% |
 | Revengeful Sword (G50) | 0.0006% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
+| Butterfly-Shaped dagger (G50) | 0.0006% |
+| Revengeful dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3012,6 +3163,16 @@
 | Golden Treasure Sword (G50) | 0.0126% |
 | Giant Sword (G50) | 0.0126% |
 | Ghost Shaped Iron Shield (G48) | 0.0252% |
+| BeeDan suit of High class thief (G46) | 0.0126% |
+|  BeeDan Hood of High class thief (G46) | 0.0126% |
+| BeeDan Gloves of High class thief (G46) | 0.0126% |
+| BeeDan Boots of High class thief (G46) | 0.0126% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0126% |
+| Savage Tribe's dagger (G48) | 0.0126% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.0126% |
+| Golden Treasure dagger (G50) | 0.0126% |
+| Butterfly-Shaped dagger (G50) | 0.0126% |
+| Revengeful dagger (G50) | 0.0126% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -3044,6 +3205,7 @@
 | Revengeful Sword (G50) | 0.0006% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0006% |
 | Diamond Giant Sword (G53) | 0.0006% |
+| Diamond dagger (G53) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3067,6 +3229,16 @@
 | Golden Treasure Sword (G50) | 0.0132% |
 | Giant Sword (G50) | 0.0132% |
 | Ghost Shaped Iron Shield (G48) | 0.0264% |
+| BeeDan suit of High class thief (G46) | 0.0132% |
+|  BeeDan Hood of High class thief (G46) | 0.0132% |
+| BeeDan Gloves of High class thief (G46) | 0.0132% |
+| BeeDan Boots of High class thief (G46) | 0.0132% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0132% |
+| Savage Tribe's dagger (G48) | 0.0132% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.0132% |
+| Golden Treasure dagger (G50) | 0.0138% |
+| Butterfly-Shaped dagger (G50) | 0.0132% |
+| Revengeful dagger (G50) | 0.0132% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -3120,6 +3292,16 @@
 | Baek Dae Steel Bow (G45) | 0.0684% |
 | Yeon Lin Steel Bow (G45) | 0.1139% |
 | Steel Bow (G50) | 0.0114% |
+| BeeDan suit of High class thief (G46) | 0.0456% |
+|  BeeDan Hood of High class thief (G46) | 0.0114% |
+| BeeDan Gloves of High class thief (G46) | 0.0114% |
+| BeeDan Boots of High class thief (G46) | 0.0114% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0114% |
+| Savage Tribe's dagger (G48) | 0.0114% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.0114% |
+| Golden Treasure dagger (G50) | 0.012% |
+| Butterfly-Shaped dagger (G50) | 0.012% |
+| Revengeful dagger (G50) | 0.012% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -3199,6 +3381,9 @@
 | Stone of Chance | 0.0006% |
 | Steel Bow with Crow's Feather (G50) | 0.0012% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0006% |
+| Butterfly-Shaped dagger (G50) | 0.0006% |
+| Revengeful dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3220,6 +3405,16 @@
 | Baek Dae Steel Bow (G45) | 0.063% |
 | Yeon Lin Steel Bow (G45) | 0.1385% |
 | Steel Bow (G50) | 0.0126% |
+| BeeDan suit of High class thief (G46) | 0.0504% |
+|  BeeDan Hood of High class thief (G46) | 0.0126% |
+| BeeDan Gloves of High class thief (G46) | 0.0126% |
+| BeeDan Boots of High class thief (G46) | 0.0126% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0126% |
+| Savage Tribe's dagger (G48) | 0.0126% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.0126% |
+| Golden Treasure dagger (G50) | 0.0132% |
+| Butterfly-Shaped dagger (G50) | 0.0126% |
+| Revengeful dagger (G50) | 0.0126% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -3301,6 +3496,7 @@
 | Steel Bow with Crow's Feather (G50) | 0.0012% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
 | Diamond Bow (G53) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3322,6 +3518,16 @@
 | Joong Bang Chairperson's WhiteStick (G45) | 0.0684% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.1139% |
 | Stick with Black Crow's Feather (G50) | 0.0114% |
+| BeeDan suit of High class thief (G46) | 0.0456% |
+|  BeeDan Hood of High class thief (G46) | 0.0114% |
+| BeeDan Gloves of High class thief (G46) | 0.0114% |
+| BeeDan Boots of High class thief (G46) | 0.0114% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0114% |
+| Savage Tribe's dagger (G48) | 0.0114% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.0114% |
+| Golden Treasure dagger (G50) | 0.012% |
+| Butterfly-Shaped dagger (G50) | 0.012% |
+| Revengeful dagger (G50) | 0.012% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -3401,6 +3607,9 @@
 | Stone of Chance | 0.0006% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
 | Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0006% |
+| Butterfly-Shaped dagger (G50) | 0.0006% |
+| Revengeful dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3422,6 +3631,16 @@
 | Joong Bang Chairperson's WhiteStick (G45) | 0.063% |
 | Joong Bang Chairperson's Single Stick (G45) | 0.1385% |
 | Stick with Black Crow's Feather (G50) | 0.0126% |
+| BeeDan suit of High class thief (G46) | 0.0504% |
+|  BeeDan Hood of High class thief (G46) | 0.0126% |
+| BeeDan Gloves of High class thief (G46) | 0.0126% |
+| BeeDan Boots of High class thief (G46) | 0.0126% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0126% |
+| Savage Tribe's dagger (G48) | 0.0126% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.0126% |
+| Golden Treasure dagger (G50) | 0.0132% |
+| Butterfly-Shaped dagger (G50) | 0.0126% |
+| Revengeful dagger (G50) | 0.0126% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -3503,6 +3722,7 @@
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
 | Stick with Blue Crow's Feather (G50) | 0.0012% |
 | Diamond Stick (G53) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3572,6 +3792,7 @@
 | Revengeful Sword (G50) | 0.0006% |
 | Steel Bow with Crow's Feather (G50) | 0.0006% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3610,6 +3831,16 @@
 | Giant Sword (G50) | 0.0042% |
 | Steel Bow (G50) | 0.0042% |
 | Stick with Black Crow's Feather (G50) | 0.0042% |
+| BeeDan suit of High class thief (G46) | 0.0042% |
+|  BeeDan Hood of High class thief (G46) | 0.0042% |
+| BeeDan Gloves of High class thief (G46) | 0.0042% |
+| BeeDan Boots of High class thief (G46) | 0.0042% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0042% |
+| Savage Tribe's dagger (G48) | 0.0042% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.0042% |
+| Golden Treasure dagger (G50) | 0.0048% |
+| Butterfly-Shaped dagger (G50) | 0.0042% |
+| Revengeful dagger (G50) | 0.0042% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -3710,6 +3941,7 @@
 | Revengeful Sword (G50) | 0.0006% |
 | Steel Bow with Crow's Feather (G50) | 0.0006% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | Cooked Chop of Meat (G52) | 4.1272% |
 | Best Refining Water (G52) | 4.1272% |
 | Pork Leg of Geum-Oh Mountain (G56) | 1.7866% |
@@ -3748,6 +3980,16 @@
 | Giant Sword (G50) | 0.0048% |
 | Steel Bow (G50) | 0.0048% |
 | Stick with Black Crow's Feather (G50) | 0.0048% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0048% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.0048% |
+| Golden Treasure dagger (G50) | 0.0054% |
+| Butterfly-Shaped dagger (G50) | 0.0048% |
+| Revengeful dagger (G50) | 0.0048% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -3866,6 +4108,16 @@
 | Golden Treasure Sword (G50) | 0.0018% |
 | Butterfly-Shaped Treasure Sword (G50) | 0.0018% |
 | Black Golden Treasure Sword (G50) | 0.0018% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0396% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4062,6 +4314,16 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
 | Stick with Blue Crow's Feather (G50) | 0.0018% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0396% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4160,6 +4422,16 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
 | Stick with Blue Crow's Feather (G50) | 0.0018% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0396% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4209,6 +4481,16 @@
 | Giant Sword (G50) | 0.0024% |
 | Revengeful Sword (G50) | 0.0018% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0396% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4258,6 +4540,16 @@
 | Giant Sword (G50) | 0.0024% |
 | Revengeful Sword (G50) | 0.0024% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0024% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0036% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.006% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0264% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4549,6 +4841,8 @@
 | Steel Bow (G50) | 0.0024% |
 | Steel Bow with Crow's Feather (G50) | 0.0024% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Golden Treasure dagger (G50) | 0.0024% |
+| Butterfly-Shaped dagger (G50) | 0.0048% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4598,6 +4892,8 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
 | Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Golden Treasure dagger (G50) | 0.0024% |
+| Butterfly-Shaped dagger (G50) | 0.0048% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4716,6 +5012,12 @@
 | Diamond Giant Sword (G53) | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
+| Diamond suit of thief (G50) | 0.0012% |
+| Diamond Hood of thief (G50) | 0.0012% |
+| Diamond Gloves of thief (G50) | 0.0012% |
+| Diamond Boots of thief (G50) | 0.0012% |
+| Diamond suit Shorts of thief (G50) | 0.0012% |
+| Diamond dagger (G53) | 0.0006% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4764,6 +5066,16 @@
 | Giant Sword (G50) | 0.0018% |
 | Revengeful Sword (G50) | 0.0018% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0396% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4908,6 +5220,16 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
 | Stick with Blue Crow's Feather (G50) | 0.0018% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0396% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -4956,6 +5278,16 @@
 | Giant Sword (G50) | 0.0024% |
 | Revengeful Sword (G50) | 0.0018% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0018% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0396% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -5148,6 +5480,16 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0018% |
 | Stick with Blue Crow's Feather (G50) | 0.0018% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0048% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.0048% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0396% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -5388,6 +5730,16 @@
 | Giant Sword (G50) | 0.0024% |
 | Revengeful Sword (G50) | 0.0024% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0024% |
+| BeeDan suit of High class thief (G46) | 0.0048% |
+|  BeeDan Hood of High class thief (G46) | 0.0036% |
+| BeeDan Gloves of High class thief (G46) | 0.0048% |
+| BeeDan Boots of High class thief (G46) | 0.006% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0048% |
+| Savage Tribe's dagger (G48) | 0.0264% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.018% |
+| Golden Treasure dagger (G50) | 0.0018% |
+| Butterfly-Shaped dagger (G50) | 0.0018% |
+| Revengeful dagger (G50) | 0.0018% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -5536,6 +5888,8 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
 | Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Golden Treasure dagger (G50) | 0.0024% |
+| Butterfly-Shaped dagger (G50) | 0.0048% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -5584,6 +5938,8 @@
 | Steel Bow (G50) | 0.0024% |
 | Steel Bow with Crow's Feather (G50) | 0.0024% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Golden Treasure dagger (G50) | 0.0024% |
+| Butterfly-Shaped dagger (G50) | 0.0048% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -5648,6 +6004,12 @@
 | Diamond Giant Sword (G53) | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
+| Diamond suit of thief (G50) | 0.0012% |
+| Diamond Hood of thief (G50) | 0.0012% |
+| Diamond Gloves of thief (G50) | 0.0012% |
+| Diamond Boots of thief (G50) | 0.0012% |
+| Diamond suit Shorts of thief (G50) | 0.0012% |
+| Diamond dagger (G53) | 0.0006% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -5722,6 +6084,14 @@
 | Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
+| Golden Sword (G62) | 0.0012% |
+| Golden Giant Sword (G62) | 0.0012% |
+| Golden Bow (G62) | 0.0012% |
+| Golden Stick (G62) | 0.0012% |
+| Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 87 2nd Commander of The Royal Tomb
 
@@ -5771,6 +6141,14 @@
 | Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
+| Golden Sword (G62) | 0.0012% |
+| Golden Giant Sword (G62) | 0.0012% |
+| Golden Bow (G62) | 0.0012% |
+| Golden Stick (G62) | 0.0012% |
+| Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 88 1st Commander of The Royal Tomb
 
@@ -5820,6 +6198,14 @@
 | Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
+| Golden Sword (G62) | 0.0012% |
+| Golden Giant Sword (G62) | 0.0012% |
+| Golden Bow (G62) | 0.0012% |
+| Golden Stick (G62) | 0.0012% |
+| Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 89 Imperial Commander of The Royal Tomb
 
@@ -5859,6 +6245,12 @@
 | Diamond Stick (G53) | 0.012% |
 | Diamond Stick of Pain (G53) | 0.012% |
 | Diamond Stick of Phantom (G53) | 0.012% |
+| Golden Treasure dagger (G50) | 0.012% |
+| Butterfly-Shaped dagger (G50) | 0.012% |
+| Revengeful dagger (G50) | 0.012% |
+| Diamond dagger (G53) | 0.012% |
+| Diamond dagger of Pain (G53) | 0.012% |
+| Diamond dagger of Phantom (G53) | 0.012% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
@@ -5888,6 +6280,14 @@
 | Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
+| Golden Sword (G62) | 0.0012% |
+| Golden Giant Sword (G62) | 0.0012% |
+| Golden Bow (G62) | 0.0012% |
+| Golden Stick (G62) | 0.0012% |
+| Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 90 Chief Guard of The Royal Tomb
 
@@ -5927,6 +6327,12 @@
 | Diamond Stick (G53) | 0.012% |
 | Diamond Stick of Pain (G53) | 0.012% |
 | Diamond Stick of Phantom (G53) | 0.012% |
+| Golden Treasure dagger (G50) | 0.012% |
+| Butterfly-Shaped dagger (G50) | 0.012% |
+| Revengeful dagger (G50) | 0.012% |
+| Diamond dagger (G53) | 0.012% |
+| Diamond dagger of Pain (G53) | 0.012% |
+| Diamond dagger of Phantom (G53) | 0.012% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
@@ -5956,6 +6362,14 @@
 | Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
+| Golden Sword (G62) | 0.0012% |
+| Golden Giant Sword (G62) | 0.0012% |
+| Golden Bow (G62) | 0.0012% |
+| Golden Stick (G62) | 0.0012% |
+| Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 91 Chief Escort of The Royal Tomb
 
@@ -5995,6 +6409,12 @@
 | Diamond Stick (G53) | 0.012% |
 | Diamond Stick of Pain (G53) | 0.012% |
 | Diamond Stick of Phantom (G53) | 0.012% |
+| Golden Treasure dagger (G50) | 0.012% |
+| Butterfly-Shaped dagger (G50) | 0.012% |
+| Revengeful dagger (G50) | 0.012% |
+| Diamond dagger (G53) | 0.012% |
+| Diamond dagger of Pain (G53) | 0.012% |
+| Diamond dagger of Phantom (G53) | 0.012% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
@@ -6024,6 +6444,14 @@
 | Talisman of Intensification (Magical Power's/Wise) | 0.0114% |
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0114% |
 | Sea Bream with Blood | 4.0345% |
+| Golden Sword (G62) | 0.0012% |
+| Golden Giant Sword (G62) | 0.0012% |
+| Golden Bow (G62) | 0.0012% |
+| Golden Stick (G62) | 0.0012% |
+| Golden dagger (G62) | 0.0012% |
+| Health Necklace (G60) | 0.012% |
+| Mana Necklace (G60) | 0.012% |
+| Trinity Necklace (G60) | 0.012% |
 
 ## 173 Minister of the Royal Tomb
 
@@ -6075,6 +6503,7 @@
 | Golden Treasure Sword (G50) | 0.0006% |
 | Giant Sword (G50) | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 
 ## 174 Maid of Honor of the Royal Tomb
 
@@ -6125,6 +6554,7 @@
 | Stone of Chance | 0.0006% |
 | Steel Bow (G50) | 0.0006% |
 | Stick with Black Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 
 ## 175 The Royal Tomb Keeper
 
@@ -6169,6 +6599,7 @@
 | Stone of Chance | 0.0006% |
 | Steel Bow with Crow's Feather (G50) | 0.0006% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
 ## 176 The Royal Tomb Keeper
@@ -6185,6 +6616,13 @@
 | Baek Dae Steel Bow (G45) | 0.069% |
 | Yeon Lin Steel Bow (G45) | 0.1517% |
 | Steel Bow (G50) | 0.0138% |
+| Hwandoo Saehyung dagger with Pattern of Leaf (G45) | 0.0414% |
+| Savage Tribe's dagger (G48) | 0.0414% |
+| BeeDan suit of High class thief (G46) | 0.0138% |
+|  BeeDan Hood of High class thief (G46) | 0.0138% |
+| BeeDan Gloves of High class thief (G46) | 0.0138% |
+| BeeDan Boots of High class thief (G46) | 0.0138% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0138% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -6214,6 +6652,7 @@
 | Stone of Chance | 0.0006% |
 | Steel Bow with Crow's Feather (G50) | 0.0006% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
 ## 177 The Royal Tomb Keeper
@@ -6269,6 +6708,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Bow (G53) | 0.0006% |
 | Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
 ## 178 The Royal Tomb Keeper
@@ -6292,6 +6732,14 @@
 | Steel Bow (G50) | 0.0048% |
 | Steel Bow with Crow's Feather (G50) | 0.0036% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0036% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -6369,6 +6817,7 @@
 | Stone of Chance | 0.0006% |
 | Butterfly-Shaped Treasure Sword (G50) | 0.0006% |
 | Black Golden Treasure Sword (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
 ## 180 The Royal Tomb Keeper
@@ -6385,6 +6834,14 @@
 | MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.06% |
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1319% |
 | Golden Treasure Sword (G50) | 0.012% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -6469,6 +6926,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Treasure Sword (G53) | 0.0006% |
 | Ancient Treasure Sword (G56) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's first certificate | 0.5988% |
 
 ## 182 The Royal Tomb Keeper
@@ -6501,6 +6959,14 @@
 | Golden Treasure Sword (G50) | 0.0048% |
 | Butterfly-Shaped Treasure Sword (G50) | 0.0036% |
 | Black Golden Treasure Sword (G50) | 0.0036% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -6578,6 +7044,7 @@
 | Stone of Chance | 0.0006% |
 | Revengeful Sword (G50) | 0.0006% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
 ## 184 The Royal Tomb Keeper
@@ -6594,6 +7061,14 @@
 | MaeGak Hwandoo SaeHyung Big Sword (G45) | 0.06% |
 | Hwandoo Saehyung Big Sword with Pattern of Leaf (G45) | 0.1319% |
 | Giant Sword (G50) | 0.012% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
 | Talisman of Wonder (Vital/Healthy) | 0.0108% |
@@ -6678,6 +7153,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Giant Sword (G53) | 0.0006% |
 | Ancient Giant Sword (G56) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
 ## 186 The Royal Tomb Keeper
@@ -6710,6 +7186,14 @@
 | Giant Sword (G50) | 0.0048% |
 | Revengeful Sword (G50) | 0.0036% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0036% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -6786,6 +7270,7 @@
 | Stone of Chance | 0.0006% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0006% |
 | Stick with Blue Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
 ## 188 The Royal Tomb Keeper
@@ -6831,6 +7316,7 @@
 | Stone of Chance | 0.0006% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0006% |
 | Stick with Blue Crow's Feather (G50) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
 ## 189 The Royal Tomb Keeper
@@ -6854,6 +7340,14 @@
 | Stick with Black Crow's Feather (G50) | 0.0036% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0036% |
 | Stick with Blue Crow's Feather (G50) | 0.0036% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -6950,6 +7444,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 | Ancient Stick (G56) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 | The Royal Tobm Keeper's second certificate | 0.6884% |
 
 ## 160 Warrior of Shadow Troop
@@ -6973,6 +7468,14 @@
 | Steel Bow (G50) | 0.0048% |
 | Steel Bow with Crow's Feather (G50) | 0.0036% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0036% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -7059,6 +7562,7 @@
 | Stone of Chance | 0.0006% |
 | Diamond Stick (G53) | 0.0006% |
 | Ancient Stick (G56) | 0.0006% |
+| Golden Treasure dagger (G50) | 0.0006% |
 
 ## 192 Warrior of Shadow Troop
 
@@ -7090,6 +7594,14 @@
 | Golden Treasure Sword (G50) | 0.0048% |
 | Butterfly-Shaped Treasure Sword (G50) | 0.0036% |
 | Black Golden Treasure Sword (G50) | 0.0036% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -7153,6 +7665,14 @@
 | Giant Sword (G50) | 0.0048% |
 | Revengeful Sword (G50) | 0.0036% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0036% |
+| Golden Treasure dagger (G50) | 0.003% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -7231,6 +7751,14 @@
 | Steel Bow (G50) | 0.0036% |
 | Steel Bow with Crow's Feather (G50) | 0.0024% |
 | Steel Bow with Golden Crow's Feather (G50) | 0.0024% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| Diamond suit of thief (G50) | 0.0012% |
+| Diamond Hood of thief (G50) | 0.0012% |
+| Diamond Gloves of thief (G50) | 0.0012% |
+| Diamond Boots of thief (G50) | 0.0012% |
+| Diamond suit Shorts of thief (G50) | 0.0012% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -7265,6 +7793,7 @@
 | Diamond Bow (G53) | 0.0006% |
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
 | General's Stick (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
 
 ## 194 Hook of Shadow Troop
 
@@ -7314,6 +7843,14 @@
 | Giant Sword (G50) | 0.0012% |
 | Revengeful Sword (G50) | 0.0012% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| Diamond suit of thief (G50) | 0.0012% |
+| Diamond Hood of thief (G50) | 0.0012% |
+| Diamond Gloves of thief (G50) | 0.0012% |
+| Diamond Boots of thief (G50) | 0.0012% |
+| Diamond suit Shorts of thief (G50) | 0.0012% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -7349,6 +7886,7 @@
 | Diamond Giant Sword (G53) | 0.0006% |
 | General's Treasure Sword (G56) | 0.0006% |
 | General's Giant Sword (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
 
 ## 162 Watcher of Shadow Troop
 
@@ -7398,6 +7936,14 @@
 | Giant Sword (G50) | 0.0012% |
 | Revengeful Sword (G50) | 0.0012% |
 | Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| Diamond suit of thief (G50) | 0.0012% |
+| Diamond Hood of thief (G50) | 0.0012% |
+| Diamond Gloves of thief (G50) | 0.0012% |
+| Diamond Boots of thief (G50) | 0.0012% |
+| Diamond suit Shorts of thief (G50) | 0.0012% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -7434,6 +7980,7 @@
 | General's Treasure Sword (G56) | 0.0006% |
 | General's Giant Sword (G56) | 0.0006% |
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
 
 ## 195 Watcher of Shadow Troop
 
@@ -7514,6 +8061,7 @@
 | Diamond Stick (G53) | 0.0006% |
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
 | General's Stick (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
 
 ## 163 Chief Warrior of Shadow Troop
 
@@ -7563,6 +8111,14 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
 | Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Golden Treasure dagger (G50) | 0.0024% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -7599,6 +8155,7 @@
 | General's Treasure Sword (G56) | 0.0006% |
 | General's Giant Sword (G56) | 0.0006% |
 | General's Stick (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
 
 ## 196 Chief Warrior of Shadow Troop
 
@@ -7684,6 +8241,7 @@
 | General's Treasure Sword (G56) | 0.0006% |
 | General's Giant Sword (G56) | 0.0006% |
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
 
 ## 164 Spear Hand of Shadow Troop
 
@@ -7730,6 +8288,14 @@
 | Stick with Black Crow's Feather (G50) | 0.0024% |
 | Line Pattern Stick with Black Crow's Feather (G50) | 0.0024% |
 | Stick with Blue Crow's Feather (G50) | 0.0024% |
+| Golden Treasure dagger (G50) | 0.0024% |
+| Butterfly-Shaped dagger (G50) | 0.0024% |
+| Revengeful dagger (G50) | 0.0024% |
+| Diamond suit of thief (G50) | 0.0024% |
+| Diamond Hood of thief (G50) | 0.0024% |
+| Diamond Gloves of thief (G50) | 0.0024% |
+| Diamond Boots of thief (G50) | 0.0024% |
+| Diamond suit Shorts of thief (G50) | 0.0024% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0072% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0036% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0072% |
@@ -7764,6 +8330,7 @@
 | Diamond Stick (G53) | 0.0006% |
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
 | General's Stick (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
 
 ## 197 Spear Hand of Shadow Troop
 
@@ -7849,6 +8416,7 @@
 | General's Treasure Sword (G56) | 0.0006% |
 | General's Giant Sword (G56) | 0.0006% |
 | General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
 
 ## 165 Lord of Shadow Troop
 
@@ -7888,6 +8456,12 @@
 | Diamond Stick (G53) | 0.015% |
 | Diamond Stick of Pain (G53) | 0.015% |
 | Diamond Stick of Phantom (G53) | 0.015% |
+| Golden Treasure dagger (G50) | 0.009% |
+| Butterfly-Shaped dagger (G50) | 0.009% |
+| Revengeful dagger (G50) | 0.009% |
+| Diamond dagger (G53) | 0.009% |
+| Diamond dagger of Pain (G53) | 0.009% |
+| Diamond dagger of Phantom (G53) | 0.009% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0228% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0228% |
@@ -8113,6 +8687,13 @@
 | BeeDan DaeChangEau Gloves (G46) | 0.009% |
 | BeeDan DaeChangEau Shoes (G46) | 0.009% |
 | BeeDan DaeChangEau Shorts (G46) | 0.009% |
+| Savage Tribe's dagger (G48) | 0.009% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.009% |
+| BeeDan suit of High class thief (G46) | 0.009% |
+|  BeeDan Hood of High class thief (G46) | 0.009% |
+| BeeDan Gloves of High class thief (G46) | 0.009% |
+| BeeDan Boots of High class thief (G46) | 0.009% |
+| BeeDan suit Shorts of High class thief (G46) | 0.009% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.009% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.009% |
 | Talisman of Wonder (Vital/Healthy) | 0.009% |
@@ -8484,6 +9065,13 @@
 | BeeDan DaeChangEau Gloves (G46) | 0.009% |
 | BeeDan DaeChangEau Shoes (G46) | 0.009% |
 | BeeDan DaeChangEau Shorts (G46) | 0.009% |
+| Savage Tribe's dagger (G48) | 0.009% |
+| Savage Tribe's Tiger Teeth dagger (G48) | 0.009% |
+| BeeDan suit of High class thief (G46) | 0.009% |
+|  BeeDan Hood of High class thief (G46) | 0.009% |
+| BeeDan Gloves of High class thief (G46) | 0.009% |
+| BeeDan Boots of High class thief (G46) | 0.009% |
+| BeeDan suit Shorts of High class thief (G46) | 0.009% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.009% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.009% |
 | Talisman of Wonder (Vital/Healthy) | 0.009% |
@@ -8699,6 +9287,59 @@
 
 | Item | Chance |
 |------|--------|
+
+## 213 Doggebi Lord
+
+| Item | Chance |
+|------|--------|
+| 150000x Zamogeon | 100.0% |
+| Ancient Treasure Sword (G56) | 40.5643% |
+| General's Treasure Sword (G56) | 40.5643% |
+| Ancient Dynasty's Treasure Sword (G56) | 40.5643% |
+| Ancient Giant Sword (G56) | 40.5643% |
+| General's Giant Sword (G56) | 40.5643% |
+| Ancient Dynasty's Giant Sword (G56) | 40.5643% |
+| Ancient Tribal Mac's Bow (G56) | 40.5643% |
+| General of Ancient Tribal Mac's Bow (G56) | 40.5643% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 40.5643% |
+| Ancient Stick (G56) | 40.5643% |
+| General's Stick (G56) | 40.5643% |
+| Ancient Dynasty's Stick (G56) | 40.5643% |
+| Ancient dagger (G56) | 40.5643% |
+| General's dagger (G56) | 40.5643% |
+| Ancient Dynasty's dagger (G56) | 40.5643% |
+| 200000x Zamogeon | 100.0% |
+| Treasure Sword of Doggebi (G59) | 12.4186% |
+| Treasure Sword of High Class Doggebi (G59) | 12.4186% |
+| Treasure Sword of Doggebi Lord (G59) | 12.4186% |
+| Giant Sword of Doggebi (G59) | 12.4186% |
+| Giant Sword of High Class Doggebi (G59) | 12.4186% |
+| Giant Sword of Doggebi Lord (G59) | 12.4186% |
+| Bow of Doggebi (G59) | 12.4186% |
+| Bow of High Class Doggebi (G59) | 12.4186% |
+| Bow of Doggebi Lord (G59) | 12.4186% |
+| Stick of Doggebi (G59) | 12.4186% |
+| Stick of High Class Doggebi (G59) | 12.4186% |
+| Stick of Doggebi Lord (G59) | 12.4186% |
+| dagger of Doggebi (G59) | 12.4186% |
+| dagger of High Class Doggebi (G59) | 12.4186% |
+| Dragon Sword of Sky (G65) | 48.8% |
+| Dragon Giant Sword of Sky (G65) | 48.8% |
+| Dragon Bow of Sky (G65) | 48.8% |
+| Dragon Stick of Sky (G65) | 48.8% |
+| Dragon dagger of Sky (G65) | 48.8% |
+| 200000x Zamogeon | 96.5695% |
+| Dragon Sword of Sky (G65) | 8.084% |
+| Dragon Giant Sword of Sky (G65) | 8.084% |
+| Dragon Bow of Sky (G65) | 8.084% |
+| Dragon Stick of Sky (G65) | 2.9007% |
+| Dragon's Insight Stick of Sky (G65) | 2.9007% |
+| Dragon's Fury Stick of Sky (G65) | 2.4911% |
+| Dragon dagger of Sky (G65) | 8.084% |
+| Horn of Doggebi Lord | 99.9821% |
+| Health Necklace (G60) | 79.6562% |
+| Mana Necklace (G60) | 79.6562% |
+| Trinity Necklace (G60) | 79.7673% |
 
 ## 232 Evil Spirit
 
@@ -10447,6 +11088,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -10533,6 +11180,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -10610,6 +11263,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -10696,6 +11355,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -10782,6 +11447,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -10868,6 +11539,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -10954,6 +11631,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11040,6 +11723,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11126,6 +11815,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11212,6 +11907,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11298,6 +11999,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11384,6 +12091,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11470,6 +12183,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11547,6 +12266,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11633,6 +12358,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -11719,6 +12450,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
@@ -11805,6 +12542,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
@@ -11891,6 +12634,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
@@ -11920,6 +12669,14 @@
 | Talisman of Intensification (Magical Power's/Wise) | 0.0054% |
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
 | Sea Bream with Blood | 1.9314% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Health Necklace (G60) | 0.003% |
+| Mana Necklace (G60) | 0.003% |
+| Trinity Necklace (G60) | 0.003% |
 
 ## 281 High Class Doggebi with a Mask of Black Panther
 
@@ -11977,6 +12734,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
@@ -12064,6 +12827,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
@@ -12151,6 +12920,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0108% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0054% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0108% |
@@ -12181,6 +12956,14 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0054% |
 | Sea Bream with Blood | 1.9314% |
 | Doggebi's Fixing Tool | 1.0463% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Health Necklace (G60) | 0.003% |
+| Mana Necklace (G60) | 0.003% |
+| Trinity Necklace (G60) | 0.003% |
 
 ## 284 High Class Giant Doggebi
 
@@ -12238,6 +13021,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -12325,6 +13114,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -12412,6 +13207,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -12442,6 +13243,14 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 | Doggebi's Fixing Tool | 1.0463% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Health Necklace (G60) | 0.003% |
+| Mana Necklace (G60) | 0.003% |
+| Trinity Necklace (G60) | 0.003% |
 
 ## 287 High Class Guardian of Doggebi
 
@@ -12499,6 +13308,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -12586,6 +13401,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -12673,6 +13494,12 @@
 | Ancient Stick (G56) | 0.0003% |
 | General's Stick (G56) | 0.0003% |
 | Ancient Dynasty's Stick (G56) | 0.0003% |
+| Diamond dagger (G53) | 0.0006% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+| Ancient dagger (G56) | 0.0003% |
+| General's dagger (G56) | 0.0003% |
+| Ancient Dynasty's dagger (G56) | 0.0003% |
 | Talisman of Wonder (Strong Man's/Forced) | 0.0114% |
 | Talisman of Wonder (Strongest Man's/Forced) | 0.0057% |
 | Talisman of Wonder (Ordinary/Fictional) | 0.0114% |
@@ -12703,6 +13530,14 @@
 | Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0057% |
 | Sea Bream with Blood | 2.038% |
 | Doggebi's Fixing Tool | 1.0463% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Health Necklace (G60) | 0.003% |
+| Mana Necklace (G60) | 0.003% |
+| Trinity Necklace (G60) | 0.003% |
 
 ## 290 Personal Guard of Doggebi Lord
 
@@ -12752,15 +13587,1855 @@
 |------|--------|
 | Water Melon (G48) | 74.9953% |
 
+## 299 Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Diamond Treasure Sword (G53) | 0.0012% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0012% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0012% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0012% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Diamond Scaled Armor (G50) | 0.0021% |
+| Diamond Scaled Helmet (G50) | 0.0021% |
+| Diamond Scaled Gloves (G50) | 0.0021% |
+| Diamond Scaled Shoes (G50) | 0.0021% |
+| Diamond Scaled Shorts (G50) | 0.0021% |
+| Diamond Armor (G50) | 0.0021% |
+| Diamond Helmet (G50) | 0.0021% |
+| Diamond Gloves (G50) | 0.0021% |
+| Diamond Shoes (G50) | 0.0021% |
+| Diamond Shorts (G50) | 0.0021% |
+| White DaeChangEau (G50) | 0.0021% |
+| White DaeChangEau Hair Decoration (G50) | 0.0021% |
+| White DaeChangEau Gloves (G50) | 0.0021% |
+| White DaeChangEau Shoes (G50) | 0.0021% |
+| White DaeChangEau Shorts (G50) | 0.0021% |
+| Iron Shield With Gong (G52) | 0.003% |
+| Diamond suit of thief (G50) | 0.0021% |
+| Diamond Hood of thief (G50) | 0.0021% |
+| Diamond Gloves of thief (G50) | 0.0021% |
+| Diamond Boots of thief (G50) | 0.0021% |
+| Diamond suit Shorts of thief (G50) | 0.0021% |
+| Diamond dagger (G53) | 0.0012% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+
+## 300 Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Diamond Treasure Sword (G53) | 0.0012% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0012% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0012% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0012% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Diamond Scaled Armor (G50) | 0.0021% |
+| Diamond Scaled Helmet (G50) | 0.0021% |
+| Diamond Scaled Gloves (G50) | 0.0021% |
+| Diamond Scaled Shoes (G50) | 0.0021% |
+| Diamond Scaled Shorts (G50) | 0.0021% |
+| Diamond Armor (G50) | 0.0021% |
+| Diamond Helmet (G50) | 0.0021% |
+| Diamond Gloves (G50) | 0.0021% |
+| Diamond Shoes (G50) | 0.0021% |
+| Diamond Shorts (G50) | 0.0021% |
+| White DaeChangEau (G50) | 0.0021% |
+| White DaeChangEau Hair Decoration (G50) | 0.0021% |
+| White DaeChangEau Gloves (G50) | 0.0021% |
+| White DaeChangEau Shoes (G50) | 0.0021% |
+| White DaeChangEau Shorts (G50) | 0.0021% |
+| Iron Shield With Gong (G52) | 0.003% |
+| Diamond suit of thief (G50) | 0.0021% |
+| Diamond Hood of thief (G50) | 0.0021% |
+| Diamond Gloves of thief (G50) | 0.0021% |
+| Diamond Boots of thief (G50) | 0.0021% |
+| Diamond suit Shorts of thief (G50) | 0.0021% |
+| Diamond dagger (G53) | 0.0012% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+
+## 301 Manager of Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Diamond Treasure Sword (G53) | 0.0012% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0012% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0012% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0012% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Diamond Scaled Armor (G50) | 0.0021% |
+| Diamond Scaled Helmet (G50) | 0.0021% |
+| Diamond Scaled Gloves (G50) | 0.0021% |
+| Diamond Scaled Shoes (G50) | 0.0021% |
+| Diamond Scaled Shorts (G50) | 0.0021% |
+| Diamond Armor (G50) | 0.0021% |
+| Diamond Helmet (G50) | 0.0021% |
+| Diamond Gloves (G50) | 0.0021% |
+| Diamond Shoes (G50) | 0.0021% |
+| Diamond Shorts (G50) | 0.0021% |
+| White DaeChangEau (G50) | 0.0021% |
+| White DaeChangEau Hair Decoration (G50) | 0.0021% |
+| White DaeChangEau Gloves (G50) | 0.0021% |
+| White DaeChangEau Shoes (G50) | 0.0021% |
+| White DaeChangEau Shorts (G50) | 0.0021% |
+| Iron Shield With Gong (G52) | 0.003% |
+| Diamond suit of thief (G50) | 0.0021% |
+| Diamond Hood of thief (G50) | 0.0021% |
+| Diamond Gloves of thief (G50) | 0.0021% |
+| Diamond Boots of thief (G50) | 0.0021% |
+| Diamond suit Shorts of thief (G50) | 0.0021% |
+| Diamond dagger (G53) | 0.0012% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+
+## 302 Manager of Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Diamond Treasure Sword (G53) | 0.0012% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0012% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0012% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0012% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Diamond Scaled Armor (G50) | 0.0021% |
+| Diamond Scaled Helmet (G50) | 0.0021% |
+| Diamond Scaled Gloves (G50) | 0.0021% |
+| Diamond Scaled Shoes (G50) | 0.0021% |
+| Diamond Scaled Shorts (G50) | 0.0021% |
+| Diamond Armor (G50) | 0.0021% |
+| Diamond Helmet (G50) | 0.0021% |
+| Diamond Gloves (G50) | 0.0021% |
+| Diamond Shoes (G50) | 0.0021% |
+| Diamond Shorts (G50) | 0.0021% |
+| White DaeChangEau (G50) | 0.0021% |
+| White DaeChangEau Hair Decoration (G50) | 0.0021% |
+| White DaeChangEau Gloves (G50) | 0.0021% |
+| White DaeChangEau Shoes (G50) | 0.0021% |
+| White DaeChangEau Shorts (G50) | 0.0021% |
+| Iron Shield With Gong (G52) | 0.003% |
+| Diamond suit of thief (G50) | 0.0021% |
+| Diamond Hood of thief (G50) | 0.0021% |
+| Diamond Gloves of thief (G50) | 0.0021% |
+| Diamond Boots of thief (G50) | 0.0021% |
+| Diamond suit Shorts of thief (G50) | 0.0021% |
+| Diamond dagger (G53) | 0.0012% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+
+## 303 Boss of Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Treasure Sword of Doggebi (G59) | 0.0012% |
+| Treasure Sword of High Class Doggebi (G59) | 0.0006% |
+| Treasure Sword of Doggebi Lord (G59) | 0.0012% |
+| Giant Sword of Doggebi (G59) | 0.0012% |
+| Giant Sword of High Class Doggebi (G59) | 0.0006% |
+| Giant Sword of Doggebi Lord (G59) | 0.0012% |
+| Bow of Doggebi (G59) | 0.0012% |
+| Bow of High Class Doggebi (G59) | 0.0006% |
+| Bow of Doggebi Lord (G59) | 0.0012% |
+| Stick of Doggebi (G59) | 0.0012% |
+| Stick of High Class Doggebi (G59) | 0.0006% |
+| Stick of Doggebi Lord (G59) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0024% |
+| dagger of Doggebi (G59) | 0.0009% |
+| dagger of High Class Doggebi (G59) | 0.0009% |
+| Sword of Darkness (G62) | 0.0006% |
+| Giant Sword of Darkness (G62) | 0.0006% |
+| Bow of Darkness (G62) | 0.0006% |
+| Stick of Darkness (G62) | 0.0006% |
+| Dagger of Darkness (G62) | 0.0006% |
+| Health Necklace (G60) | 0.006% |
+| Mana Necklace (G60) | 0.006% |
+| Trinity Necklace (G60) | 0.006% |
+| Ancient Treasure Sword (G56) | 0.0009% |
+| General's Treasure Sword (G56) | 0.0012% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
+| Ancient Giant Sword (G56) | 0.0009% |
+| General's Giant Sword (G56) | 0.0012% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0009% |
+| Ancient Tribal Mac's Bow (G56) | 0.0009% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0012% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0009% |
+| Ancient Stick (G56) | 0.0009% |
+| General's Stick (G56) | 0.0012% |
+| Ancient Dynasty's Stick (G56) | 0.0009% |
+| Scaled Armor of Doggebi (G55) | 0.0012% |
+| Scaled Helmet of Doggebi (G55) | 0.0012% |
+| Scaled Gloves of Doggebi (G55) | 0.0012% |
+| Scaled Shoes of Doggebi (G55) | 0.0012% |
+| Scaled Shorts of Doggebi (G55) | 0.0012% |
+| Armor of Doggebi (G55) | 0.0012% |
+| Helmet of Doggebi (G55) | 0.0012% |
+| Gloves of Doggebi (G55) | 0.0012% |
+| Shoes of Doggebi (G55) | 0.0012% |
+| Shorts of Doggebi (G55) | 0.0012% |
+| DaeChangEau of Doggebi (G55) | 0.0012% |
+| Hair Decoration of Doggebi (G55) | 0.0012% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0012% |
+| Doggebi suit of thief (G55) | 0.0012% |
+| Doggebi Hood of thief (G55) | 0.0012% |
+| Doggebi Gloves of thief (G55) | 0.0012% |
+| Doggebi Boots of thief (G55) | 0.0012% |
+| Doggebi suit Shorts of thief (G55) | 0.0012% |
+| Ancient dagger (G56) | 0.0009% |
+| General's dagger (G56) | 0.0012% |
+| Ancient Dynasty's dagger (G56) | 0.0009% |
+
+## 304 Demon Guard
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Diamond Treasure Sword (G53) | 0.0012% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0012% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0012% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0012% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Diamond Scaled Armor (G50) | 0.0021% |
+| Diamond Scaled Helmet (G50) | 0.0021% |
+| Diamond Scaled Gloves (G50) | 0.0021% |
+| Diamond Scaled Shoes (G50) | 0.0021% |
+| Diamond Scaled Shorts (G50) | 0.0021% |
+| Diamond Armor (G50) | 0.0021% |
+| Diamond Helmet (G50) | 0.0021% |
+| Diamond Gloves (G50) | 0.0021% |
+| Diamond Shoes (G50) | 0.0021% |
+| Diamond Shorts (G50) | 0.0021% |
+| White DaeChangEau (G50) | 0.0021% |
+| White DaeChangEau Hair Decoration (G50) | 0.0021% |
+| White DaeChangEau Gloves (G50) | 0.0021% |
+| White DaeChangEau Shoes (G50) | 0.0021% |
+| White DaeChangEau Shorts (G50) | 0.0021% |
+| Iron Shield With Gong (G52) | 0.003% |
+| Diamond suit of thief (G50) | 0.0021% |
+| Diamond Hood of thief (G50) | 0.0021% |
+| Diamond Gloves of thief (G50) | 0.0021% |
+| Diamond Boots of thief (G50) | 0.0021% |
+| Diamond suit Shorts of thief (G50) | 0.0021% |
+| Diamond dagger (G53) | 0.0012% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+
+## 305 Demon Guard
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Diamond Treasure Sword (G53) | 0.0012% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0012% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0012% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0012% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Diamond Scaled Armor (G50) | 0.0021% |
+| Diamond Scaled Helmet (G50) | 0.0021% |
+| Diamond Scaled Gloves (G50) | 0.0021% |
+| Diamond Scaled Shoes (G50) | 0.0021% |
+| Diamond Scaled Shorts (G50) | 0.0021% |
+| Diamond Armor (G50) | 0.0021% |
+| Diamond Helmet (G50) | 0.0021% |
+| Diamond Gloves (G50) | 0.0021% |
+| Diamond Shoes (G50) | 0.0021% |
+| Diamond Shorts (G50) | 0.0021% |
+| White DaeChangEau (G50) | 0.0021% |
+| White DaeChangEau Hair Decoration (G50) | 0.0021% |
+| White DaeChangEau Gloves (G50) | 0.0021% |
+| White DaeChangEau Shoes (G50) | 0.0021% |
+| White DaeChangEau Shorts (G50) | 0.0021% |
+| Iron Shield With Gong (G52) | 0.003% |
+| Diamond suit of thief (G50) | 0.0021% |
+| Diamond Hood of thief (G50) | 0.0021% |
+| Diamond Gloves of thief (G50) | 0.0021% |
+| Diamond Boots of thief (G50) | 0.0021% |
+| Diamond suit Shorts of thief (G50) | 0.0021% |
+| Diamond dagger (G53) | 0.0012% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+
+## 306 Demon Patrol
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Diamond Treasure Sword (G53) | 0.0012% |
+| Diamond Sword of Pain (G53) | 0.0006% |
+| Diamond Sword of Phantom (G53) | 0.0006% |
+| Diamond Giant Sword (G53) | 0.0012% |
+| Diamond Giant Sword of Pain (G53) | 0.0006% |
+| Diamond Giant Sword of Phantom (G53) | 0.0006% |
+| Diamond Bow (G53) | 0.0012% |
+| Diamond Bow of Pain (G53) | 0.0006% |
+| Diamond Bow of Phantom (G53) | 0.0006% |
+| Diamond Stick (G53) | 0.0012% |
+| Diamond Stick of Pain (G53) | 0.0006% |
+| Diamond Stick of Phantom (G53) | 0.0006% |
+| Diamond Scaled Armor (G50) | 0.0021% |
+| Diamond Scaled Helmet (G50) | 0.0021% |
+| Diamond Scaled Gloves (G50) | 0.0021% |
+| Diamond Scaled Shoes (G50) | 0.0021% |
+| Diamond Scaled Shorts (G50) | 0.0021% |
+| Diamond Armor (G50) | 0.0021% |
+| Diamond Helmet (G50) | 0.0021% |
+| Diamond Gloves (G50) | 0.0021% |
+| Diamond Shoes (G50) | 0.0021% |
+| Diamond Shorts (G50) | 0.0021% |
+| White DaeChangEau (G50) | 0.0021% |
+| White DaeChangEau Hair Decoration (G50) | 0.0021% |
+| White DaeChangEau Gloves (G50) | 0.0021% |
+| White DaeChangEau Shoes (G50) | 0.0021% |
+| White DaeChangEau Shorts (G50) | 0.0021% |
+| Iron Shield With Gong (G52) | 0.003% |
+| Diamond suit of thief (G50) | 0.0021% |
+| Diamond Hood of thief (G50) | 0.0021% |
+| Diamond Gloves of thief (G50) | 0.0021% |
+| Diamond Boots of thief (G50) | 0.0021% |
+| Diamond suit Shorts of thief (G50) | 0.0021% |
+| Diamond dagger (G53) | 0.0012% |
+| Diamond dagger of Pain (G53) | 0.0006% |
+| Diamond dagger of Phantom (G53) | 0.0006% |
+
+## 307 Demon Patrol
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0006% |
+| Stone of Holy | 0.0006% |
+| Stone of Flame | 0.0006% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| Stone of Paralysis | 0.0006% |
+| Stone of Strength | 0.0006% |
+| Stone of Skill | 0.0006% |
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Ancient Treasure Sword (G56) | 0.0009% |
+| General's Treasure Sword (G56) | 0.0012% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
+| Ancient Giant Sword (G56) | 0.0009% |
+| General's Giant Sword (G56) | 0.0012% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0009% |
+| Ancient Tribal Mac's Bow (G56) | 0.0009% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0012% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0009% |
+| Ancient Stick (G56) | 0.0009% |
+| General's Stick (G56) | 0.0012% |
+| Ancient Dynasty's Stick (G56) | 0.0009% |
+| Scaled Armor of Doggebi (G55) | 0.0012% |
+| Scaled Helmet of Doggebi (G55) | 0.0012% |
+| Scaled Gloves of Doggebi (G55) | 0.0012% |
+| Scaled Shoes of Doggebi (G55) | 0.0012% |
+| Scaled Shorts of Doggebi (G55) | 0.0012% |
+| Armor of Doggebi (G55) | 0.0012% |
+| Helmet of Doggebi (G55) | 0.0012% |
+| Gloves of Doggebi (G55) | 0.0012% |
+| Shoes of Doggebi (G55) | 0.0012% |
+| Shorts of Doggebi (G55) | 0.0012% |
+| DaeChangEau of Doggebi (G55) | 0.0012% |
+| Hair Decoration of Doggebi (G55) | 0.0012% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Doggebi suit of thief (G55) | 0.0012% |
+| Doggebi Hood of thief (G55) | 0.0012% |
+| Doggebi Gloves of thief (G55) | 0.0012% |
+| Doggebi Boots of thief (G55) | 0.0012% |
+| Doggebi suit Shorts of thief (G55) | 0.0012% |
+| Ancient dagger (G56) | 0.0009% |
+| General's dagger (G56) | 0.0012% |
+| Ancient Dynasty's dagger (G56) | 0.0009% |
+
+## 308 Demon Warrior
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Ancient Treasure Sword (G56) | 0.0009% |
+| General's Treasure Sword (G56) | 0.0012% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
+| Ancient Giant Sword (G56) | 0.0009% |
+| General's Giant Sword (G56) | 0.0012% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0009% |
+| Ancient Tribal Mac's Bow (G56) | 0.0009% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0012% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0009% |
+| Ancient Stick (G56) | 0.0009% |
+| General's Stick (G56) | 0.0012% |
+| Ancient Dynasty's Stick (G56) | 0.0009% |
+| Scaled Armor of Doggebi (G55) | 0.0012% |
+| Scaled Helmet of Doggebi (G55) | 0.0012% |
+| Scaled Gloves of Doggebi (G55) | 0.0012% |
+| Scaled Shoes of Doggebi (G55) | 0.0012% |
+| Scaled Shorts of Doggebi (G55) | 0.0012% |
+| Armor of Doggebi (G55) | 0.0012% |
+| Helmet of Doggebi (G55) | 0.0012% |
+| Gloves of Doggebi (G55) | 0.0012% |
+| Shoes of Doggebi (G55) | 0.0012% |
+| Shorts of Doggebi (G55) | 0.0012% |
+| DaeChangEau of Doggebi (G55) | 0.0012% |
+| Hair Decoration of Doggebi (G55) | 0.0012% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Doggebi suit of thief (G55) | 0.0012% |
+| Doggebi Hood of thief (G55) | 0.0012% |
+| Doggebi Gloves of thief (G55) | 0.0012% |
+| Doggebi Boots of thief (G55) | 0.0012% |
+| Doggebi suit Shorts of thief (G55) | 0.0012% |
+| Ancient dagger (G56) | 0.0009% |
+| General's dagger (G56) | 0.0012% |
+| Ancient Dynasty's dagger (G56) | 0.0009% |
+
+## 309 Demon Infantry
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0012% |
+| Stone of Holy | 0.0012% |
+| Stone of Flame | 0.0012% |
+| Stone of Ice | 0.0012% |
+| Stone of Lightening | 0.0012% |
+| Stone of Poison | 0.0012% |
+| Stone of Paralysis | 0.0012% |
+| Stone of Strength | 0.0012% |
+| Stone of Skill | 0.0012% |
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Ancient Treasure Sword (G56) | 0.0009% |
+| General's Treasure Sword (G56) | 0.0012% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
+| Ancient Giant Sword (G56) | 0.0009% |
+| General's Giant Sword (G56) | 0.0012% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0009% |
+| Ancient Tribal Mac's Bow (G56) | 0.0009% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0012% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0009% |
+| Ancient Stick (G56) | 0.0009% |
+| General's Stick (G56) | 0.0012% |
+| Ancient Dynasty's Stick (G56) | 0.0009% |
+| Scaled Armor of Doggebi (G55) | 0.0012% |
+| Scaled Helmet of Doggebi (G55) | 0.0012% |
+| Scaled Gloves of Doggebi (G55) | 0.0012% |
+| Scaled Shoes of Doggebi (G55) | 0.0012% |
+| Scaled Shorts of Doggebi (G55) | 0.0012% |
+| Armor of Doggebi (G55) | 0.0012% |
+| Helmet of Doggebi (G55) | 0.0012% |
+| Gloves of Doggebi (G55) | 0.0012% |
+| Shoes of Doggebi (G55) | 0.0012% |
+| Shorts of Doggebi (G55) | 0.0012% |
+| DaeChangEau of Doggebi (G55) | 0.0012% |
+| Hair Decoration of Doggebi (G55) | 0.0012% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Doggebi suit of thief (G55) | 0.0012% |
+| Doggebi Hood of thief (G55) | 0.0012% |
+| Doggebi Gloves of thief (G55) | 0.0012% |
+| Doggebi Boots of thief (G55) | 0.0012% |
+| Doggebi suit Shorts of thief (G55) | 0.0012% |
+| Ancient dagger (G56) | 0.0009% |
+| General's dagger (G56) | 0.0012% |
+| Ancient Dynasty's dagger (G56) | 0.0009% |
+
+## 310 Crazy Demon Warrior
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Treasure Sword of Doggebi (G59) | 0.0012% |
+| Treasure Sword of High Class Doggebi (G59) | 0.0006% |
+| Treasure Sword of Doggebi Lord (G59) | 0.0012% |
+| Giant Sword of Doggebi (G59) | 0.0012% |
+| Giant Sword of High Class Doggebi (G59) | 0.0006% |
+| Giant Sword of Doggebi Lord (G59) | 0.0012% |
+| Bow of Doggebi (G59) | 0.0012% |
+| Bow of High Class Doggebi (G59) | 0.0006% |
+| Bow of Doggebi Lord (G59) | 0.0012% |
+| Stick of Doggebi (G59) | 0.0012% |
+| Stick of High Class Doggebi (G59) | 0.0006% |
+| Stick of Doggebi Lord (G59) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0024% |
+| dagger of Doggebi (G59) | 0.0009% |
+| dagger of High Class Doggebi (G59) | 0.0009% |
+| Sword of Darkness (G62) | 0.0006% |
+| Giant Sword of Darkness (G62) | 0.0006% |
+| Bow of Darkness (G62) | 0.0006% |
+| Stick of Darkness (G62) | 0.0006% |
+| Dagger of Darkness (G62) | 0.0006% |
+| Health Necklace (G60) | 0.006% |
+| Mana Necklace (G60) | 0.006% |
+| Trinity Necklace (G60) | 0.006% |
+| Ancient Treasure Sword (G56) | 0.0009% |
+| General's Treasure Sword (G56) | 0.0012% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
+| Ancient Giant Sword (G56) | 0.0009% |
+| General's Giant Sword (G56) | 0.0012% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0009% |
+| Ancient Tribal Mac's Bow (G56) | 0.0009% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0012% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0009% |
+| Ancient Stick (G56) | 0.0009% |
+| General's Stick (G56) | 0.0012% |
+| Ancient Dynasty's Stick (G56) | 0.0009% |
+| Scaled Armor of Doggebi (G55) | 0.0012% |
+| Scaled Helmet of Doggebi (G55) | 0.0012% |
+| Scaled Gloves of Doggebi (G55) | 0.0012% |
+| Scaled Shoes of Doggebi (G55) | 0.0012% |
+| Scaled Shorts of Doggebi (G55) | 0.0012% |
+| Armor of Doggebi (G55) | 0.0012% |
+| Helmet of Doggebi (G55) | 0.0012% |
+| Gloves of Doggebi (G55) | 0.0012% |
+| Shoes of Doggebi (G55) | 0.0012% |
+| Shorts of Doggebi (G55) | 0.0012% |
+| DaeChangEau of Doggebi (G55) | 0.0012% |
+| Hair Decoration of Doggebi (G55) | 0.0012% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0012% |
+| Doggebi suit of thief (G55) | 0.0012% |
+| Doggebi Hood of thief (G55) | 0.0012% |
+| Doggebi Gloves of thief (G55) | 0.0012% |
+| Doggebi Boots of thief (G55) | 0.0012% |
+| Doggebi suit Shorts of thief (G55) | 0.0012% |
+| Ancient dagger (G56) | 0.0009% |
+| General's dagger (G56) | 0.0012% |
+| Ancient Dynasty's dagger (G56) | 0.0009% |
+
+## 311 Demon Defender
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Treasure Sword of Doggebi (G59) | 0.0012% |
+| Treasure Sword of High Class Doggebi (G59) | 0.0006% |
+| Treasure Sword of Doggebi Lord (G59) | 0.0012% |
+| Giant Sword of Doggebi (G59) | 0.0012% |
+| Giant Sword of High Class Doggebi (G59) | 0.0006% |
+| Giant Sword of Doggebi Lord (G59) | 0.0012% |
+| Bow of Doggebi (G59) | 0.0012% |
+| Bow of High Class Doggebi (G59) | 0.0006% |
+| Bow of Doggebi Lord (G59) | 0.0012% |
+| Stick of Doggebi (G59) | 0.0012% |
+| Stick of High Class Doggebi (G59) | 0.0006% |
+| Stick of Doggebi Lord (G59) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0024% |
+| dagger of Doggebi (G59) | 0.0009% |
+| dagger of High Class Doggebi (G59) | 0.0009% |
+| Sword of Darkness (G62) | 0.0006% |
+| Giant Sword of Darkness (G62) | 0.0006% |
+| Bow of Darkness (G62) | 0.0006% |
+| Stick of Darkness (G62) | 0.0006% |
+| Dagger of Darkness (G62) | 0.0006% |
+| Health Necklace (G60) | 0.006% |
+| Mana Necklace (G60) | 0.006% |
+| Trinity Necklace (G60) | 0.006% |
+| Ancient Treasure Sword (G56) | 0.0009% |
+| General's Treasure Sword (G56) | 0.0012% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
+| Ancient Giant Sword (G56) | 0.0009% |
+| General's Giant Sword (G56) | 0.0012% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0009% |
+| Ancient Tribal Mac's Bow (G56) | 0.0009% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0012% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0009% |
+| Ancient Stick (G56) | 0.0009% |
+| General's Stick (G56) | 0.0012% |
+| Ancient Dynasty's Stick (G56) | 0.0009% |
+| Scaled Armor of Doggebi (G55) | 0.0012% |
+| Scaled Helmet of Doggebi (G55) | 0.0012% |
+| Scaled Gloves of Doggebi (G55) | 0.0012% |
+| Scaled Shoes of Doggebi (G55) | 0.0012% |
+| Scaled Shorts of Doggebi (G55) | 0.0012% |
+| Armor of Doggebi (G55) | 0.0012% |
+| Helmet of Doggebi (G55) | 0.0012% |
+| Gloves of Doggebi (G55) | 0.0012% |
+| Shoes of Doggebi (G55) | 0.0012% |
+| Shorts of Doggebi (G55) | 0.0012% |
+| DaeChangEau of Doggebi (G55) | 0.0012% |
+| Hair Decoration of Doggebi (G55) | 0.0012% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0012% |
+| Doggebi suit of thief (G55) | 0.0012% |
+| Doggebi Hood of thief (G55) | 0.0012% |
+| Doggebi Gloves of thief (G55) | 0.0012% |
+| Doggebi Boots of thief (G55) | 0.0012% |
+| Doggebi suit Shorts of thief (G55) | 0.0012% |
+| Ancient dagger (G56) | 0.0009% |
+| General's dagger (G56) | 0.0012% |
+| Ancient Dynasty's dagger (G56) | 0.0009% |
+
+## 312 Egg
+
+| Item | Chance |
+|------|--------|
+
+## 313 Larva
+
+| Item | Chance |
+|------|--------|
+
+## 314 Black Armored Insect
+
+| Item | Chance |
+|------|--------|
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Ancient Treasure Sword (G56) | 0.0009% |
+| General's Treasure Sword (G56) | 0.0012% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0009% |
+| Ancient Giant Sword (G56) | 0.0009% |
+| General's Giant Sword (G56) | 0.0012% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0009% |
+| Ancient Tribal Mac's Bow (G56) | 0.0009% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0012% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0009% |
+| Ancient Stick (G56) | 0.0009% |
+| General's Stick (G56) | 0.0012% |
+| Ancient Dynasty's Stick (G56) | 0.0009% |
+| Scaled Armor of Doggebi (G55) | 0.0012% |
+| Scaled Helmet of Doggebi (G55) | 0.0012% |
+| Scaled Gloves of Doggebi (G55) | 0.0012% |
+| Scaled Shoes of Doggebi (G55) | 0.0012% |
+| Scaled Shorts of Doggebi (G55) | 0.0012% |
+| Armor of Doggebi (G55) | 0.0012% |
+| Helmet of Doggebi (G55) | 0.0012% |
+| Gloves of Doggebi (G55) | 0.0012% |
+| Shoes of Doggebi (G55) | 0.0012% |
+| Shorts of Doggebi (G55) | 0.0012% |
+| DaeChangEau of Doggebi (G55) | 0.0012% |
+| Hair Decoration of Doggebi (G55) | 0.0012% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0012% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0012% |
+| Iron Shield With Gong (G52) | 0.0012% |
+| Doggebi suit of thief (G55) | 0.0012% |
+| Doggebi Hood of thief (G55) | 0.0012% |
+| Doggebi Gloves of thief (G55) | 0.0012% |
+| Doggebi Boots of thief (G55) | 0.0012% |
+| Doggebi suit Shorts of thief (G55) | 0.0012% |
+| Ancient dagger (G56) | 0.0009% |
+| General's dagger (G56) | 0.0012% |
+| Ancient Dynasty's dagger (G56) | 0.0009% |
+
 ## 315 Flame Plants
 
 | Item | Chance |
 |------|--------|
 
+## 316 Demon Monster
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Ancient Treasure Sword (G56) | 0.0006% |
+| General's Treasure Sword (G56) | 0.0006% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0006% |
+| Ancient Giant Sword (G56) | 0.0006% |
+| General's Giant Sword (G56) | 0.0006% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0006% |
+| Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0006% |
+| Ancient Stick (G56) | 0.0006% |
+| General's Stick (G56) | 0.0006% |
+| Ancient Dynasty's Stick (G56) | 0.0006% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Treasure Sword of Doggebi (G59) | 0.0003% |
+| Treasure Sword of High Class Doggebi (G59) | 0.0003% |
+| Treasure Sword of Doggebi Lord (G59) | 0.0003% |
+| Giant Sword of Doggebi (G59) | 0.0003% |
+| Giant Sword of High Class Doggebi (G59) | 0.0003% |
+| Giant Sword of Doggebi Lord (G59) | 0.0003% |
+| Bow of Doggebi (G59) | 0.0003% |
+| Bow of High Class Doggebi (G59) | 0.0003% |
+| Bow of Doggebi Lord (G59) | 0.0003% |
+| Stick of Doggebi (G59) | 0.0003% |
+| Stick of High Class Doggebi (G59) | 0.0003% |
+| Stick of Doggebi Lord (G59) | 0.0003% |
+| Iron Shield With Gong (G52) | 0.0018% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| dagger of Doggebi (G59) | 0.0003% |
+| dagger of High Class Doggebi (G59) | 0.0006% |
+| Ancient dagger (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
+| Ancient Dynasty's dagger (G56) | 0.0006% |
+| Key for the Gate of Advance Base | 100.0% |
+| Monster's Right Arm | 48.8% |
+
 ## 317 Demon Nest
 
 | Item | Chance |
 |------|--------|
+
+## 318 Demon Queen
+
+| Item | Chance |
+|------|--------|
+| 100000x Zamogeon | 100.0% |
+| Scaled Armor of Darkness (G60) | 39.7605% |
+| Scaled Helmet of Darkness (G60) | 39.7605% |
+| Scaled Gloves of Darkness (G60) | 39.7605% |
+| Scaled Shoes of Darkness (G60) | 39.7605% |
+| Scaled Shorts of Darkness (G60) | 39.7605% |
+| Armor of Darkness (G60) | 39.7605% |
+| Helmet of Darkness (G60) | 39.7605% |
+| Gloves of Darkness (G60) | 39.7605% |
+| Shoes of Darkness (G60) | 39.7605% |
+| Shorts of Darkness (G60) | 39.7605% |
+| DaeChangEau of Darkness (G60) | 39.7605% |
+| Hair Decoration of Darkness (G60) | 39.7605% |
+| DaeChangEau Gloves of Darkness (G60) | 39.7605% |
+| DaeChangEau Shoes of Darkness (G60) | 39.7605% |
+| DaeChangEau Shorts of Darkness (G60) | 39.7605% |
+| Darkness suit of thief (G60) | 39.7605% |
+| Darkness Hood of thief (G60) | 39.7605% |
+| Darkness Gloves of thief (G60) | 39.7605% |
+| Darkness Boots of thief (G60) | 39.7605% |
+| Darkness suit Shorts of thief (G60) | 39.7605% |
+| 150000x Zamogeon | 37.1% |
+| Sword of Darkness (G62) | 56.6942% |
+| Giant Sword of Darkness (G62) | 56.6942% |
+| Bow of Darkness (G62) | 56.6942% |
+| Stick of Darkness (G62) | 56.6942% |
+| Dagger of Darkness (G62) | 56.6942% |
+| Health Necklace (G60) | 98.1333% |
+| Mana Necklace (G60) | 98.1333% |
+| Trinity Necklace (G60) | 98.1587% |
 
 ## 319 White Tiger Cannon
 
@@ -12811,6 +15486,130 @@
 
 | Item | Chance |
 |------|--------|
+
+## 329 Demon Monster
+
+| Item | Chance |
+|------|--------|
+| 150x Zamogeon | 97.8048% |
+| The Cave of The Giant Bird Demon's Head | 14.1271% |
+| Talisman of Wonder (Strong Man's/Forced) | 0.0054% |
+| Talisman of Wonder (Ordinary/Fictional) | 0.0054% |
+| Talisman of Wonder (Vital/Healthy) | 0.0054% |
+| Talisman of Wonder (Dignified/Fixed) | 0.0054% |
+| Talisman of Wonder (Flexible/Agile) | 0.0054% |
+| Talisman of Intensification (Explosive/Destructive) | 0.0054% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.0054% |
+| Talisman of Intensification (Invincible/Harsh) | 0.0054% |
+| Talisman of Intensification (Absolute/Keen) | 0.0054% |
+| Talisman of Intensification (Diamond/Heroic) | 0.0054% |
+| Talisman of Intensification (Paradoxical/Celebrated) | 0.0054% |
+| Talisman of Intensification (Gliding/Instant) | 0.0054% |
+| Talisman of Protection (Despotic/Forced) | 0.0018% |
+| Talisman of Protection (Revenge's/Agile) | 0.0018% |
+| Talisman of Protection (Prideful/Healthy) | 0.0018% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.0018% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0018% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0018% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0018% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0018% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.0018% |
+| Protection Talisman | 0.1463% |
+| Ring | 0.1463% |
+| Trinket | 0.06% |
+| Piece of Lucky Stone | 0.06% |
+| Best Boilling Water (G64) | 0.06% |
+| Tiger Meat of Geum-Oh Mountain (G64) | 0.06% |
+| Stone of Revision | 0.06% |
+| Talisman of Defense | 0.0003% |
+| Talisman of Accuracy | 0.0003% |
+| Intensified Steel Armor (G46) | 0.0012% |
+| Intensified Steel Helmet (G46) | 0.0012% |
+| Intensified Steel Gloves (G46) | 0.0012% |
+| Intensified Steel Shoes (G46) | 0.0012% |
+| Intensified Steel Shorts (G46) | 0.0012% |
+| SinGak DooSukLin Armor (G46) | 0.0012% |
+| SinGak DooSukLin Hood (G46) | 0.0012% |
+| SinGak DooSukLin Gloves (G46) | 0.0012% |
+| SinGak DooSukLin Shoes (G46) | 0.0012% |
+| SinGak DooSukLin Shorts (G46) | 0.0012% |
+| BeeDan DaeChangEau (G46) | 0.0012% |
+| BeeDan DaeChangEau Hair Decoration (G46) | 0.0012% |
+| BeeDan DaeChangEau Gloves (G46) | 0.0012% |
+| BeeDan DaeChangEau Shoes (G46) | 0.0012% |
+| BeeDan DaeChangEau Shorts (G46) | 0.0012% |
+| Golden Treasure Sword (G50) | 0.0012% |
+| Butterfly-Shaped Treasure Sword (G50) | 0.0012% |
+| Black Golden Treasure Sword (G50) | 0.0012% |
+| Giant Sword (G50) | 0.0012% |
+| Revengeful Sword (G50) | 0.0012% |
+| Butterfly-Shaped Giant Sword (G50) | 0.0012% |
+| Steel Bow (G50) | 0.0012% |
+| Steel Bow with Crow's Feather (G50) | 0.0012% |
+| Steel Bow with Golden Crow's Feather (G50) | 0.0012% |
+| Stick with Black Crow's Feather (G50) | 0.0012% |
+| Line Pattern Stick with Black Crow's Feather (G50) | 0.0012% |
+| Stick with Blue Crow's Feather (G50) | 0.0012% |
+| Golden Treasure dagger (G50) | 0.0012% |
+| Butterfly-Shaped dagger (G50) | 0.0012% |
+| Revengeful dagger (G50) | 0.0012% |
+| BeeDan suit of High class thief (G46) | 0.0012% |
+|  BeeDan Hood of High class thief (G46) | 0.0012% |
+| BeeDan Gloves of High class thief (G46) | 0.0012% |
+| BeeDan Boots of High class thief (G46) | 0.0012% |
+| BeeDan suit Shorts of High class thief (G46) | 0.0012% |
+| Ancient Treasure Sword (G56) | 0.0006% |
+| General's Treasure Sword (G56) | 0.0006% |
+| Ancient Dynasty's Treasure Sword (G56) | 0.0006% |
+| Ancient Giant Sword (G56) | 0.0006% |
+| General's Giant Sword (G56) | 0.0006% |
+| Ancient Dynasty's Giant Sword (G56) | 0.0006% |
+| Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| General of Ancient Tribal Mac's Bow (G56) | 0.0006% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 0.0006% |
+| Ancient Stick (G56) | 0.0006% |
+| General's Stick (G56) | 0.0006% |
+| Ancient Dynasty's Stick (G56) | 0.0006% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Treasure Sword of Doggebi (G59) | 0.0003% |
+| Treasure Sword of High Class Doggebi (G59) | 0.0003% |
+| Treasure Sword of Doggebi Lord (G59) | 0.0003% |
+| Giant Sword of Doggebi (G59) | 0.0003% |
+| Giant Sword of High Class Doggebi (G59) | 0.0003% |
+| Giant Sword of Doggebi Lord (G59) | 0.0003% |
+| Bow of Doggebi (G59) | 0.0003% |
+| Bow of High Class Doggebi (G59) | 0.0003% |
+| Bow of Doggebi Lord (G59) | 0.0003% |
+| Stick of Doggebi (G59) | 0.0003% |
+| Stick of High Class Doggebi (G59) | 0.0003% |
+| Stick of Doggebi Lord (G59) | 0.0003% |
+| Iron Shield With Gong (G52) | 0.0018% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| dagger of Doggebi (G59) | 0.0003% |
+| dagger of High Class Doggebi (G59) | 0.0006% |
+| Ancient dagger (G56) | 0.0006% |
+| General's dagger (G56) | 0.0006% |
+| Ancient Dynasty's dagger (G56) | 0.0006% |
 
 ## 330 Flame Plants
 
@@ -12882,12 +15681,499 @@
 | Item | Chance |
 |------|--------|
 
+## 366 Sealed Commanders
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 18.6789% |
+| Doggebi's Certificate(3) | 6.5132% |
+| Doggebi's Certificate(5) | 3.908% |
+| Doggebi's Certificate(10) | 0.6585% |
+
+## 367 Sealed Commanders
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 18.6789% |
+| Doggebi's Certificate(3) | 6.5132% |
+| Doggebi's Certificate(5) | 3.908% |
+| Doggebi's Certificate(10) | 0.6585% |
+
+## 368 Sealed Commanders
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 18.6789% |
+| Doggebi's Certificate(3) | 6.5132% |
+| Doggebi's Certificate(5) | 3.908% |
+| Doggebi's Certificate(10) | 0.6585% |
+
+## 369 Gate of Prayer
+
+| Item | Chance |
+|------|--------|
+
+## 370 Broken Gate of Prayer
+
+| Item | Chance |
+|------|--------|
+
+## 371 Statue of Prayer
+
+| Item | Chance |
+|------|--------|
+
 ## 373 Portable Bomb
 
 | Item | Chance |
 |------|--------|
 
-## 374  
+## 375 Twisted Demon Guard
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+
+## 376 Twisted Demon Patrol
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+
+## 377 Twisted Demon Warrior
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Complete E-moogy's Scale | 0.0024% |
+
+## 378 Twisted Demon Soldier
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Complete E-moogy's Scale | 0.0024% |
+
+## 379 Twisted Demon Defender
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Complete E-moogy's Scale | 0.0024% |
+| Sword of the Chief Defender | 48.8% |
+
+## 380 Twisted Brown E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+
+## 381 Twisted Green E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+
+## 382 Ghost of Dragon
+
+| Item | Chance |
+|------|--------|
+| 150000x Zamogeon | 95.5526% |
+| Doggebi Scaled Armor (G55) | 19.4474% |
+| Doggebi Scaled Armor Helmet (G55) | 19.4474% |
+| Doggebi Scaled Armor Gloves (G55) | 19.4474% |
+| Doggebi Scaled Armor Shoes (G55) | 19.4474% |
+| Doggebi Scaled Armor Shorts (G55) | 19.4474% |
+| Armor of Doggebi (G55) | 19.4474% |
+| Helmet of Doggebi (G55) | 19.4474% |
+| Gloves of Doggebi (G55) | 19.4474% |
+| Shoes of Doggebi (G55) | 19.4474% |
+| Shorts of Doggebi (G55) | 19.4474% |
+| DaeChangEau of Doggebi (G55) | 19.4474% |
+| Hair Decoration of Doggebi (G55) | 19.4474% |
+| DaeChangEau Gloves of Doggebi (G55) | 19.4474% |
+| DaeChangEau Shoes of Doggebi (G55) | 19.4474% |
+| DaeChangEau Shorts of Doggebi (G55) | 19.4474% |
+| Doggebi suit of thief (G55) | 19.4474% |
+| Doggebi Hood of thief (G55) | 19.4474% |
+| Doggebi Gloves of thief (G55) | 19.4474% |
+| Doggebi Boots of thief (G55) | 19.4474% |
+| Doggebi suit Shorts of thief (G55) | 19.4474% |
+| 200000x Zamogeon | 98.2573% |
+| Golden Scaled Armor (G60) | 20.1709% |
+| Golden Scaled Armor Shorts (G60) | 20.1709% |
+| Golden Armor (G60) | 20.1709% |
+| Golden Armor Skirts (G60) | 20.1709% |
+| Golden DaeChangEau (G60) | 20.1709% |
+| Golden DaeChangEau Shorts (G60) | 20.1709% |
+| Golden suit of thief (G60) | 20.1709% |
+| Golden suit Shorts of thief (G60) | 20.1709% |
+| 100000x Zamogeon | 91.8705% |
+| Ancient Treasure Sword (G56) | 63.0456% |
+| General's Treasure Sword (G56) | 63.0456% |
+| Ancient Dynasty's Treasure Sword (G56) | 63.0456% |
+| Ancient Giant sword (G56) | 63.0456% |
+| General's Giant Sword (G56) | 63.0456% |
+| Ancient Dynasty's Giant sword (G56) | 63.0456% |
+| Ancient Tribal Mac's Bow (G56) | 63.0456% |
+| General of Ancient Tribal Mac's Bow (G56) | 63.0456% |
+| Ancient Dynasty of Tribal Mac's Bow (G56) | 63.0456% |
+| Ancient Stick (G56) | 63.0456% |
+| General's Stick (G56) | 63.0456% |
+| Ancient Dynasty's Stick (G56) | 63.0456% |
+| Ancient dagger (G56) | 63.0456% |
+| General's dagger (G56) | 63.0456% |
+| Ancient Dynasty's dagger (G56) | 63.0456% |
+| Treasure Sword of Doggebi (G59) | 45.818% |
+| Treasure Sword of High Class Doggebi (G59) | 45.818% |
+| Treasure Sword of Doggebi Lord (G59) | 45.818% |
+| Giant Sword of Doggebi (G59) | 45.818% |
+| Giant Sword of High Class Doggebi (G59) | 45.818% |
+| Giant Sword of Doggebi Lord (G59) | 45.818% |
+| Bow of Doggebi (G59) | 45.818% |
+| Bow of High Class Doggebi (G59) | 45.818% |
+| Bow of Doggebi Lord (G59) | 45.818% |
+| Stick of Doggebi (G59) | 45.818% |
+| Stick of High Class Doggebi (G59) | 45.818% |
+| Stick of Doggebi Lord (G59) | 45.818% |
+| dagger of Doggebi (G59) | 45.818% |
+| dagger of High Class Doggebi (G59) | 45.818% |
+| Golden Sword (G62) | 72.8942% |
+| Golden Giant sword (G62) | 72.8942% |
+| Golden Bow (G62) | 72.8942% |
+| Golden Stick (G62) | 35.1466% |
+| Golden Stick of Distress (G62) | 35.1466% |
+| Golden Stick of Sabbath (G62) | 35.1466% |
+| Golden dagger (G62) | 72.8942% |
+| Golden Scaled Armor (G60) | 8.7327% |
+| Golden Armor (G60) | 8.7327% |
+| Golden DaeChangEau (G60) | 8.7327% |
+| Golden Scaled Armor Shorts (G60) | 8.7327% |
+| Golden Armor Skirts (G60) | 8.7327% |
+| Golden DaeChangEau Shorts (G60) | 8.7327% |
+| Golden suit of thief (G60) | 8.7327% |
+| Golden suit Shorts of thief (G60) | 8.7327% |
+| Complete E-moogy's Scale | 100.0% |
+| Health Necklace (G60) | 98.1333% |
+| Mana Necklace (G60) | 98.1333% |
+| Trinity Necklace (G60) | 98.1587% |
+
+## 383 A Thousand year old E-Moogi
+
+| Item | Chance |
+|------|--------|
+
+## 384 Nail of Dragon
+
+| Item | Chance |
+|------|--------|
+
+## 385 Twisted Brown E-Moogi
+
+| Item | Chance |
+|------|--------|
+
+## 386 Twisted Green E-Moogi
 
 | Item | Chance |
 |------|--------|
@@ -12903,6 +16189,3097 @@
 |------|--------|
 
 ## 389  
+
+| Item | Chance |
+|------|--------|
+
+## 390 Ghost of Smith in E-Mok Island
+
+| Item | Chance |
+|------|--------|
+| 281x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0009% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| Talisman of Defense | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| E-Mok Island Blacksmith's rings | 1.1952% |
+
+## 391 Ghost of Guard in E-Mok Island
+
+| Item | Chance |
+|------|--------|
+| 281x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0009% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| Talisman of Defense | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| E-Mok Island Blacksmith's rings | 1.1952% |
+
+## 392 Sealed Ghost in E-Mok Island
+
+| Item | Chance |
+|------|--------|
+| 281x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0009% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| Talisman of Defense | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| E-Mok Island Blacksmith's rings | 1.1952% |
+
+## 393 Sealed Ghost in E-Mok Island
+
+| Item | Chance |
+|------|--------|
+| 281x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0009% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| Talisman of Defense | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| E-Mok Island Blacksmith's rings | 1.1952% |
+
+## 394 Small Green E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 281x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0009% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| Talisman of Defense | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Small Green E-Moogi's teeth | 1.1952% |
+
+## 395 Small Green E-Moogi
+
+| Item | Chance |
+|------|--------|
+| Small Green E-Moogi's teeth | 1.1952% |
+
+## 396 Twisted Green E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Twisted Green E-Moogi's teeth | 0.2997% |
+
+## 397 Twisted Green E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Twisted Green E-Moogi's teeth | 0.2997% |
+
+## 398 Small Brown E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 281x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0009% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| Talisman of Defense | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Small Brown E-Moogi's teeth | 1.1952% |
+
+## 399 Small Brown E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 281x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0009% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| Talisman of Defense | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Small Brown E-Moogi's teeth | 1.1952% |
+
+## 400 Twisted Brown E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Twisted Brown E-Moogi's teeth | 0.2997% |
+
+## 401 Twisted Brown E-Moogi
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Twisted Brown E-Moogi's teeth | 0.2997% |
+
+## 402 Twisted Demon Guard
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Twisted Demon Guarder's head | 0.3895% |
+
+## 403 Twisted Demon Guard
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Twisted Demon Guarder's head | 0.3895% |
+
+## 404 Twisted Demon Patrol
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Twisted Demon Patrol's head | 0.2997% |
+
+## 405 Twisted Demon Patrol
+
+| Item | Chance |
+|------|--------|
+| 321x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0018% |
+| Stone of Holy | 0.0018% |
+| Stone of Flame | 0.0018% |
+| Stone of Ice | 0.0018% |
+| Stone of Lightening | 0.0018% |
+| Stone of Poison | 0.0018% |
+| Stone of Paralysis | 0.0018% |
+| Stone of Strength | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Despotic/Forced) | 0.003% |
+| Talisman of Protection (Revenge's/Agile) | 0.003% |
+| Talisman of Protection (Prideful/Healthy) | 0.003% |
+| Talisman of Protection (Ruinous/Fictional) | 0.003% |
+| Talisman of Protection (Glorious/Fixed) | 0.003% |
+| Talisman of Intensification (Distinct/Merciful) | 0.003% |
+| Talisman of Intensification (Steely/Ablaze) | 0.003% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.003% |
+| Talisman of Intensification (Decisional/Dashy) | 0.003% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.003% |
+| Talisman of Intensification (Legendary/Rash) | 0.003% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.003% |
+| Speed up Medicine | 0.3745% |
+| 10x Medium Medicine | 0.3745% |
+| Bead of Fire | 0.0018% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Twisted Demon Patrol's head | 0.2997% |
+
+## 406 Twisted Demon Warrior
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Complete E-moogy's Scale | 0.0024% |
+| Twisted Demon Warrior's head | 0.4493% |
+
+## 407 Twisted Demon Soldier
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Complete E-moogy's Scale | 0.0024% |
+| Twisted Demon Soldier's head | 0.5988% |
+
+## 408 Twisted Demon Soldier
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Complete E-moogy's Scale | 0.0024% |
+| Twisted Demon Soldier's head | 0.5988% |
+
+## 409 Twisted Demon Defender
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+| Stone of Shadow | 0.0027% |
+| Stone of Holy | 0.0027% |
+| Stone of Flame | 0.0027% |
+| Stone of Ice | 0.0027% |
+| Stone of Lightening | 0.0027% |
+| Stone of Poison | 0.0027% |
+| Stone of Paralysis | 0.0027% |
+| Stone of Strength | 0.0027% |
+| Stone of Skill | 0.0027% |
+| Talisman of Protection (Despotic/Forced) | 0.0045% |
+| Talisman of Protection (Revenge's/Agile) | 0.0045% |
+| Talisman of Protection (Prideful/Healthy) | 0.0045% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0045% |
+| Talisman of Protection (Glorious/Fixed) | 0.0045% |
+| Talisman of Intensification (Distinct/Merciful) | 0.0045% |
+| Talisman of Intensification (Steely/Ablaze) | 0.0045% |
+| Talisman of Intensification (Breakthrough's/Strongest Man's) | 0.0045% |
+| Talisman of Intensification (Decisional/Dashy) | 0.0045% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0045% |
+| Talisman of Intensification (Legendary/Rash) | 0.0045% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0045% |
+| Speed up Medicine | 0.4493% |
+| 10x Medium Medicine | 0.4493% |
+| Bead of Fire | 0.0027% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Talisman of Defense | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Golden Sword (G62) | 0.0003% |
+| Golden Giant Sword (G62) | 0.0003% |
+| Golden Bow (G62) | 0.0003% |
+| Golden Stick (G62) | 0.0003% |
+| Golden dagger (G62) | 0.0003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Complete E-moogy's Scale | 0.0024% |
+| Twisted Demon Defender's head | 0.2398% |
+| Sword of the Chief Defender | 48.8% |
+
+## 410 Use when E-Moogi is dead
+
+| Item | Chance |
+|------|--------|
+
+## 411 For the appearance for Ghost of Dragon
+
+| Item | Chance |
+|------|--------|
+
+## 412 Twisted Demon Guard
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+
+## 413 Twisted Demon Patrol
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+
+## 414 Twisted Demon Warrior
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+
+## 415 Twisted Demon Soldier
+
+| Item | Chance |
+|------|--------|
+| 356x Zamogeon | 97.8048% |
+
+## 416 Tobyong
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 1.4925% |
+| Wood(Encampment Building) | 1.4925% |
+| Leather(Encampment Building Scroll) | 1.4925% |
+| Hammer(Encampment Building Scroll) | 1.4925% |
+
+## 417 Tobyong Magician
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 1.4925% |
+| Wood(Encampment Building) | 1.4925% |
+| Leather(Encampment Building Scroll) | 1.4925% |
+| Hammer(Encampment Building Scroll) | 1.4925% |
+
+## 418 Tobyong Giant
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 5.8377% |
+| Wood(Encampment Building) | 5.8377% |
+| Leather(Encampment Building Scroll) | 5.8377% |
+| Hammer(Encampment Building Scroll) | 5.8377% |
+| Talisman of Defense | 1.4907% |
+| Talisman of Evasion | 1.4907% |
+| Doggebi's Certificate(1) | 3.5464% |
+| Doggebi's Certificate(3) | 2.9627% |
+| Doggebi's Certificate(5) | 1.4907% |
+| Doggebi's Certificate(10) | 0.8966% |
+
+## 419 Noktoo Soldier
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 1.4925% |
+| Wood(Encampment Building) | 1.4925% |
+| Leather(Encampment Building Scroll) | 1.4925% |
+| Hammer(Encampment Building Scroll) | 1.4925% |
+
+## 420 Noktoo Magician
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 1.4925% |
+| Wood(Encampment Building) | 1.4925% |
+| Leather(Encampment Building Scroll) | 1.4925% |
+| Hammer(Encampment Building Scroll) | 1.4925% |
+
+## 421 Noktoo Assassin
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 1.4925% |
+| Wood(Encampment Building) | 1.4925% |
+| Leather(Encampment Building Scroll) | 1.4925% |
+| Hammer(Encampment Building Scroll) | 1.4925% |
+
+## 422 Noktoo General
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 5.8377% |
+| Wood(Encampment Building) | 5.8377% |
+| Leather(Encampment Building Scroll) | 5.8377% |
+| Hammer(Encampment Building Scroll) | 5.8377% |
+| Talisman of Defense | 1.4907% |
+| Talisman of Evasion | 1.4907% |
+| Doggebi's Certificate(1) | 3.5464% |
+| Doggebi's Certificate(3) | 2.9627% |
+| Doggebi's Certificate(5) | 1.4907% |
+| Doggebi's Certificate(10) | 0.8966% |
+
+## 424 Bogy Rider
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 1.4925% |
+| Wood(Encampment Building) | 1.4925% |
+| Leather(Encampment Building Scroll) | 1.4925% |
+| Hammer(Encampment Building Scroll) | 1.4925% |
+
+## 425 Bogy Archer
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 1.4925% |
+| Wood(Encampment Building) | 1.4925% |
+| Leather(Encampment Building Scroll) | 1.4925% |
+| Hammer(Encampment Building Scroll) | 1.4925% |
+
+## 426 Bogy Captain
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 1.4925% |
+| Wood(Encampment Building) | 1.4925% |
+| Leather(Encampment Building Scroll) | 1.4925% |
+| Hammer(Encampment Building Scroll) | 1.4925% |
+
+## 427 Bogy General
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+| Encampment Building Scroll | 5.8377% |
+| Wood(Encampment Building) | 5.8377% |
+| Leather(Encampment Building Scroll) | 5.8377% |
+| Hammer(Encampment Building Scroll) | 5.8377% |
+| Talisman of Defense | 1.4907% |
+| Talisman of Evasion | 1.4907% |
+| Doggebi's Certificate(1) | 3.5464% |
+| Doggebi's Certificate(3) | 2.9627% |
+| Doggebi's Certificate(5) | 1.4907% |
+| Doggebi's Certificate(10) | 0.8966% |
+
+## 428 Mutant Demon
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 429 Mutant Demon Leader
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 430 Bronze Man
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 431 Bronze Giant
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 432 Goshi Warrior
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 433 Goshi Leader
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 449 Mutant Demon
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 450 Mutant Demon Leader
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 451 Bronze Man
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 452 Bronze Giant
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 453 Goshi Warrior
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 454 Goshi Leader
+
+| Item | Chance |
+|------|--------|
+| Doggebi's Certificate(1) | 2.9701% |
+| Doggebi's Certificate(3) | 1.4925% |
+| Doggebi's Certificate(5) | 0.7481% |
+| Doggebi's Certificate(10) | 0.4493% |
+
+## 516 High Class Earth element
+
+| Item | Chance |
+|------|--------|
+| element of ground | 0.12% |
+| Stone of Shadow | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.012% |
+| Imperfect element of ground | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 517 High Class Earth element
+
+| Item | Chance |
+|------|--------|
+| element of ground | 0.12% |
+| Stone of Shadow | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.012% |
+| Imperfect element of ground | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 518 High Class Earth element
+
+| Item | Chance |
+|------|--------|
+| element of ground | 0.12% |
+| Stone of Shadow | 0.0036% |
+| Talisman of Intensification (Explosive/Destructive) | 0.012% |
+| Imperfect element of ground | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 519 High Class Fire element
+
+| Item | Chance |
+|------|--------|
+| element of fire | 0.12% |
+| Stone of Flame | 0.0036% |
+| Talisman of Intensification (Fundamental/High Class') | 0.012% |
+| Imperfect element of fire | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 520 High Class Fire element
+
+| Item | Chance |
+|------|--------|
+| element of fire | 0.12% |
+| Stone of Flame | 0.0036% |
+| Talisman of Intensification (Fundamental/High Class') | 0.012% |
+| Imperfect element of fire | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 521 High Class Fire element
+
+| Item | Chance |
+|------|--------|
+| element of fire | 0.12% |
+| Stone of Flame | 0.0036% |
+| Talisman of Intensification (Fundamental/High Class') | 0.012% |
+| Imperfect element of fire | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 522 High Class Water element
+
+| Item | Chance |
+|------|--------|
+| element of water | 0.12% |
+| Stone of Ice | 0.0036% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.012% |
+| Imperfect element of water | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 523 High Class Water element
+
+| Item | Chance |
+|------|--------|
+| element of water | 0.12% |
+| Stone of Ice | 0.0036% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.012% |
+| Imperfect element of water | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 524 High Class Water element
+
+| Item | Chance |
+|------|--------|
+| element of water | 0.12% |
+| Stone of Ice | 0.0036% |
+| Talisman of Intensification (Mighty/Absoluteness') | 0.012% |
+| Imperfect element of water | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 525 High Class Iron element
+
+| Item | Chance |
+|------|--------|
+| element of iron | 0.12% |
+| Stone of Lightening | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.012% |
+| Imperfect element of iron | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 526 High Class Iron element
+
+| Item | Chance |
+|------|--------|
+| element of iron | 0.12% |
+| Stone of Lightening | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.012% |
+| Imperfect element of iron | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 527 High Class Iron element
+
+| Item | Chance |
+|------|--------|
+| element of iron | 0.12% |
+| Stone of Lightening | 0.0036% |
+| Talisman of Intensification (Decisional/Dashy) | 0.012% |
+| Imperfect element of iron | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 528 High Class Wood element
+
+| Item | Chance |
+|------|--------|
+| element of wood | 0.12% |
+| Stone of Paralysis | 0.0036% |
+| Talisman of Protection (Despotic/Forced) | 0.012% |
+| Imperfect element of wood | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 529 High Class Wood element
+
+| Item | Chance |
+|------|--------|
+| element of wood | 0.12% |
+| Stone of Paralysis | 0.0036% |
+| Talisman of Protection (Despotic/Forced) | 0.012% |
+| Imperfect element of wood | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 530 High Class Wood element
+
+| Item | Chance |
+|------|--------|
+| element of wood | 0.12% |
+| Stone of Paralysis | 0.0036% |
+| Talisman of Protection (Despotic/Forced) | 0.012% |
+| Imperfect element of wood | 8.7327% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 531 High Class Security guard of the priest
+
+| Item | Chance |
+|------|--------|
+| Stone of Strength | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.012% |
+| Imperfect element of fire | 0.8973% |
+| Imperfect element of water | 0.8973% |
+| Imperfect element of wood | 0.8973% |
+| Imperfect element of iron | 0.8973% |
+| Imperfect element of ground | 0.8973% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+
+## 532 High Class Security guard of the priest
+
+| Item | Chance |
+|------|--------|
+| Stone of Strength | 0.0036% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.012% |
+| Imperfect element of fire | 0.8973% |
+| Imperfect element of water | 0.8973% |
+| Imperfect element of wood | 0.8973% |
+| Imperfect element of iron | 0.8973% |
+| Imperfect element of ground | 0.8973% |
+| 247x Zamogeon | 93.357% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Scaled Helmet of Doggebi (G55) | 0.0006% |
+| Scaled Gloves of Doggebi (G55) | 0.0006% |
+| Scaled Shoes of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| Helmet of Doggebi (G55) | 0.0006% |
+| Gloves of Doggebi (G55) | 0.0006% |
+| Shoes of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Hair Decoration of Doggebi (G55) | 0.0006% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi Hood of thief (G55) | 0.0006% |
+| Doggebi Gloves of thief (G55) | 0.0006% |
+| Doggebi Boots of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+
+## 533 Earth element master
+
+| Item | Chance |
+|------|--------|
+| Blood Dragon's Scaled Armor Shoes (G65) | 2.7776% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 2.7776% |
+| Blood Dragon's Armor Shoes (G65) | 2.7776% |
+| Blood Dragon's Boots of thief (G65) | 2.7776% |
+| 3334x Zamogeon | 100.0% |
+| Essence of earth element | 92.4915% |
+| element of ground | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 534 Fire element master
+
+| Item | Chance |
+|------|--------|
+| Blood Dragon's Scaled Armor (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor (G65) | 1.1194% |
+| Blood Dragon's Armor (G65) | 1.1194% |
+| Blood Dragon's Armor (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 1.1194% |
+| Blood Dragon's Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's Suit of thief (G65) | 1.1194% |
+| Blood Dragon's Suit of thief (G65) | 1.1194% |
+| 3334x Zamogeon | 100.0% |
+| Essence of fire element | 92.4915% |
+| element of fire | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 535 Water element master
+
+| Item | Chance |
+|------|--------|
+| Blood Dragon's Scaled Armor Shorts (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shorts (G65) | 1.1194% |
+| Blood Dragon's Armor Skirts (G65) | 1.1194% |
+| Blood Dragon's Armor Skirts (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shorts (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shorts (G65) | 1.1194% |
+| Blood Dragon's Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
+| Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
+| 3334x Zamogeon | 100.0% |
+| Essence of water element | 92.4915% |
+| element of water | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 536 Iron element master
+
+| Item | Chance |
+|------|--------|
+| Blood Dragon's Scaled Armor (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor (G65) | 1.1194% |
+| Blood Dragon's Armor (G65) | 1.1194% |
+| Blood Dragon's Armor (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 1.1194% |
+| Blood Dragon's Suit of thief (G65) | 1.1194% |
+| 3334x Zamogeon | 100.0% |
+| Essence of iron element | 92.4915% |
+| element of iron | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 537 Wood element master
+
+| Item | Chance |
+|------|--------|
+| Blood Dragon's Scaled Armor Shorts (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shorts (G65) | 1.1194% |
+| Blood Dragon's Armor Skirts (G65) | 1.1194% |
+| Blood Dragon's Armor Skirts (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shorts (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shorts (G65) | 1.1194% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 1.1194% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 1.1194% |
+| Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
+| Blood Dragon's Suit Shorts of thief (G65) | 1.1194% |
+| 3334x Zamogeon | 100.0% |
+| Essence of wood element | 92.4915% |
+| element of wood | 95.9646% |
+| Ambitious Necklace (G75) | 1.7857% |
+| Intelligence Necklace (G75) | 1.7857% |
+| Harmonious Necklace (G75) | 1.7857% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 538 Banshee
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 539 Banshee
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 540 Banshee
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 541 Banshee
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 542 Banshee
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 543 Skeleton
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 544 Skeleton
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 545 Skeleton
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 546 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 547 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 548 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 549 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 550 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 551 Skeleton Warrior
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 552 Skeleton Warrior
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 553 Skeleton Warrior
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 554 Skeleton Warrior
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 555 Skeleton Warrior
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Mighty/Absoluteness') | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 556 Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Fundamental/High Class') | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 557 Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Fundamental/High Class') | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 558 Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Fundamental/High Class') | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 559 Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Fundamental/High Class') | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 560 Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| Talisman of Intensification (Fundamental/High Class') | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.006% |
+| 247x Zamogeon | 91.4816% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 561 Wraith
+
+| Item | Chance |
+|------|--------|
+| Stone of Holy | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| 247x Zamogeon | 91.8423% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 562 Wraith
+
+| Item | Chance |
+|------|--------|
+| Stone of Holy | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| 247x Zamogeon | 91.8423% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 563 Wraith
+
+| Item | Chance |
+|------|--------|
+| Stone of Holy | 0.0018% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| 247x Zamogeon | 91.8423% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Essence of undead | 0.015% |
+| Piece of Unknown World | 1.4925% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 564 Guardian of I'Lyer
+
+| Item | Chance |
+|------|--------|
+| Stone of Poison | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| 247x Zamogeon | 91.8423% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 565 Guardian of I'Lyer
+
+| Item | Chance |
+|------|--------|
+| Stone of Poison | 0.0018% |
+| Stone of Skill | 0.0018% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| 247x Zamogeon | 91.8423% |
+| Imperfect element of fire | 0.9062% |
+| Imperfect element of water | 0.9062% |
+| Imperfect element of wood | 0.9062% |
+| Imperfect element of iron | 0.9062% |
+| Imperfect element of ground | 0.9062% |
+| Scaled Armor of Doggebi (G55) | 0.0003% |
+| Scaled Helmet of Doggebi (G55) | 0.0003% |
+| Scaled Gloves of Doggebi (G55) | 0.0003% |
+| Scaled Shoes of Doggebi (G55) | 0.0003% |
+| Scaled Shorts of Doggebi (G55) | 0.0003% |
+| Armor of Doggebi (G55) | 0.0003% |
+| Helmet of Doggebi (G55) | 0.0003% |
+| Gloves of Doggebi (G55) | 0.0003% |
+| Shoes of Doggebi (G55) | 0.0003% |
+| Shorts of Doggebi (G55) | 0.0003% |
+| DaeChangEau of Doggebi (G55) | 0.0003% |
+| Hair Decoration of Doggebi (G55) | 0.0003% |
+| DaeChangEau Gloves of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shoes of Doggebi (G55) | 0.0003% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0003% |
+| Doggebi suit of thief (G55) | 0.0003% |
+| Doggebi Hood of thief (G55) | 0.0003% |
+| Doggebi Gloves of thief (G55) | 0.0003% |
+| Doggebi Boots of thief (G55) | 0.0003% |
+| Doggebi suit Shorts of thief (G55) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+
+## 566 Dunamic
+
+| Item | Chance |
+|------|--------|
+| 66500x Zamogeon | 100.0% |
+| Blood Dragon's Dagger (G70) | 13.8829% |
+| Blood Dragon's Sword (G70) | 13.8829% |
+| Blood Dragon's Giant sword (G70) | 13.8829% |
+| Blood Dragon's Bow (G70) | 13.8829% |
+| Blood Dragon's Stick (G70) | 4.7817% |
+| Blood Dragon Stick of Ruin (G70) | 4.7817% |
+| Blood Dragon Stick of Hell (G70) | 4.7817% |
+| I'Lryer's ring | 95.3486% |
+| Stone of Shadow | 68.9892% |
+| Stone of Holy | 68.9892% |
+| Stone of Flame | 68.9892% |
+| Stone of Ice | 68.9892% |
+| Stone of Lightening | 68.9892% |
+| Stone of Poison | 68.9892% |
+| Stone of Paralysis | 68.9892% |
+| Stone of Strength | 68.9892% |
+| Stone of Skill | 68.9892% |
+| Ambitious Necklace (G75) | 66.47% |
+| Intelligence Necklace (G75) | 66.47% |
+| Harmonious Necklace (G75) | 66.5905% |
+
+## 572 cheios
+
+| Item | Chance |
+|------|--------|
+| 66500x Zamogeon | 100.0% |
+| Blood Dragon's Dagger (G70) | 13.8829% |
+| Blood Dragon's Sword (G70) | 13.8829% |
+| Blood Dragon's Giant sword (G70) | 13.8829% |
+| Blood Dragon's Bow (G70) | 13.8829% |
+| Blood Dragon's Stick (G70) | 4.7817% |
+| Blood Dragon Stick of Ruin (G70) | 4.7817% |
+| Blood Dragon Stick of Hell (G70) | 4.7817% |
+| I'Lryer's ring | 95.3486% |
+| Stone of Shadow | 68.9892% |
+| Stone of Holy | 68.9892% |
+| Stone of Flame | 68.9892% |
+| Stone of Ice | 68.9892% |
+| Stone of Lightening | 68.9892% |
+| Stone of Poison | 68.9892% |
+| Stone of Paralysis | 68.9892% |
+| Stone of Strength | 68.9892% |
+| Stone of Skill | 68.9892% |
+| Ambitious Necklace (G75) | 66.47% |
+| Intelligence Necklace (G75) | 66.47% |
+| Harmonious Necklace (G75) | 66.5905% |
+
+## 573 I'Lyer
 
 | Item | Chance |
 |------|--------|
@@ -13011,3 +19388,6399 @@
 | Doggebi's Fixing Tool | 0.2326% |
 | Doggebi's Certificate(1) | 0.2326% |
 | Doggebi's Certificate(3) | 0.2326% |
+
+## 755 Summoned Twisted Demon Warrior
+
+| Item | Chance |
+|------|--------|
+| 300x Zamogeon | 42.5937% |
+| Speed up Medicine | 30.1191% |
+| Baked Eel | 0.1688% |
+| Doggebi's Certificate(1) | 0.1688% |
+| Doggebi's Certificate(3) | 0.1688% |
+| Doggebi's Certificate(5) | 0.015% |
+| Doggebi's Certificate(10) | 0.0072% |
+| Talisman of Protection (Despotic/Forced) | 0.0006% |
+| Talisman of Protection (Revenge's/Agile) | 0.0006% |
+| Talisman of Protection (Prideful/Healthy) | 0.0006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0006% |
+| Talisman of Protection (Glorious/Fixed) | 0.0006% |
+| Stone of Shadow | 0.0003% |
+| Stone of Holy | 0.0003% |
+| Stone of Flame | 0.0003% |
+| Stone of Ice | 0.0003% |
+| Stone of Lightening | 0.0003% |
+| Stone of Poison | 0.0003% |
+| Stone of Paralysis | 0.0003% |
+| Stone of Strength | 0.0003% |
+| Stone of Skill | 0.0003% |
+
+## 756 Summoned Twisted Demon Soldier
+
+| Item | Chance |
+|------|--------|
+| 300x Zamogeon | 42.5937% |
+| Speed up Medicine | 30.1191% |
+| Baked Eel | 0.1688% |
+| Doggebi's Certificate(1) | 0.1688% |
+| Doggebi's Certificate(3) | 0.1688% |
+| Doggebi's Certificate(5) | 0.015% |
+| Doggebi's Certificate(10) | 0.0072% |
+| Talisman of Protection (Despotic/Forced) | 0.0006% |
+| Talisman of Protection (Revenge's/Agile) | 0.0006% |
+| Talisman of Protection (Prideful/Healthy) | 0.0006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0006% |
+| Talisman of Protection (Glorious/Fixed) | 0.0006% |
+| Stone of Shadow | 0.0003% |
+| Stone of Holy | 0.0003% |
+| Stone of Flame | 0.0003% |
+| Stone of Ice | 0.0003% |
+| Stone of Lightening | 0.0003% |
+| Stone of Poison | 0.0003% |
+| Stone of Paralysis | 0.0003% |
+| Stone of Strength | 0.0003% |
+| Stone of Skill | 0.0003% |
+
+## 722 Summoned Gigantic Species Murderer
+
+| Item | Chance |
+|------|--------|
+| 300x Zamogeon | 42.5937% |
+| Speed up Medicine | 30.1191% |
+| Baked Eel | 0.1688% |
+| Doggebi's Certificate(1) | 0.1688% |
+| Doggebi's Certificate(3) | 0.1688% |
+| Doggebi's Certificate(5) | 0.015% |
+| Doggebi's Certificate(10) | 0.0072% |
+| Talisman of Protection (Despotic/Forced) | 0.0006% |
+| Talisman of Protection (Revenge's/Agile) | 0.0006% |
+| Talisman of Protection (Prideful/Healthy) | 0.0006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0006% |
+| Talisman of Protection (Glorious/Fixed) | 0.0006% |
+| Stone of Shadow | 0.0003% |
+| Stone of Holy | 0.0003% |
+| Stone of Flame | 0.0003% |
+| Stone of Ice | 0.0003% |
+| Stone of Lightening | 0.0003% |
+| Stone of Poison | 0.0003% |
+| Stone of Paralysis | 0.0003% |
+| Stone of Strength | 0.0003% |
+| Stone of Skill | 0.0003% |
+
+## 723 Summoned Monster of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| 300x Zamogeon | 42.5937% |
+| Speed up Medicine | 30.1191% |
+| Baked Eel | 0.1688% |
+| Doggebi's Certificate(1) | 0.1688% |
+| Doggebi's Certificate(3) | 0.1688% |
+| Doggebi's Certificate(5) | 0.015% |
+| Doggebi's Certificate(10) | 0.0072% |
+| Talisman of Protection (Despotic/Forced) | 0.0006% |
+| Talisman of Protection (Revenge's/Agile) | 0.0006% |
+| Talisman of Protection (Prideful/Healthy) | 0.0006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0006% |
+| Talisman of Protection (Glorious/Fixed) | 0.0006% |
+| Stone of Shadow | 0.0003% |
+| Stone of Holy | 0.0003% |
+| Stone of Flame | 0.0003% |
+| Stone of Ice | 0.0003% |
+| Stone of Lightening | 0.0003% |
+| Stone of Poison | 0.0003% |
+| Stone of Paralysis | 0.0003% |
+| Stone of Strength | 0.0003% |
+| Stone of Skill | 0.0003% |
+
+## 724 Summoned White Beast of Demon Crack Troop
+
+| Item | Chance |
+|------|--------|
+| 300x Zamogeon | 42.5937% |
+| Speed up Medicine | 30.1191% |
+| Baked Eel | 0.1688% |
+| Doggebi's Certificate(1) | 0.1688% |
+| Doggebi's Certificate(3) | 0.1688% |
+| Doggebi's Certificate(5) | 0.015% |
+| Doggebi's Certificate(10) | 0.0072% |
+| Talisman of Protection (Despotic/Forced) | 0.0006% |
+| Talisman of Protection (Revenge's/Agile) | 0.0006% |
+| Talisman of Protection (Prideful/Healthy) | 0.0006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0006% |
+| Talisman of Protection (Glorious/Fixed) | 0.0006% |
+| Stone of Shadow | 0.0003% |
+| Stone of Holy | 0.0003% |
+| Stone of Flame | 0.0003% |
+| Stone of Ice | 0.0003% |
+| Stone of Lightening | 0.0003% |
+| Stone of Poison | 0.0003% |
+| Stone of Paralysis | 0.0003% |
+| Stone of Strength | 0.0003% |
+| Stone of Skill | 0.0003% |
+
+## 757 Summoned Skeleton 81
+
+| Item | Chance |
+|------|--------|
+| 400x Zamogeon | 70.8935% |
+| Baked Eel | 0.1487% |
+| Doggebi's Certificate(5) | 0.7422% |
+| Doggebi's Certificate(10) | 0.1487% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Polishing Stone | 0.0096% |
+| High-Grade Scroll of Rebirth | 0.0006% |
+
+## 758 Summoned Skeleton 82
+
+| Item | Chance |
+|------|--------|
+| 400x Zamogeon | 70.8935% |
+| Baked Eel | 0.1487% |
+| Doggebi's Certificate(5) | 0.7422% |
+| Doggebi's Certificate(10) | 0.1487% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Polishing Stone | 0.0096% |
+| High-Grade Scroll of Rebirth | 0.0006% |
+
+## 727 Summoned Crazy Demon Warrior
+
+| Item | Chance |
+|------|--------|
+| 400x Zamogeon | 70.8935% |
+| Baked Eel | 0.1487% |
+| Doggebi's Certificate(5) | 0.7422% |
+| Doggebi's Certificate(10) | 0.1487% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Polishing Stone | 0.0096% |
+| High-Grade Scroll of Rebirth | 0.0006% |
+
+## 728 Summoned Twisted Demon Soldier
+
+| Item | Chance |
+|------|--------|
+| 400x Zamogeon | 70.8935% |
+| Baked Eel | 0.1487% |
+| Doggebi's Certificate(5) | 0.7422% |
+| Doggebi's Certificate(10) | 0.1487% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Polishing Stone | 0.0096% |
+| High-Grade Scroll of Rebirth | 0.0006% |
+
+## 729 Summoned Bogy Archer
+
+| Item | Chance |
+|------|--------|
+| 400x Zamogeon | 70.8935% |
+| Baked Eel | 0.1487% |
+| Doggebi's Certificate(5) | 0.7422% |
+| Doggebi's Certificate(10) | 0.1487% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Polishing Stone | 0.0096% |
+| High-Grade Scroll of Rebirth | 0.0006% |
+
+## 735 Summoned Minor earth element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 736 Summoned Minor fire element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 737 Summoned Minor water element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 738 Summoned Minor iron element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 739 Summoned Minor wood element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+
+## 759 Summoned Hermit of Red Face
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 760 Summoned Hermit of Mask
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 761 Summoned 3rd Commander of The Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 762 Summoned 2nd Commander of The Royal Tomb
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 734 Summoned Twisted Demon Defender
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 740 Summoned Earth element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 741 Summoned Fire element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 742 Summoned Water element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 743 Summoned Iron element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 744 Summoned Wood element
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 26.7495% |
+| Doggebi's Certificate(10) | 0.003% |
+| Talisman of Protection (Despotic/Forced) | 0.0015% |
+| Talisman of Protection (Revenge's/Agile) | 0.0015% |
+| Talisman of Protection (Prideful/Healthy) | 0.0015% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0015% |
+| Talisman of Protection (Glorious/Fixed) | 0.0015% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0015% |
+| Talisman of Intensification (Legendary/Rash) | 0.0015% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0015% |
+| Talisman of Accuracy | 0.0015% |
+| Talisman of Defense | 0.0006% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0009% |
+| Stone of Lightening | 0.0009% |
+| Stone of Poison | 0.0009% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Golden Scaled Armor Helmet (G60) | 0.0003% |
+| Golden Scaled Armor Gloves (G60) | 0.0003% |
+| Golden Scaled Armor Shoes (G60) | 0.0003% |
+| Golden Armor Helmet (G60) | 0.0003% |
+| Golden Armor Gloves (G60) | 0.0003% |
+| Golden Armor Shoes (G60) | 0.0003% |
+| Golden DaeChangEau Hair Decoration (G60) | 0.0003% |
+| Golden DaeChangEau Gloves (G60) | 0.0003% |
+| Golden DaeChangEau Shoes (G60) | 0.0003% |
+| Golden Hood of thief (G60) | 0.0003% |
+| Golden Gloves of thief (G60) | 0.0003% |
+| Golden Boots of thief (G60) | 0.0003% |
+| Piece of Unknown World | 0.003% |
+| Essence of undead | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+
+## 647 Seal of Hell
+
+| Item | Chance |
+|------|--------|
+
+## 648 Seal of Hell
+
+| Item | Chance |
+|------|--------|
+
+## 649 Seal of Hell
+
+| Item | Chance |
+|------|--------|
+
+## 650 Ball of Soul
+
+| Item | Chance |
+|------|--------|
+
+## 651 Ball of Soul
+
+| Item | Chance |
+|------|--------|
+
+## 652 Ball of Soul
+
+| Item | Chance |
+|------|--------|
+
+## 653 Portal Stone
+
+| Item | Chance |
+|------|--------|
+
+## 654 Rusty Blade
+
+| Item | Chance |
+|------|--------|
+
+## 655 Death Thorn
+
+| Item | Chance |
+|------|--------|
+
+## 656 Ugly Soul
+
+| Item | Chance |
+|------|--------|
+
+## 657 Steel Arrow trap
+
+| Item | Chance |
+|------|--------|
+
+## 658 Frame Statue
+
+| Item | Chance |
+|------|--------|
+
+## 659 Frame Statue
+
+| Item | Chance |
+|------|--------|
+
+## 660 Frame Statue
+
+| Item | Chance |
+|------|--------|
+
+## 661 Frame Statue
+
+| Item | Chance |
+|------|--------|
+
+## 662 Flame Fountain
+
+| Item | Chance |
+|------|--------|
+
+## 663 Corpse Fountain
+
+| Item | Chance |
+|------|--------|
+
+## 664 Frost Fountain
+
+| Item | Chance |
+|------|--------|
+
+## 665 Movement Plate
+
+| Item | Chance |
+|------|--------|
+
+## 666 Summon Stone
+
+| Item | Chance |
+|------|--------|
+
+## 667 Hell Gate Keeper
+
+| Item | Chance |
+|------|--------|
+
+## 668 Hell Gate Keeper
+
+| Item | Chance |
+|------|--------|
+
+## 669 Hell Gate Keeper
+
+| Item | Chance |
+|------|--------|
+
+## 585 Crazy Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Crazy Demon Worker's Head | 0.2997% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 586 Crazy Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Crazy Demon Worker's Head | 0.2997% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 587 Crazy Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Crazy Demon Worker's Head | 0.2997% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 588 Crazy Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Crazy Demon Worker's Head | 0.2997% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 589 Crazy Demon Worker
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Crazy Demon Worker's Head | 0.2997% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 590 Degenarated Twisted Demon
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Degenarated Twisted Demon Head | 0.2997% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 591 Degenarated Twisted Demon
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Degenarated Twisted Demon Head | 0.2997% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 592 Degenarated Twisted Demon
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Degenarated Twisted Demon Head | 0.2997% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 593 Degenarated Twisted Demon
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Degenarated Twisted Demon Head | 0.2997% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 594 Degenarated Twisted Demon
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Degenarated Twisted Demon Head | 0.2997% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 637 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 638 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 639 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 640 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 641 Elite Skeleton
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 642 Elite Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 643 Elite Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 644 Elite Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 645 Elite Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 646 Elite Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 698 Crazy Demon soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 699 Crazy Demon soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 704 Twisted Demon soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 705 Twisted Demon soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 706 Twisted Demon soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 834 Crazy Demon Worker's Leader
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 835 Wolf Commander
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 836 Guard of D'evah's Commander
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 814 Crazy Demon Conjurator
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 815 Crazy Demon Conjurator
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 595 Wild Boar
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Wild Boar Chop of Meat | 8.648% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Wild Boar's Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 596 Wild Boar
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Wild Boar Chop of Meat | 8.648% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Wild Boar's Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 597 Wild Boar
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Wild Boar Chop of Meat | 8.648% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Wild Boar's Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 598 Wolf
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 599 Wolf
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 600 Wolf
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 601 Brown Bear
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 602 Brown Bear
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 603 Brown Bear
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 604 Scorpion
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 605 Scorpion
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 606 Scorpion
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 607 Knoll
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Knoll of certificate | 13.9915% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Knoll Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 608 Knoll
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Knoll of certificate | 13.9915% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Knoll Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 609 Knoll
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Knoll of certificate | 13.9915% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Knoll Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 610 Goblin
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Goblin Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 611 Goblin
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Goblin Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 612 Goblin
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Goblin Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 613 Goblin Conjurator
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Goblin Conjurator Head | 5.8808% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 614 Goblin Conjurator
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Goblin Conjurator Head | 5.8808% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 615 Goblin Conjurator
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Goblin Conjurator Head | 5.8808% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 622 Guard of D'evah
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Guard of D'evah Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 623 Guard of D'evah
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Guard of D'evah Head | 0.8973% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 680 Goblin soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 681 Goblin soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 682 Goblin soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 683 Goblin Scout Soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 684 Goblin Scout Soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 685 Goblin Scout Soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 689 Knoll soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 690 Knoll soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 691 Knoll soldier
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 811 Knoll Archer
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 812 Knoll Archer
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 899 Demon Nest
+
+| Item | Chance |
+|------|--------|
+
+## 900 Demon Queen
+
+| Item | Chance |
+|------|--------|
+| Blood Dragon's Sword (G70) | 57.8125% |
+| Blood Dragon's Giant sword (G70) | 57.8125% |
+| Blood Dragon's Bow (G70) | 57.8125% |
+| Blood Dragon's Stick (G70) | 57.8125% |
+| 1000x Zamogeon | 83.3307% |
+
+## 824 Noktoo General
+
+| Item | Chance |
+|------|--------|
+| 10000x Zamogeon | 100.0% |
+| Blood Dragon's Sword (G70) | 0.4372% |
+| Blood Dragon's Giant sword (G70) | 0.4372% |
+| Blood Dragon's Bow (G70) | 0.4372% |
+| Blood Dragon's Stick (G70) | 0.4372% |
+| Blood Dragon's Dagger (G70) | 0.4372% |
+| Blood Dragon Stick of Ruin (G70) | 0.4372% |
+| Blood Dragon Stick of Hell (G70) | 0.4372% |
+| Dragon Sword of Sky (G65) | 0.4372% |
+| Dragon Giant Sword of Sky (G65) | 0.4372% |
+| Dragon Bow of Sky (G65) | 0.4372% |
+| Dragon Stick of Sky (G65) | 0.4372% |
+| Dragon dagger of Sky (G65) | 0.4372% |
+| Dragon's Insight Stick of Sky (G65) | 0.4372% |
+| Dragon's Fury Stick of Sky (G65) | 0.4372% |
+
+## 825 Tobyong Giant
+
+| Item | Chance |
+|------|--------|
+| 10000x Zamogeon | 100.0% |
+| Blood Dragon's Sword (G70) | 0.4372% |
+| Blood Dragon's Giant sword (G70) | 0.4372% |
+| Blood Dragon's Bow (G70) | 0.4372% |
+| Blood Dragon's Stick (G70) | 0.4372% |
+| Blood Dragon's Dagger (G70) | 0.4372% |
+| Blood Dragon Stick of Ruin (G70) | 0.4372% |
+| Blood Dragon Stick of Hell (G70) | 0.4372% |
+| Dragon Sword of Sky (G65) | 0.4372% |
+| Dragon Giant Sword of Sky (G65) | 0.4372% |
+| Dragon Bow of Sky (G65) | 0.4372% |
+| Dragon Stick of Sky (G65) | 0.4372% |
+| Dragon dagger of Sky (G65) | 0.4372% |
+| Dragon's Insight Stick of Sky (G65) | 0.4372% |
+| Dragon's Fury Stick of Sky (G65) | 0.4372% |
+
+## 826 Bogy General
+
+| Item | Chance |
+|------|--------|
+| 10000x Zamogeon | 100.0% |
+| Blood Dragon's Sword (G70) | 0.4372% |
+| Blood Dragon's Giant sword (G70) | 0.4372% |
+| Blood Dragon's Bow (G70) | 0.4372% |
+| Blood Dragon's Stick (G70) | 0.4372% |
+| Blood Dragon's Dagger (G70) | 0.4372% |
+| Blood Dragon Stick of Ruin (G70) | 0.4372% |
+| Blood Dragon Stick of Hell (G70) | 0.4372% |
+| Dragon Sword of Sky (G65) | 0.4372% |
+| Dragon Giant Sword of Sky (G65) | 0.4372% |
+| Dragon Bow of Sky (G65) | 0.4372% |
+| Dragon Stick of Sky (G65) | 0.4372% |
+| Dragon dagger of Sky (G65) | 0.4372% |
+| Dragon's Insight Stick of Sky (G65) | 0.4372% |
+| Dragon's Fury Stick of Sky (G65) | 0.4372% |
+
+## 434 Minor earth element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 435 Earth element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 436 Minor fire element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 437 Fire element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 438 Minor water element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 439 Water element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 440 Minor iron element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 441 Iron element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 442 Minor wood element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 443 Wood element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 444 Security guard of the priest
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Scaled Armor of Doggebi (G55) | 0.0612% |
+| Armor of Doggebi (G55) | 0.0612% |
+| DaeChangEau of Doggebi (G55) | 0.0612% |
+| Scaled Shorts of Doggebi (G55) | 0.0612% |
+| Shorts of Doggebi (G55) | 0.0612% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0612% |
+| Doggebi suit of thief (G55) | 0.0612% |
+| Doggebi suit Shorts of thief (G55) | 0.0612% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+
+## 461 Minor earth element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 462 Minor earth element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 463 Minor earth element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 464 Minor earth element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 465 Minor fire element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 466 Minor fire element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 467 Minor fire element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 468 Minor fire element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 469 Minor water element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 470 Minor water element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 471 Minor water element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 472 Minor water element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 473 Minor iron element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 474 Minor iron element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 475 Minor iron element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 476 Minor iron element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 477 Minor wood element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 478 Minor wood element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 479 Minor wood element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 480 Minor wood element
+
+| Item | Chance |
+|------|--------|
+| 143x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+
+## 481 Earth element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 482 Earth element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 483 Earth element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 484 Earth element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of ground | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of ground | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 485 Fire element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 486 Fire element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 487 Fire element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 488 Fire element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of fire | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of fire | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 489 Water element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 490 Water element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 491 Water element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 492 Water element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of water | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of water | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 493 Iron element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 494 Iron element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 495 Iron element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 496 Iron element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of iron | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of iron | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 497 Wood element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 498 Wood element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 499 Wood element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 500 Wood element
+
+| Item | Chance |
+|------|--------|
+| 148x Zamogeon | 99.9832% |
+| Imperfect element of wood | 5.852% |
+| Scaled Armor of Doggebi (G55) | 0.0006% |
+| Armor of Doggebi (G55) | 0.0006% |
+| DaeChangEau of Doggebi (G55) | 0.0006% |
+| Scaled Shorts of Doggebi (G55) | 0.0006% |
+| Shorts of Doggebi (G55) | 0.0006% |
+| DaeChangEau Shorts of Doggebi (G55) | 0.0006% |
+| Doggebi suit of thief (G55) | 0.0006% |
+| Doggebi suit Shorts of thief (G55) | 0.0006% |
+| element of wood | 0.048% |
+| Talisman of Protection (Despotic/Forced) | 0.006% |
+| Talisman of Protection (Revenge's/Agile) | 0.006% |
+| Talisman of Protection (Prideful/Healthy) | 0.006% |
+| Talisman of Protection (Ruinous/Fictional) | 0.006% |
+| Talisman of Protection (Glorious/Fixed) | 0.006% |
+| Talisman of Intensification (Legendary/Rash) | 0.006% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.006% |
+| Talisman of Accuracy | 0.006% |
+| Talisman of Defense | 0.006% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's Armor Gloves (G65) | 0.0006% |
+| Blood Dragon's Armor Shoes (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0006% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0006% |
+| Blood Dragon's Gloves of thief (G65) | 0.0006% |
+| Blood Dragon's Boots of thief (G65) | 0.0006% |
+
+## 823 Demon Troop's Catapult
+
+| Item | Chance |
+|------|--------|
+
+## 830 Miracle's Stone 1
+
+| Item | Chance |
+|------|--------|
+
+## 832 Miracle's Stone 2
+
+| Item | Chance |
+|------|--------|
+
+## 833 Miracle's Stone 3
+
+| Item | Chance |
+|------|--------|
+
+## 837 Miracle's Stone 4
+
+| Item | Chance |
+|------|--------|
+
+## 831 Knoll's hideaway 1
+
+| Item | Chance |
+|------|--------|
+
+## 838 Knoll's hideaway 2
+
+| Item | Chance |
+|------|--------|
+
+## 839 Knoll's hideaway 3
+
+| Item | Chance |
+|------|--------|
+
+## 840 Knoll's hideaway 4
+
+| Item | Chance |
+|------|--------|
+
+## 947 Desert Scorpion
+
+| Item | Chance |
+|------|--------|
+| 550x Zamogeon | 97.8048% |
+| Mystic spice | 0.2997% |
+| Basic Spirit water | 0.1949% |
+| Small natural regeneration potion | 0.1499% |
+| Tasty eel skewer (G70) | 0.1499% |
+| Fantastic eel skewer (G70) | 0.1499% |
+| Normal Cheonjiyeon Water (G68) | 0.1499% |
+| Meat of Cheonjiyeon wolf (G68) | 0.1499% |
+| Bead of Fire | 0.1499% |
+| Pincers of Desert Scorpion | 2.9701% |
+
+## 924 Skeleton Soldier
+
+| Item | Chance |
+|------|--------|
+| 550x Zamogeon | 97.8048% |
+| Mystic spice | 0.2997% |
+| Basic Spirit water | 0.1949% |
+| Small natural regeneration potion | 0.1499% |
+| Tasty eel skewer (G70) | 0.1499% |
+| Fantastic eel skewer (G70) | 0.1499% |
+| Normal Cheonjiyeon Water (G68) | 0.1499% |
+| Meat of Cheonjiyeon wolf (G68) | 0.1499% |
+| Bead of Fire | 0.1499% |
+| Rib of Skeleton | 2.9701% |
+
+## 929 Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| 550x Zamogeon | 97.8048% |
+| Mystic spice | 0.2997% |
+| Basic Spirit water | 0.1949% |
+| Small natural regeneration potion | 0.1499% |
+| Tasty eel skewer (G70) | 0.1499% |
+| Fantastic eel skewer (G70) | 0.1499% |
+| Normal Cheonjiyeon Water (G68) | 0.1499% |
+| Meat of Cheonjiyeon wolf (G68) | 0.1499% |
+| Bead of Fire | 0.1499% |
+| Rib of Skeleton | 2.9701% |
+| Heavenly Executioner Scaled Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Hair Decoration (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Gloves (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Shoes (G70) | 0.0003% |
+| Heavenly Executioner Hood of thief (G70) | 0.0003% |
+| Heavenly Executioner Gloves of thief (G70) | 0.0003% |
+| Heavenly Executioner Boots of thief (G70) | 0.0003% |
+
+## 707 Twisted Demon Warrior
+
+| Item | Chance |
+|------|--------|
+| 550x Zamogeon | 97.8048% |
+| Mystic spice | 0.2997% |
+| Basic Spirit water | 0.1949% |
+| Small natural regeneration potion | 0.1499% |
+| Tasty eel skewer (G70) | 0.1499% |
+| Fantastic eel skewer (G70) | 0.1499% |
+| Normal Cheonjiyeon Water (G68) | 0.1499% |
+| Meat of Cheonjiyeon wolf (G68) | 0.1499% |
+| Bead of Fire | 0.1499% |
+| Head of Twisted Demon warrior | 2.9701% |
+| Heavenly Executioner Scaled Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Hair Decoration (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Gloves (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Shoes (G70) | 0.0003% |
+| Heavenly Executioner Hood of thief (G70) | 0.0003% |
+| Heavenly Executioner Gloves of thief (G70) | 0.0003% |
+| Heavenly Executioner Boots of thief (G70) | 0.0003% |
+
+## 624 Xill
+
+| Item | Chance |
+|------|--------|
+| 550x Zamogeon | 97.8048% |
+| Mystic spice | 0.2997% |
+| Basic Spirit water | 0.1949% |
+| Small natural regeneration potion | 0.1499% |
+| Tasty eel skewer (G70) | 0.1499% |
+| Fantastic eel skewer (G70) | 0.1499% |
+| Normal Cheonjiyeon Water (G68) | 0.1499% |
+| Meat of Cheonjiyeon wolf (G68) | 0.1499% |
+| Bead of Fire | 0.1499% |
+| Certificate of Xill | 2.9701% |
+
+## 817 Xill Archer
+
+| Item | Chance |
+|------|--------|
+| 550x Zamogeon | 97.8048% |
+| Mystic spice | 0.2997% |
+| Basic Spirit water | 0.1949% |
+| Small natural regeneration potion | 0.1499% |
+| Tasty eel skewer (G70) | 0.1499% |
+| Fantastic eel skewer (G70) | 0.1499% |
+| Normal Cheonjiyeon Water (G68) | 0.1499% |
+| Meat of Cheonjiyeon wolf (G68) | 0.1499% |
+| Bead of Fire | 0.1499% |
+| Certificate of Xill | 2.9701% |
+| Heavenly Executioner Scaled Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Hair Decoration (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Gloves (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Shoes (G70) | 0.0003% |
+| Heavenly Executioner Hood of thief (G70) | 0.0003% |
+| Heavenly Executioner Gloves of thief (G70) | 0.0003% |
+| Heavenly Executioner Boots of thief (G70) | 0.0003% |
+
+## 801 Starved Xill soldier
+
+| Item | Chance |
+|------|--------|
+| 550x Zamogeon | 97.8048% |
+| Mystic spice | 0.2997% |
+| Basic Spirit water | 0.1949% |
+| Small natural regeneration potion | 0.1499% |
+| Tasty eel skewer (G70) | 0.1499% |
+| Fantastic eel skewer (G70) | 0.1499% |
+| Normal Cheonjiyeon Water (G68) | 0.1499% |
+| Meat of Cheonjiyeon wolf (G68) | 0.1499% |
+| Bead of Fire | 0.1499% |
+| Certificate of Xill | 2.9701% |
+
+## 820 Xill Conjurator
+
+| Item | Chance |
+|------|--------|
+| 550x Zamogeon | 97.8048% |
+| Mystic spice | 0.2997% |
+| Basic Spirit water | 0.1949% |
+| Small natural regeneration potion | 0.1499% |
+| Tasty eel skewer (G70) | 0.1499% |
+| Fantastic eel skewer (G70) | 0.1499% |
+| Normal Cheonjiyeon Water (G68) | 0.1499% |
+| Meat of Cheonjiyeon wolf (G68) | 0.1499% |
+| Bead of Fire | 0.1499% |
+| Certificate of Xill | 2.9701% |
+
+## 686 Goblin Warrior
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Goblin | 1.4925% |
+| Heavenly Executioner Sword (G75) | 0.0003% |
+| Heavenly Executioner Giant Sword (G75) | 0.0003% |
+| Heavenly Executioner Bow (G75) | 0.0003% |
+| Heavenly Executioner Stick (G75) | 0.0003% |
+| Heavenly Executioner Stick of Ruin (G75) | 0.0003% |
+| Heavenly Executioner Stick of Hell (G75) | 0.0003% |
+| Heavenly Executioner Dagger (G75) | 0.0003% |
+| Talisman of Accuracy | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 687 Goblin Warrior
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Goblin | 1.4925% |
+| Heavenly Executioner Sword (G75) | 0.0003% |
+| Heavenly Executioner Giant Sword (G75) | 0.0003% |
+| Heavenly Executioner Bow (G75) | 0.0003% |
+| Heavenly Executioner Stick (G75) | 0.0003% |
+| Heavenly Executioner Stick of Ruin (G75) | 0.0003% |
+| Heavenly Executioner Stick of Hell (G75) | 0.0003% |
+| Heavenly Executioner Dagger (G75) | 0.0003% |
+| Talisman of Accuracy | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 945 Goblin Conjurator
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Goblin | 1.4925% |
+| Heavenly Executioner Sword (G75) | 0.0003% |
+| Heavenly Executioner Giant Sword (G75) | 0.0003% |
+| Heavenly Executioner Bow (G75) | 0.0003% |
+| Heavenly Executioner Stick (G75) | 0.0003% |
+| Heavenly Executioner Stick of Ruin (G75) | 0.0003% |
+| Heavenly Executioner Stick of Hell (G75) | 0.0003% |
+| Heavenly Executioner Dagger (G75) | 0.0003% |
+| Talisman of Accuracy | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 946 Knoll soldier
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Head of Knoll | 1.4925% |
+
+## 695 Knoll Mad Warrior
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Head of Knoll | 1.4925% |
+
+## 944 Knoll Archer
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Head of Knoll | 1.4925% |
+
+## 674 Wounded Evolve Zombie
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Zombie | 1.4925% |
+
+## 677 Wounded Conjurator Zombie
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Zombie | 1.4925% |
+| Heavenly Executioner Scaled Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Hair Decoration (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Gloves (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Shoes (G70) | 0.0003% |
+| Heavenly Executioner Hood of thief (G70) | 0.0003% |
+| Heavenly Executioner Gloves of thief (G70) | 0.0003% |
+| Heavenly Executioner Boots of thief (G70) | 0.0003% |
+
+## 934 Master Skeleton Warrior
+
+| Item | Chance |
+|------|--------|
+| 400x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| High Spirit water | 0.117% |
+| Large natural regeneration potion | 0.09% |
+| Tasty eel skewer (G70) | 0.09% |
+| Fantastic eel skewer (G70) | 0.09% |
+| Breast Meat of Cheonjiyeon bear (G72) | 0.09% |
+| Medium Cheonjiyeon Water (G72) | 0.09% |
+| Certificate of Master Skeleton | 4.4328% |
+| Heavenly Executioner Sword (G75) | 0.0003% |
+| Heavenly Executioner Giant Sword (G75) | 0.0003% |
+| Heavenly Executioner Bow (G75) | 0.0003% |
+| Heavenly Executioner Stick (G75) | 0.0003% |
+| Heavenly Executioner Stick of Ruin (G75) | 0.0003% |
+| Heavenly Executioner Stick of Hell (G75) | 0.0003% |
+| Heavenly Executioner Dagger (G75) | 0.0003% |
+| Heavenly Executioner Scaled Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Hair Decoration (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Gloves (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Shoes (G70) | 0.0003% |
+| Heavenly Executioner Hood of thief (G70) | 0.0003% |
+| Heavenly Executioner Gloves of thief (G70) | 0.0003% |
+| Heavenly Executioner Boots of thief (G70) | 0.0003% |
+
+## 939 Master Skeleton Archer
+
+| Item | Chance |
+|------|--------|
+| 400x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| High Spirit water | 0.117% |
+| Large natural regeneration potion | 0.09% |
+| Tasty eel skewer (G70) | 0.09% |
+| Fantastic eel skewer (G70) | 0.09% |
+| Breast Meat of Cheonjiyeon bear (G72) | 0.09% |
+| Medium Cheonjiyeon Water (G72) | 0.09% |
+| Certificate of Master Skeleton | 4.4328% |
+| Heavenly Executioner Sword (G75) | 0.0003% |
+| Heavenly Executioner Giant Sword (G75) | 0.0003% |
+| Heavenly Executioner Bow (G75) | 0.0003% |
+| Heavenly Executioner Stick (G75) | 0.0003% |
+| Heavenly Executioner Stick of Ruin (G75) | 0.0003% |
+| Heavenly Executioner Stick of Hell (G75) | 0.0003% |
+| Heavenly Executioner Dagger (G75) | 0.0003% |
+| Heavenly Executioner Scaled Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Hair Decoration (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Gloves (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Shoes (G70) | 0.0003% |
+| Heavenly Executioner Hood of thief (G70) | 0.0003% |
+| Heavenly Executioner Gloves of thief (G70) | 0.0003% |
+| Heavenly Executioner Boots of thief (G70) | 0.0003% |
+
+## 582 Master Wraith
+
+| Item | Chance |
+|------|--------|
+| 400x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| High Spirit water | 0.117% |
+| Large natural regeneration potion | 0.09% |
+| Tasty eel skewer (G70) | 0.09% |
+| Fantastic eel skewer (G70) | 0.09% |
+| Breast Meat of Cheonjiyeon bear (G72) | 0.09% |
+| Medium Cheonjiyeon Water (G72) | 0.09% |
+| Head of Master Wraith | 5.8808% |
+| Heavenly Executioner Sword (G75) | 0.0003% |
+| Heavenly Executioner Giant Sword (G75) | 0.0003% |
+| Heavenly Executioner Bow (G75) | 0.0003% |
+| Heavenly Executioner Stick (G75) | 0.0003% |
+| Heavenly Executioner Stick of Ruin (G75) | 0.0003% |
+| Heavenly Executioner Stick of Hell (G75) | 0.0003% |
+| Heavenly Executioner Dagger (G75) | 0.0003% |
+| Heavenly Executioner Scaled Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Scaled Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner Armor Helmet (G70) | 0.0003% |
+| Heavenly Executioner Armor Gloves (G70) | 0.0003% |
+| Heavenly Executioner Armor Shoes (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Hair Decoration (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Gloves (G70) | 0.0003% |
+| Heavenly Executioner DaeChangEau Shoes (G70) | 0.0003% |
+| Heavenly Executioner Hood of thief (G70) | 0.0003% |
+| Heavenly Executioner Gloves of thief (G70) | 0.0003% |
+| Heavenly Executioner Boots of thief (G70) | 0.0003% |
+
+## 768 Summoned Crazy Demon Worker's Leader
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 769 Summoned Brown Bear
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 770 Summoned Knoll
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 771 Summoned Goblin
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 772 Summoned Goblin Conjurator
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 773 Summoned Knoll soldier
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 774 Summoned Knoll Archer
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 775 Summoned Goblin soldier
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 776 Summoned Goblin Scout Soldier
+
+| Item | Chance |
+|------|--------|
+| 500x Zamogeon | 29.5031% |
+| Stone of Paralysis | 0.0009% |
+| Stone of Strength | 0.0009% |
+| Stone of Skill | 0.0009% |
+| Piece of Unknown World | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.03% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.03% |
+| High-Grade Scroll of Rebirth | 0.003% |
+| Polishing Stone | 0.003% |
+| Talisman of Transmigration | 0.003% |
+| Golden Scaled Armor (G60) | 0.0003% |
+| Golden Scaled Armor Shorts (G60) | 0.0003% |
+| Golden Armor (G60) | 0.0003% |
+| Golden Armor Skirts (G60) | 0.0003% |
+| Golden DaeChangEau (G60) | 0.0003% |
+| Golden DaeChangEau Shorts (G60) | 0.0003% |
+| Golden suit of thief (G60) | 0.0003% |
+| Golden suit Shorts of thief (G60) | 0.0003% |
+| Doggebi's Certificate(10) | 0.0006% |
+| Talisman of Protection (Despotic/Forced) | 0.0012% |
+| Talisman of Protection (Revenge's/Agile) | 0.0012% |
+| Talisman of Protection (Prideful/Healthy) | 0.0012% |
+| Talisman of Protection (Ruinous/Fictional) | 0.0012% |
+| Talisman of Protection (Glorious/Fixed) | 0.0012% |
+| Talisman of Intensification (Magical Power's/Wise) | 0.0012% |
+| Talisman of Intensification (Legendary/Rash) | 0.0012% |
+| Talisman of Intensification (The King, GuhBalHan's/Rash) | 0.0012% |
+| Talisman of Accuracy | 0.0012% |
+| Talisman of Defense | 0.0012% |
+| Stone of Shadow | 0.0009% |
+| Stone of Holy | 0.0009% |
+| Stone of Flame | 0.0009% |
+| Stone of Ice | 0.0006% |
+| Stone of Lightening | 0.0006% |
+| Stone of Poison | 0.0006% |
+| 1000x Zamogeon | 83.3307% |
+
+## 627 Virgin Ghost
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Zombie | 1.4925% |
+
+## 630 One-Legged Ghost
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Zombie | 1.4925% |
+
+## 633 Giant
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Zombie | 1.4925% |
+
+## 636 Ifrit
+
+| Item | Chance |
+|------|--------|
+| 450x Zamogeon | 97.8048% |
+| Mystic spice | 0.1799% |
+| Medum Spirit water | 0.015% |
+| Medium natural regeneration potion | 0.015% |
+| Tasty eel skewer (G70) | 0.015% |
+| Fantastic eel skewer (G70) | 0.015% |
+| Normal Cheonjiyeon Water (G68) | 0.015% |
+| Meat of Cheonjiyeon wolf (G68) | 0.015% |
+| Stone of Shadow | 0.0015% |
+| Stone of Holy | 0.0015% |
+| Stone of Flame | 0.0015% |
+| Stone of Ice | 0.0015% |
+| Stone of Lightening | 0.0015% |
+| Stone of Poison | 0.0015% |
+| Stone of Paralysis | 0.0015% |
+| Stone of Strength | 0.0015% |
+| Stone of Skill | 0.0015% |
+| Certificate of Zombie | 1.4925% |
+
+## 807 D'evah's Special Guard
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 809 D'evah's Royal Guard
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 635 D'evah's Guardian
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 804 Crazy Xill Warrior
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Crazy Demon Worker's Head | 0.2997% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
+
+## 670 Deadly sand[Mautareta]
+
+| Item | Chance |
+|------|--------|
+
+## 671 Solid sand fragment
+
+| Item | Chance |
+|------|--------|
+| 340x Zamogeon | 99.9518% |
+| Stone of Shadow | 0.009% |
+| Stone of Holy | 0.009% |
+| Stone of Flame | 0.009% |
+| Stone of Ice | 0.009% |
+| Stone of Lightening | 0.009% |
+| Stone of Poison | 0.009% |
+| Stone of Paralysis | 0.009% |
+| Stone of Strength | 0.009% |
+| Stone of Skill | 0.009% |
+| Piece of Map1 | 0.3596% |
+| Piece of Map2 | 0.3596% |
+| Piece of Map3 | 0.3596% |
+| Piece of Map4 | 0.3596% |
+| Piece of Map5 | 0.3596% |
+| Piece of Map6 | 0.3596% |
+| Piece of Map7 | 0.3596% |
+| Piece of Map8 | 0.3596% |
+| Piece of Map9 | 0.3596% |
+| Piece of Map10 | 0.3596% |
+| Blood Dragon's Scaled Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Scaled Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's Armor Helmet (G65) | 0.0003% |
+| Blood Dragon's Armor Gloves (G65) | 0.0003% |
+| Blood Dragon's Armor Shoes (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Hair Decoration (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Gloves (G65) | 0.0003% |
+| Blood Dragon's DaeChangEau Shoes (G65) | 0.0003% |
+| Blood Dragon's Hood of thief (G65) | 0.0003% |
+| Blood Dragon's Gloves of thief (G65) | 0.0003% |
+| Blood Dragon's Boots of thief (G65) | 0.0003% |
+| Baked Carp with silver scales of Geum-Oh Valley (G72) | 0.0003% |
+| Pure Dew-Tea of Geum-Oh Mountain (G72) | 0.0003% |
+| Empty soul fragment of D'evah | 0.003% |
+| Lost armor fragment of D'evah | 0.003% |
+| Talisman of Defense | 0.003% |
+| Bead of Fire | 0.003% |
